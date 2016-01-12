@@ -25,10 +25,10 @@ public class ConfigLoader {
 				}else{
 					String[] token = line.replaceAll("\\s", "").split("=");
 					switch (token[0]) {
-						case "TIME_ONLY"			: TIME_ONLY = Boolean.getBoolean(token[1]);	break;
+						case "TIME_ONLY"			: TIME_ONLY = Boolean.parseBoolean(token[1]);	break;
 						case "TIME_THRESHOLD"		: TIME_THRESHOLD = Double.parseDouble(token[1]); break;
 						case "DISTANCE_THRESHOLD"	: DISTANCE_THRESHOLD = Double.parseDouble(token[1]); break;
-						case "USE_DICTIONARY"		: USE_DICTIONARY = Boolean.getBoolean(token[1]); break;
+						case "USE_DICTIONARY"		: USE_DICTIONARY = Boolean.parseBoolean(token[1]); break;
 						case "DICTIONARY_FILE"		: DICTIONARY_FILE = token[1]; break;
 					}
 				}

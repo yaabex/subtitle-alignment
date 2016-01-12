@@ -6,6 +6,7 @@ import ist.yaabex.utils.SentenceComparator;
 import java.util.ArrayList;
 
 public class Aligner {
+	private boolean TIME_ONLY;
 	private double TIME_THRESHOLD;						//maximum time diff accepted
 	private double DISTANCE_THRESHOLD;					//maximum distance accepted
 	private boolean USE_DICTIONARY;
@@ -24,6 +25,7 @@ public class Aligner {
 	public Aligner(SubtitlePair pair, ConfigLoader config) {
 		this.source = pair.getSource();
 		this.target = pair.getTarget();
+		this.TIME_ONLY = config.useTimeOnly();
 		this.TIME_THRESHOLD = config.getTimeThreshold();
 		this.DISTANCE_THRESHOLD = config.getDistanceThreshold();
 		this.USE_DICTIONARY = config.useDictionary();
@@ -35,7 +37,7 @@ public class Aligner {
 			Sentence s = source.getSentenceByIndex(i);
 			Match m = new Match(s); 
 			m = findMatchUsingTime(m);
-			if(!m.isValid(TIME_THRESHOLD/2.0))
+			if(!TIME_ONLY && !m.isValid(TIME_THRESHOLD/2.0))
 				m = findMatchUsingSimilarity(m);
 			else{
 				double startDiff = Math.abs(m.getSourceStart() - m.getTargetStart());
@@ -88,7 +90,7 @@ public class Aligner {
 	}
 	
 	private Match findMatchUsingSimilarity(Match m) {		
-		//System.out.printf("? %s\n",m);
+		System.out.printf("? %s\n",m);
 		SentenceComparator sc = new SentenceComparator(USE_DICTIONARY, DICTIONARY_FILE);
 		
 		double currentDistance = sc.calculateDistance(m.getSourceSentences().getFirst() , m.getTargetSentences().getFirst());
@@ -117,7 +119,7 @@ public class Aligner {
 				m.addTargetSentence(target.getSentenceByIndex(matchIndex));
 			}
 		}
-		//System.out.printf("> %s\n",m);
+		System.out.printf("> %s\n",m);
 		return m;
 	}
 	

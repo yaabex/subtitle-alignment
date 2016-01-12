@@ -1,2 +1,2 @@
-thePrestige-EN.srt
-thePrestige-PT.srt
+abeautifulMind-EN.srt
+abeautifulMind-PT.srt
