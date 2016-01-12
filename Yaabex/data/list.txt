@@ -1,2 +1,2 @@
-americanBeauty-EN.srt
-americanBeauty-PT.srt
+thePrestige-EN.srt
+thePrestige-PT.srt

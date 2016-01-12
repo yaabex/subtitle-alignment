@@ -22,7 +22,7 @@ public class Yaabex {
 			System.out.println(aligner.toString());
 			
 			OutputTest test = new OutputTest(pair.getSourceName(), aligner);
-			test.run();
+			//test.run();
 		}
 	}
 }

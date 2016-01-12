@@ -1,0 +1,11 @@
+MovieID	IDSubtitleFile	SubLanguageID	IDSubtitle	SubActualCD	SubSumCD	SubFormat	MovieName	MovieYear	MovieImdbID	UserRank	SubDownloadsCnt	SeriesIMDBParent	SeriesSeason	SeriesEpisode
+
+1	147383	por	107682	1	1	srt	Alien3	1992	103644	bronze member
+1511	1954202002	por	5616018	1	1	srt	Spartacus	1960	54331	trusted
+137099	1953564167	eng	5022010	1	1	srt	"CSI: NY" Reignited	2012	2378080	
+166196	1954450233	eng	5871855	1	1	srt	Hercules	2014	1267297	administrator
+184729	1954455708	por	5877328	1	1	srt	"Resurrection" Will	2014	4152178	administrator
+184729	1954455702	por	5877328	1	1	srt	"Resurrection" Will	2014	4152178	administrator
+184729	1954455701	por	5872328	1	1	srt	"Resurrection" Will	2014	4152178	administrator
+184729	1954455752	eng	5876328	1	1	srt	"Resurrection" Will	2014	4152178	administrator
+184729	1954475338	por	5879328	1	1	srt	"Resurrection" Will	2014	4152178	administrator
