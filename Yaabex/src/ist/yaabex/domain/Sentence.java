@@ -33,7 +33,7 @@ public class Sentence {
 	
 	public Double getTimeKey(){
 		//rounds number to .5 precision (e.g. 3.260 = 3.0 & 3.680 = 3.5)
-		return (double) Math.round(startTime * 2) / 2.0;
+		return (double) Math.round(startTime * 4) / 4.0;
 	}
 
 	public void concatenate(Sentence s) {

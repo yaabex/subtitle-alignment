@@ -90,7 +90,7 @@ public class Aligner {
 	}
 	
 	private Match findMatchUsingSimilarity(Match m) {		
-		System.out.printf("? %s\n",m);
+		//System.out.printf("? %s\n",m);
 		SentenceComparator sc = new SentenceComparator(USE_DICTIONARY, DICTIONARY_FILE);
 		
 		double currentDistance = sc.calculateDistance(m.getSourceSentences().getFirst() , m.getTargetSentences().getFirst());
@@ -119,7 +119,7 @@ public class Aligner {
 				m.addTargetSentence(target.getSentenceByIndex(matchIndex));
 			}
 		}
-		System.out.printf("> %s\n",m);
+		//System.out.printf("> %s\n",m);
 		return m;
 	}
 	
