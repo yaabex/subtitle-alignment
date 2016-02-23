@@ -9,6 +9,7 @@ public class Aligner {
 	private boolean TIME_ONLY;
 	private double TIME_THRESHOLD;						//maximum time diff accepted
 	private double DISTANCE_THRESHOLD;					//maximum distance accepted
+	private boolean PRINT_CONFIDENCE;
 	private boolean USE_DICTIONARY;
 	private String DICTIONARY_FILE;
 	private final double MIN_SENTENCE_DURATION = 0.7;	//minimum time for a sentence to be used in N:N alignments
@@ -29,7 +30,8 @@ public class Aligner {
 		this.TIME_THRESHOLD = config.getTimeThreshold();
 		this.DISTANCE_THRESHOLD = config.getDistanceThreshold();
 		this.USE_DICTIONARY = config.useDictionary();
-		this.DICTIONARY_FILE = config.getDICTIONARY_FILE();
+		this.DICTIONARY_FILE = config.getDictionaryFile();
+		this.PRINT_CONFIDENCE = config.printConfidence();
 	}
 
 	public void align() {
@@ -74,6 +76,8 @@ public class Aligner {
 			if(m.getSourceSentences().getFirst().getText().contains(DEBUG_STRING))
 				System.out.printf("WAS RESET : %.02f\n",Math.abs(m.getSourceDuration()-m.getTargetDuration()));
 			m.reset();
+		}else{
+			m.setConfidence((int)(100-(50/TIME_THRESHOLD)*Math.abs(m.getTargetDuration() - m.getSourceDuration())));
 		}
 		//System.out.println("< "+m);
 		if(m.getSourceSentences().getFirst().getText().contains(DEBUG_STRING))
@@ -90,12 +94,12 @@ public class Aligner {
 	}
 	
 	private Match findMatchUsingSimilarity(Match m) {		
-		//System.out.printf("? %s\n",m);
 		SentenceComparator sc = new SentenceComparator(USE_DICTIONARY, DICTIONARY_FILE);
 		
 		double currentDistance = sc.calculateDistance(m.getSourceSentences().getFirst() , m.getTargetSentences().getFirst());
+		//System.out.printf("? %s --- %d\n",m, m.getConfidence());
 		if(currentDistance < CONFIDENCE_DISTANCE){
-			// Intentionally left blank; nothing to do here
+			//intentionally left blank; nothing to do here
 		}else{
 			final int WINDOW = 4;
 			final int CURRENT_INDEX = m.getSourceIndex() + indexOffset; 
@@ -112,14 +116,16 @@ public class Aligner {
 					matchIndex = i;
 				}
 			}
-			if(bestDistance > DISTANCE_THRESHOLD)	// if distance > 0.55, DISCARD
+			if(bestDistance > DISTANCE_THRESHOLD){	// if distance > 0.55, DISCARD
 				m.clear();
-			else if(Math.abs(currentDistance - bestDistance) > CONFIDENCE_DISTANCE/2.0f){	// if best distance is significantly better than the aligned found by time, USE IT
+				m.setConfidence((int)(bestDistance*100));
+			}else if(Math.abs(currentDistance - bestDistance) > CONFIDENCE_DISTANCE/2.0f){	// if best distance is significantly better than the aligned found by time, USE IT
 				m.clear();
 				m.addTargetSentence(target.getSentenceByIndex(matchIndex));
+				m.setConfidence((int)(100-bestDistance*100));
 			}
 		}
-		//System.out.printf("> %s\n",m);
+		//System.out.printf("> %s --- %d\n",m, m.getConfidence());
 		return m;
 	}
 	
@@ -131,7 +137,7 @@ public class Aligner {
 	public String toString() {
 		String str = new String();
 		for(Match a : alignments)
-			str += a.toString()+"\n";
+			str += a.toString() + (PRINT_CONFIDENCE ? " --- "+a.getConfidence()+"%": "") + "\n";
 		//str += String.format("\n\nBy Similarity: %d out of %d : %.02f%%\n", bySimilarityCount, alignments.size(), 100*bySimilarityCount/(double)alignments.size());
 		return str;
 	}

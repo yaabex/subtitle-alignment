@@ -4,6 +4,7 @@ package ist.yaabex.domain;
 public class Match {
 	private SentenceGroup sourceSentences = new SentenceGroup();
 	private SentenceGroup targetSentences = new SentenceGroup();
+	private int confidence = 0;
 	
 	public Match(Sentence s){
 		sourceSentences.add(s);
@@ -15,6 +16,10 @@ public class Match {
 	
 	public void addTargetSentence(Sentence t){
 		targetSentences.add(t);
+	}
+	
+	public void setConfidence(int value){
+		confidence = value;
 	}
 	
 	public int getSourceIndex(){
@@ -57,14 +62,21 @@ public class Match {
 		return targetSentences.getEndTime();
 	}
 	
+	public int getConfidence(){
+		return confidence;
+	}
+	
 	public void reset() {
 		sourceSentences = new SentenceGroup(sourceSentences.getFirst());
 		targetSentences = new SentenceGroup(targetSentences.getFirst());
+		confidence = 0;
 	}
 	
 	public void clear(){
 		targetSentences.clear();
+		confidence = 0;
 	}
+	
 	public boolean found() {
 		return !targetSentences.isEmpty();
 	}

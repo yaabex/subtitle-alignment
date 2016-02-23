@@ -19,7 +19,7 @@ public class Yaabex {
 			Aligner aligner = new Aligner(pair, config);
 			aligner.align();
 			
-			//System.out.println(aligner.toString());
+			System.out.println(aligner);
 			
 			OutputTest test = new OutputTest(pair.getSourceName(), aligner);
 			test.run();

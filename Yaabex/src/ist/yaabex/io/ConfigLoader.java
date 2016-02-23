@@ -10,6 +10,7 @@ public class ConfigLoader {
 	private boolean TIME_ONLY = false; 
 	private double TIME_THRESHOLD = 0.95;
 	private double DISTANCE_THRESHOLD = 0.55;
+	private boolean PRINT_CONFIDENCE = false; 
 	private boolean USE_DICTIONARY = true;
 	private String DICTIONARY_FILE = "lib/translatorEN-PT.txt";
 
@@ -28,6 +29,7 @@ public class ConfigLoader {
 						case "TIME_ONLY"			: TIME_ONLY = Boolean.parseBoolean(token[1]);	break;
 						case "TIME_THRESHOLD"		: TIME_THRESHOLD = Double.parseDouble(token[1]); break;
 						case "DISTANCE_THRESHOLD"	: DISTANCE_THRESHOLD = Double.parseDouble(token[1]); break;
+						case "PRINT_CONFIDENCE"		: PRINT_CONFIDENCE = Boolean.parseBoolean(token[1]); break;
 						case "USE_DICTIONARY"		: USE_DICTIONARY = Boolean.parseBoolean(token[1]); break;
 						case "DICTIONARY_FILE"		: DICTIONARY_FILE = token[1]; break;
 					}
@@ -42,6 +44,7 @@ public class ConfigLoader {
 	public boolean useTimeOnly()		{ return TIME_ONLY;			}
 	public double getTimeThreshold()	{ return TIME_THRESHOLD;	}
 	public double getDistanceThreshold(){ return DISTANCE_THRESHOLD;}
+	public boolean printConfidence()	{ return PRINT_CONFIDENCE;	}
 	public boolean useDictionary() 		{ return USE_DICTIONARY;	}
-	public String getDICTIONARY_FILE() 	{ return DICTIONARY_FILE;	}
+	public String getDictionaryFile() 	{ return DICTIONARY_FILE;	}
 }
