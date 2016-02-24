@@ -13,6 +13,7 @@ public class SubtitlePair{
 	
 	public String getSourceName() 		{	return sourceName;	}
 	public String getTargetName() 		{	return targetName;	}
+	public String getName()				{	return sourceName.replaceAll("-.*\\.srt", "");}
 	public Subtitle getSource()			{	return source;		}
 	public Subtitle getTarget()			{	return target;		}
 	public void setSource(Subtitle s)	{ source = s;			}

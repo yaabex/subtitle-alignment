@@ -4,7 +4,10 @@ import ist.yaabex.domain.Aligner;
 import ist.yaabex.domain.SubtitlePair;
 import ist.yaabex.io.ConfigLoader;
 import ist.yaabex.io.SubtitleReader;
-import ist.yaabex.tests.OutputTest;
+
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 
 public class Yaabex {
 	public static void main(String[] args){
@@ -19,10 +22,18 @@ public class Yaabex {
 			Aligner aligner = new Aligner(pair, config);
 			aligner.align();
 			
-			System.out.println(aligner);
 			
-			OutputTest test = new OutputTest(pair.getSourceName(), aligner);
-			test.run();
+			PrintWriter writer;
+			try {
+				writer = new PrintWriter("results/"+pair.getName()+".txt", "UTF-8");
+				writer.println(aligner.toString());
+				writer.close();
+			} catch (FileNotFoundException | UnsupportedEncodingException e) {
+				System.err.println("ERROR: Couldn't save output of "+pair.getName());
+			}			
+			
+			//OutputTest test = new OutputTest(pair.getSourceName(), aligner);
+			//test.run();
 		}
 	}
 }
