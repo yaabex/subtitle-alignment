@@ -1,2 +1,2 @@
-abeautifulMind-EN.srt
-abeautifulMind-PT.srt
+sInLove-EN.srt
+sInLove-PT.srt

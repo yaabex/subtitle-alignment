@@ -1,23 +1,11 @@
 package ist.yaabex.tests;
 
-import ist.yaabex.domain.Aligner;
-import ist.yaabex.domain.Match;
-
 import java.util.ArrayList;
 
-public class OutputTest {
-	private int passed = 0;
-	private int failed = 0;
-	private final String subtitleName;
-	private ArrayList<Match> alignements;
-	
-	public OutputTest(final String subtitleName, Aligner aligner){
-		this.subtitleName = subtitleName.replaceAll("-.*", "");
-		this.alignements = aligner.getAlignments();
-	}
-	
+
+public class OutputTest {	
 	public void run(){
-		ExpectedOutput eo = new ExpectedOutput(subtitleName);
+		/*AlignmentsLoader eo = new AlignmentsLoader(subtitleName);
 		
 		for(String str : eo.getExpected()){
 			boolean pass = false;
@@ -32,6 +20,30 @@ public class OutputTest {
 				failed++;
 			}
 		}
-		System.out.println(subtitleName+" | Passed: " + passed + " | Failed: " + failed + " | "+ (int)(passed*100/(float)(passed+failed)) + "%");
+		System.out.println(subtitleName+" | Passed: " + passed + " | Failed: " + failed + " | "+ (int)(passed*100/(float)(passed+failed)) + "%");*/
+	}
+	
+	public static void main(String[] args){
+		AlignmentsReader reader = new AlignmentsReader();
+		for(String filename : reader.getFilesToTest()){
+			int passed = 0;
+			int failed = 0;
+			ArrayList<String> expected = reader.readExpected(filename);
+			ArrayList<String> results = reader.readResults(filename);
+			for(String str : expected){
+				boolean pass = false;
+				for(String m : results)
+					if(m.equals(str)){
+						pass = true;
+						passed++;
+						break;
+					}
+				if(!pass){
+					System.err.println("WRONG: \""+str+"\"");
+					failed++;
+				}		
+			}
+			System.out.println(filename+" | Passed: " + passed + " | Failed: " + failed + " | "+ (int)(passed*100/(float)(passed+failed)) + "%\n");
+		}
 	}
 }

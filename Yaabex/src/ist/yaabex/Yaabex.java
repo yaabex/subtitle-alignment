@@ -17,8 +17,6 @@ public class Yaabex {
 			ConfigLoader config = new ConfigLoader();
 			SubtitlePair pair = reader.readPair();
 			
-			//System.out.println(pair.getSource());
-			
 			Aligner aligner = new Aligner(pair, config);
 			aligner.align();
 			
@@ -31,9 +29,6 @@ public class Yaabex {
 			} catch (FileNotFoundException | UnsupportedEncodingException e) {
 				System.err.println("ERROR: Couldn't save output of "+pair.getName());
 			}			
-			
-			//OutputTest test = new OutputTest(pair.getSourceName(), aligner);
-			//test.run();
 		}
 	}
 }
