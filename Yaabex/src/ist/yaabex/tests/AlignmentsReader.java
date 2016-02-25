@@ -46,7 +46,7 @@ public class AlignmentsReader{
 			}
 			scanner.close();
 		} catch (FileNotFoundException e) {
-			throw new RuntimeException("Could not read file \""+ filename +"\".");
+			System.err.println("Could not read file \""+ filename +"\".");
 		}
 		return alignments;
 	}

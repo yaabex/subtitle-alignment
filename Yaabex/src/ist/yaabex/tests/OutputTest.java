@@ -30,6 +30,8 @@ public class OutputTest {
 			int failed = 0;
 			ArrayList<String> expected = reader.readExpected(filename);
 			ArrayList<String> results = reader.readResults(filename);
+			if(expected.isEmpty() || results.isEmpty())
+				continue;
 			for(String str : expected){
 				boolean pass = false;
 				for(String m : results)
