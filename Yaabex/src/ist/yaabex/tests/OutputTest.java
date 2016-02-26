@@ -4,32 +4,15 @@ import java.util.ArrayList;
 
 
 public class OutputTest {	
-	public void run(){
-		/*AlignmentsLoader eo = new AlignmentsLoader(subtitleName);
-		
-		for(String str : eo.getExpected()){
-			boolean pass = false;
-			for(Match m : alignements)
-				if(m.toString().equals(str)){
-					pass = true;
-					passed++;
-					break;
-				}
-			if(!pass){
-				System.err.println("WRONG: \""+str+"\"");
-				failed++;
-			}
-		}
-		System.out.println(subtitleName+" | Passed: " + passed + " | Failed: " + failed + " | "+ (int)(passed*100/(float)(passed+failed)) + "%");*/
-	}
-	
 	public static void main(String[] args){
 		AlignmentsReader reader = new AlignmentsReader();
 		for(String filename : reader.getFilesToTest()){
 			int passed = 0;
 			int failed = 0;
+			int notFound = 0;
 			ArrayList<String> expected = reader.readExpected(filename);
 			ArrayList<String> results = reader.readResults(filename);
+			ArrayList<String> failedList = new ArrayList<String>();
 			if(expected.isEmpty() || results.isEmpty())
 				continue;
 			for(String str : expected){
@@ -42,10 +25,16 @@ public class OutputTest {
 					}
 				if(!pass){
 					System.err.println("WRONG: \""+str+"\"");
+					failedList.add(str.replaceAll("\\s*---.*$", ""));
 					failed++;
 				}		
 			}
-			System.out.println(filename+" | Passed: " + passed + " | Failed: " + failed + " | "+ (int)(passed*100/(float)(passed+failed)) + "%\n");
+			for(String str : failedList)
+				for(String m : results)
+					if(m.contains(str) && !m.matches(".*--- .+"))
+						notFound++;
+			System.out.println(filename+" | Passed: " + passed + " | Failed: " + failed + " | "+ (int)(passed*100/(float)(passed+failed)) + "%");
+			System.out.println("\tNot Found: "+ notFound+"\n");
 		}
 	}
 }

@@ -33,7 +33,7 @@ sub appendText{
 }
 
 foreach my $line (<$file>){
-	$line =~ s/<[\/\w]+>//g;				# remove tags
+	$line =~ s/<[\/\w\s="#]+>//g;						# remove tags
 	$line =~ s/\[?[A-Z].+\]?\n?.+[A-Z ]{7,}.+\]?//g;	# remove DESCRIPTIONS
 	$line =~ s/\r//g;
 

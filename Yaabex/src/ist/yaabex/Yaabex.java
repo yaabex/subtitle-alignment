@@ -16,7 +16,7 @@ public class Yaabex {
 		while(reader.hasMorePairs()){
 			ConfigLoader config = new ConfigLoader();
 			SubtitlePair pair = reader.readPair();
-			
+			System.out.print("[ STARTED: "+ pair.getName() + " ... ");
 			Aligner aligner = new Aligner(pair, config);
 			aligner.align();
 			
@@ -26,6 +26,7 @@ public class Yaabex {
 				writer = new PrintWriter("results/"+pair.getName()+".txt", "UTF-8");
 				writer.println(aligner.toString());
 				writer.close();
+				System.out.println("DONE ]");
 			} catch (FileNotFoundException | UnsupportedEncodingException e) {
 				System.err.println("ERROR: Couldn't save output of "+pair.getName());
 			}			
