@@ -33,6 +33,7 @@ sub appendText{
 }
 
 foreach my $line (<$file>){
+	$line =~ s/^(?:\357\273\277)//g; 					#remove invisible chars
 	$line =~ s/<[\/\w\s="#]+>//g;						# remove tags
 	$line =~ s/\[?[A-Z].+\]?\n?.+[A-Z ]{7,}.+\]?//g;	# remove DESCRIPTIONS
 	$line =~ s/\r//g;
@@ -51,7 +52,3 @@ foreach my $line (<$file>){
 }
 printText();
 close($file);
-
-#TODO
-	# separar frases diferentes na mesma linha (. -)
-	# juntar frases em linhas diferentes mas com ... 
