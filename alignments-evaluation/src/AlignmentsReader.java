@@ -1,5 +1,3 @@
-package ist.yaabex.tests;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.nio.charset.StandardCharsets;
@@ -9,7 +7,7 @@ import java.util.Scanner;
 public class AlignmentsReader{
 	private final String encoding = StandardCharsets.UTF_8.name();
 	private final String resultsPath = "results/";
-	private final String expectedPath = "results/expected/";
+	private final String expectedPath = "expected/";
 	private ArrayList<String> testingList = new ArrayList<String>();
 	
 	public AlignmentsReader(){

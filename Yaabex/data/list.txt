@@ -1,8 +1,0 @@
-alien-EN.srt
-alien-PT.srt
-hunger-EN.srt
-hunger-PT.srt
-godfather-EN.srt
-godfather-PT.srt
-shades-EN.srt
-shades-PT.srt

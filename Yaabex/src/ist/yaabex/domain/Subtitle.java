@@ -6,11 +6,9 @@ import java.util.ArrayList;
 import java.util.TreeMap;
 
 public class Subtitle {
-	private String subtitleName;
-	private TreeMap<Double, Sentence> sentences = new TreeMap<Double, Sentence>(); // KEY = startTime with 0.5 precision
+	private TreeMap<Double, Sentence> sentences = new TreeMap<Double, Sentence>(); // KEY = startTime with 0.25 precision
 
-	public Subtitle(String name){
-		subtitleName = name;
+	public Subtitle(){
 	}
 
 	public void addText(String text, double startTime, double endTime) {

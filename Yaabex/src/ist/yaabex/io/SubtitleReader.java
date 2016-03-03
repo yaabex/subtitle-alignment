@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class SubtitleReader {
-	private final String listFile = "data/list.txt";
+	private final String listFile = "list.txt";
 	private ArrayList<SubtitlePair> pairsList = new ArrayList<SubtitlePair>(); 
 	private int index = 0;
 
@@ -53,7 +53,7 @@ public class SubtitleReader {
 
 	private Subtitle readSubtitle(String filename){
 		final String encoding = StandardCharsets.UTF_8.name();
-		Subtitle subtitle = new Subtitle(filename);
+		Subtitle subtitle = new Subtitle();
 		filename = "data/" + filename;
 
 		try {

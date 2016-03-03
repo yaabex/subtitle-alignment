@@ -1,0 +1,10 @@
+batman-EN.srt
+batman-PT.srt
+fastfurious-EN.srt
+fastfurious-PT.srt
+interstellar-EN.srt
+interstellar-PT.srt
+slave-EN.srt
+slave-PT.srt
+slumdog-EN.srt
+slumdog-PT.srt
