@@ -7,16 +7,19 @@ import java.util.TreeMap;
 
 public class Subtitle {
 	private TreeMap<Double, Sentence> sentences = new TreeMap<Double, Sentence>(); // KEY = startTime with 0.25 precision
-
-	public Subtitle(){
+	private SentenceSplitter spliter;
+	private String specialPunctiationCases;
+	
+	public Subtitle(String spc){
+		this.specialPunctiationCases = spc;
+		this.spliter = new SentenceSplitter(specialPunctiationCases);
 	}
 
 	public void addText(String text, double startTime, double endTime) {
 		double tBefore = startTime;
 		double tAfter = endTime;
 		int cBefore = 0;
-
-		SentenceSplitter spliter = new SentenceSplitter();
+		
 		for(String str : spliter.split(text)){
 			int cAfter = text.length() - cBefore;
 			double tStart = calculateNewTime(tBefore, tAfter, cBefore, cAfter);

@@ -13,12 +13,14 @@ public class SubtitleReader {
 	private final String listFile = "list.txt";
 	private ArrayList<SubtitlePair> pairsList = new ArrayList<SubtitlePair>(); 
 	private int index = 0;
+	private String specialPunctuationCases;
 
 	/*
 	 * Instantiates a Subtitle Reader
 	 * Reads "list.txt" file, that contains the names of the subtitles to align
 	 * */
-	public SubtitleReader(){
+	public SubtitleReader(String spc){
+		this.specialPunctuationCases = spc;
 		final String encoding = StandardCharsets.UTF_8.name();
 		try {
 			Scanner scanner = new Scanner(new File(listFile), encoding);
@@ -53,7 +55,7 @@ public class SubtitleReader {
 
 	private Subtitle readSubtitle(String filename){
 		final String encoding = StandardCharsets.UTF_8.name();
-		Subtitle subtitle = new Subtitle();
+		Subtitle subtitle = new Subtitle(specialPunctuationCases);
 		filename = "data/" + filename;
 
 		try {

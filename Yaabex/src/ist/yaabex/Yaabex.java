@@ -11,10 +11,10 @@ import java.io.UnsupportedEncodingException;
 
 public class Yaabex {
 	public static void main(String[] args){
-		SubtitleReader reader = new SubtitleReader();
+		ConfigLoader config = new ConfigLoader();
+		SubtitleReader reader = new SubtitleReader(config.getSpecialPunctiationCases());
 		
 		while(reader.hasMorePairs()){
-			ConfigLoader config = new ConfigLoader();
 			SubtitlePair pair = reader.readPair();
 			System.out.print("[ STARTED: "+ pair.getName() + " ... ");
 			Aligner aligner = new Aligner(pair, config);

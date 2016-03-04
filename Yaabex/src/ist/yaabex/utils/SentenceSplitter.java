@@ -3,12 +3,17 @@ package ist.yaabex.utils;
 import java.util.ArrayList;
 
 public class SentenceSplitter {
+	private String specialCases;
+	public SentenceSplitter(String specialPunctuationCases){
+		this.specialCases = specialPunctuationCases;
+	}
+	
 	public ArrayList<String> split(String text){
 		ArrayList<String> sentences = new ArrayList<String>();
 		
 		String substring = new String();
 		String punctuationRegex = ".*[\\.!?]+ ";
-		String exceptionsRegex = ".*(Mrs?|Dr|Av|St|Sra?|D|R|Exmo?|\\.[A-Z]). ";
+		String exceptionsRegex = ".*("+specialCases+"|\\.[A-Z]). ";
 		int beginIndex = 0;
 		
 		for(int i=0; i<text.length(); i++){

@@ -5,11 +5,13 @@ import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 
 import ist.yaabex.domain.SubtitlePair;
+import ist.yaabex.io.ConfigLoader;
 import ist.yaabex.io.SubtitleReader;
 
 public class SubtitlePrinter {
 	public static void main(String[] args){
-		SubtitleReader reader = new SubtitleReader();
+		ConfigLoader config = new ConfigLoader();
+		SubtitleReader reader = new SubtitleReader(config.getSpecialPunctiationCases());
 		
 		while(reader.hasMorePairs()){
 			SubtitlePair pair = reader.readPair();
