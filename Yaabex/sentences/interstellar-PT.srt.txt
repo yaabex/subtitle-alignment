@@ -94,7 +94,7 @@ Que se passa, Murph?
 Porque é que tu e a mãe me deram o nome de algo mau?
 Não demos nada.
 Lei de Murphy?
-A Lei de Murphy não quer dizer que algo de mau... irá acontecer.
+A Lei de Murphy não quer dizer que algo de mau... ...irá acontecer.
 Diz-nos apenas que aquilo que tiver que acontecer, acontecerá.
 E isso pareceu-nos correcto.
 Entra.
@@ -718,7 +718,10 @@ Isso é muito Dramamine.
 Faria o favor de zelar pela minha família, professor?
 Estaremos à tua espera, quando regressares.
 Um pouco mais velhos, mais sábios, mas felizes por te ver.
-"Não entreis docilmente nessa noite serena, "porque a velhice deveria arder e delirar no termo do dia."Odeia, odeia a luz que começa a morrer."No fim, ainda que os sábios aceitem as trevas, "porque se esgotou o raio nas suas palavras, "eles não entram docilmente nessa noite serena."Odiai, odiai a luz que começa a morrer." 
+"Não entreis docilmente nessa noite serena, "porque a velhice deveria arder e delirar no termo do dia.
+"Odeia, odeia a luz que começa a morrer.
+"No fim, ainda que os sábios aceitem as trevas, "porque se esgotou o raio nas suas palavras, "eles não entram docilmente nessa noite serena.
+"Odiai, odiai a luz que começa a morrer." 
 Aqui tens as pastilhas.
 Que solidão... 
 Temo-nos uns aos outros.
@@ -1222,9 +1225,11 @@ Podemos deixar isso para depois?
 Quero falar com a minha filha.
 Para nos aventurarmos pelo universo, temos que enfrentar a realidade das viagens interestelares.
 Temos que transcender a nossa própria existência.
-Temos que pensar não como indivíduos, mas como espécie."Não entreis docilmente nessa noite serena." 
+Temos que pensar não como indivíduos, mas como espécie.
+"Não entreis docilmente nessa noite serena." 
 O TARS manteve a Endurance onde precisávamos, mas a expedição levou mais tempo do que o previsto.
-Já não temos combustível necessário para visitarmos todos os destinos, como tal...temos que escolher.
+Já não temos combustível necessário para visitarmos todos os destinos, como tal...
+temos que escolher.
 Mas como?
 São os dois promissores.
 Os dados do Edmonds são melhores, mas o Dr. Mann é o único que continua a transmitir.
@@ -1279,7 +1284,8 @@ Está bem, Cooper.
 Sim!
 A possibilidade mais remota de voltar a ver o Wolf, emociona-me.
 - Mas isso não significa que esteja errada.
-- Sinceramente, Amelia, pode significar.TARS, traça uma rota para o planeta do Dr. Mann.
+- Sinceramente, Amelia, pode significar.
+TARS, traça uma rota para o planeta do Dr. Mann.
 Voltámos a perder um terço.
 No próximo ano... 
 No próximo ano, vou trabalhar na quinta do Nelson para compensar.

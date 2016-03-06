@@ -1,2 +1,2 @@
-interstellar-EN.srt
-interstellar-PT.srt
+up-EN.srt
+up-PT.srt

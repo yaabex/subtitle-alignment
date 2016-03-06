@@ -50,16 +50,18 @@ Of course.                                                                      
 Sir.                                                                                  --- Senhor.
 A circus? - That is our usual employee.                                               --- Um circo?
 The company currently in the city of Washington.                                      --- A companhia atualmente está na cidade de Washington.
-Circus too constricting a word to describe the... talented and merry band with which we travel.It is a spectacle unlike most have ever witnessed. --- Uma palavra para descrever o... talento e alegria com que nós viajamos.
+Circus too constricting a word to describe the... talented and merry band with which we travel. --- Uma palavra para descrever o... talento e alegria com que nós viajamos.
+It is a spectacle unlike most have ever witnessed.                                    --- É um espetáculo diversificado e unico que já se testemunhou.
 Creatures from the darkest Africa as yet unseen by civilized man.                     --- Criaturas de África muito escuras jamais vistas pelo homem civilizado.
 Acrobats from the Orient contorting themselves in the most confounding manners.       --- Acrobatas do Oriente contorcendo-se de todas as maneiras.
-And I myself in aide of Mr. Brown; an internationally renowned practitioner in the art of prestidigitation. --- E eu mesmo ajudante do Sr.Brown; Um médico internacionalmente reconhecido Na arte da ilusão.
+And I myself in aide of Mr. Brown; an internationally renowned practitioner ...in the art of prestidigitation. --- E eu mesmo ajudante do Sr.Brown; Um médico internacionalmente reconhecido ...Na arte da ilusão.
 We are on our way thither to rejoin the company... having left for a short time to make a small profit from our own exhibitions. --- Estamos a caminho para reunir a companhia... deixamo-la por algum tempo, para fazer algum lucro com as nossas exibições.
 The reason for our inquiry with Mr. Moon...                                           --- A razão da nossa investigação com o Sr.Moon...
 Yes. We had just a devil of a time in procuring music for our entertainments.         --- Nós temos pouco tempo para procurar música para o nosso espectaculo.
 Men of true talent seemingly in short supply.                                         --- Homens de grande talento aparentemente faltam.
 - Thank you sir... If we could persuade you to accompany us as far as Washington...   --- Se pudéssemos persuadi-lo em acompanhar-nos até Washington...
-We would give you one dollar for each day's service' and three dollars for every night played at our performances.In addition, we would provide sufficient pay, for the expenses of your return here to Saratoga. --- 
+We would give you one dollar for each day's service' and three dollars for every night played at our performances. --- Dávamos-lhe um dólar por cada dia de serviço'  E três dólares por noite para tocar nas nossas apresentações.
+In addition, we would provide sufficient pay, for the expenses of your return here to Saratoga. --- E depois poderiamos pagar-lhe melhor, para as despesas quando voltasse aqui para Saratoga.
 Two weeks from today.                                                                 --- Duas semanas a partir de hoje.
 Welcome to Washington, Solomon.                                                       --- Bem-vindo a Washington, Solomon.
 Thank you.                                                                            --- Obrigado.
@@ -258,7 +260,8 @@ Nothing more.                                                                   
 A year's passed?                                                                      --- Já passou uns anos?
 Off to Sandy Hill?                                                                    --- Fora de Sandy Hill?
 Yes, I am. - I have just the thing for you.                                           --- - Tenho uma coisa ideal para si.
-Something to suit your style, but sturdy enough for the forty miles round trip.It's beautiful. --- Algo que se adapta ao seu estilo, forte o suficiente para essa viagem de ida e volta.
+Something to suit your style, but sturdy enough for the forty miles round trip.       --- Algo que se adapta ao seu estilo, forte o suficiente para essa viagem de ida e volta.
+It's beautiful.                                                                       --- - Mas, quanto custa?
 - But at what price?                                                                  --- - Mas, quanto custa?
 We will take it.                                                                      --- Nós levamos.
 Children, come see what your father has just purchased for me.                        --- Meninos, venham ver o que o vosso pai acabou de me comprar.
@@ -295,7 +298,9 @@ Captain, get these niggers to my carts.                                         
 I believe I have something that will you just like the room behind.                   --- Penso ter algo que goste na sala lá atrás.
 Follow me, please.                                                                    --- Siga-me, por favor.
 Yes.                                                                                  --- Sim.
-Now... Inspect them at your leisure, but ... I ask you to pay particular regard to young Ezra right here.Incredibly solid limbs!I've never seen anything quite like him. --- 
+Now... Inspect them at your leisure, but ... I ask you to pay particular regard to young Ezra right here. --- Agora... Inspecione-os no lazer, mas ...  Por consideração a si tenho aqui o jovem Ezra.
+Incredibly solid limbs!                                                               --- Membros sólidos incriveis!
+I've never seen anything quite like him.                                              --- Nunca vi uma coisa assim.
 And this marvelous creature ...                                                       --- E esta criatura maravilhosa...
 Can you believe it?                                                                   --- Acredita nisto?
 Hm?                                                                                   --- Hm...?
@@ -353,7 +358,8 @@ Her child, man.                                                                 
 For God's sake, are you not sentimental in the least?                                 --- Pelo amor de Deus, não tem sentimentos?
 My sentimentality extends the length of a coin.                                       --- Minha sentimentalidade estende-se ao comprimento de uma moeda.
 Do you want the lot, Mr. Ford, or do you pass on them all?                            --- Leva o lote todo, Sr. Ford, ou não leva nenhum?
-Please, please ... I will take the ones Platt and Eliza.I will not go without my children. --- 
+Please, please ... I will take the ones Platt and Eliza.                              --- Por favor, por favor ...  Levo o Platt e a Eliza.
+I will not go without my children.                                                    --- Não fico sem os meus filhos.
 You will not take them from me.                                                       --- Não me vai levar sem eles.
 No, no, no ...!                                                                       --- Não, não, não ...!
 Did you bring all those niggers?                                                      --- Trouxeste quantos pretos?
@@ -407,7 +413,9 @@ Run nigger run well the pattyroller will get you?                               
 Run nigger run well you better get away I am the God of Abraham, and the God of Isaac, and the God of Jacob. --- Eu sou o Deus de Abraão, E o Deus de Isaac, e o Deus de Jacob.
 And when the multitude heard this, they were astonished at his doctrine.              --- E quando a multidão ouviu isto, Estavam surpreendidos com a sua doutrina.
 Then one of them, which was a lawyer, asked him a question, tempting him,             --- Então um deles, o qual era discipulo,  Fez-lhe uma pergunta, tentadora,
-The creek is plenty deep enough to sail, even with a boat full of load.even with a boat full of load.to the point on the latter bayou is several miles by water fewer than land.It occurs to me that the expense of the transportation would be materially diminished-- "Materially diminished?" - If we use the waterway. --- 
+The creek is plenty deep enough to sail, even with a boat full of load.               --- O rio é bastante fundo para navegar, mesmo para um barco de carga.
+even with a boat full of load.to the point on the latter bayou ...is several miles by water fewer than land. --- A distância da área de trabalho para o ponto de entrega ...
+It occurs to me that the expense of the transportation would be materially diminished-- "Materially diminished?" - If we use the waterway. --- Ocorreu-me que a despesa do transporte estaria materialmente diminuída... "Materialmente diminuiuda?" - Se nós usarmos a via fluvial.
 Are you an engineer or a nigger?                                                      --- Você é engenheiro ou preto?
 Are you an engineer or nigger?                                                        --- Você é engenheiro ou preto?
 Let the man say his piece.                                                            --- Deixe o homem dizer o que pensa.
@@ -419,7 +427,7 @@ Wide enough for a tub to traverse.                                              
 A team of niggers can clear it out.                                                   --- Uma equipa de pretos pode limpar isso.
 And you know what of transport and terra formin'?                                     --- E sabe alguma coisa de transporte de madeira?
 I labored repairing the Champlain canal, on the section over which William Van Nortwick was superintendent. --- Trabalhei a reparar o canal de Champlain, na seção acima onde William Van Nortwick era superintendente.
-With my earnings I hired several efficient hands to assist me, and I entered into contracts for the transportation of large rafts of timber from.. --- Com o que ganhei contratei várias mãos eficientes para me ajudar. ...E entrei em contratos para o transporte de grandes barcaças de madeira no...
+With my earnings I hired several efficient hands to assist me, ...and I entered into contracts for the transportation of large rafts of timber from.. --- Com o que ganhei contratei várias mãos eficientes para me ajudar. ...E entrei em contratos para o transporte de grandes barcaças de madeira no...
 Lake Champlain to Troy.                                                               --- Lago Champlain para Troy.
 I'll admit to being impressed even if you won't.                                      --- Admito que estou impressionado mesmo que você não esteja.
 Collect a team, see what good you can do.                                             --- Arranje uma equipa, vamos ver se é assim tão bom.
@@ -473,7 +481,8 @@ No better than if I had stood up for myself.                                    
 God forgive me.                                                                       --- Deus, perdoai-me.
 Solomon, let me weep for my children.                                                 --- Solomon, deixa-me lamentar pelos meus filhos.
 Who so ever yherefore, shall humbles himself, as this little child, the same is greatest in the Kingdom of heaven. --- Quem..., deve-se humilhar ele mesmo, como esta pequena criança, o mesmo é grandioso no Reino dos Céus.
-And whoso shall receive... one such little child in my name receiveth me.I cannot have that kind of depression about. --- E o que receberemos... uma tal criança em meu nome, recebe. Não posso ter uma depressão por causa daquilo.
+And whoso shall receive... one such little child in my name receiveth me.             --- E o que receberemos... uma tal criança em meu nome, recebe.
+I cannot have that kind of depression about.                                          --- Não posso ter uma depressão por causa daquilo.
 But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea. --- Mas quem ofender um destes pequenos que acredite em mim, é melhor para ele que uma corda seja enrolada ao pescoço, e que seja atirado para as profundezas do mar.
 Amen.                                                                                 --- Amén.
 - AMEN!                                                                               --- - AMÉN!
@@ -491,7 +500,7 @@ my ...You are a brute.                                                          
 You are a dog, and no better for followin' instruction.                               --- És um cão, e não és melhor por teres educação.
 I'll do as ordered, sir.                                                              --- - Então, quere-o em pé quando amanhecer.
 - Then you'll be up at daybreak.                                                      --- - Então, quere-o em pé quando amanhecer.
-You will procure a keg of nails from Chapin; and commence puttin' on clapboards.      --- Vai buscar um barril de pregos. ...E começa a pregar as ripas.
+You will procure a keg of nails from Chapin; ...and commence puttin' on clapboards.   --- Vai buscar um barril de pregos. ...E começa a pregar as ripas.
 - Yes, sir.                                                                           --- - Sim, senhor.
 Make them boards flush.                                                               --- E junte as tábuas.
 Where am i going, sir?                                                                --- Onde vou, senhor?
@@ -555,7 +564,8 @@ If you touch him..                                                              
 Sam! Get the mule.                                                                    --- Sam!
 Get Master Ford.                                                                      --- Vai chamar o Mestre Ford.
 I believe Tibeats is skulkin' about the premises somewhere.                           --- Acho que o Tibeats escondeu as premissas em algum lado.
-He wants you dead, and he will attempt to have you so.It's no longer safe for you here. --- Ele quer ver-te morto, e vai tentar isso.Isto por aqui já não é seguro para ti.
+He wants you dead, and he will attempt to have you so.                                --- Ele quer ver-te morto, e vai tentar isso.
+It's no longer safe for you here.                                                     --- Isto por aqui já não é seguro para ti.
 And I don't believe you will remain passive if Tibeats attacks.                       --- E acho que não vais ficar quieto se o Tibeats te atacar.
 I have transferred my debt to Edwin Epps.                                             --- Eu transferi a minha dívida  para o Edwin Epps.
 He will take charge of you.                                                           --- Ele vai tomar conta de ti.
@@ -725,7 +735,9 @@ If that what keep me from the cotton pickin' niggers, that what it be.          
 A small and reasonable price to be paid 'fo sure.                                     --- Um pequeno preço e razoável para ser pago, de certeza.
 I knowed what it like to be the object of Massa's predilections and peculiarities.    --- Eu sei o que é ser um objecto às mãos deles das suas predileções e peculiaridades.
 A lusty visit in the night, or a visitation from the whip.                            --- Uma visita a meio da noite, ou visitar o chicote.
-And you take comfort, Patsey; the Good Lord will manage Epps.In His own time the Good Lord will manage dem all....the curse on the Pharos is a poor example of all that wait 'fo the plantation class. --- 
+And you take comfort, Patsey; the Good Lord will manage Epps.                         --- E aí tens conforto, Patsey. O Bom Senhor administrará Epps.
+In His own time the Good Lord will manage dem all.                                    --- A seu tempo o Bom Senhor administrará tudo.
+...the curse on the Pharos is a poor example of all that wait 'fo the plantation class. --- ...A maldição no Pharos é um exemplo disso do que esperamos para as plantações.
 This is nice.                                                                         --- Isto é bom.
 Patsy?                                                                                --- Patsy?
 Patsey! - Do not look in his direction.                                               --- Patsy?
@@ -820,7 +832,7 @@ Bury me in a lonely place of dyin'.                                             
 - I will do no such thing.                                                            --- - Não vou fazer tal coisa.
 The...                                                                                --- 
 the gory detail with which you speak-- - I thought on it long and hard.               --- 
-It is melancholia, nothing more.                                                      --- É melancolico, nada mais.
+It is melancholia, ...nothing more.                                                   --- É melancolico, ... nada mais.
 How can you fall into such despair?                                                   --- Como podes cair em tal desespero?
 How can you not know?                                                                 --- Como não sabes?
 I got no comfort in this life.                                                        --- Nunca tive nada nesta vida.
@@ -829,7 +841,7 @@ There are others.                                                               
 Beg them. - I'm begging you!                                                          --- 
 - Why? Why would you consign me to damnation with such an un-Godly request?           --- - Estou a pedir-te!
 - There is God here!                                                                  --- - Existe Deus aqui!
-God is merciful... and He forgive merciful acts.                                      --- Deus é misericordioso... E Ele perdoa actos misericordiosos.
+God is merciful... ...and He forgive merciful acts.                                   --- Deus é misericordioso... ...E Ele perdoa actos misericordiosos.
 Won't be no hell for you.                                                             --- Não vai haver inferno para ti.
 Do it.                                                                                --- Faz isto.
 Do what I ain't got the strength ta do myself.                                        --- Faz o que eu peço, que não tenho forças para fazer a mim propria.
@@ -849,8 +861,8 @@ Judge?                                                                          
 - Mr. Epps.                                                                           --- - Sr.Epps.
 I am deeply sadden to hear about your misfortune.                                     --- Estou profundamente triste em saber do seu azar.
 Listen up.                                                                            --- Ouçam.
-Yer Judge Turner's for the season.                                                    --- Mais tempo se houver necessidade,
-More if need be, until my crop return.                                                --- Até que a minha colheita volte.
+Yer Judge Turner's for the season.                                                    --- Mais tempo se houver necessidade, ...
+More if need be, ...until my crop return.                                             --- Até que a minha colheita volte.
 Yah'll bring no disrespect to me, and yah'll bring no biblical plagues to him.        --- Não vai ser desrespeito para mim. E não falem sobre as pragas biblicas.
 You hear? Or I'll take all your skin.                                                 --- 
 Get out.                                                                              --- Saiam.
@@ -919,8 +931,9 @@ How did you get in that position, if I may ask?                                 
 Ask.                                                                                  --- Pergunte.
 It's just conversation.                                                               --- Só estamos a conversar.
 I became a little too dependant on the whisky, a little too undependable on the job.  --- Tornei-me dependente do whisky, com pouca confiança no trabalho.
-Before you say I'm just a sorry drunkard, let me state my case:                       --- Antes de dizer que sou um bêbedo arrependido...  Deixe-me dizer-lhe isto!
-As reliable employment as overseeing is, it's no easy chore on the spirit.I say no man of conscious; can take the lash to another human day in, and day out without shredding at his own self. --- Vigiar também é um trabalho de confiança não é nenhuma tarefa fácil de espírito. Eu digo, nenhum homem de consciência, pode levantar o chicote para outro ser humano, sem se cortar em tiras ele mesmo.
+Before you say I'm just a sorry drunkard, ...let me state my case:                    --- Antes de dizer que sou um bêbedo arrependido... ... Deixe-me dizer-lhe isto!
+As reliable employment as overseeing is, ...it's no easy chore on the spirit.         --- Vigiar também é um trabalho de confiança ... não é nenhuma tarefa fácil de espírito.
+I say no man of conscious; can take the lash to another human day in, and day out without shredding at his own self. --- Eu digo, nenhum homem de consciência, pode levantar o chicote para outro ser humano, sem se cortar em tiras ele mesmo.
 Takes him to a place... where he either makes excuses within his mind to be unaffected... --- Leva-o para um sitio...  Onde ele tenta arranjar desculpas dentro de si sem o afectar...
 Or finds some way to trample his guilty sensations.                                   --- Ou encontrar uma maneira de saltar as sensações de culpa.
 Well, I trampled.                                                                     --- Bem, eu saltei.
@@ -931,7 +944,8 @@ It's the lot of the rest of us to serve.                                        
 Now, I want nothing more than to earn a decent wage..                                 --- Agora, não quero nada mais do que ter um salário decente...
 And get myself home.                                                                  --- E ter a minha propria casa.
 The proceeds of my fiddling performances.                                             --- É o resultado do meu trabalho.
-A few picayunes, but all I have in the world.I promise them to you if you will do me the favor I require. --- 
+A few picayunes, but all I have in the world.                                         --- Alguns trocos,  é tudo o que eu tenho neste mundo.
+I promise them to you if you will do me the favor I require.                          --- Eu prometo se fizer o favor que eu peço.
 But I beg you not to expose me if you cannot grant the request.                       --- Mas peço para não me expor se não puder conceder o pedido.
 What..                                                                                --- O que é que quer?
 What is it that you ask?                                                              --- O que é que quer?
@@ -956,7 +970,7 @@ And tries to get white fellows to mail 'em.                                     
 Well, Armsby tol' me today... the devil was among my niggers.                         --- Bem, o Armsby hoje disse-me...  Que o diabo estava entre os meus pretos.
 That I had one that needed close watchin' or he would run away.                       --- Que eu tinha um que precisava de observar. Ou ele iria embora.
 When I asked him, "Why?" ...                                                          --- Quando lhe perguntei, porquê?...
-He said you come over to him... and waked him up in the middle of the night, and wanted him to carry a letter... to Marksville. --- E o acordaste a meio da noite, para ele levar-te uma carta...
+He said you come over to him... and waked him up in the middle of the night, and wanted him to carry a letter... ...to Marksville. --- E o acordaste a meio da noite, para ele levar-te uma carta... ...
 What have yah got to say to that?                                                     --- O que tens a dizer sobre isso?
 There is no truth in it.                                                              --- Não é verdade.
 You say.                                                                              --- Isso dizes tu.
@@ -972,29 +986,31 @@ And so, you'll hire an overseer to watch us.                                    
 He believes you are soft soap.                                                        --- Ele pensa que você é muito brando.
 He's given to such talk.                                                              --- Ele é dado a esse tipo de conversas.
 Made this story a lie, out of whole cloth,  'cause he wants to get a situation.       --- Faz uma história de mentiras, fora do contexto, para conseguir aquilo que quer.
-It's all a lie, master, It's all a lie.I'll be damned.                                --- Faz uma história de mentiras, fora do contexto, para conseguir aquilo que quer.
+It's all a lie, master, It's all a lie.                                               --- É tudo mentira, Mestre. É tudo mentira.
+I'll be damned.                                                                       --- Maldito.
 Were he not free and white, Platt.                                                    --- Porque é que não és livre e branco, Platt.
 Were he not free and white.                                                           --- Porque não és livre e branco.
 Edward?                                                                               --- Edward?
 Give him water!                                                                       --- Dá-me água!
 I just want to say something ...                                                      --- Só quero dizer uma coisa...
 'bout Uncle Abram.                                                                    --- Pelo Tio Abram.
-He was a good man.. ...and always looked out for us, ever since we were little.       --- Ele era um bom homem... E sempre tomou conta de nós, desde pequenos.
+He was a good man.. ...and always looked out for us, ever since we were little.       --- Ele era um bom homem... ...E sempre tomou conta de nós, desde pequenos.
 God loved him.                                                                        --- Deus amou-o.
 God has blessed God keep him.                                                         --- Deus abençoou-o Que Deus o tenha.
 Amen.                                                                                 --- Amén.
 Wait till the end.                                                                    --- Espera até acabar.
 Hey, Bass?                                                                            --- Eh, Bass?
 No, no, no ...                                                                        --- Não, não, não ...
-No shame in taking respite from the heat; drink, shade.It's ungodly for travelers.    --- Não é vergonha nenhuma em descansar por causa do calor.
+No shame in taking respite from the heat; drink, shade.                               --- Não é vergonha nenhuma em descansar por causa do calor. Bebida, sombra.
+It's ungodly for travelers.                                                           --- É descrente para os viajantes.
 Hearty, or otherwise.                                                                 --- Farto, caso contrário...
 What's funny? - Epps, I'm here to complete the work at hand.                          --- 
 As requested and as paid for.                                                         --- Como pediu e pagou por isso.
 Something rubs you wrongly.                                                           --- Algo que faz injustamente.
 I offer you the opportunity to speak off.                                             --- Eu ofereço-lhe a oportunidade para falar.
 Well you ask plainly, so I well tell you plainly.                                     --- Bem claramente pergunta, então eu repondo-lhe claramente.
-What amused me just then, was.. ..Your concern for my well being in this heat.        --- O que me fez achar piada foi, era... a sua preocupação para com o meu bem-estar neste calor.
-When quite frankly.. ..The conditions of your labours..                               --- Quando francamente... As condições dos seus trabalhadores...
+What amused me just then, was.. ..Your concern for my well being in this heat.        --- O que me fez achar piada foi, era... ..a sua preocupação para com o meu bem-estar neste calor.
+When quite frankly.. ..The conditions of your labours..                               --- Quando francamente... ..As condições dos seus trabalhadores...
 - The condition of my labour?                                                         --- - As condições dos meus trabalhadores?
 - It is hard!                                                                         --- - Que diabos?
 - What the hell? - It's all wrong..all wrong, mr Epps.                                --- - Está enganado..Todos enganados, Sr Epps.
@@ -1006,7 +1022,7 @@ This conversation concerns what is fact and what's not.                         
 Then it must be said.                                                                 --- Então, deve ser dito.
 That there is no justice, or righteous in this slavery.                               --- Não há nenhuma justiça, ou íntegridade nesta escravidão.
 But you do open up a interesting question..                                           --- Mas, abre uma questão interessante...
-What right have you too your niggers?.. ..When you come down to the point?            --- Que direitos tem sobre os seus pretos?... Quando vem até ao ponto?
+What right have you too your niggers?.. ..When you come down to the point?            --- Que direitos tem sobre os seus pretos?... ..Quando vem até ao ponto?
 - What right?                                                                         --- - Que direitos?
 I bought them, I paid for them.                                                       --- Eu comprei-os, paguei por eles.
 Of course you did, and the..                                                          --- a lei diz que tem o direito de ficar com eles.
@@ -1017,7 +1033,8 @@ Making you a slave.                                                             
 Suppose. - That ain't a supposable case.                                              --- 
 Laws change, Epps.                                                                    --- Mudar leis, Epps.
 Universal truths are constant.                                                        --- As verdades no mundo são constantes.
-It is a fact, a plain and simle fact that what is true and right..Is true and right for all. --- É um facto, uma facto simples e puro que é verdadeiro e justo...  É a verdade e direitos para toda a gente.
+It is a fact, a plain and simle fact that what is true and right..                    --- É um facto, uma facto simples e puro que é verdadeiro e justo...
+Is true and right for all.                                                            --- É a verdade e direitos para toda a gente.
 White and black alike.                                                                --- Iguais para branco e preto.
 Yah compare me to a nigger, Bass?                                                     --- Compara-me a um preto, Grave?
 I only ask, in the eye's of God..                                                     --- Eu só pergunto, aos olhos de Deus..
@@ -1151,15 +1168,17 @@ How's this?                                                                     
 Tell me all.                                                                          --- Conte-me tudo.
 I am afraid to tell you.                                                              --- Tenho medo em contar-lhe.
 Every word you speak is a profound secret.                                            --- Todas as palavras que disser serão bem guardadas.
-Your story ... it is amazing, and in no good way.                                     --- A sua história... é espantosa, e não é no bom sentido.
-Do you believe, sir ... in justice as you have said?                                  --- Acredita, senhor... na justiça pelo que disse?
+Your story ... ...it is amazing, and in no good way.                                  --- A sua história... ...é espantosa, e não é no bom sentido.
+Do you believe, sir ... ..in justice as you have said?                                --- Acredita, senhor... ...na justiça pelo que disse?
 Yes, I do.                                                                            --- Sim, claro.
 - That slavery is an evil that should befall none?                                    --- - A escravidão é um mal que não devia acontecer a ninguém?
 I believe so.                                                                         --- Acredito que sim.
 - If you truly do,                                                                    --- 
 Then, I would ask... I would beg... that you write my friends in the north, acquainting them with my situation.. --- - Acredita mesmo, então, eu perguntava-lhe... implorava-lhe... para escrever aos meus amigos no norte, para dar-lhe conta da minha situação... e pedir-lhes para me mandarem, os documentos da minha liberdade.
-And beseeching them to forward; free papers.It would be... an unspeakable happiness;  --- Seria... uma felicidade inexplicavel. Para ver a minha esposa e a minha família outra vez.
-To see my wife and my family again.I've been traveling this country for the best part of twenty years. --- Para ver a minha esposa e a minha família outra vez. Viajei por este país na melhor parte destes ultimos vinte anos.
+And beseeching them to forward; free papers.                                          --- Para ver a minha esposa e a minha família outra vez.
+It would be... an unspeakable happiness;                                              --- Seria... uma felicidade inexplicavel.
+To see my wife and my family again.                                                   --- Para ver a minha esposa e a minha família outra vez.
+I've been traveling this country for the best part of twenty years.                   --- Viajei por este país na melhor parte destes ultimos vinte anos.
 My freedom is everything.                                                             --- A minha liberdade é tudo.
 The fact that I can walk out of here tomorrow gives me most pleasure.                 --- O fato de eu poder sair daqui amanhã dava-me um prazer enorme.
 My life doesn't mean much to anyone, but it seems your life means a lot to a lot of people. --- A minha vida não significa muito para ninguém, mas parece que a sua vida significa muito para muitas pessoas.
@@ -1167,7 +1186,8 @@ About what you're asking me..                                                   
 Sir, scares me.                                                                       --- Senhor, assusta-me.
 I must say, I am afraid.                                                              --- Devo dizer, que tenho medo.
 Not just for you, but for me.                                                         --- Não só por si, mas também por mim.
-I will write your letter sir, for if I could bring freedom, it will be more than a pleasure....it will be my duty. --- Eu vou escrever a sua carta, senhor, para lhe poder trazer a liberdade, será mais do que um prazer....será o meu dever.
+I will write your letter sir, for if I could bring freedom, it will be more than a pleasure. --- Eu vou escrever a sua carta, senhor, para lhe poder trazer a liberdade, será mais do que um prazer.
+...it will be my duty.                                                                --- ...será o meu dever.
 Now, would you be so kindly hand me those sickles?                                    --- Agora, se fizer favor dê-me aquelas ripas?
 Platt...?                                                                             --- Platt...?
 Where is the boy called Platt?                                                        --- Onde está o rapaz que se chama, Platt?
@@ -1228,7 +1248,7 @@ Get away from him, Pats'!                                                       
 I'll be seeing you real soon.                                                         --- Eu volto logo que puder.
 Solomon?                                                                              --- Solomon?
 I apologize... for my appearance.                                                     --- Peço-vos desculpas...  Pela minha aparencia.
-But I have had.. A difficult time.... these past many years                           --- Mas, eu tive... tempos difíceis.... passados estes anos.
+But I have had.. A difficult time.... ...these past many years                        --- Mas, eu tive... tempos difíceis.... ...passados estes anos.
 Margaret?                                                                             --- Margaret?
 Alonzo?                                                                               --- Alonzo?
 Who is this?                                                                          --- Quem é?
@@ -1236,7 +1256,7 @@ This is my husband.                                                             
 Husband ... It is very good to meet you, sir.                                         --- Marido...  É um prazer em conhecê-lo, senhor.
 We have much acquainting to do.                                                       --- Temos muito para falar.
 Yes, sir.                                                                             --- Sim, senhor.
-And this ... is your grandson.                                                        --- E este... É o teu neto.
+And this ... ...is your grandson.                                                     --- E este... ...É o teu neto.
 Solomon Northup Staunton.                                                             --- Solomon Northup Staunton.
 Solomon.                                                                              --- Solomon.
 Forgive me.                                                                           --- Perdoem-me.

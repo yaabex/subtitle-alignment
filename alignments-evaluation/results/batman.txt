@@ -27,7 +27,7 @@ No, I'm done here.                                                              
 Sit down!                                                                             --- Sentem-se!
 Down!                                                                                 --- No chão!
 Down! I said, stay down there!                                                        --- Mandei-vos sentar no chão!
-Obviously we don't want you doing anything with your hands... other than holding on for dear life. --- Só vos queremos a usar as mãos, para rezarem pela vidinha!
+Obviously we don't want you doing anything with your hands... ...other than holding on for dear life. --- Só vos queremos a usar as mãos, para rezarem pela vidinha!
 On the ground! Stay on the ground!                                                    --- No chão, tudo no chão!
 Nobody make a move!                                                                   --- Que ninguém se mexa!
 Nobody!                                                                               --- Tudo no chão!
@@ -61,13 +61,13 @@ That guy's not getting up, is he?                                               
 That's a lot of money.                                                                --- É muita massa!
 What happened to the rest of the guys?                                                --- O resto do pessoal?
 You think you're smart, huh?                                                          --- Julgas-te esperto, não é?
-The guy that hired youse... he'll just do the same to you.                            --- O tipo que vos contratou... vai fazer-te o mesmo.
+The guy that hired youse... ...he'll just do the same to you.                         --- O tipo que vos contratou... ... vai fazer-te o mesmo.
 Oh, criminals in this town used to believe in things.                                 --- 
-Honor... respect.                                                                     --- Honra...  Respeito...
+Honor... ...respect.                                                                  --- Honra...  Respeito...
 Look at you.                                                                          --- Já olhaste bem para ti?
 What do you believe in, huh?                                                          --- Em que acreditas tu?!
 What do you believe in?!                                                              --- Em quê?
-I believe whatever doesn't kill you simply makes you... stranger.                     --- Acredito que aquilo que não nos mata torna-nos mais... estranhos.
+I believe whatever doesn't kill you simply makes you... ...stranger.                  --- Acredito que aquilo que não nos mata torna-nos mais... ... estranhos.
 Mr. Mayor, you were elected in a campaign to clean up the city.                       --- Sr. Presidente da Câmara, na sua campanha prometeu limpar a cidade.
 -When are you gonna start?                                                            --- - Quando começa?
 I already have.                                                                       --- Esse tal Batman...
@@ -90,7 +90,7 @@ I'm sorry.                                                                      
 -He often doesn't.                                                                    --- - Normalmente, não.
 -I like reminding everybody he's out there.                                           --- Mas gosto de lembrar as pessoas que ele anda por aí...
 -Why wouldn't he come?                                                                --- Por que não virá?
-Hopefully... because he's busy.                                                       --- Espero... que seja por estar ocupado.
+Hopefully... ...because he's busy.                                                    --- Espero... ... que seja por estar ocupado.
 That's why we bring dogs.                                                             --- É por causa daquilo que trazemos cães.
 -My little princes.                                                                   --- 
 Please.                                                                               --- Por favor, tirem-mos da boca!
@@ -138,7 +138,7 @@ When the new DA hears about this, he'll want in.                                
 -Be hard to keep him out.                                                             --- - É difícil exclui-lo.
 I hear he's as stubborn as you are.                                                   --- Ouvi dizer que é tão teimoso como tu.
 Be nice when Wayne Manor's rebuilt.                                                   --- Será agradável quando a Mansão Wayne estiver reconstruída.
-You can swap not sleeping in a penthouse... for not sleeping in a mansion.            --- Em vez de não dormir na penthouse, poderá não dormir numa mansão.
+You can swap not sleeping in a penthouse... ...for not sleeping in a mansion.         --- Em vez de não dormir na penthouse, poderá não dormir numa mansão.
 Whenever you stitch yourself up, you do make a bloody mess.                           --- Cada vez que o menino se cose, faz uma bela porcaria.
 Yeah. It makes me learn from my mistakes.                                             --- Faz-me aprender com os meus erros.
 You ought to be pretty knowledgeable by now, then.                                    --- Então já devia saber muita coisa!
@@ -150,7 +150,8 @@ I'm sure Mr. Fox can oblige.                                                    
 -Huh? -It was a big dog.                                                              --- 
 There were more copycats last night, Alfred, with guns.                               --- Havia mais imitações esta noite, Alfred, com armas.
 Why not hire them, take the weekend off?                                              --- Por que não os contrata e tira o fim-de-semana?
-That wasn't exactly what I had in mind...  -...when I said I wanted to inspire people. --- Por que não os contrata e tira o fim-de-semana?
+That wasn't exactly what I had in mind...                                             --- Não era propriamente essa a minha ideia... ...
+-...when I said I wanted to inspire people.                                           --- quando disse que queria inspirar as pessoas. Eu sei.
 -I know.                                                                              --- 
 But things have improved.                                                             --- Mas as coisas melhoraram.
 Look at the new district attorney.                                                    --- Veja o novo procurador!
@@ -172,7 +173,7 @@ Sorry I'm late, folks.                                                          
 -Where were you?                                                                      --- - Onde estiveste?
 -Worried you'd have to step up?                                                       --- - Receavas ter de avançar tu?
 -Harvey, I know these briefs backwards.                                               --- - Harvey, conheço bem os processos.
--Well, then... fair's fair.                                                           --- - Nesse caso, o que é justo é justo.
+-Well, then... ...fair's fair.                                                        --- - Nesse caso, o que é justo é justo.
 Heads, I'll take it.                                                                  --- Caras, avanço eu.
 Tails, he's all yours.                                                                --- Coroas, é todo teu.
 Yeah? You wanna flip a coin to see who leads?                                         --- Decides isto com uma moeda?!
@@ -186,11 +187,12 @@ The Honorable Judge Freel presiding.                                            
 I thought the DA just played golf with the mayor.                                     --- Julguei que o Procurador só jogava golfe com o Presidente da Câmara e assim...
 Teeoff's 1:30.                                                                        --- Jogamos às 13h30.
 More than enough time to put you away for life, Sally.                                --- Dá tempo para o condenar a prisão perpétua, Sally.
-With Carmine Falcone in Arkham... someone must have stepped up to run the so-called family.Is that man in this courtroom today? --- Com Carmine Falcone em Arkham, alguém teve de dirigir a "Família". Esse homem encontra-se aqui na sala?
+With Carmine Falcone in Arkham... ...someone must have stepped up to run the so-called family. --- Com Carmine Falcone em Arkham, alguém teve de dirigir a "Família".
+Is that man in this courtroom today?                                                  --- Esse homem encontra-se aqui na sala?
 -Could you identify him for us, please?                                               --- - Pode identificá-lo, por favor?
 -You win, counselor.                                                                  --- - Ganhou, Sr. Dr.
 It was me.                                                                            --- Fui eu.
-I have a sworn statement from you that this man... Salvatore Maroni, is the new head of the Falcone crime family. --- Tenho um depoimento assinado por si em como este homem,  Salvatore Maroni, é o novo chefe da Organização Falcone.
+I have a sworn statement from you that this man... ...Salvatore Maroni, is the new head of the Falcone crime family. --- Tenho um depoimento assinado por si em como este homem,  Salvatore Maroni, é o novo chefe da Organização Falcone.
 Maroni?                                                                               --- O Maroni?!
 He's a fall guy.                                                                      --- É um testa-de-ferro!
 I'm the brains of the organization.                                                   --- 
@@ -208,7 +210,7 @@ I'm fine, by the way.                                                           
 Come on, Harvey.                                                                      --- És o Procurador!
 You're Gotham's DA.                                                                   --- És o Procurador!
 You're not getting shot at, you're not doing your job right.                          --- Se não fosses um alvo, não estavas a trabalhar bem!
-But, you know... if you said you were rattled, we could take the rest of the day off. --- Mas, sabes...  Se me dissesses que estás perturbado, podíamos tirar o resto do dia...
+But, you know... ...if you said you were rattled, we could take the rest of the day off. --- Mas, sabes...  Se me dissesses que estás perturbado, podíamos tirar o resto do dia...
 Can't.                                                                                --- Não posso.
 I dragged the head of the Major Crimes Unit down here.                                --- Convoquei o chefe da Divisão de Crimes Graves.
 Oh, Jim Gordon?                                                                       --- O Jim Gordon?
@@ -225,13 +227,17 @@ Save it, Gordon.                                                                
 I wanna meet him.                                                                     --- Quero vê-lo.
 Official policy is to arrest the vigilante known as Batman on sight.                  --- A Polícia tem instruções para detenção imediata do vingador Batman.
 Mm-hm. What about that floodlight on the top of MCU?                                  --- E aquele holofote no telhado do vosso prédio?
-If you got problems with malfunctioning equipment... I suggest you take them up with Maintenance, counselor.I've put every money launderer in Gotham behind bars... but the Mob is still getting its money out.I think you and your friend have found the last game in town. --- 
-You're trying to hit them where it hurts, their wallets.                              --- A Polícia tem instruções para detenção imediata do vingador Batman.
+If you got problems with malfunctioning equipment... ...I suggest you take them up with Maintenance, counselor. --- Se as nossas avarias o incomodam, sugiro que chame a Manutenção, Sr. Dr.
+I've put every money launderer in Gotham behind bars... ...but the Mob is still getting its money out. --- Prendi todos os agentes de lavagem de dinheiro, mas a Máfia continua a lavá-lo.
+I think you and your friend have found the last game in town. You're trying to hit them where it hurts, their wallets. --- Acho que você e o seu amigo encontraram a última forma de lhes fazer doer: as carteiras.
 It's bold.                                                                            --- É arrojado.
 You gonna count me in?                                                                --- Vão incluir-me?
 In this town, the fewer people know something, the safer the operation.               --- Nesta cidade, quanto menos pessoas souberem duma operação, mais segura ela é.
-I don't like that you got your own special unit... and it's full of cops I investigated at Internal Affairs.If I didn't work with cops you'd investigated while at IA... I'd be working alone.I don't get political points for being an idealist.I do the best I can with what I have. --- 
-You want me to back warrants for search and seizure on five banks... without telling me what we're after.I can give you the names of the banks. --- Quer que eu autorize mandados de busca e apreensão para cinco bancos sem me dizer o que procuramos? Posso dar-lhe os nomes dos bancos.
+I don't like that you got your own special unit... ...and it's full of cops I investigated at Internal Affairs. --- Não gosto que você tenha uma unidade especial nem que seja formada por agentes cuja conduta andei a investigar.
+If I didn't work with cops you'd investigated while at IA... ...I'd be working alone. --- Se eu não tivesse colegas investigados para o promover na Investigação Interna, estaria a trabalhar sozinho.
+I don't get political points for being an idealist. I do the best I can with what I have. --- O idealismo não me dá vantagem política; faço o melhor com aquilo que tenho.
+You want me to back warrants for search and seizure on five banks... ...without telling me what we're after. --- Quer que eu autorize mandados de busca e apreensão para cinco bancos sem me dizer o que procuramos?
+I can give you the names of the banks.                                                --- Posso dar-lhe os nomes dos bancos.
 Well, that's a start.                                                                 --- Já é um começo...
 I'll get you your warrants, but I want your trust.                                    --- Eu dou-lhe os mandados, mas quero a sua confiança.
 Oh, you don't have to sell me, Dent. We all know you're Gotham's white knight.        --- Não tem de me convencer, Dent, todos o vemos como salvador de Gotham.
@@ -239,8 +245,8 @@ Yeah, well, I heard they have a different name for me down at MCU.              
 I wouldn't know about that.                                                           --- Não sei de nada.
 In China, Lau Security Investments stands for dynamic new growth.                     --- Na China, a Lau Security Investments corresponde a crescimento dinâmico.
 A joint Chinese venture with Wayne Enterprises will be a powerhouse.                  --- Ambas as partes terão a ganhar com a parceria chinesa com o Grupo Wayne.
-Well, Mr. Lau... I speak for the rest of the board... and Mr. Wayne, in expressing our own excitement. --- Bom, Sr. Lau... em nome do resto da direcção, e do próprio Sr. Wayne, manifesto o nosso entusiasmo.
-Sir, I know Mr. Wayne is curious about how his trust fund gets replenished... but, frankly, this is embarrassing. --- Sei que o Sr. Wayne tem curiosidade em saber como o seu trust fund cresce, mas, para ser sincero, isto é embaraçoso!
+Well, Mr. Lau... ...I speak for the rest of the board... ...and Mr. Wayne, in expressing our own excitement. --- Bom, Sr. Lau... em nome do resto da direcção, e do próprio Sr. Wayne, manifesto o nosso entusiasmo.
+Sir, I know Mr. Wayne is curious about how his trust fund gets replenished... ...but, frankly, this is embarrassing. --- Sei que o Sr. Wayne tem curiosidade em saber como o seu trust fund cresce, mas, para ser sincero, isto é embaraçoso!
 You worry about the diligence, Mr. Reese.                                             --- Preocupe-se com as diligências, Sr. Reese.
 I'll worry about Bruce Wayne.                                                         --- Com o Bruce Wayne preocupo-me eu.
 It's done. The numbers are solid.                                                     --- As diligências estão feitas, os números são sólidos.
@@ -250,7 +256,7 @@ Another long night?                                                             
 This joint venture was your idea, and the consultants love it.                        --- Esta parceria foi ideia sua e os consultores adoram-na.
 But I'm not convinced.                                                                --- Mas eu não estou convencido.
 Lau's company has grown by 8 percent annually like clockwork.                         --- A empresa de Lau tem crescido regularmente 8% ao ano.
-His revenue stream must be off the books... maybe even illegal.                       --- Deve ter um fluxo não registado. Talvez seja até ilegal.
+His revenue stream must be off the books... ...maybe even illegal.                    --- Deve ter um fluxo não registado. Talvez seja até ilegal.
 Okay. Cancel the deal.                                                                --- Está bem, cancela o acordo.
 You already knew.                                                                     --- O senhor já sabia...
 Just needed a closer look at their books.                                             --- Precisava dum pretexto para lhe analisar as contas.
@@ -299,10 +305,11 @@ Gotham needs heroes like you, elected officials...                              
 -Who appointed the Batman?                                                            --- Quem nomeou o Batman?
 We did. All of us who stood by and let scum take control of our city.                 --- Nós: baixando os braços e deixando que a cidade fosse controlada por bandidos.
 But this is a democracy, Harvey.                                                      --- - Vivemos numa democracia, Harvey.
-When their enemies were at the gates... the Romans would suspend democracy and appoint one man to protect the city.It wasn't considered an honor, it was a public service. --- - Quando se viam cercados por inimigos, os romanos suspendiam a democracia e nomeavam um homem para proteger a cidade. E não era considerado uma honra, e sim um serviço público.
+When their enemies were at the gates... ...the Romans would suspend democracy and appoint one man to protect the city. --- - Quando se viam cercados por inimigos, os romanos suspendiam a democracia e nomeavam um homem para proteger a cidade.
+It wasn't considered an honor, it was a public service.                               --- E não era considerado uma honra, e sim um serviço público.
 Harvey, the last man that they appointed to protect the republic was named Caesar...  -...and he never gave up his power. --- O último homem que nomearam para proteger a República chamava-se César e ele nunca abriu mão do poder.
 -Okay, fine.                                                                          --- - Está bem...
-You either die a hero... or you live long enough to see yourself become the villain.  --- A pessoa ou morre herói ou vive o suficiente para se tornar vilão.
+You either die a hero... ...or you live long enough to see yourself become the villain. --- A pessoa ou morre herói ou vive o suficiente para se tornar vilão.
 Whoever the Batman is, he doesn't wanna do this for the rest of his life.             --- Seja o Batman quem for, não há-de querer fazer isto até morrer!
 How could he? Batman is looking for someone to take up his mantle.                    --- Ele procura alguém que pegue no trabalho dele.
 Someone like you, Mr. Dent?                                                           --- Alguém como o Sr. Dent?
@@ -313,7 +320,7 @@ If I were sneaking out every night, someone would've noticed by now.            
 Well, I'm sold, Dent, and I'm gonna throw you a fundraiser.                           --- Convenceu-me, Dent. Vou organizar-lhe uma angariação de fundos.
 That's nice, but I'm not up for reelection for three years.                           --- É muito amável, mas só volto a concorrer daqui a 3 anos.
 No, you don't understand.                                                             --- Não está a perceber...
-One fundraiser with my pals... you'll never need another cent.                        --- Depois de uma angariação de fundos com os meus amigos, nunca mais terá de angariar um cêntimo.
+One fundraiser with my pals... ...you'll never need another cent.                     --- Depois de uma angariação de fundos com os meus amigos, nunca mais terá de angariar um cêntimo.
 What the hell is this?                                                                --- Mas que porcaria é essa?
 As you're all aware, one of our deposits was stolen.                                  --- Como bem sabem, assaltaram-nos um dos depósitos.
 A relatively small amount, 68 million.                                                --- Uma quantia relativamente pequena, 68 milhões de dólares.
@@ -322,16 +329,16 @@ Two-bit wackjob, wears a cheap purple suit and makeup.                          
 He's not the problem.                                                                 --- 
 He's a nobody.                                                                        --- 
 The problem is our money being tracked by the cops.                                   --- O problema é que o nosso dinheiro está a ser monitorizado pela polícia.
-Thanks to Mr. Maroni's well-placed sources... we know that police have indeed identified our banks using marked bills... and are planning to seize your funds today. --- Graças às fontes bem colocadas do Sr. Maroni, sabemos que a polícia identificou os nossos bancos mediante notas marcadas e tenciona apreender-nos os fundos hoje.
+Thanks to Mr. Maroni's well-placed sources... ...we know that police have indeed identified our banks using marked bills... ...and are planning to seize your funds today. --- Graças às fontes bem colocadas do Sr. Maroni, sabemos que a polícia identificou os nossos bancos mediante notas marcadas e tenciona apreender-nos os fundos hoje.
 And since the enthusiastic new DA has put all my competitors out of business...       --- E dado que o esforçado novo procurador já deteve todos os meus concorrentes,
 -...I'm your only option.                                                             --- - eu sou a vossa única opção.
 So, what are you proposing?                                                           --- - O que propõe?
 Moving all deposits to one secure location, not a bank.                               --- Proponho a mudança de todo o dinheiro para um local seguro que não é um banco.
 -Where, then?                                                                         --- - Onde?
 -No one can know but me.                                                              --- - Só eu posso saber.
-If the police were to gain leverage over one of you... everyone's money would be at stake. --- Se a polícia conseguisse ascendente sobre um de vós, isso poderia comprometer o dinheiro de todos.
+If the police were to gain leverage over one of you... ...everyone's money would be at stake. --- Se a polícia conseguisse ascendente sobre um de vós, isso poderia comprometer o dinheiro de todos.
 What stop them getting to you?                                                        --- E o que os impede de o deter?
-I go to Hong Kong, far from Dent's jurisdiction... and the Chinese will not extradite one of their own. --- Vou para Hong Kong, bem longe da jurisdição de Dent e os chineses não extraditam um compatriota seu.
+I go to Hong Kong, far from Dent's jurisdiction... ...and the Chinese will not extradite one of their own. --- Vou para Hong Kong, bem longe da jurisdição de Dent e os chineses não extraditam um compatriota seu.
 How soon can you move the money?                                                      --- Quando podemos transferir o dinheiro?
 I already have.                                                                       --- Já o fiz.
 For obvious reasons, I couldn't wait for your permission.                             --- Por razões óbvias, não podia esperar que me autorizassem.
@@ -355,13 +362,14 @@ Did your balls drop off?                                                        
 Hm? You see, a guy like me....                                                        --- 
 -A freak. Damn right.                                                                 --- Tarado!
 A guy like me-- Look, listen.                                                         --- 
-I know why you choose to have your little, ahem... group-therapy sessions in broad daylight.I know why you're afraid to go out at night. --- Eu sei porque marcam as vossas... sessõezinhas de terapia de grupo em pleno dia. Sei porque receiam sair à rua à noite.
+I know why you choose to have your little, ahem... ...group-therapy sessions in broad daylight. --- Eu sei porque marcam as vossas... ... sessõezinhas de terapia de grupo em pleno dia.
+I know why you're afraid to go out at night.                                          --- Sei porque receiam sair à rua à noite.
 The Batman.                                                                           --- O Batman.
 See, Batman has shown Gotham your true colors, unfortunately.                         --- Infelizmente, o Batman mostrou a Gotham City de que massa são feitos.
 Dent, he's just the beginning.                                                        --- O Dent é apenas o começo.
-And as for the television's so-called plan... Batman has no jurisdiction.             --- Quanto ao "plano" aqui do televisor, o Batman não tem jurisdição.
+And as for the television's so-called plan... ...Batman has no jurisdiction.          --- Quanto ao "plano" aqui do televisor, o Batman não tem jurisdição.
 He'll find him and make him squeal.                                                   --- Há-de encontrá-lo e forçá-lo a bufar-nos!
-I know the squealers when I see them... and....                                       --- Eu distingo um bufo à distância e...
+I know the squealers when I see them... ...and....                                    --- Eu distingo um bufo à distância e...
 What do you propose?                                                                  --- O que propões?
 It's simple.                                                                          --- É fácil.
 We, uh, kill the Batman.                                                              --- Matamos o Batman.
@@ -372,18 +380,16 @@ Uh, half.                                                                       
 You're crazy.                                                                         --- - És louco!
 -No, I'm not.                                                                         --- - Não sou nada.
 No, I'm not.                                                                          --- Não, não sou.
-If we don't deal with this now... soon... little Gambol here won't be able to get a nickel for his grandma. --- Se não lidarmos com isto agora, em breve... aqui o pequeno Gambol não conseguirá arrancar um cêntimo que seja para a Avó.
+If we don't deal with this now... ...soon... ...little Gambol here won't be able to get a nickel for his grandma. --- Se não lidarmos com isto agora, em breve... aqui o pequeno Gambol não conseguirá arrancar um cêntimo que seja para a Avó.
 Enough from the clown!                                                                --- Estou farto deste palhaço!
-Ah, ta-ta-ta.                                                                         --- 
-Let's not blow...                                                                     --- Não, não sou.
-Shit!                                                                                 --- 
--...this out of proportion.                                                           --- Julgas que podes roubar-nos impunemente?
+Ah, ta-ta-ta. Let's not blow...                                                       --- Evitemos situações... ...
+Shit! -...this out of proportion.                                                     --- 
 You think you can steal from us and just walk away?                                   --- Julgas que podes roubar-nos impunemente?
 -Yeah. I'm putting the word out.                                                      --- Vou oferecer uma recompensa:
 Five hundred grand for this clown dead.                                               --- 500 mil pela cabeça deste palhaço.
 A million alive, so I can teach him some manners first.                               --- Um milhão, se mo trouxerem vivo, para eu lhe ensinar a ter maneiras.
 All right.                                                                            --- Deixo-vos o meu cartão.
-So, listen, why don't you give me a call... when you wanna start taking things a little more seriously? --- Dêem-me uma apitadela quando quiserem levar as coisas um pouco mais a sério.
+So, listen, why don't you give me a call... ...when you wanna start taking things a little more seriously? --- Dêem-me uma apitadela quando quiserem levar as coisas um pouco mais a sério.
 Here's my card.                                                                       --- Deixo-vos o meu cartão.
 Mm-mm.                                                                                --- Deixo-vos o meu cartão.
 You're a hard man to reach.                                                           --- É difícil apanhá-lo.
@@ -397,7 +403,9 @@ You're sitting down there with scum like Wuertz and Ramirez and you're talking--
 Oh, yeah.                                                                             --- Sim, Gordon.
 I almost had your rookie cold on a racketeering beat.                                 --- Quase apanhei a sua novata em delito de extorsão.
 Don't try and cloud the fact that clearly Maroni's got people in your office, Dent.   --- Não tente ocultar o facto de que o Maroni infiltrou gente no seu gabinete!
-We need Lau back... but the Chinese won't extradite a national under any circumstances.If I get him to you, can you get him to talk?I'll get him to sing. --- 
+We need Lau back... ...but the Chinese won't extradite a national under any circumstances. --- Precisamos de ter cá o Lau, mas os chineses não extraditam cidadãos deles em circunstâncias algumas.
+If I get him to you, can you get him to talk?                                         --- Se eu lho trouxer, consegue obrigá-lo a falar?
+I'll get him to sing.                                                                 --- Consigo obrigá-lo a cantar.
 We're going after the Mob's life savings.                                             --- Vamos atacar as poupanças da Máfia.
 Things will get ugly.                                                                 --- A coisa vai ficar preta.
 I knew the risk when I took this job, lieutenant.                                     --- Eu conhecia os riscos quando aceitei este cargo.
@@ -408,12 +416,12 @@ Well, I'm sure that you've always wanted to go to Hong Kong.                    
 What's wrong with a phone call?                                                       --- Por que não telefonar?
 I think Mr. Lau deserves a more personal touch.                                       --- Acho que o Sr. Lau merece um toque mais pessoal...
 Now, for high-altitude jumps, you're going to need oxygen and stabilizers.            --- Para saltos a alta altitude, precisa de oxigénio e estabilizadores.
-Well, I must say, compared to your usual requests... jumping out of an airplane is pretty straightforward. --- Devo dizer que à luz dos seus pedidos habituais, saltar de um avião é bastante aceitável.
+Well, I must say, compared to your usual requests... ...jumping out of an airplane is pretty straightforward. --- Devo dizer que à luz dos seus pedidos habituais, saltar de um avião é bastante aceitável.
 What about getting back into the plane?                                               --- E para regressar ao avião?
 -I'd recommend a good travel agent.                                                   --- - Recomendo um bom agente de viagens.
 -Without it landing.                                                                  --- - Sem que ele aterre.
 Now, that's more like it, Mr. Wayne.                                                  --- Assim já gosto mais!
-The CIA had a program back in the '60s... for getting their people out of hot spots called Sky Hook. --- A CIA tinha um programa nos anos 1960 para extrair agentes de locais perigosos a que chamou o Gancho Celeste.
+The CIA had a program back in the '60s... ...for getting their people out of hot spots called Sky Hook. --- A CIA tinha um programa nos anos 1960 para extrair agentes de locais perigosos a que chamou o Gancho Celeste.
 -We could look into that.                                                             --- Posso dar-lhe uma espreitadela.
 -Yeah.                                                                                --- 
 Okay.                                                                                 --- 
@@ -445,21 +453,21 @@ So, dead, that's 500.                                                           
 How about alive?                                                                      --- E vivo?
 Hm?                                                                                   --- 
 You wanna know how I got these scars?                                                 --- Queres saber onde arranjei estas cicatrizes?
-My father was... a drinker... and a fiend.                                            --- O meu pai era... um bêbedo... e um malvado.
+My father was... ...a drinker... ...and a fiend.                                      --- O meu pai era... ... um bêbedo... e um malvado.
 And one night, he goes off crazier than usual.                                        --- Certa noite, entusiasmou-se mais do que o costume...
 Mommy gets the kitchen knife to defend herself.                                       --- A Mamã puxou de uma faca de cozinha para se defender.
-He doesn't like that... not one bit.                                                  --- Ele não gostou, caiu-lhe mesmo... muito mal.
-So, me watching... he takes the knife to her, laughing while he does it.              --- Assim... À minha frente... foi-lhe espetando a faca, enquanto ria à gargalhada.
+He doesn't like that... ...not one bit.                                               --- Ele não gostou, caiu-lhe mesmo... muito mal.
+So, me watching... ...he takes the knife to her, laughing while he does it.           --- Assim... À minha frente... foi-lhe espetando a faca, enquanto ria à gargalhada.
 He turns to me and he says: "Why so serious?"                                         --- Virou-se para mim e disse: "Porquê essa carinha tão séria, meu filho?"
 He comes at me with the knife.                                                        --- E atacou-me com a faca.
 "Why so serious?"                                                                     --- "Porquê essa carinha tão séria?"
 He sticks the blade in my mouth. "Let's put a smile on that face."                    --- Espetou-me a lâmina na boca... "Vamos lá pôr-te um sorrisinho..."
 And....                                                                               --- E...
 Why so serious?                                                                       --- Porquê essa carinha tão séria?
-Now... our operation is small... but there is a lot of potential... for aggressive expansion. --- Ora bem...  O nosso bando ainda é pequeno, mas... tem imenso potencial... para uma expansão agressiva.
+Now... ...our operation is small... ...but there is a lot of potential... ...for aggressive expansion. --- O nosso bando ainda é pequeno, mas... tem imenso potencial... ...
 So which of you fine gentlemen would like to join our team?                           --- Qual dos dois cavalheiros quer juntar-se a nós?
 Oh.                                                                                   --- 
-There's only one spot open right now, so we're gonna have... tryouts.                 --- 
+There's only one spot open right now, so we're gonna have... ...tryouts.              --- 
 Make it fast.                                                                         --- Despachem-se.
 Welcome to Hong Kong, Mr. Fox.                                                        --- Bem-vindo a Hong Kong, Sr. Fox.
 Mr. Lau regrets he is unable to greet you in person today.                            --- Infelizmente, o Sr. Lau não pôde vir recebê-lo.
@@ -469,12 +477,15 @@ Of course.                                                                      
 I must apologize for leaving Gotham in the middle of our negotiations.                --- Peço desculpa por ter abandonado Gotham a meio das negociações.
 This misunderstanding with the Gotham police force...                                 --- Este mal-entendido com a Polícia de Gotham...
 -...I couldn't let it threaten my company.                                            --- Não podia deixar que tal coisa ameaçasse a minha companhia.
--Of course. A businessman of your stature will understand and... with you here now, we can continue. --- 
+-Of course.                                                                           --- 
+A businessman of your stature will understand and... ...with you here now, we can continue. --- Um empresário do seu calibre compreenderá, mas... ... agora que aqui está, podemos continuar.
 Well, I do appreciate you bringing me out here in such style, Mr. Lau, but I re--     --- Agradeço ter-se dado a tanto trabalho para me trazer até aqui, Sr. Lau, mas...
 We do not allow cell phones in here.                                                  --- Não são permitidos telemóveis aqui.
 I'm sorry. Forgot I had it.                                                           --- Desculpe, esqueci-me que o tinha.
 No, I really came to tell you that our business deal has to be put on hold.           --- Vim cá para lhe dizer que teremos de suspender as nossas negociações.
-You see, we can't afford to be seen to do business with... whatever it is you're accused of being.I'm sure a businessman of your stature will understand.I think, Mr. Fox, a simple phone call might have sufficed. --- 
+You see, we can't afford to be seen to do business with... ...whatever it is you're accused of being. --- Não podemos dar-nos ao luxo de negociar publicamente... ... ao que quer de que o acusam.
+I'm sure a businessman of your stature will understand.                               --- Estou certo que um empresário do seu calibre compreenderá.
+I think, Mr. Fox, a simple phone call might have sufficed.                            --- Penso, Sr. Fox, que teria bastado um simples telefonema.
 Mr. Wayne didn't want you to think he was deliberately wasting your time.             --- O Sr. Wayne não quis fazê-lo perder tempo deliberadamente.
 Just accidentally wasting it.                                                         --- Só acidentalmente...
 That's very good, Mr. Lau.                                                            --- Essa é muito boa, Sr. Lau!
@@ -486,7 +497,7 @@ Restricted.                                                                     
 Lau is holed up in there good and tight.                                              --- Lau está lá bem barricado.
 -What's this?                                                                         --- O que é isto?
 -I had R & D work it up.                                                              --- Encomendei-o à Pesquisa e Desenvolvimento.
-Sends out a high-frequency pulse... records the response time for mapping an environment. --- Emitindo altas-frequências, mede o tempo de resposta para cartografar um espaço.
+Sends out a high-frequency pulse... ...records the response time for mapping an environment. --- Emitindo altas-frequências, mede o tempo de resposta para cartografar um espaço.
 Sonar.                                                                                --- Como um sonar...
 Just like a....                                                                       --- Tal como um...
 Submarine, Mr. Wayne.                                                                 --- Submarino, Sr. Wayne.
@@ -504,7 +515,7 @@ As will everyone.                                                               
 No? Okay.                                                                             --- Não?
 Enjoy your time in County, Mr. Lau.                                                   --- Aprecie a estadia na prisão municipal.
 Wait!                                                                                 --- Espere!
-I won't give you the money... but I will give you my clients, all of them.            --- Não lhe entrego o dinheiro, mas digo-lhe quem são todos os meus clientes.
+I won't give you the money... ...but I will give you my clients, all of them.         --- Não lhe entrego o dinheiro, mas digo-lhe quem são todos os meus clientes.
 You were a glorified accountant.                                                      --- Você não passava dum contabilista!
 What could you possibly have on all of them that we could charge?                     --- O que pode saber sobre eles que nos permita acusá-los?
 I'm good with calculation. I handled all their investments.                           --- Sou bom em cálculo, tratei-lhes dos investimentos.
@@ -522,7 +533,7 @@ What kind of details do you have about this communal fund?                      
 -Immunity, protection...  -...a chartered plane back to Hong Kong.                    --- - Imunidade, protecção e um avião fretado para me levar a Hong Kong.
 -After you testify in open court.                                                     --- Quando tiver deposto num tribunal.
 I'm just curious.                                                                     --- E já agora...
-With all your clients locked up... what's gonna happen with all that money?           --- Com todos os clientes presos... o que vai acontecer a todo aquele dinheiro?
+With all your clients locked up... ...what's gonna happen with all that money?        --- Com todos os clientes presos... ... o que vai acontecer a todo aquele dinheiro?
 Like I said, I'm good with calculation.                                               --- Como já disse, tenho jeito para cálculo.
 He can't go to County.                                                                --- Ele não pode ir para a municipal.
 I'll keep him here in the holding cells.                                              --- Fica aqui, numa das nossas celas.
@@ -553,12 +564,12 @@ Five hundred and forty-nine criminals at once.                                  
 How did you convince Surrillo to hear this farce?                                     --- Como convenceu a Surrillo a prestar-se a tal farsa?
 She shares my enthusiasm for justice.                                                 --- Ela partilha do meu entusiasmo pela Justiça.
 After all, she is a judge.                                                            --- Afinal, é juíza...
-Even if you blow enough smoke to get convictions out of Surrillo... you're gonna set a new record at appeals.It won't matter. --- Mesmo que consigamos arrancar condenações à Surrillo, bateremos o recorde nos Recursos em rapidez de anulações. Não interessa.
+Even if you blow enough smoke to get convictions out of Surrillo... ...you're gonna set a new record at appeals. --- Mesmo que consigamos arrancar condenações à Surrillo, bateremos o recorde nos Recursos em rapidez de anulações.
+It won't matter.                                                                      --- Não interessa.
 The head guys make bail, sure.                                                        --- Os principais safam-se.
 But the midlevel guys, they can't.                                                    --- Mas os do meio não.
-They can't afford to be off the streets.                                              --- 
-They'll cut deals that include some jail time.                                        --- 
-Think of all you could do with 18 months of clean streets.                            --- 
+They can't afford to be off the streets. They'll cut deals that include some jail time. --- Não podem dar-se ao luxo de esperar pelo recurso presos e farão acordos para obter uma redução de pena.
+Think of all you could do with 18 months of clean streets.                            --- Imagine o que fará com 18 meses de ruas limpas.
 Mr. Mayor, you can't-- -No, get out.                                                  --- - O senhor não pode...
 Both of you.                                                                          --- Os dois!
 Sit down.                                                                             --- Sente-se.
@@ -570,11 +581,11 @@ Politicians, journalists, cops.                                                 
 Anyone whose wallet's about to get lighter.                                           --- Todos aqueles a quem as carteiras ficarem mais leves.
 Are you up to it?                                                                     --- Está preparado?
 You'd better be.                                                                      --- Espero bem que sim.
-Because they get anything on you... and those criminals are back on the streets, followed swiftly by you and me. --- Porque mal possam pegar-lhe, os criminosos voltam às ruas e nós dois vamos a reboque.
+Because they get anything on you... ...and those criminals are back on the streets, followed swiftly by you and me. --- Porque mal possam pegar-lhe, os criminosos voltam às ruas e nós dois vamos a reboque.
 Jesus!                                                                                --- 
 I think your fundraiser will be a great success, sir.                                 --- A angariação de fundos vai ser um sucesso.
 And why do you think I wanna hold a party for Harvey Dent?                            --- E por que acha que organizei uma festa para o Harvey Dent?
-I assumed it was your usual reason for socializing beyond myself... and the scum of Gotham's underbelly:  To try to impress Miss Dawes. --- Presumi que fosse a razão habitual para querer socializar sem ser comigo e a escumalha do submundo de Gotham: impressionar a Menina Dawes.
+I assumed it was your usual reason for socializing beyond myself... ...and the scum of Gotham's underbelly:  To try to impress Miss Dawes. --- Presumi que fosse a razão habitual para querer socializar sem ser comigo e a escumalha do submundo de Gotham: impressionar a Menina Dawes.
 Very droll, but very wrong.                                                           --- Muito divertido, mas engana-se.
 Actually, it's Dent.                                                                  --- É mesmo pelo Dent.
 Police released video footage found concealed on the body.                            --- A polícia divulgou um vídeo encontrado dentro do corpo.
@@ -597,11 +608,11 @@ So you think Batman's made Gotham a better place?                               
 Hm? Look at me.                                                                       --- 
 Look at me!                                                                           --- Olha para mim!
 You see, this is how crazy Batman's made Gotham.                                      --- Eis a medida da loucura que Batman instalou em Gotham: se querem ordem em Gotham,
-You want order in Gotham... Batman must take off his mask and turn himself in.        --- Achas então que o Batman fez de Gotham um sítio melhor?
+You want order in Gotham... ...Batman must take off his mask and turn himself in.     --- Achas então que o Batman fez de Gotham um sítio melhor?
 Oh, and every day he doesn't, people will die.                                        --- E por cada dia que passar até lá, morrerá alguém.
 Starting tonight.                                                                     --- A começar por hoje.
 I'm a man of my word.                                                                 --- Sou um homem de palavra.
-Harvey Dent, scourge of the underworld... scared stiff by the trust-fund brigade.     --- Harvey Dent, o terror do submundo, aterrorizado pela Brigada do trust fund...
+Harvey Dent, scourge of the underworld... ...scared stiff by the trust-fund brigade.  --- Harvey Dent, o terror do submundo, aterrorizado pela Brigada do trust fund...
 -I'll be back.                                                                        --- Volto já.
 -Rachel. A little liquid courage, Mr. Dent?                                           --- 
 -Thank you.                                                                           --- - Obrigado.
@@ -622,10 +633,10 @@ She is my oldest friend.                                                        
 Come here.                                                                            --- Anda cá...
 When Rachel first told me she was dating Harvey Dent, I had one thing to say: "The guy from those God-awful campaign commercials?" "I believe in Harvey Dent." Yeah, nice slogan, Harvey. --- Quando a Rachel me disse que namorava o Harvey Dent, só me ocorreu uma coisa: "Aquele dos pavorosos anúncios na campanha eleitoral?" "Acredito em Harvey Dent." Belo slogan, Harvey.
 But it caught Rachel's attention.                                                     --- Mas cativou a Rachel.
-And then I started to pay attention to Harvey... and all that he's been doing as our new DA. --- E eu dei por mim a prestar mais atenção ao Harvey. E ao seu trabalho como procurador.
+And then I started to pay attention to Harvey... ...and all that he's been doing as our new DA. --- E eu dei por mim a prestar mais atenção ao Harvey. E ao seu trabalho como procurador.
 And you know what?                                                                    --- E sabem uma coisa?
 I believe in Harvey Dent.                                                             --- Eu acredito no Harvey Dent.
-I believe that on his watch, Gotham can feel... a little safer, a little more optimistic. --- Acredito que com ele ao leme, Gotham possa sentir-se um pouco mais segura, um pouco mais optimista.
+I believe that on his watch, Gotham can feel... ...a little safer, a little more optimistic. --- Acredito que com ele ao leme, Gotham possa sentir-se um pouco mais segura, um pouco mais optimista.
 Look at this face.                                                                    --- Olhem-me aquela cara!
 This is the face of Gotham's bright future.                                           --- É o rosto do futuro radioso de Gotham!
 To Harvey Dent.                                                                       --- A Harvey Dent!
@@ -634,7 +645,7 @@ Harvey.                                                                         
 Harvey may not know you well enough to understand you're making fun of him...         --- O Harvey não te conhece e não percebe que estavas a troçar dele,
 -...but I do.                                                                         --- - mas eu conheço.
 -No, I meant every word.                                                              --- - Tudo que disse foi sincero.
-You know that day that you once told me about... when Gotham would no longer need Batman? --- Lembras-te de me teres dito que um dia...  Gotham já não precisaria do Batman?
+You know that day that you once told me about... ...when Gotham would no longer need Batman? --- Lembras-te de me teres dito que um dia... ... Gotham já não precisaria do Batman?
 -It's coming.                                                                         --- 
 -Bruce.                                                                               --- 
 -You can't ask me to wait for that.                                                   --- 
@@ -670,13 +681,14 @@ It'll tell you where you're headed.                                             
 You can't leave me alone with these people.                                           --- Não me podes deixar sozinha com toda esta gente.
 The whole Mob's after you and you're worried about these guys?                        --- Tens a Máfia em peso atrás de ti e receias esta gente?
 Compared to this, the Mob doesn't scare me.                                           --- Comparada a eles, a Máfia não me assusta.
-Gordon, you're unlikely to discover this for yourself, so... take my word, the police commissioner earns a lot of threats.I found the appropriate response to these situations a long time ago. --- 
+Gordon, you're unlikely to discover this for yourself, so... ...take my word, the police commissioner earns a lot of threats. --- Gordon, é pouco provável que você descubra isto por experiência própria, por isso vá por mim. O Comissário da Polícia recebe muitas ameaças.
+I found the appropriate response to these situations a long time ago.                 --- Encontrei a resposta adequada há muito tempo.
 Them gunning for you makes you see things clearly.                                    --- Ser perseguido perspectiva as coisas.
 Yeah, I bet.                                                                          --- Aposto...
-Yeah. It makes you think about things you couldn't stand losing... about who you wanna spend your life with. --- Faz-nos perceber o que não aguentaríamos perder, com quem queremos passar o resto dos nossos dias...
+Yeah. It makes you think about things you couldn't stand losing... ...about who you wanna spend your life with. --- Faz-nos perceber o que não aguentaríamos perder, com quem queremos passar o resto dos nossos dias...
 -That's a pretty big commitment.                                                      --- - É um compromisso de peso.
 -Not if the Mob has their way.                                                        --- - Se a Máfia for bem-sucedida, não.
-You get to explain to my wife... why I'm late for dinner.                             --- Terá de explicar à minha mulher porque é que vou chegar tarde para o jantar, Tenente.
+You get to explain to my wife... ...why I'm late for dinner.                          --- Terá de explicar à minha mulher porque é que vou chegar tarde para o jantar, Tenente.
 Sir, the joker card had traces of your DNA on it.                                     --- O cartão do Joker tinha vestígios do seu ADN.
 -Don't do that. -All right.                                                           --- Não digas isso nem a brincar...
 -Let's be serious, then.                                                              --- Sejamos então sérios.
@@ -684,7 +696,7 @@ Sir, the joker card had traces of your DNA on it.                               
 What's your answer?                                                                   --- Qual é a tua resposta?
 I don't have an answer.                                                               --- Não tenho uma resposta.
 How'd they get my DNA?                                                                --- Como o arranjaram eles?
-Somebody with access to your office or house... must have lifted a tissue or a glass-- Wait! --- Alguém que entra aqui ou em sua casa pode ter levado um lenço de papel ou um copo com...
+Somebody with access to your office or house... ...must have lifted a tissue or a glass-- Wait! --- Alguém que entra aqui ou em sua casa pode ter levado um lenço de papel ou um copo com...
 Wait! -Well, I guess no answer is a no.                                               --- Vejo que a resposta é não.
 -Harvey. -It's someone else, isn't it?                                                --- Amas outra pessoa, não é?
 -Harvey. Just tell me it's not Wayne.                                                 --- 
@@ -713,7 +725,8 @@ Hey, wait--                                                                     
 Oh, you gotta be kidding me.                                                          --- Não acredito!
 You know, I'll settle for his loved ones.                                             --- Então vou aos seus entes queridos.
 We're not intimidated by thugs.                                                       --- Os bandidos não nos assustam.
-You know... you remind me of my father.I hated my father.                             --- O senhor lembra-me o meu pai.
+You know... ...you remind me of my father.                                            --- Sabe...  O senhor lembra-me o meu pai.
+I hated my father.                                                                    --- Odiava-o.
 Okay, stop.                                                                           --- Pare!
 Well, hello, beautiful.                                                               --- Olá, linda!
 You must be Harvey's squeeze.                                                         --- Deves ser a boneca do Harvey.
@@ -725,12 +738,12 @@ Come here.                                                                      
 Hey.                                                                                  --- 
 Look at me.                                                                           --- Olha para mim.
 So I had a wife.                                                                      --- Eu tinha uma mulher.
-She was beautiful, like you... who tells me I worry too much... who tells me I ought to smile more... who gambles and gets in deep with the sharks. --- Estava sempre a dizer-me que eu me preocupo demais, que devia sorrir mais.
+She was beautiful, like you... ...who tells me I worry too much... ...who tells me I ought to smile more... ...who gambles and gets in deep with the sharks. --- Estava sempre a dizer-me que eu me preocupo demais, que devia sorrir mais.
 Hey. One day they carve her face.                                                     --- 
 And we have no money for surgeries. She can't take it.                                --- Não tínhamos dinheiro para operações plásticas e ela não se conformava.
 I just wanna see her smile again.                                                     --- Eu só queria vê-la sorrir novamente.
 Hm? I just want her to know that I don't care about the scars.                        --- 
-So... I stick a razor in my mouth and do this... to myself.                           --- Então... meti uma lâmina de barbear na boca... e fiz-me isso.
+So... ...I stick a razor in my mouth and do this... ...to myself.                     --- Então... meti uma lâmina de barbear na boca... e fiz-me isso.
 And you know what?                                                                    --- E sabes uma coisa?
 She can't stand the sight of me.                                                      --- Ela não aguenta olhar para mim!
 She leaves.                                                                           --- Deixa-me.
@@ -753,7 +766,7 @@ Thank you.                                                                      
 Jim, it's over.                                                                       --- Jim, acabou-se.
 As long as they don't get to Lau, we've cut off their funds.                          --- Sem o Lau, não têm acesso aos fundos.
 The prosecution's over.                                                               --- 
-Nobody's standing up in front of a judge... while judges and police commissioners are getting blown away. --- Ninguém se prestará a depor com juízes e comissários da polícia a ir pelos ares.
+Nobody's standing up in front of a judge... ...while judges and police commissioners are getting blown away. --- Ninguém se prestará a depor com juízes e comissários da polícia a ir pelos ares.
 -What about Dent?                                                                     --- - E o Dent?
 -He's got any sense, Dent's halfway to Mex--                                          --- - Se tiver juízo, vai a caminho do Mex...
 So where do you keep your trash?                                                      --- Onde guardam o vosso lixo?
@@ -771,12 +784,12 @@ You squeezed them, you hammered them to the point of desperation.               
 And in their desperation, they turned to a man they didn't fully understand.          --- E no desespero deles, recorreram a um homem que não compreendem.
 Criminals aren't complicated, Alfred.                                                 --- Os criminosos não são complicados, Alfred.
 We just need to figure out what he's after.                                           --- Basta perceber o que pretendem.
-With respect, Master Wayne... perhaps this is a man you don't fully understand either. --- Não leve a mal, mas talvez o menino também não compreenda este homem.
-A long time ago, I was in Burma... and my friends and I were working for the local government. --- Há muito tempo, estava eu na Birmânia e trabalhava com uns amigos para o governo deles.
-They were trying to buy the loyalty of tribal leaders... by bribing them with precious stones... but their caravans were being raided in a forest north of Rangoon by a bandit. --- O governo tentava comprar a lealdade dos líderes tribais, subornando-os com pedras preciosas, mas as suas caravanas eram atacadas numa floresta a Norte de Rangoon por um bandido.
+With respect, Master Wayne... ...perhaps this is a man you don't fully understand either. --- Não leve a mal, mas talvez o menino também não compreenda este homem.
+A long time ago, I was in Burma... ...and my friends and I were working for the local government. --- Há muito tempo, estava eu na Birmânia e trabalhava com uns amigos para o governo deles.
+They were trying to buy the loyalty of tribal leaders... ...by bribing them with precious stones... ...but their caravans were being raided in a forest north of Rangoon by a bandit. --- O governo tentava comprar a lealdade dos líderes tribais, subornando-os com pedras preciosas, mas as suas caravanas eram atacadas numa floresta a Norte de Rangoon por um bandido.
 So we went looking for the stones.                                                    --- Fomos à procura das pedras.
 But in six months, we never met anyone who traded with him.                           --- Mas ao fim de 6 meses, ainda não encontráramos ninguém que negociasse com ele.
-One day, I saw a child playing with a ruby... the size of a tangerine.                --- Um dia, vi uma criança a brincar com um rubi do tamanho de uma tangerina.
+One day, I saw a child playing with a ruby... ...the size of a tangerine.             --- Um dia, vi uma criança a brincar com um rubi do tamanho de uma tangerina.
 The bandit had been throwing them away.                                               --- O bandido tinha andado a deitá-los fora.
 -So why steal them?                                                                   --- - Então por que os roubou?
 -Because he thought it was good sport.                                                --- 
@@ -808,12 +821,12 @@ No, not with their numbers, with yours.                                         
 Applied Sciences.                                                                     --- Ciências Aplicadas.
 Whole division of Wayne Enterprises just disappeared overnight.                       --- Uma divisão do Grupo Wayne, evaporada dum dia para o outro.
 I went down to the archives and I started pulling some old files.                     --- Fui aos arquivos e requisitei alguns processos antigos.
-Don't tell me you didn't recognize your baby pancaking cop cars on the evening news.  --- Não me diga que não reconhece o seu filhote... a empilhar carros da polícia no noticiário da noite?
-Now you got the entire R & D Department burning through cash... claiming it's related to cell phones for the Army? --- de Pesquisa e Desenvolvimento anda a estourar uma fortuna, alegadamente em telemóveis para o Exército?
+Don't tell me you didn't recognize your baby pancaking cop cars on the evening news.  --- Não me diga que não reconhece o seu filhote... ... a empilhar carros da polícia no noticiário da noite?
+Now you got the entire R & D Department burning through cash... ...claiming it's related to cell phones for the Army? --- de Pesquisa e Desenvolvimento anda a estourar uma fortuna, alegadamente em telemóveis para o Exército?
 What are you building for him now, a rocket ship?                                     --- O que está a construir-lhe? Um foguetão?
-I want... $10 million a year for the rest of my life.                                 --- Quero... dez milhões de dólares por ano até ao fim dos meus dias.
+I want... ...$10 million a year for the rest of my life.                              --- Quero... ... dez milhões de dólares por ano até ao fim dos meus dias.
 Let me get this straight.                                                             --- Deixe ver se percebi bem...
-You think that your client... one of the wealthiest, most powerful men in the world, is secretly a vigilante... who spends his nights beating criminals to a pulp with his bare hands... and your plan is to blackmail this person? --- Acha que o seu cliente... um dos homens mais ricos e poderosos do mundo é secretamente um vingador que passa as noites a espancar criminosos e o seu plano é fazer chantagem com ele?
+You think that your client... ...one of the wealthiest, most powerful men in the world, is secretly a vigilante... ...who spends his nights beating criminals to a pulp with his bare hands... ...and your plan is to blackmail this person? --- Acha que o seu cliente... um dos homens mais ricos e poderosos do mundo é secretamente um vingador que passa as noites a espancar criminosos e o seu plano é fazer chantagem com ele?
 Good luck.                                                                            --- Boa sorte.
 When--                                                                                --- Pode ficar com isso.
 Keep that.                                                                            --- Pode ficar com isso.
@@ -826,7 +839,8 @@ Yeah. Government telecommunications project.                                    
 Wasn't aware we had any government contracts.                                         --- Não sei de contratos com o governo.
 You know, Lucius, I'm playing this one pretty close to the chest.                     --- Lucius, desta vez, só eu sei.
 Fair enough.                                                                          --- É justo.
-With no word from the Batman, even as they mourn Commissioner Loeb... these cops have to wonder if the Joker will make good on his threat... in the obituary column of The Gotham Times to kill the mayor.I've checked all the databases. --- Sem uma palavra de Batman, enquanto choram o Comissário Loeb, estes polícias devem perguntar-se se o Joker cumprirá a ameaça feita no obituário do Gotham Times de matar o Pres.da Câmara. Já vi todas as bases de dados.
+With no word from the Batman, even as they mourn Commissioner Loeb... ...these cops have to wonder if the Joker will make good on his threat... ...in the obituary column of The Gotham Times to kill the mayor. --- Sem uma palavra de Batman, enquanto choram o Comissário Loeb, estes polícias devem perguntar-se se o Joker cumprirá a ameaça feita no obituário do Gotham Times de matar o Pres.
+I've checked all the databases.                                                       --- Já vi todas as bases de dados.
 There are four possibles.                                                             --- Há quatro possibilidades.
 Cross-reference the addresses.                                                        --- Verifique as moradas.
 Look for Parkside, overlooking the parade.                                            --- Procure Parkside, com vista para o desfile.
@@ -835,15 +849,15 @@ Melvin White, 1502 Randolph Apartments.                                         
 Aggravated assault, moved to Arkham twice.                                            --- Agressão agravada, transferido duas vezes para o Hospital Psiquiátrico de Arkham.
 What do you got on the roof?                                                          --- O que tens no telhado?
 We're tight, but frankly, there's a lot of windows up here.                           --- Temos a área coberta, mas há aqui muitas janelas.
-Commissioner Loeb dedicated his life to law enforcement... and to the protection of his community.I remember when I first took office... and I asked if he wanted to stay on as commissioner. --- O Comissário Loeb dedicou a vida à prática e aplicação das leis e à protecção da sua comunidade.
-And he said he would, provided I kept my politics out of his office.                  --- Quando assumi o cargo, perguntei-lhe se queria continuar comissário e ele disse que sim, desde que eu não lhe metesse a política no gabinete.
+Commissioner Loeb dedicated his life to law enforcement... ...and to the protection of his community. --- O Comissário Loeb dedicou a vida à prática e aplicação das leis e à protecção da sua comunidade.
+I remember when I first took office... ...and I asked if he wanted to stay on as commissioner. And he said he would, provided I kept my politics out of his office. --- Quando assumi o cargo, perguntei-lhe se queria continuar comissário e ele disse que sim, desde que eu não lhe metesse a política no gabinete.
 Clearly he was not a man who minced words, nor should he have been.                   --- Claramente, não era um homem de palavrinhas mansas, nem o devia ter sido.
 A number of policies that he enacted as commissioner were unpopular. Policies that flooded my office with angry calls and letters.... --- Como comissário, implementou medidas pouco populares; vi-me inundado de cartas e telefonemas indignados...
 -Who's that?                                                                          --- - O que aconteceu?
 -What happened?                                                                       --- - O que aconteceu?
 They took our guns.                                                                   --- Tiraram-nos as armas.
 And our uniforms.                                                                     --- E os uniformes.
-And as we recognize the sacrifice of this man... we must remember that vigilance is the price of safety. --- E ao reconhecermos o sacrifício deste homem, temos de nos lembrar que a vigilância e o preço da segurança.
+And as we recognize the sacrifice of this man... ...we must remember that vigilance is the price of safety. --- E ao reconhecermos o sacrifício deste homem, temos de nos lembrar que a vigilância e o preço da segurança.
 Stand by.                                                                             --- 
 Honor guard.                                                                          --- 
 Attention.                                                                            --- 
@@ -904,7 +918,7 @@ Bruce's penthouse is now the safest place in the city.                          
 Then you go straight there. Don't tell anybody and I'll find you there.               --- 
 I love you.                                                                           --- Amo-te.
 I want the Joker.                                                                     --- Quero o Joker.
-From one professional to another... you're trying to scare somebody, pick a better spot. --- Dum profissional para outro, se quer assustar-me, escolha um sítio melhor.
+From one professional to another... ...you're trying to scare somebody, pick a better spot. --- Dum profissional para outro, se quer assustar-me, escolha um sítio melhor.
 From this height, the fall wouldn't kill me.                                          --- Desta altura, a queda não me mata.
 -I'm counting on it.                                                                  --- Conto com isso.
 -Huh!                                                                                 --- 
@@ -934,8 +948,8 @@ How's that feel?                                                                
 -Mm-mm.                                                                               --- 
 No. No, I wouldn't.                                                                   --- Não, não sou.
 That's why I'm not gonna leave it up to me.                                           --- Daí que a decisão não seja minha.
-Heads, you get to keep your head.                                                     --- Cara... manténs a tua cara.
-Tails... not so lucky.                                                                --- Coroa... não tens essa sorte.
+Heads, you get to keep your head.                                                     --- Cara... ... manténs a tua cara.
+Tails... ...not so lucky.                                                             --- não tens essa sorte.
 So you wanna tell me about the Joker?                                                 --- Queres falar-me do Joker?
 -Let's go again.                                                                      --- - Vamos lá outra vez...
 -I don't know anything!                                                               --- - Eu não sei nada!
@@ -950,8 +964,9 @@ The kind of mind the Joker attracts.                                            
 What do you expect to learn from him?                                                 --- O que espera que ele lhe diga?
 The Joker killed Gordon. He's gonna kill Rachel.                                      --- O Joker matou o Gordon, agora vai matar a Rachel.
 You're the symbol of hope I could never be.                                           --- Você é o símbolo da esperança que eu nunca pude ser.
-Your stand against organized crime... is the first legitimate ray of light in Gotham in decades.If anyone saw this, everything would be undone. --- é o primeiro raio de sol legítimo que Gotham vê há décadas.
-The criminals you arrested would be released... and Jim Gordon will have died for nothing. --- Todos os criminosos que prendeu seriam libertados e Jim Gordon teria morrido em vão.
+Your stand against organized crime... ...is the first legitimate ray of light in Gotham in decades. --- A sua posição contra o crime organizado  é o primeiro raio de sol legítimo que Gotham vê há décadas.
+If anyone saw this, everything would be undone.                                       --- Se alguém assistisse a isto, estaria tudo estragado.
+The criminals you arrested would be released... ...and Jim Gordon will have died for nothing. --- Todos os criminosos que prendeu seriam libertados e Jim Gordon teria morrido em vão.
 You're gonna hold a press conference tomorrow.                                        --- Convoque a imprensa para amanhã.
 -Why? -No one else will die because of me.                                            --- - Porquê?
 Gotham's in your hands now.                                                           --- Gotham está nas suas mãos.
@@ -964,7 +979,7 @@ I have no choice.                                                               
 You honestly think that's gonna keep the Joker from killing people?                   --- Acreditas mesmo que isso impedirá o Joker de matar gente?
 Maybe not. But I have enough blood on my hands.                                       --- Talvez não, mas eu já tenho sangue que chegue nas mãos.
 And I've seen now what I would have to become to stop men like him.                   --- E já vi no que teria de me tornar para deter homens como ele.
-You once told me that if the day came when I was finished... that we'd be together.   --- Uma vez disseste-me que se eu um dia acabasse com isto, ficaríamos juntos.
+You once told me that if the day came when I was finished... ...that we'd be together. --- Uma vez disseste-me que se eu um dia acabasse com isto, ficaríamos juntos.
 Bruce, don't make me your one hope for a normal life.                                 --- Não te agarres a mim como pretexto para ter uma vida normal.
 Did you mean it?                                                                      --- Era a sério?
 Yes.                                                                                  --- Sim.
@@ -985,11 +1000,11 @@ He can't endure this.                                                           
 Today you get to say "I told you so."                                                 --- Hoje pode dizer-me: "Eu bem lhe disse".
 Today, I don't want to.                                                               --- Hoje... não quero fazê-lo.
 But I did bloody tell you.                                                            --- Mas eu bem lhe disse.
-I suppose they're gonna lock me up as well... as your accomplice.                     --- Suponho que também me vão encarcerar, como seu cúmplice.
+I suppose they're gonna lock me up as well... ...as your accomplice.                  --- Suponho que também me vão encarcerar, como seu cúmplice.
 Accomplice?                                                                           --- Cúmplice?!
 I'm gonna tell them the whole thing was your idea.                                    --- Vou dizer-lhes que foi tudo ideia sua!
 Ladies and gentlemen, I've called this press conference for two reasons.              --- Obrigado por terem vindo. Chamei-vos por duas razões.
-Firstly, to assure the citizens of Gotham... that everything that can be done over the Joker killings is being done. --- Primeiro, para assegurar aos cidadãos de Gotham que estamos a fazer os impossíveis relativamente às matanças do Joker.
+Firstly, to assure the citizens of Gotham... ...that everything that can be done over the Joker killings is being done. --- Primeiro, para assegurar aos cidadãos de Gotham que estamos a fazer os impossíveis relativamente às matanças do Joker.
 Secondly, because the Batman has offered to turn himself in.                          --- E segundo, porque o Batman se ofereceu para se entregar.
 But let's consider the situation.                                                     --- Mas antes, consideremos a situação.
 Should we give in to this terrorist's demands?                                        --- Devemos ceder às exigências deste terrorista?
@@ -1002,9 +1017,9 @@ Things are worse than ever!                                                     
 Amen.                                                                                 --- 
 Yes, they are.                                                                        --- Pois não.
 But the night is darkest just before the dawn.                                        --- Mas a escuridão adensa-se antes do amanhecer.
-And I promise you... the dawn is coming.                                              --- E prometo-vos... que o amanhecer está para breve.
+And I promise you... ...the dawn is coming.                                           --- E prometo-vos... ... que o amanhecer está para breve.
 One day, the Batman will have to answer for the laws he's broken.                     --- Um dia, o Batman terá de responder pelas leis que tem infringido.
-But to us... not to this madman.                                                      --- Mas a nós. Não a este louco.
+But to us... ...not to this madman.                                                   --- Mas a nós. Não a este louco.
 -No more dead cops!                                                                   --- Não queremos mais polícias mortos!
 Yeah!                                                                                 --- 
 He should turn himself in!                                                            --- Ele tem de se entregar!
@@ -1021,7 +1036,7 @@ Why is he letting Harvey do this?                                               
 -He went down to the press conference.                                                --- - Ele foi à conferência de imprensa.
 -I know.                                                                              --- O Batman sou eu.
 He just stood by.                                                                     --- - Ele foi à conferência de imprensa.
-Perhaps both Bruce and Mr. Dent... believe that Batman stands for something more important... than the whims of a terrorist, Miss Dawes... even if everyone hates him for it. --- Talvez tanto o Bruce como o Sr. Dent acreditem que o Batman seja mais importante do que os caprichos dum terrorista. Mesmo que todos o odeiem.
+Perhaps both Bruce and Mr. Dent... ...believe that Batman stands for something more important... ...than the whims of a terrorist, Miss Dawes... ...even if everyone hates him for it. --- Talvez tanto o Bruce como o Sr. Dent acreditem que o Batman seja mais importante do que os caprichos dum terrorista. Mesmo que todos o odeiem.
 That's the sacrifice he's making.                                                     --- É esse sacrifício que ele está a fazer.
 He's not being a hero.                                                                --- Ele não está a ser um herói.
 He's being something more.                                                            --- Está a ser mais do que isso.
@@ -1041,7 +1056,7 @@ I didn't have time to talk this through.                                        
 This is the Joker's chance, and when he attacks, the Batman will take him down.       --- É a hipótese do Joker e quando ele atacar, o Batman abate-o.
 Listen. This is too dangerous.                                                        --- Ouve, isso é muito perigoso.
 We get this guy to County, he's their problem.                                        --- Mal esteja na municipal, deixa de ser connosco.
-The streets will be cleared... so let's go.                                           --- Mal esteja na municipal, deixa de ser connosco.
+The streets will be cleared... ...so let's go.                                        --- Mal esteja na municipal, deixa de ser connosco.
 The convoys stop for no reason. I hope you got some moves, pal.                       --- O comboio não pára por nada.
 He's using you as bait.                                                               --- Usa-te como isco.
 He doesn't know if he can get the Joker.                                              --- Nem sabe se apanha o Joker!
@@ -1071,7 +1086,7 @@ We got trouble, guys.                                                           
 Lock and load!                                                                        --- Carregar e disparar!
 The hell was that?                                                                    --- Que raio foi aquilo?
 -These are built for that, right?                                                     --- - Isto é feito para aguentar, não é?
--He'll need something... a lot bigger to get through this.                            --- - Não cede assim com uns tirinhos.
+-He'll need something... ...a lot bigger to get through this.                         --- - Não cede assim com uns tirinhos.
 What is that?                                                                         --- O que é aquilo?
 What is that, a bazooka?                                                              --- É o quê, uma bazuca?
 I didn't sign up for this!                                                            --- Não me alistei para isto!
@@ -1136,7 +1151,7 @@ Dent.                                                                           
 Stand away! All of you!                                                               --- Afastem-se todos!
 I don't want anything for his Mob lawyer to use, you understand?                      --- Não quero dar pretextos nenhuns ao figurão do advogado dele.
 Back from the dead.                                                                   --- Regressado dos mortos...
-I, uh... couldn't risk my family's safety.                                            --- Não podia comprometer a segurança da minha família.
+I, uh... ...couldn't risk my family's safety.                                         --- Não podia comprometer a segurança da minha família.
 What do we got?                                                                       --- O que temos sobre ele?
 Nothing. No matches on prints, DNA, dental.                                           --- 
 Clothing is custom, no labels.                                                        --- A roupa é feita à medida, sem etiquetas.
@@ -1157,9 +1172,9 @@ You're a cop killer. You're lucky to be feeling anything below the neck.        
 -Step away from the bars!                                                             --- - Afasta-te das grades!
 My insides hurt.                                                                      --- Dói-me cá dentro!
 Did Batman save you, Daddy?                                                           --- O Batman salvou-te, Papá?
-Actually, this time... I saved him.                                                   --- Por acaso, desta vez... fui eu que o salvei.
+Actually, this time... ...I saved him.                                                --- Por acaso, desta vez... ... fui eu que o salvei.
 Has he said anything yet?                                                             --- Já disse alguma coisa?
-Evening, commissioner.                                                                --- Boa noite...  Comissário.
+Evening, commissioner.                                                                --- Boa noite... ... Comissário.
 Harvey Dent never made it home.                                                       --- O Harvey Dent nunca chegou a casa.
 -Of course not.                                                                       --- - Claro que não.
 -What have you done with him?                                                         --- - O que lhe fez?
@@ -1167,8 +1182,9 @@ Me?                                                                             
 I was right here.                                                                     --- Eu estava aqui!
 Who did you leave him with?                                                           --- Com quem é que o deixou?
 Hm? Your people?                                                                      --- 
-Assuming, of course, that they are still your people... and not Maroni's.             --- Admitindo, claro, que continua a ser a sua gente... e não do Maroni.
-Does it depress you, commissioner... to know just how alone you really are? Does it make you feel responsible for Harvey Dent's current predicament? --- Deprime-o, Comissário... saber... quão solitário realmente está?Isso fá-lo sentir-se culpado... pela situação de Harvey Dent?
+Assuming, of course, that they are still your people... ...and not Maroni's.          --- Admitindo, claro, que continua a ser a sua gente... ... e não do Maroni.
+Does it depress you, commissioner... ...to know just how alone you really are?        --- Deprime-o, Comissário... saber... ... quão solitário realmente está?
+Does it make you feel responsible for Harvey Dent's current predicament?              --- Isso fá-lo sentir-se culpado... ... pela situação de Harvey Dent?
 -Where is he?                                                                         --- - Onde está ele?
 -What's the time?                                                                     --- - Que horas são?
 What difference does that make?                                                       --- Que importância tem?
@@ -1202,13 +1218,14 @@ You complete me.                                                                
 -You're garbage who kills for money.                                                  --- - Tu és um biltre que mata por dinheiro.
 -Don't talk like one of them.                                                         --- - Não fales como eles.
 You're not. Even if you'd like to be.                                                 --- Tu não és assim.
-To them, you're just a freak... like me.                                              --- Para eles, não passas de uma aberração, como eu!
-They need you right now... but when they don't... they'll cast you out like a leper.  --- Eles agora precisam de ti, mas quando não precisarem, dispensam-te... como se fosses leproso.
-You see, their morals, their code... it's a bad joke.                                 --- A moral deles, os códigos deles...  É tudo uma palhaçada.
+To them, you're just a freak... ...like me.                                           --- Para eles, não passas de uma aberração, como eu!
+They need you right now... ...but when they don't... ...they'll cast you out like a leper. --- Eles agora precisam de ti, mas quando não precisarem, dispensam-te... ... como se fosses leproso.
+You see, their morals, their code... ...it's a bad joke.                              --- A moral deles, os códigos deles...  É tudo uma palhaçada.
 Dropped at the first sign of trouble.                                                 --- Largam tudo ao menor sinal de alarme.
 They're only as good as the world allows them to be.                                  --- Só são bonzinhos, se o mundo os deixar ser.
 I'll show you.                                                                        --- Eu não sou um monstro.
-When the chips are down, these--  These civilized people... they'll eat each other.   --- Eu hei-de mostrar-te: quando a coisa aperta... aquela gente civilizada... devora-se!
+When the chips are down, these--                                                      --- Eu hei-de mostrar-te: quando a coisa aperta... aquela gente civilizada... ...
+These civilized people... ...they'll eat each other.                                  --- devora-se! Eu não sou um monstro.
 See, I'm not a monster.                                                               --- Eu não sou um monstro.
 I'm just ahead of the curve.                                                          --- Estou apenas a antecipar-me...
 Where's Dent?                                                                         --- Onde está o Dent?
@@ -1219,7 +1236,8 @@ Then that's the rule you'll have to break to know the truth.                    
 The only sensible way to live is without rules.                                       --- Neste mundo, só se vive sem regras.
 And tonight you're gonna break your one rule.                                         --- E esta noite, vais quebrar a tua regra.
 I'm considering it.                                                                   --- Estou a pensar nisso...
-There's only minutes left, so you'll have to play my game... if you wanna save one of them."Them"? --- Só tens uns minutos: terás de jogar pelas minhas regras, se queres salvar um deles. Um deles?
+There's only minutes left, so you'll have to play my game... ...if you wanna save one of them. --- Só tens uns minutos: terás de jogar pelas minhas regras, se queres salvar um deles.
+"Them"?                                                                               --- Um deles?
 You know, for a while there, I thought you really were Dent. The way you threw yourself after her. --- Durante algum tempo, pensei mesmo que fosses o Dent, da maneira que te atiravas a ela...
 Look at you go.                                                                       --- Olha para ti!
 Does Harvey know about you and his little bunny?                                      --- O Harvey sabe de ti e da sua coelhinha?
@@ -1233,7 +1251,7 @@ Nothing to do with all your strength.                                           
 Don't worry, I'm gonna tell you where they are, both of them.                         --- Não te preocupes, vou dizer-te onde estão os dois.
 And that's the point.                                                                 --- Aí é que está!
 You'll have to choose.                                                                --- Terás de escolher.
-He's at 250 52nd Street... and she's on Avenue X at Cicero.                           --- Ele está no 250 da Rua 52. E ela está na Avenida X, no Cícero.
+He's at 250 52nd Street... ...and she's on Avenue X at Cicero.                        --- Ele está no 250 da Rua 52. E ela está na Avenida X, no Cícero.
 -Which one you going after?                                                           --- - Qual deles queres salvar?
 -Rachel.                                                                              --- - A Rachel!
 We're getting Dent!                                                                   --- Nós vamos buscar o Dent.
@@ -1255,20 +1273,20 @@ I want it.                                                                      
 I want my phone call.                                                                 --- Quero o meu telefonema.
 That's nice.                                                                          --- Que bom!
 How many of your friends have I killed?                                               --- Quantos dos teus amigos matei?
-I'm a 20-year man... and I know the difference between punks who need a lesson in manners... and the freaks like you who would just enjoy it. --- Sou polícia há 20 anos, e sei distinguir de bandalhos que precisam de uma lição de boas maneiras e os tarados como tu que haviam até de a apreciar.
+I'm a 20-year man... ...and I know the difference between punks who need a lesson in manners... ...and the freaks like you who would just enjoy it. --- Sou polícia há 20 anos, e sei distinguir de bandalhos que precisam de uma lição de boas maneiras e os tarados como tu que haviam até de a apreciar.
 And you killed six of my friends.                                                     --- E mataste seis amigos meus.
 Six?                                                                                  --- Seis?
 Please. My insides hurt.                                                              --- Por favor, dói-me cá dentro!
 I don't really care.                                                                  --- Não me interessa, afasta-te!
 Back away. The boss said he'd make the voices go away.                                --- 
-He said he'd go inside and replace them with bright lights... like Christmas.         --- Disse que ia lá dentro e que as trocava por luzinhas! Como no Natal!
+He said he'd go inside and replace them with bright lights... ...like Christmas.      --- Disse que ia lá dentro e que as trocava por luzinhas! Como no Natal!
 You're out of your mind, pal.                                                         --- Estás maluco, homem!
 Back off. Medic to the holding tank.                                                  --- Chamem os paramédicos à cela.
 Come on.                                                                              --- Abram a porta!
 Get the door open.                                                                    --- Abram a porta!
 You guys, back off!                                                                   --- Afasta-te!
 Listen, we don't have a lot of time.                                                  --- Não temos muito tempo.
-They told me that only one of us was gonna make it... and that they were gonna let our friends choose. --- Ele disse-me que só um de nós é que se vai safar... e quem escolhe são os nossos amigos.
+They told me that only one of us was gonna make it... ...and that they were gonna let our friends choose. --- Ele disse-me que só um de nós é que se vai safar... ... e quem escolhe são os nossos amigos.
 Okay, Rachel.                                                                         --- Está bem, Rachel.
 It's gonna be fine. It's gonna be all right.                                          --- Vai correr tudo bem, eles vão buscar-te a ti.
 They're coming for you.                                                               --- 
@@ -1282,10 +1300,10 @@ Just talk me through what's going on with you.                                  
 Harvey?                                                                               --- Harvey?
 Harvey, what's happening?                                                             --- O que foi?
 All available units, converge at 250 52nd Street.                                     --- Unidades disponíveis! Dirijam-se ao 250 da Rua 52!
-Do you wanna know why I use a knife?                                                  --- Queres saber... por que uso uma faca?
+Do you wanna know why I use a knife?                                                  --- Queres saber... ... por que uso uma faca?
 Guns are too quick.                                                                   --- As armas são demasiado rápidas.
-You can't savor all the... little emotions.                                           --- Não se conseguem saborear todas as... pequenas emoções.
-You see, in their last moments... people show you who they really are.                --- Sabes... Nos seus últimos momentos, as pessoas mostram bem aquilo que são.
+You can't savor all the... ...little emotions.                                        --- Não se conseguem saborear todas as... ... pequenas emoções.
+You see, in their last moments... ...people show you who they really are.             --- Sabes... Nos seus últimos momentos, as pessoas mostram bem aquilo que são.
 So in a way, I knew your friends better than you ever did.                            --- Assim, de certa forma, conheci melhor que tu os teus amigos.
 Would you like to know which of them were cowards?                                    --- Queres saber quais deles foram cobardes?
 What's that?                                                                          --- 
@@ -1312,7 +1330,7 @@ Ow.                                                                             
 Is that a phone?                                                                      --- É um telefone?
 Mount the curb!                                                                       --- Vai pelo passeio!
 Harvey, just in case, I wanna tell you something, okay?                               --- 
-Don't think like that.                                                                --- - Não penses nisso, eles vão buscar-te!
+Don't think like that.                                                                --- Pelo sim, pelo não... ...
 They're coming.                                                                       --- 
 I know they are, but I don't want them to.                                            --- Eu sei, mas não quero.
 I don't wanna live without you, and I do have an answer for you.                      --- Não quero viver sem ti, e já tenho a minha resposta.
@@ -1341,32 +1359,37 @@ Back at the MCU, the Joker's gone.                                              
 With Lau?                                                                             --- E levou o Lau?
 The Joker planned to be caught.                                                       --- O Joker planeou esta detenção.
 He wanted me to lock him up in the MCU.                                               --- Queria que eu o fechasse na DCG.
-Dear Bruce: I need to be honest and clear.I'm going to marry Harvey Dent.I love him, and I wanna spend the rest of my life with him. --- Amo-o e quero passar o resto da minha vida com ele.
-When I told you that if Gotham no longer needed Batman, we could be together... I meant it. --- Quando disse que ficaríamos juntos quando  Gotham já não precisasse do Batman, fui sincera.
+Dear Bruce: I need to be honest and clear.                                            --- Meu querido Bruce...  Preciso de ser sincera e clara.
+I'm going to marry Harvey Dent.                                                       --- Vou casar com o Harvey Dent.
+I love him, and I wanna spend the rest of my life with him.                           --- Amo-o e quero passar o resto da minha vida com ele.
+When I told you that if Gotham no longer needed Batman, we could be together... ...I meant it. --- Quando disse que ficaríamos juntos quando  Gotham já não precisasse do Batman, fui sincera.
 But now I'm sure the day won't come when you no longer need Batman.                   --- Mas agora tenho a certeza que tu precisarás sempre do Batman.
 I hope it does.                                                                       --- Espero estar enganada.
-And if it does, I will be there... but as your friend.I'm sorry, Harvey.I'm sorry to let you down.If you lose your faith in me, please keep your faith in people. --- 
+And if it does, I will be there... ...but as your friend.                             --- E se assim for, poderás contar comigo. Mas como tua amiga.
+I'm sorry, Harvey.                                                                    --- Lamento, Harvey.
+I'm sorry to let you down.                                                            --- Desculpa ter-te desapontado.
+If you lose your faith in me, please keep your faith in people.                       --- Se tiveres perdido a confiança em mim, por favor, mantém-na nas pessoas.
 Love, now and always, Rachel.                                                         --- Adoro-te, agora e sempre. Rachel.
 Prepared a little breakfast.                                                          --- Preparei um pequeno-almoço...
 -Very well, then.                                                                     --- - Muito bem.
 -Alfred.                                                                              --- - Alfred.
 Yes, Master Wayne?                                                                    --- Diga, Menino Wayne.
 Did I bring this on her?                                                              --- Foi por minha causa que isto lhe aconteceu?
-I was meant to inspire good... not madness, not death.                                --- Eu queria inspirar o bem, não a loucura, a morte...
+I was meant to inspire good... ...not madness, not death.                             --- Eu queria inspirar o bem, não a loucura, a morte...
 You have inspired good. But you spat in the faces of Gotham's criminals.              --- O menino inspirou o bem, mas cuspiu na cara dos criminosos de Gotham.
 Didn't you think there might be casualties?                                           --- Não pensou que provocasse baixas?
 Things always get worse before they get better.                                       --- Isto só podia piorar antes de melhorar.
 But Rachel, Alfred.                                                                   --- Mas a Rachel, Alfred...
-Rachel believed in what you stood for... what we stand for.                           --- A Rachel acreditou naquilo que o menino defendia, naquilo que nós defendemos.
+Rachel believed in what you stood for... ...what we stand for.                        --- A Rachel acreditou naquilo que o menino defendia, naquilo que nós defendemos.
 Gotham needs you.                                                                     --- Gotham precisa de si.
-No, Gotham needs its true hero... and I let that murdering psychopath blow him half to hell. --- Não, Gotham precisa do seu herói. E eu deixei que aquele psicopata quase o mandasse pelos ares!
-Which is why, for now... they're gonna have to make do with you.                      --- E é por isso, que, por agora... terão de se satisfazer consigo.
+No, Gotham needs its true hero... ...and I let that murdering psychopath blow him half to hell. --- Não, Gotham precisa do seu herói. E eu deixei que aquele psicopata quase o mandasse pelos ares!
+Which is why, for now... ...they're gonna have to make do with you.                   --- E é por isso, que, por agora... ... terão de se satisfazer consigo.
 She was gonna wait for me, Alfred.                                                    --- Ela ia esperar por mim, Alfred.
 Dent doesn't know.                                                                    --- O Dent não sabe.
 He can never know.                                                                    --- Nunca poderá saber.
 What's that?                                                                          --- O que é isso?
 -It can wait.                                                                         --- - Pode esperar.
--That bandit... in the forest in Burma.                                               --- - Aquele bandido... na floresta de Burma...
+-That bandit... ...in the forest in Burma.                                            --- - Aquele bandido... na floresta de Burma...
 -Did you catch him?                                                                   --- - Apanharam-no?
 -Yes.                                                                                 --- - Sim.
 How?                                                                                  --- Como?
@@ -1375,15 +1398,16 @@ He's credible, an M & A lawyer from a leading consultancy.                      
 He says he's waited as long as he can for Batman to do the right thing. Now he's taking matters into his own hands. --- Aguardou para ver se Batman agia correctamente; agora vai ele resolver o assunto.
 We'll be live at 5 with the true identity of the Batman.                              --- Às cinco revelaremos a identidade do Batman.
 I'm sorry about Rachel.                                                               --- Lamento pela Rachel.
-The doctor says you're in agonizing pain, but that you won't accept medication. That you're refusing to... accept skin grafts. --- O médico diz que tem muitas dores, mas recusa os analgésicos; diz que se recusa a... aceitar transplantes.
-Remember that name... you all had for me... when I was at Internal Affairs?           --- Lembra-se daquele nome... que vocês me davam... quando eu estava na Investigação Interna?
+The doctor says you're in agonizing pain, but that you won't accept medication.       --- O médico diz que tem muitas dores, mas recusa os analgésicos; diz que se recusa a... ...
+That you're refusing to... ...accept skin grafts.                                     --- Lembra-se daquele nome... que vocês me davam... ...
+Remember that name... ...you all had for me... ...when I was at Internal Affairs?     --- Lembra-se daquele nome... que vocês me davam... ... quando eu estava na Investigação Interna?
 What was it, Gordon?                                                                  --- Como era, Gordon?
 Harvey, I....                                                                         --- Diga!
 Say it.                                                                               --- Diga!
 Say it!                                                                               --- Diz lá!
 Two-Face.                                                                             --- 
 Harvey Two-Face.                                                                      --- Harvey Duas-caras.
-Why should I hide who I am?                                                           --- Por que hei-de esconder... quem sou?
+Why should I hide who I am?                                                           --- Por que hei-de esconder... ... quem sou?
 I know you tried to warn me.                                                          --- Sei que tentou avisar-me.
 I'm sorry.                                                                            --- Lamento.
 Wuertz picked you up.                                                                 --- Foi o Wuertz que o foi buscar.
@@ -1407,12 +1431,12 @@ I want auxiliary units to cover all possible getaway routes.                    
 Please.                                                                               --- 
 Joker-man, what you do with all your money?                                           --- Joker, o que vais fazer com todo o teu dinheiro?
 You see, I'm a guy of simple taste.                                                   --- Sou um tipo de gostos simples.
-I enjoy... dynamite... and gunpowder... and gasoline.                                 --- Gosto de... dinamite... pólvora... e gasolina.
+I enjoy... ...dynamite... ...and gunpowder... ...and gasoline.                        --- Gosto de... dinamite... pólvora... ... e gasolina.
 -What the--? -Ah, ah, ah.                                                             --- E sabes o que têm em comum?
 And you know the thing that they have in common?                                      --- E sabes o que têm em comum?
 They're cheap.                                                                        --- São baratas.
 How much are they paying you to say who Batman is?                                    --- Quanto lhe pagam para dizer quem é o Batman?
-This is our chance.                                                                   --- Gosto de... dinamite... pólvora... e gasolina.
+This is our chance.                                                                   --- 
 I want Lau alive.                                                                     --- 
 The Joker, either way.                                                                --- Jim, olha isto.
 Hey, Jim.                                                                             --- Jim, olha isto.
@@ -1426,24 +1450,24 @@ You said you were a man of your word.                                           
 Oh, I am.                                                                             --- E sou.
 I'm only burning my half.                                                             --- Só vou queimar a minha metade.
 All you care about is money.                                                          --- Vocês só pensam em dinheiro.
-This town deserves a better class of criminal... and I'm gonna give it to them.       --- Esta cidade merece criminosos com mais classe. E eu vou proporcionar-lhos.
+This town deserves a better class of criminal... ...and I'm gonna give it to them.    --- Esta cidade merece criminosos com mais classe. E eu vou proporcionar-lhos.
 Tell your men they work for me now.                                                   --- Diz aos teus homens que agora trabalham para mim.
 This is my city.                                                                      --- Esta cidade agora é minha.
 They won't work for a freak.                                                          --- Eles não trabalham para tarados!
 "Freak."                                                                              --- 
-Why don't we cut you up into little pieces... and feed you to your pooches?           --- E se te cortássemos aos bocadinhos e te déssemos a comer aos teus lulus?
+Why don't we cut you up into little pieces... ...and feed you to your pooches?        --- E se te cortássemos aos bocadinhos e te déssemos a comer aos teus lulus?
 Hm?                                                                                   --- 
 And then we'll see how loyal a hungry dog really is.                                  --- Aí veremos até que ponto é leal um cão esfomeado.
-It's not about money... it's about sending a message.                                 --- Não se trata de dinheiro. Trata-se de enviar uma mensagem.
+It's not about money... ...it's about sending a message.                              --- Não se trata de dinheiro. Trata-se de enviar uma mensagem.
 Everything burns.                                                                     --- Arde tudo.
 -Who is this?                                                                         --- Quem fala?
-I had a vision... of a world without Batman.                                          --- Tive uma visão de um mundo sem o Batman.
-The Mob ground out a little profit... and the police tried to shut them down one block at a time. --- A Máfia fazia o seu lucrozito, e a polícia tentava eliminá-los um por um.
-And it was so boring.                                                                 --- E era tão... enfadonho!
+I had a vision... ...of a world without Batman.                                       --- Tive uma visão de um mundo sem o Batman.
+The Mob ground out a little profit... ...and the police tried to shut them down one block at a time. --- A Máfia fazia o seu lucrozito, e a polícia tentava eliminá-los um por um.
+And it was so boring.                                                                 --- 
 I've had a change of heart.                                                           --- Mudei de ideias.
-I don't want Mr. Reese spoiling everything... but why should I have all the fun?      --- Não quero que o Sr. Reese estrague tudo. Mas por que hei-de ser só eu a divertir-me?
+I don't want Mr. Reese spoiling everything... ...but why should I have all the fun?   --- Não quero que o Sr. Reese estrague tudo. Mas por que hei-de ser só eu a divertir-me?
 Let's give someone else a chance.                                                     --- Vamos dar uma hipótese a outro.
-If Coleman Reese isn't dead in 60 minutes... then I blow up a hospital.               --- Se o Coleman Reese não tiver morrido dentro de 60 minutos, farei explodir um hospital.
+If Coleman Reese isn't dead in 60 minutes... ...then I blow up a hospital.            --- Se o Coleman Reese não tiver morrido dentro de 60 minutos, farei explodir um hospital.
 Call in every officer.                                                                --- Alertem os agentes todos.
 Tell them to head to their nearest hospital and start evac and search.                --- Dirijam-se ao hospital mais próximo. Evacuem-no e revistem-no.
 Call the transit authority, school board, prisons. Get every bus down to a hospital.  --- Requisitem todos os autocarros disponíveis e mandem-nos para os hospitais!
@@ -1464,7 +1488,7 @@ Excuse me. Let me through.                                                      
 Excuse me.                                                                            --- 
 Okay. Sir, could you help, please?                                                    --- 
 I'm gonna find a bus for him.                                                         --- Vou arranjar-lhe um autocarro.
-Sir? Commissioner, do you really think... an ordinary citizen would try to kill this man? --- Comissário, receia mesmo que um cidadão tente matar este homem?
+Sir? Commissioner, do you really think... ...an ordinary citizen would try to kill this man? --- Comissário, receia mesmo que um cidadão tente matar este homem?
 Sir. Commissioner.                                                                    --- Levem os carros lá para trás!
 Get the cars around the back!                                                         --- Levem os carros lá para trás!
 Go. Keep rolling, Sam.                                                                --- Continuemos, Sam.
@@ -1489,9 +1513,10 @@ It's Berg, isn't it?                                                            
 -Commissioner.                                                                        --- - Comissário...
 You okay, son?                                                                        --- Sente-se bem?
 Hi.                                                                                   --- Olá!
-You know... I don't want there to be any hard feelings between us, Harvey.            --- Sabes...  Não quero ressentimentos entre nós, Harvey.
+You know... ....I don't want there to be any hard feelings between us, Harvey.        --- Sabes...  Não quero ressentimentos entre nós, Harvey.
 -When you and-- -Rachel!                                                              --- - Quando tu e a... - Rachel!
---Rachel were being abducted... I was sitting in Gordon's cage.I didn't rig those charges. --- Quando foram raptados, eu estava na jaula do Gordon! Não fui eu que armadilhei aquilo.
+--Rachel were being abducted... ...I was sitting in Gordon's cage.                    --- Quando foram raptados, eu estava na jaula do Gordon!
+I didn't rig those charges.                                                           --- Não fui eu que armadilhei aquilo.
 Your men, your plan.                                                                  --- Os teus homens, o teu plano.
 Do I really look like a guy with a plan?                                              --- Achas-me mesmo com cara de ser um tipo com um plano?
 You know what I am?                                                                   --- Sou um cão que corre atrás dos carros.
@@ -1504,24 +1529,28 @@ Gordon's got plans.                                                             
 You know, they're schemers.                                                           --- Eles sim, são tipos de esquemas.
 Schemers trying to control their little worlds.                                       --- Tipos com esquemas que tentam controlar as suas vidinhas insignificantes.
 I'm not a schemer.                                                                    --- Eu não tenho esquemas.
-I try to show the schemers... how pathetic their attempts to control things really are. --- Tento é mostrar aos que têm... como são patéticas... as suas tentativas de controlar as coisas.
+I try to show the schemers... ...how pathetic their attempts to control things really are. --- Tento é mostrar aos que têm... como são patéticas... ... as suas tentativas de controlar as coisas.
 So when I say-- Ah.                                                                   --- Por isso, quando digo...
 Come here.                                                                            --- Aproxima-te.
-When I say that you and your girlfriend was nothing personal... you'll know that I'm telling the truth. --- Quando digo que não tinha nada contra ti e a tua namorada... acredita que digo a verdade.
+When I say that you and your girlfriend was nothing personal... ...you'll know that I'm telling the truth. --- Quando digo que não tinha nada contra ti e a tua namorada... ... acredita que digo a verdade.
 -I'm gonna need your weapon.                                                          --- - Preciso que me entregue a arma.
 -What?                                                                                --- - O quê?
 Why? Because my wife's in the hospital?                                               --- Por a minha mulher estar no hospital?
 Yeah, that'd be why.                                                                  --- Exactamente.
 It's the schemers that put you where you are.                                         --- Foram os tipos com esquemas que te puseram onde estás.
-You were a schemer, you had plans... and look where that got you.                     --- Tu eras um deles, tinhas planos... e olha o que te aconteceu.
-Police are taking every precaution... urging people not to take matters into their hands.I just did what I do best.I took your little plan and I turned it on itself. --- 
+You were a schemer, you had plans... ...and look where that got you.                  --- Tu eras um deles, tinhas planos... ... e olha o que te aconteceu.
+Police are taking every precaution... ...urging people not to take matters into their hands. --- A polícia já tomou as devidas precauções e recomenda que não procurem agir por conta própria.
+I just did what I do best.                                                            --- Eu fiz aquilo que faço melhor.
+I took your little plan and I turned it on itself.                                    --- Peguei no teu plano e virei-o do avesso.
 Look what I did to this city with a few drums of gas and a couple of bullets.         --- Olha o que fiz à cidade com uns bidons de gasolina e umas quantas balas!
 Hm?                                                                                   --- 
 You know what I noticed?                                                              --- Mesmo que o plano seja horrendo.
 Nobody panics when things go "according to plan."                                     --- Ninguém entra em pânico quando as coisas correm conforme está planeado.
 Even if the plan is horrifying.                                                       --- Mesmo que o plano seja horrendo.
-If tomorrow I tell the press that, like, a gangbanger will get shot... or a truckload of soldiers will be blowing up... nobody panics. Because it's all part of the plan. --- Se amanhã eu disser à imprensa que um bandido vai ser baleado, ou um camião de soldados vai pelos ares, ninguém entra em pânico, porque faz parte do plano.
-But when I say that one little old mayor will die... well, then, everyone loses their minds.Introduce a little anarchy... upset the established order... and everything becomes chaos.I'm an agent of chaos. --- Mas quando eu digo que um presidentezeco da Câmara vai morrer, todos perdem a cabeça!
+If tomorrow I tell the press that, like, a gangbanger will get shot... ...or a truckload of soldiers will be blowing up... ...nobody panics. Because it's all part of the plan. --- Se amanhã eu disser à imprensa que um bandido vai ser baleado, ou um camião de soldados vai pelos ares, ninguém entra em pânico, porque faz parte do plano.
+But when I say that one little old mayor will die... ...well, then, everyone loses their minds. --- Mas quando eu digo que um presidentezeco da Câmara vai morrer, todos perdem a cabeça!
+Introduce a little anarchy... ...upset the established order... ...and everything becomes chaos. --- É só introduzir um pouco de anarquia, perturbar a ordem pré-estabelecida... e o caos instala-se.
+I'm an agent of chaos.                                                                --- Eu sou um agente do caos.
 Oh, and you know the thing about chaos?                                               --- E sabes em que se baseia o caos?
 It's fair.                                                                            --- No medo.
 -You live.                                                                            --- Vives.
@@ -1587,7 +1616,7 @@ Who picked up Rachel, Wuertz?                                                   
 Are you telling me that you're gonna protect the other traitor in Gordon's unit?      --- Não me digas que vais proteger o outro traidor da divisão do Gordon?!
 I don't know, he never told me.                                                       --- Não sei, ele nunca mo disse!
 Listen, Dent, I swear to God, I didn't know what they were gonna do to you.           --- Juro que não sabia o que lhe ia acontecer!
-That's funny... because I don't know what's gonna happen to you either.               --- Tem graça...  Eu também não sei o que te vai acontecer!
+That's funny... ...because I don't know what's gonna happen to you either.            --- Tem graça...  Eu também não sei o que te vai acontecer!
 Beautiful, isn't it?                                                                  --- Lindo!
 Beautiful. Unethical.                                                                 --- Lindo... Impróprio.
 Dangerous.                                                                            --- Perigoso.
@@ -1605,11 +1634,12 @@ That's why I gave it to you.                                                    
 Only you can use it.                                                                  --- Só você pode utilizá-lo.
 Spying on 30 million people isn't part of my job description.                         --- Não fui contratado para espiar 30 milhões de pessoas!
 This is an audio sample.                                                              --- Isto é uma amostra áudio.
-If he talks within range of any phone in the city... you can triangulate his position.I'll help you this one time. --- Mal ele fale perto de algum telemóvel, poderá localizá-lo. Ajudo-o desta vez.
+If he talks within range of any phone in the city... ...you can triangulate his position. --- Mal ele fale perto de algum telemóvel, poderá localizá-lo.
+I'll help you this one time.                                                          --- Ajudo-o desta vez.
 But consider this my resignation.                                                     --- Mas depois demito-me.
 As long as this machine is at Wayne Enterprises, I won't be.                          --- Enquanto o Grupo Wayne tiver esta máquina, não conte comigo.
-When you're finished... type in your name.                                            --- Quando acabar... escreva o seu nome.
-My officers are going over every inch of the tunnels and bridges... but with the Joker's threat, they're not an option. --- Os meus agentes estão a revistar todas as pontes e túneis, mas com a ameaça do Joker não são uma opção de fuga.
+When you're finished... ...type in your name.                                         --- escreva o seu nome.
+My officers are going over every inch of the tunnels and bridges... ...but with the Joker's threat, they're not an option. --- Os meus agentes estão a revistar todas as pontes e túneis, mas com a ameaça do Joker não são uma opção de fuga.
 -And land routes east?                                                                --- - E as saídas terrestres para Leste?
 -Backed up for hours.                                                                 --- - Estão entupidas há horas.
 Which leaves the ferries with 30,000 ready to board.                                  --- Temos de evacuar 30 mil pessoas de barco.
@@ -1617,7 +1647,8 @@ I wanna use the ferries so I can get those prisoners off the island.            
 The men you put away?                                                                 --- Os bandidos que vocês prenderam?
 Those aren't people I'm worried about.                                                --- Não é gente que me preocupe.
 You should be.                                                                        --- Os bandidos que vocês prenderam?
-Whatever the Joker's planning... it's a good bet Harvey's prisoners are involved.I wanna get them out of here. --- 
+Whatever the Joker's planning... ...it's a good bet Harvey's prisoners are involved.  --- é provável que envolva os prisioneiros. Quero tirá-los daqui.
+I wanna get them out of here.                                                         --- Quero tirá-los daqui.
 So where is Harvey?                                                                   --- E onde está o Harvey?
 -We haven't found him.                                                                --- Ainda não o encontrámos.
 -Oh, Jesus.                                                                           --- 
@@ -1628,13 +1659,13 @@ Going to join your wife?                                                        
 -Yes.                                                                                 --- - Sim.
 You ever imagine what it would be like to listen to her die?                          --- Já imaginaste o que seria ouvi-la morrer?
 Look, take it up with the Joker.                                                      --- Resolve isso como o Joker.
-He killed your woman. He made you... like this.                                       --- Ele matou a tua mulher, foi ele que te pôs... assim.
+He killed your woman. He made you... ...like this.                                    --- 
 The Joker's just a mad dog.                                                           --- O Joker é apenas um cão raivoso.
 I want whoever let him off the leash.                                                 --- Quero a pessoa que lhe tirou a trela.
 I took care of Wuertz, but who was your other man inside Gordon's unit?               --- Já despachei o Wuertz. Quem é o outro informador?
 Who picked up Rachel?                                                                 --- Devia ser alguém da confiança dela.
 Must have been someone she trusted.                                                   --- Devia ser alguém da confiança dela.
-Look, if I tell you... will you let me go?                                            --- Se lhe disser... poupa-me?
+Look, if I tell you... ...will you let me go?                                         --- 
 Can't hurt your chances.                                                              --- Mal não te faz.
 It was Ramirez.                                                                       --- Foi a Ramirez.
 -But you said-- -I said it couldn't hurt your chances.                                --- 
@@ -1668,13 +1699,13 @@ Oh, my God.                                                                     
 Looks like some kind of detonator.                                                    --- - Parece um detonador.
 Why would they give us the detonator to our own bomb?                                 --- Por que nos dariam um detonador para a nossa própria bomba?
 Tonight, you're all gonna be a part of a social experiment.                           --- Esta noite, farão todos parte de uma nova experiência social.
-Through the magic of diesel fuel and ammonium nitrate... I'm ready right now to blow you all sky-high. --- Através da magia do gasóleo e do nitrato de amónio, estou preparado para vos fazer ir pelos ares.
+Through the magic of diesel fuel and ammonium nitrate... ...I'm ready right now to blow you all sky-high. --- Através da magia do gasóleo e do nitrato de amónio, estou preparado para vos fazer ir pelos ares.
 Liberty, come in, over.                                                               --- Liberty, responde!
 It's dead.                                                                            --- Está morto.
 If anyone attempts to get off their boat, you all die.                                --- Se alguém tentar sair do barco, morrerão todos.
 I'm zeroing in.                                                                       --- Estou quase...
 Each of you has a remote to blow up the other boat.                                   --- Cada um de vós tem um comando para mandar pelos ares o outro barco.
-His voice is on the ferry... but it's not the source.                                 --- A voz dele está no barco, mas não é lá que ele está.
+His voice is on the ferry... ...but it's not the source.                              --- A voz dele está no barco, mas não é lá que ele está.
 West.                                                                                 --- Está para Oeste.
 -Gordon. I have the Joker's location.                                                 --- 
 Prewitt Building.                                                                     --- Está no Edifício Prewitt.
@@ -1682,9 +1713,9 @@ Assemble on the building opposite.                                              
 At midnight, I blow you all up.                                                       --- À meia-noite, farei explodir os barcos.
 If, however, one of you presses the button, I'll let that boat live.                  --- No entanto, se um de vocês carregar no botão, pouparei o vosso barco.
 So who's it gonna be?                                                                 --- E então, o que irá ser...?
-Harvey Dent's most-wanted scumbag collection... or the sweet and innocent civilians?  --- A colecção da escumalha mais procurada de Harvey Dent ou os meigos e inocentes civis?
+Harvey Dent's most-wanted scumbag collection... ...or the sweet and innocent civilians? --- A colecção da escumalha mais procurada de Harvey Dent ou os meigos e inocentes civis?
 You choose.                                                                           --- A escolha é vossa.
-Oh, and you might wanna decide quickly... because the people on the other boat may not be quite so noble. --- E terão de a fazer rapidamente, pois o pessoal do outro barco poderá não ser igualmente nobre.
+Oh, and you might wanna decide quickly... ...because the people on the other boat may not be quite so noble. --- E terão de a fazer rapidamente, pois o pessoal do outro barco poderá não ser igualmente nobre.
 Stay back.                                                                            --- Afaste-se.
 Well, now, who are you to decide?                                                     --- Quem é você para decidir?
 We ought to talk this over, at least.                                                 --- Temos de debater o assunto!
@@ -1706,7 +1737,7 @@ I'll call them off for 10 minutes, and you'll have to move fast.                
 -Leave as soon as the patrol car pulls out.                                           --- Parta mal os carros se afastem.
 -Okay.                                                                                --- 
 She believe you?                                                                      --- Acreditou?
-It's because she trusts you... just like Rachel did.                                  --- É porque confia em si...  Como a Rachel confiava.
+It's because she trusts you... ...just like Rachel did.                               --- É porque confia em si...  Como a Rachel confiava.
 -I didn't know-- -Didn't know what they'd do?                                         --- - Não sabia o que iam fazer.
 You're the second cop to say that to me.                                              --- É a segunda que me diz isso.
 What exactly did you think they were gonna do?                                        --- Julgou que iam fazer o quê?
@@ -1725,11 +1756,12 @@ Team moves in by the stairwells.                                                
 Two, three casualties max.                                                            --- Duas ou três baixas, no máximo.
 -Let's do it. It's not that simple.                                                   --- Vamos a isso.
 -With the Joker, it never is.                                                         --- Com o Joker nunca é assim tão simples.
--What's simple is... every second, those people on the ferries get closer to blowing-- --- Mas daqui a nada, um dos barcos manda o outro pelos ares! - Isso não vai acontecer.
+-What's simple is... ...every second, those people on the ferries get closer to blowing-- --- Mas daqui a nada, um dos barcos manda o outro pelos ares! - Isso não vai acontecer.
 -That won't happen.                                                                   --- - Isso não vai acontecer.
 -Then he'll blow both of them up!                                                     --- - Então manda-os ele!
 -We don't have time for paper ballots.                                                --- Não temos tempo para votos escritos.
--I want everybody to put their votes... on this piece of paper.If anyone's got pens, pass it along. --- Escrevam os votos aqui. Quem tiver canetas, passe-as aos outros.
+-I want everybody to put their votes... ...on this piece of paper.                    --- Escrevam os votos aqui.
+If anyone's got pens, pass it along.                                                  --- Quem tiver canetas, passe-as aos outros.
 Thank you.                                                                            --- Temos de reunir os votos rapidamente.
 Anybody else?                                                                         --- 
 Coming through.                                                                       --- Escrevam os votos aqui.
@@ -1749,7 +1781,7 @@ Get ready.                                                                      
 Two minutes, then we breach.                                                          --- Dois minutos, depois avançamos.
 Fox, I need picture.                                                                  --- Fox, preciso de imagem.
 -Hello? Jim, we're in trouble.                                                        --- Jim, fomos apanhados!
-Okay, you got POV on alpha... omni on beta.                                           --- Tem a sua visão em Alfa... e a perspectiva geral em Beta.
+Okay, you got POV on alpha... ...omni on beta.                                        --- Tem a sua visão em Alfa... ... e a perspectiva geral em Beta.
 Looks like clowns and hostages on two floors.                                         --- Parece que há reféns e palhaços em dois pisos.
 There's a SWAT team on the stairwell. Another SWAT team on the roof.                  --- Há uma equipa de comandos nas escadas, e mais uma no telhado.
 Line's clear.                                                                         --- O caminho está desimpedido.
@@ -1809,7 +1841,7 @@ I'm so thrilled.                                                                
 -Go get him.                                                                          --- - Ataquem-no!
 Put down your weapon!                                                                 --- 
 Don't move!                                                                           --- - Ataquem-no!
-You don't wanna die... but you don't know how to take a life.                         --- Não queres morrer, mas também não sabes matar.
+You don't wanna die... ...but you don't know how to take a life.                      --- Não queres morrer, mas também não sabes matar.
 Give it to me.                                                                        --- Dá-mo cá.
 These men will kill you and take it anyway.                                           --- Eles matam-te e tiram-to na mesma.
 No one wants to get their hands dirty.                                                --- Ninguém quer sujar as mãos.
@@ -1826,7 +1858,7 @@ You can tell them I took it by force.                                           
 Give it to me, and I'll do what you should've did 10 minutes ago.                     --- Dá-mo e eu farei o que já devias ter feito há 10 minutos.
 We really should stop this fighting, otherwise we'll miss the fireworks.              --- Devíamos parar de lutar, senão perdemos o fogo-de-artifício!
 There won't be any fireworks.                                                         --- Não haverá fogo-de-artifício.
-And here we go.                                                                       --- E lá vem... ele!
+And here we go.                                                                       --- 
 What were you trying to prove?                                                        --- O que querias provar?
 That deep down, everyone's as ugly as you?                                            --- Que, lá no fundo, são todos tão feios como tu?
 You're alone.                                                                         --- Estás sozinho.
@@ -1839,24 +1871,26 @@ Speaking of which, you know how I got these scars?                              
 No, but I know how you got these.                                                     --- Mas sei como arranjaste estas!
 Oh, you.                                                                              --- És tramado!
 You just couldn't let me go, could you?                                               --- Não podias deixar-me ir, pois não?
-This is what happens when an unstoppable force... meets an immovable object.          --- É o que acontece quando uma força imparável... embate contra um objecto imóvel.
+This is what happens when an unstoppable force... ...meets an immovable object.       --- É o que acontece quando uma força imparável... ... embate contra um objecto imóvel.
 You truly are incorruptible, aren't you?                                              --- És mesmo incorruptível, não és?
 Huh?                                                                                  --- 
-You won't kill me... out of some misplaced sense of self-righteousness.               --- Não me matas... devido a um sentido de justiça... que não se percebe bem de onde vem... e eu não te mato... porque és divertido demais.
-And I won't kill you... because you're just too much fun.I think you and I are destined to do this forever. --- Não me matas... devido a um sentido de justiça... que não se percebe bem de onde vem... e eu não te mato... porque és divertido demais.
+You won't kill me... ...out of some misplaced sense of self-righteousness.            --- Não me matas... devido a um sentido de justiça... que não se percebe bem de onde vem... e eu não te mato... ...
+And I won't kill you... ...because you're just too much fun.                          --- 
+I think you and I are destined to do this forever.                                    --- Acho que estamos condenados a fazer isto até morrer.
 You'll be in a padded cell forever.                                                   --- Viverás numa cela acolchoada até morrer!
 Maybe we could share one.                                                             --- Talvez possamos partilhá-la.
 You know, they'll be doubling up, the rate this city's inhabitants are losing their minds. --- Vão passar a ser duplas, ao ritmo a que a gente desta cidade enlouquece!
-This city just showed you... that it's full of people ready to believe in good.       --- Esta cidade mostrou-te... que está cheia de gente boa pronta a acreditar no bem.
+This city just showed you... ...that it's full of people ready to believe in good.    --- Esta cidade mostrou-te... que está cheia de gente boa pronta a acreditar no bem.
 Until their spirit breaks completely.                                                 --- Até alguém os desmoralizar completamente.
-Until they get a good look at the real Harvey Dent... and all the heroic things he's done. --- Até olharem bem para o verdadeiro Harvey Dent, e todos os seus actos heróicos.
-You didn't think I'd risk losing the battle for Gotham's soul... in a fistfight with you? --- Não pensavas que eu me arriscava a perder a batalha pela alma de Gotham numa sessão de pancada contigo?
+Until they get a good look at the real Harvey Dent... ...and all the heroic things he's done. --- Até olharem bem para o verdadeiro Harvey Dent, e todos os seus actos heróicos.
+You didn't think I'd risk losing the battle for Gotham's soul... ...in a fistfight with you? --- Não pensavas que eu me arriscava a perder a batalha pela alma de Gotham numa sessão de pancada contigo?
 No.                                                                                   --- 
 You need an ace in the hole.                                                          --- Precisas dum trunfo.
 Mine's Harvey.                                                                        --- O meu é o Harvey.
 What did you do?                                                                      --- O que fizeste?
-I took Gotham's white knight... and I brought him down to our level.It wasn't hard.   --- Peguei no salvador de Gotham e fi-lo descer ao nosso nível. Não foi muito difícil.
-See, madness, as you know... is like gravity.                                         --- é como a gravidade.
+I took Gotham's white knight... ...and I brought him down to our level.               --- Peguei no salvador de Gotham e fi-lo descer ao nosso nível.
+It wasn't hard.                                                                       --- Não foi muito difícil.
+See, madness, as you know... ...is like gravity.                                      --- é como a gravidade.
 All it takes is a little push.                                                        --- 
 Dent!                                                                                 --- Dent!
 This is where they brought her, Gordon, after your men handed her over.               --- Foi para aqui que a trouxeram, Gordon, quando os teus homens a traíram.
@@ -1866,9 +1900,10 @@ I know, I was here...                                                           
 -But you didn't.                                                                      --- Não consegui.
 -I couldn't. -Yes, you could've.                                                      --- Mas podias ter salvado, se me tivesses ouvido.
 If you'd listened to me.                                                              --- Eu estava a tentar derrotar a Máfia!
-If you stood up against corruption... instead of doing your deal with the devil.I was trying to fight the Mob! --- Se tivesses enfrentado a corrupção, em vez de fazer um pacto com o diabo. Eu estava a tentar derrotar a Máfia!
+If you stood up against corruption... ...instead of doing your deal with the devil.   --- Se tivesses enfrentado a corrupção, em vez de fazer um pacto com o diabo.
+I was trying to fight the Mob!                                                        --- Eu estava a tentar derrotar a Máfia!
 You wouldn't dare try to justify yourself if you knew what I'd lost.                  --- Nem te atrevias a justificar-te se soubesses o que eu perdi!
-Have you ever had to talk to the person you loved most... tell them it's gonna be all right, when you know it's not? --- Já tiveste de falar com a pessoa que mais amas no mundo e dizer-lhe que vai correr tudo bem, mesmo sabendo que não é verdade?
+Have you ever had to talk to the person you loved most... ...tell them it's gonna be all right, when you know it's not? --- Já tiveste de falar com a pessoa que mais amas no mundo e dizer-lhe que vai correr tudo bem, mesmo sabendo que não é verdade?
 Well, you're about to know what that feels like, Gordon.                              --- Estás prestes a saber o que isso é.
 Then you can look me in the eye and tell me you're sorry.                             --- Depois poderás olhar-me de frente e dizer que lamentas...
 -You're not going to hurt my family.                                                  --- - Não vai fazer mal à minha família.
@@ -1897,7 +1932,7 @@ It's not about what I want, it's about what's fair!                             
 You thought we could be decent men in an indecent time.                               --- Tu achaste que podíamos ser decentes numa era indecente.
 But you were wrong.                                                                   --- Mas enganaste-te.
 The world is cruel.                                                                   --- O mundo é cruel.
-And the only morality in a cruel world... is chance.                                  --- E a única moralidade num mundo cruel...  é o acaso.
+And the only morality in a cruel world... ...is chance.                               --- E a única moralidade num mundo cruel... ... é o acaso.
 Unbiased.                                                                             --- É imparcial.
 Unprejudiced.                                                                         --- Não tem preconceitos.
 Fair.                                                                                 --- 
@@ -1910,7 +1945,7 @@ Then why was it me who was the only one who lost everything?                    
 -It wasn't.                                                                           --- 
 -The Joker chose me.                                                                  --- - O Joker escolheu-me!
 Because you were the best of us.                                                      --- Porque eras o melhor de nós.
-He wanted to prove that even someone as good as you... could fall.                    --- Ele quis provar... que até uma pessoa boa como tu... podia cair.
+He wanted to prove that even someone as good as you... ...could fall.                 --- Ele quis provar... que até uma pessoa boa como tu... ... podia cair.
 And he was right.                                                                     --- 
 You're the one pointing the gun, Harvey.                                              --- A arma está na tua mão.
 So point it at the people responsible.                                                --- Aponta-a às pessoas que foram responsáveis!
@@ -1923,13 +1958,14 @@ Please don't punish the boy.                                                    
 -Please, punish me.                                                                   --- - Por favor, castigue-me a mim.
 -I'm about to.                                                                        --- - É o que vou fazer.
 Tell your boy he's gonna be all right, Gordon.                                        --- Diz ao teu filho que vai correr tudo bem.
-Lie... like I lied.It's going to be all right, son.                                   --- Mente... como eu menti. Vai correr tudo bem, filho.
+Lie... ...like I lied.                                                                --- como eu menti.
+It's going to be all right, son.                                                      --- Vai correr tudo bem, filho.
 Dad? Daddy, is he okay?                                                               --- Pai?
 -Thank you.                                                                           --- - Obrigado.
 -You don't have to thank me.                                                          --- - Não tens de me agradecer.
 Yes, I do.                                                                            --- Tenho, sim.
 The Joker won.                                                                        --- O Joker ganhou.
-Harvey's prosecution, everything he fought for... undone.                             --- Os casos do Harvey, tudo aquilo por que lutámos...  Está tudo desfeito.
+Harvey's prosecution, everything he fought for... ...undone.                          --- Os casos do Harvey, tudo aquilo por que lutámos...  Está tudo desfeito.
 Whatever chance you gave us at fixing our city dies with Harvey's reputation.         --- A hipótese que nos deste de salvar a nossa cidade morre com a reputação do Harvey.
 We bet it all on him.                                                                 --- Apostámos tudo nele!
 The Joker took the best of us and tore him down.                                      --- O Joker pegou no melhor de nós e destruiu-o.
@@ -1942,7 +1978,9 @@ You can't sweep that-- -No.                                                     
 But the Joker cannot win.                                                             --- Mas o Joker não pode vencer.
 Gotham needs its true hero.                                                           --- Gotham precisa do seu verdadeiro herói.
 -No.                                                                                  --- Não podemos abafá-lo...
--You either die a hero... or you live long enough to see yourself become the villain.I can do those things... because I'm not a hero, not like Dent.I killed those people. --- Ou morremos como heróis... ou vivemos o suficiente para nos tornarmos vilões.Isto tudo pode ser obra minha, porque não sou um herói, pelo menos como o Dent. Eu matei esta gente.
+-You either die a hero... ...or you live long enough to see yourself become the villain. --- Ou morremos como heróis... ... ou vivemos o suficiente para nos tornarmos vilões.
+I can do those things... ...because I'm not a hero, not like Dent.                    --- Isto tudo pode ser obra minha, porque não sou um herói, pelo menos como o Dent.
+I killed those people.                                                                --- Posso assumir essa culpa.
 That's what I can be.                                                                 --- Não podes e não vais fazê-lo.
 No, no, you can't.                                                                    --- Não podes e não vais fazê-lo.
 You're not.                                                                           --- 
@@ -1950,12 +1988,13 @@ I'm whatever Gotham needs me to be.                                             
 Call it in.                                                                           --- Lança o alerta.
 A hero.                                                                               --- Um herói...
 Not the hero we deserved, but the hero we needed.                                     --- Não o herói que merecíamos, mas o herói que precisávamos.
-Nothing less than a knight... shining. They'll hunt you.                              --- Nada menos que um cavaleiro... de armadura reluzente.Irão atrás de ti.
+Nothing less than a knight... ...shining.                                             --- Nada menos que um cavaleiro... ... de armadura reluzente.
+They'll hunt you.                                                                     --- Irão atrás de ti.
 You'll hunt me.                                                                       --- Tu irás atrás de mim.
 You'll condemn me.                                                                    --- Censurar-me-ás.
 Set the dogs on me.                                                                   --- Acirrar-me-ás os cães...
 Because that's what needs to happen.                                                  --- Porque é isso que precisa de acontecer.
-Because sometimes... the truth isn't good enough.                                     --- Porque às vezes... a verdade não é suficientemente boa.
+Because sometimes... ...the truth isn't good enough.                                  --- Porque às vezes... ... a verdade não é suficientemente boa.
 Sometimes people deserve more.                                                        --- Às vezes, as pessoas merecem mais.
 Sometimes people deserve to have their faith rewarded.                                --- Às vezes, as pessoas merecem ser recompensadas pela sua fé.
 Batman.                                                                               --- Batman!
@@ -1966,8 +2005,8 @@ Go, go!                                                                         
 Move!                                                                                 --- 
 He didn't do anything wrong.                                                          --- Ele não fez nada de mal!
 Because he's the hero Gotham deserves, but not the one it needs right now.            --- Porque é o herói que Gotham merece, mas não aquele que precisamos agora.
-So we'll hunt him... because he can take it. Because he's not a hero.                 --- Por isso, persegui-lo-emos, porque ele aguenta, porque não é um herói.
-He's a silent guardian... a watchful protector.                                       --- É um guardião silencioso e um protector vigilante.
+So we'll hunt him... ...because he can take it. Because he's not a hero.              --- Por isso, persegui-lo-emos, porque ele aguenta, porque não é um herói.
+He's a silent guardian... ...a watchful protector.                                    --- É um guardião silencioso e um protector vigilante.
 A dark knight.                                                                        --- Um cavaleiro negro.
 Subtitles By cHiBcHaKaN                                                               --- 
 

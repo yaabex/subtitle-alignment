@@ -222,7 +222,9 @@ There is something down there. I will bring it back for science!
 00:03:53,649 --> 00:03:54,991
 It's a puppy!
 
-43,976 >>
+59
+00:03:55,026 --> 00:03:58,905
+MUNTZ ALOFT: BREAKS 43,976 FEET ALTITUDE RECORD
 
 60
 00:03:58,940 --> 00:04:00,364

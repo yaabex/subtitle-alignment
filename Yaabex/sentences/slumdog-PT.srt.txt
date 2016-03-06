@@ -695,7 +695,7 @@ Dave!
 Por favor, só por cinco minutos.
 - Não posso.
 Senta-te aqui.
-Se o supervisor aparecer finge que estás numa chamada de um upgrade para... "Amigos e Família", eu sei.
+Se o supervisor aparecer finge que estás numa chamada de um upgrade para... ..."Amigos e Família", eu sei.
 - Yeah.
 Dois minutos.
 "Quem Quer Ser Milionário?" 
@@ -741,7 +741,7 @@ DESLIGADO
 Estou?
 Quem é?
 Estou a ligar da XL5 Comunicações senhor.
-Sendo um cliente de valor, estamos-lhe a ofe- recer uma actualização grátis de "Amigos e... Família" 
+Sendo um cliente de valor, estamos-lhe a ofe- recer uma actualização grátis de "Amigos e... ...Família" 
 Jamal?
 És tu, irmão?
 Onde é que estás?
@@ -1051,7 +1051,8 @@ Bem-vindos de volta ao "Quem Quer Ser Milionário".
 Posso dizer com segurança que hoje 
 é a maior noite das nossas vidas.
 Jamal Malik, o assistente de telefonista de Bombaím, já ganhou 10 milhões.
-Ele pode se ir embora com esse dinheiro ou pode fazer a maior aposta na história da televisão.Ir para a pergunta final e uns impressionantes 20 milhões de rupias.
+Ele pode se ir embora com esse dinheiro ou pode fazer a maior aposta na história da televisão.
+Ir para a pergunta final e uns impressionantes 20 milhões de rupias.
 Estás preparado para esta questão?
 Sim.
 - Jamal!

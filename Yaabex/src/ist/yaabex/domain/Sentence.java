@@ -37,8 +37,9 @@ public class Sentence {
 	}
 
 	public void concatenate(Sentence s) {
-		endTime = s.endTime;
-		text += s.text;
+		this.endTime = s.endTime;
+		this.text = this.text.replaceAll(">>", " ") + s.text;
+
 	}
 
 	public boolean continuesSentence(){
