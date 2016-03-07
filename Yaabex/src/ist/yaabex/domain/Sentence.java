@@ -39,6 +39,7 @@ public class Sentence {
 	public void concatenate(Sentence s) {
 		this.endTime = s.endTime;
 		this.text = this.text.replaceAll(">>", " ") + s.text;
+		this.text = this.text.replaceAll("(\\.+ )\\.+", "$1");
 
 	}
 

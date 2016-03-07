@@ -178,6 +178,8 @@ lsto é uma treta, meu.
 00:09:00,163 --> 00:09:01,956
 Acabaste de ser despedido.
 
+45
+00:09:04,376 --> 00:09:06,920
 Peças para Automóveis>>
 
 46
@@ -2551,10 +2553,6 @@ e desrespeitou toda a minha família porque alguém me denunciou.
 639
 01:14:30,378 --> 01:14:32,839
 E sabes que mais? Foste tu!
-
-640
-01:14:46,060 --> 01:14:47,603
-SEGURANÇA>>
 
 641
 01:14:57,196 --> 01:14:59,240

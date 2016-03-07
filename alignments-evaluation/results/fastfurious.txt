@@ -73,10 +73,10 @@ Jesse, give me the wallet.                                                      
 - No, man. Don't come around here again.                                              --- Não voltes aqui.
 Hey, man. This is bullshit.                                                           --- -Trabalhas para o Harry, certo?
 - You work for Harry, right?                                                          --- -Sim, acabei de começar.
-- Yeah. I just started.                                                               --- Acabaste de ser despedido.Peças para Automóveis
-You were just fired.                                                                  --- Acabaste de ser despedido.Peças para Automóveis
+- Yeah. I just started.                                                               --- Acabaste de ser despedido.
+You were just fired.                                                                  --- Acabaste de ser despedido.
 Hey, Dominic.                                                                         --- 
-I appreciate what you did, in a big way.                                              --- Querem tudo o que ele tem.
+I appreciate what you did, in a big way.                                              --- 
 Dominic, I owe you.                                                                   --- Fico a dever-te uma.
 Brian, you're messing with my business.                                               --- Quando o Dominic conduz, é ouro.
 When Dominic drives, he's golden.                                                     --- Quando o Dominic conduz, é ouro.
@@ -129,7 +129,7 @@ This yours?                                                                     
 - I'm standing next to it.                                                            --- Tens de ir para a bicha.
 - That's funny.                                                                       --- 
 You know, Edwin happens to know a few things.                                         --- O Edwin até sabe umas coisas.
-And one of the things Edwin knows is: It's not how you stand by your car... ...it's how you race your car. --- E uma das coisas que ele sabe é: Não é como te pões junto ao teu carro, mas sim como corres com ele.
+And one of the things Edwin knows is: It's not how you stand by your car... it's how you race your car. --- E uma das coisas que ele sabe é: Não é como te pões junto ao teu carro, mas sim como corres com ele.
 You better learn that.                                                                --- É melhor aprenderes isso.
 Oh, shit.                                                                             --- Vai começar.
 Here they come.                                                                       --- Vai começar.
@@ -249,7 +249,7 @@ You're lucky that 100-shot of NOS didn't blow the welds on the intake.          
 - Almost had me?                                                                      --- -Diz-lhe, Dominic.
 - You tell him, Dominic.                                                              --- 
 Get out of here.                                                                      --- Desaparece daqui.
-Now, me and the mad scientist got to rip apart the block... ...and replace the piston rings you fried. --- Agora, eu e o cientista louco temos de abrir o motor... e mudar os pistões que derreteste.
+Now, me and the mad scientist got to rip apart the block... and replace the piston rings you fried. --- Agora, eu e o cientista louco temos de abrir o motor... e mudar os pistões que derreteste.
 Ask any racer.                                                                        --- A um verdadeiro.
 Any real racer.                                                                       --- 
 It don't matter if you win by an inch or a mile.                                      --- Não interessa se ganhas por um metro ou por um quilómetro.
@@ -436,14 +436,14 @@ Muse, why don't you make us four iced cappuccinos, please?                      
 - Come on. - Regular or decaf, Sarge?                                                 --- -Normal ou descafeínado, sargento?
 Decaf, I think.                                                                       --- Descafeínado, acho eu.
 Four hijackings in two months, and we have nothing.                                   --- Quatro assaltos a camiões em dois meses e nada temos.
-The DVD players and digital cameras are worth $1.2 million... ...which brings the grand total to $6 million plus. --- Os leitores de DVD e as câmaras digitais valem $1,2 milhões, o que totaliza mais de $6 milhões.
+The DVD players and digital cameras are worth $1.2 million... which brings the grand total to $6 million plus. --- Os leitores de DVD e as câmaras digitais valem $1,2 milhões, o que totaliza mais de $6 milhões.
 We're in the political crosshairs now, Brian.                                         --- Agora, estamos no meio das jogadas políticas, Brian.
 That's why you're undercover.                                                         --- 
 You want that detective badge fast, kid.                                              --- É por isso que estás infiltrado.
 And you want to know something?                                                       --- É por isso que estás infiltrado.
 The FBI can help, if you come through for us.                                         --- O FBl pode ajudar-te, se fores bem sucedido.
 What does the truckdriver say?                                                        --- O que diz o camionista?
-He gave us the same M.O.: Three Honda Civics, precision driving... ...the same green neon glow from under the chassis. --- O mesmo modus operandi: Três Honda Civic, condução de precisão... e o mesmo brilho verde de néon, debaixo do chassi.
+He gave us the same M.O.: Three Honda Civics, precision driving... the same green neon glow from under the chassis. --- O mesmo modus operandi: Três Honda Civic, condução de precisão... e o mesmo brilho verde de néon, debaixo do chassi.
 Lab says the skidmarks came back the same: Mashamoto ZX tires.                        --- O laboratório diz que as marcas dos pneus são as mesmas: pneus Mashamoto ZX.
 So, we know it's somebody in the street-racing world.                                 --- Se não resolvermos isto, os camionistas fazem justiça pelas próprias mãos.
 If we don't make this case, the truckers will take matters into their own hands.      --- Se não resolvermos isto, os camionistas fazem justiça pelas próprias mãos.
@@ -451,7 +451,7 @@ I tell them we're close.                                                        
 Are you going to make me a liar?                                                      --- Escuta, o que sabemos nós?
 Look, what do we know?                                                                --- Escuta, o que sabemos nós?
 We know this world revolves around Toretto, right?                                    --- Sabemos que este mundo gira á volta do Toretto, certo?
-I'm not saying that he's the one that's popping these trucks... ...but I can guarantee he knows who is. --- Não digo que seja ele quem assalta estes camiões, mas garanto que ele sabe quem foi.
+I'm not saying that he's the one that's popping these trucks... but I can guarantee he knows who is. --- Não digo que seja ele quem assalta estes camiões, mas garanto que ele sabe quem foi.
 It's just a matter of time until I win-                                               --- Se queres tempo, compra-o.
 You want time, buy the magazine.                                                      --- O Harry está a cooperar?
 We don't have time.                                                                   --- Nós não temos tempo.
@@ -461,7 +461,7 @@ Like a guy that'll do time for receiving stolen property if he doesn't.         
 What kind of vibe is he getting from Toretto?                                         --- Tem medo dele, mas acha que não é ele quem assalta os camiões.
 He's scared of him, but he doesn't think he's jacking trucks.                         --- Tem medo dele, mas acha que não é ele quem assalta os camiões.
 - He's too controlled for that.                                                       --- -É muito controlado para fazer isso.
-- Wait. Not that I want to contradict Harry's fine judge of character... ...but Toretto did hard time for nearly beating a guy to death. --- 
+- Wait. Not that I want to contradict Harry's fine judge of character... but Toretto did hard time for nearly beating a guy to death. --- 
 He's got nitrous oxide in his blood and a gas tank for a brain.                       --- Tem óxido nitroso no sangue e um depósito de gasolina como cérebro.
 Do not turn your back on him.                                                         --- Tanner, vou precisar de outro carro.
 Tanner, I'm gonna need another car.                                                   --- Tanner, vou precisar de outro carro.
@@ -493,7 +493,7 @@ Or more, if we have to overnight parts from Japan.                              
 There's a show down in the desert called Race Wars.                                   --- É onde tu vais correr.
 That's where you'll do it.                                                            --- É onde tu vais correr.
 When you're not working at Harry's, you're working here.                              --- Se não encontrares a ferramenta ideal nesta garagem, Sr. Arizona,
-If you can't find the right tool in this garage, Mr. Arizona... ...you don't belong near a car. --- Se não encontrares a ferramenta ideal nesta garagem, Sr. Arizona,  é porque não tens nada a ver com carros.
+If you can't find the right tool in this garage, Mr. Arizona... you don't belong near a car. --- Se não encontrares a ferramenta ideal nesta garagem, Sr. Arizona,  é porque não tens nada a ver com carros.
 He owns you now.                                                                      --- Agora, ele é o teu dono.
 Tell me what you think about this.                                                    --- Se não encontrares a ferramenta ideal nesta garagem, Sr. Arizona,
 Koni adjustables.                                                                     --- Amortecedores Koni.
@@ -514,7 +514,7 @@ You know, I was good in algebra and like math and shit.                         
 Everything else I failed.                                                             --- Deixei a escola.
 Dropped out of school.                                                                --- Não sei o que é.
 I don't know.                                                                         --- Chumbei no resto.
-It's just something about engines... ...that calms me down, you know.                 --- 
+It's just something about engines... that calms me down, you know.                    --- 
 - I'm outta here.                                                                     --- -Vamos, meu.
 - Come on, dog.                                                                       --- -Olá, Dom.
 - Yo, Dom. - Vince, get over here and give us a hand.                                 --- Parece que tens a ajuda que precisas, meu.
@@ -530,7 +530,7 @@ Because you were the first to reach in to get the chicken, you say grace.       
 - Spirit.                                                                             --- Espírito.
 Spirit.                                                                               --- -Espírito.
 Thank you.                                                                            --- Obrigado.
-Thank you for providing us with a direct port nitrous injection... ...four core intercoolers and ball-bearing turbos... ...and titanium valve springs. --- Obrigado por nos dares uma injecção directa de óxido nitroso, quatro intercoo/ers, rolamentos de esferas turbo... e válvulas da suspensão de titânio.
+Thank you for providing us with a direct port nitrous injection... four core intercoolers and ball-bearing turbos... and titanium valve springs. --- Obrigado por nos dares uma injecção directa de óxido nitroso, quatro intercoo/ers, rolamentos de esferas turbo... e válvulas da suspensão de titânio.
 - Thank you.                                                                          --- -Nada mal.
 - Amen.                                                                               --- -Ámen.
 - Not bad. - Amen.                                                                    --- -Nada mal.
@@ -565,7 +565,7 @@ Wash my car when you get done.                                                  
 - What was that?                                                                      --- Estou a falar com o puto.
 - No, Mia.                                                                            --- -Nada, Mia.
 I'm talking to the punk.                                                              --- Na verdade, pagaria para ver isso.
-Wear your favorite dress, 'cause when you're done... ...I'm putting you on the street where you belong, cutie. --- Põe o teu vestido preferido, pois quando acabares, vou levar-te á rua a que pertences, beleza.
+Wear your favorite dress, 'cause when you're done... I'm putting you on the street where you belong, cutie. --- Põe o teu vestido preferido, pois quando acabares, vou levar-te á rua a que pertences, beleza.
 Is this thing broken?                                                                 --- Que se passa com isto?
 What's wrong with this thing?                                                         --- Que se passa com isto?
 What was that Cuban restaurant you wanted to take me to?                              --- Qual era o restaurante cubano onde querias levar-me?
@@ -621,8 +621,8 @@ Shit. What I'm doing?                                                           
 Dom.                                                                                  --- 
 I owe you a 10-second car.                                                            --- Eu devo-te um carro que faça 10 segundos.
 And what this is about, this is about Race Wars.                                      --- E é do que se trata, é acerca da Race Wars.
-I just went in there, and Hector is gonna be running... ...three Honda Civics with Spoon engines. --- Eu fui lá e o Hector vai concorrer... com três Honda Civic com motores Spoon.
-And on top of that, he just came into Harry's... ...and he ordered three T66 turbos, with NOS... ...and a MoTeC system exhaust. --- E ainda por cima, ele foi ao Harry... e encomendou três T66 turbos com óxido nitroso... e um sistema de escape MoTeC.
+I just went in there, and Hector is gonna be running... three Honda Civics with Spoon engines. --- Eu fui lá e o Hector vai concorrer... com três Honda Civic com motores Spoon.
+And on top of that, he just came into Harry's... and he ordered three T66 turbos, with NOS... and a MoTeC system exhaust. --- E ainda por cima, ele foi ao Harry... e encomendou três T66 turbos com óxido nitroso... e um sistema de escape MoTeC.
 So, what are you saying?                                                              --- Então, o que queres dizer?
 You're gonna check everybody's shit out, one garage after another?                    --- Vais verificar toda a gente e todas as garagens?
 Yeah.                                                                                 --- Sim.
@@ -636,7 +636,7 @@ Okay. You stand watch.                                                          
 Yo, Dominic.                                                                          --- Não há motores.
 There's no engines.                                                                   --- Com que esperam correr?
 What are they planning on racing with, hopes and dreams?                              --- Eles são traiçoeiros como tudo... e têm dinheiro para comprar tudo.
-I don't know, but they're sneaky as shit... ...and they've got enough money to buy anything. --- Eles são traiçoeiros como tudo... e têm dinheiro para comprar tudo.
+I don't know, but they're sneaky as shit... and they've got enough money to buy anything. --- Eles são traiçoeiros como tudo... e têm dinheiro para comprar tudo.
 What?                                                                                 --- O quê?
 We got a wolf pack.                                                                   --- Chegou uma alcateia.
 It's Johnny Tran, and he's coming your way really fast.                               --- É o Johnny Tran e aproxima-se de ti, com rapidez.
@@ -671,7 +671,7 @@ Kiss my shoes?                                                                  
 Let's go get our engines.                                                             --- Vamos buscar os nossos motores.
 My superiors are flying in from D.C., in two days.                                    --- Os meus superiores vêm de D.C. daqui a dois dias.
 I want something to show.                                                             --- Quero algo para lhes mostrar.
-We've got a fence with a lube hose in his mouth... ...automatic weapons, priors on every one of these Asian punks... ...a garage full of DVD players and generally psychotic behavior. --- Temos um receptador com uma mangueira na boca, armas automáticas, antecedentes em todos estes putos asiáticos, uma garagem cheia de leitores de DVD e comportamento psicótico geral.
+We've got a fence with a lube hose in his mouth... automatic weapons, priors on every one of these Asian punks... a garage full of DVD players and generally psychotic behavior. --- Temos um receptador com uma mangueira na boca, armas automáticas, antecedentes em todos estes putos asiáticos, uma garagem cheia de leitores de DVD e comportamento psicótico geral.
 Tell me why we shouldn't move on Tran now and figure it out later?                    --- Diz-me porque não vamos já prender o Tran e pensar nisso depois?
 Because all we have is behavior.                                                      --- Porque tudo o que temos é comportamento.
 Let me get hard evidence, because what we have now is just-                           --- Deixa-me conseguir provas, pois o que temos agora é só...
@@ -748,8 +748,8 @@ He has to take the bus to work every day.                                       
 And they banned me from the tracks for life.                                          --- E baniram-me das pistas para sempre.
 I live my life a quarter-mile at a time.                                              --- Vivo a minha vida aos 500 metros de cada vez.
 Nothing else matters.                                                                 --- 
-Not the mortgage, not the store... ...not my team and all their bullshit.             --- Nem a hipoteca, nem a loja, nem a minha equipa e todas as suas merdas.
-For those 10 seconds or less... ...I'm free.                                          --- Pois nesses 10 segundos ou menos, eu sou livre.
+Not the mortgage, not the store... not my team and all their bullshit.                --- Nem a hipoteca, nem a loja, nem a minha equipa e todas as suas merdas.
+For those 10 seconds or less... I'm free.                                             --- Pois nesses 10 segundos ou menos, eu sou livre.
 So, how is it, anyways, that the gang came to be?                                     --- Vivo a minha vida aos 500 metros de cada vez.
 - What?                                                                               --- -O quê?
 - The gang.                                                                           --- 
@@ -798,7 +798,7 @@ Yes, sir.                                                                       
 Yeah.                                                                                 --- -Sim.
 I got it.                                                                             --- Sim, senhor, eu sei, mas...
 The DVD players were purchased legally.                                               --- Os leitores de DVD foram comprados legalmente.
-All we've got are a couple of low-rent weapons charges... ...and some outstanding speeding tickets. --- Tudo o que temos é um par de acusações por posse de arma... e multas por excesso de velocidade por pagar.
+All we've got are a couple of low-rent weapons charges... and some outstanding speeding tickets. --- Tudo o que temos é um par de acusações por posse de arma... e multas por excesso de velocidade por pagar.
 - So, they're out.                                                                    --- 
 - Yeah.                                                                               --- -Sim.
 Father bailed them out.                                                               --- -Então, eles saem.
@@ -809,7 +809,7 @@ Is this the kind of intelligence I can expect from you, O'Conner?               
 - No, you can't put this on me-                                                       --- -Não me pode culpar disto...
 No, wait a minute.                                                                    --- Espera um pouco.
 Let me tell you. I don't care if you have to aim at someone and blow your cover to smithereens. --- 
-You've got 36 hours to crack this bastard... ...or you might want to think about another career. --- Tens 36 horas para entalar este sacana, ou terás de pensar noutra profissão.
+You've got 36 hours to crack this bastard... or you might want to think about another career. --- Tens 36 horas para entalar este sacana, ou terás de pensar noutra profissão.
 It's Toretto, Brian.                                                                  --- Sempre foi o Toretto.
 It always has been Toretto.                                                           --- O Tran e o Hector são...
 Tran and Hector are...                                                                --- Eles são só fumaça.
@@ -845,7 +845,7 @@ What do you mean, like me?                                                      
 - What does that mean, like me?                                                       --- -O que queres dizer com isso?
 - Don't try- I'm not stupid, all right?                                               --- Eu não sou estúpido, sabias?
 I know that there's no way you paid for all that shit you got under the hood-         --- Eu sei que não podes pagar por tudo aquilo que tens debaixo da capota...
-There's no way you paid for what's under the hood of those cars... ...by doing tune-ups and selling groceries. --- Não podes pagar pelo que tens debaixo da capota desses carros, afinando motores e vendendo artigos de mercearia.
+There's no way you paid for what's under the hood of those cars... by doing tune-ups and selling groceries. --- Não podes pagar pelo que tens debaixo da capota desses carros, afinando motores e vendendo artigos de mercearia.
 Whatever it is you're in on, I want in on it, too.                                    --- Seja o que for que estejas a fazer, também quero entrar.
 - Well, what is this?                                                                 --- -O que é isto?
 - Read it.                                                                            --- -Para que serve isto?
@@ -914,7 +914,7 @@ Go fetch your car?                                                              
 We're not on your block.                                                              --- Não estamos no teu bairro.
 You better watch who you talk to like that.                                           --- 
 Toretto!                                                                              --- Toretto!
-SWAT came into my house... ...disrespected my whole family, because somebody narked me out. --- A polícia especial foi a minha casa... e desrespeitou toda a minha família porque alguém me denunciou.
+SWAT came into my house... disrespected my whole family, because somebody narked me out. --- A polícia especial foi a minha casa... e desrespeitou toda a minha família porque alguém me denunciou.
 And you know what?                                                                    --- E sabes que mais?
 It was you!                                                                           --- Foste tu!
 Get off of him, man.                                                                  --- Larga-o, meu.
@@ -955,8 +955,8 @@ But this isn't about you and me.                                                
 Your brother's out there to pull a job.                                               --- O teu irmão vai fazer um assalto.
 We're running out of time.                                                            --- Tens de acreditar em mim.
 Those truckers aren't laying down anymore.                                            --- 
-Maybe they'll make it through tonight, but every law enforcement agency... ...is coming down on them. --- Pode ser que escapem hoje, mas todas as forças policiais... vão cair em cima deles.
-If you don't want anything to happen to them... ...you have to get in that car with me right now and help me. --- Se quiseres que nada lhes aconteça, tens de entrar naquele carro comigo e ajudar-me.
+Maybe they'll make it through tonight, but every law enforcement agency... is coming down on them. --- Pode ser que escapem hoje, mas todas as forças policiais... vão cair em cima deles.
+If you don't want anything to happen to them... you have to get in that car with me right now and help me. --- Se quiseres que nada lhes aconteça, tens de entrar naquele carro comigo e ajudar-me.
 Mia, you are the only person that can help me right now.                              --- Mia, és a única pessoa que me pode ajudar agora.
 Please, Mia.                                                                          --- Ajuda-me.
 Please help me.                                                                       --- Por favor, Mia.
@@ -986,7 +986,7 @@ This is the mother lode. We've been on this for three months.                   
 After this, it's a long vacation for everyone.                                        --- Depois deste, são férias grandes para todos.
 - Let's go.                                                                           --- -Espero que sim.
 - I hope so.                                                                          --- -Espero que sim.
-Listen, the other night I had a dream... ...that you and I were on the beach in Mexico. --- Na outra noite sonhei... que tu e eu estávamos na praia, no México.
+Listen, the other night I had a dream... that you and I were on the beach in Mexico.  --- Na outra noite sonhei... que tu e eu estávamos na praia, no México.
 - Really?                                                                             --- -A sério.
 - Really.                                                                             --- -A sério.
 Come on. Let's make this happen.                                                      --- Vamos tornar isso realidade.

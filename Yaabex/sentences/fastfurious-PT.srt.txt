@@ -77,7 +77,8 @@ Não voltes aqui.
 lsto é uma treta, meu.
 -Trabalhas para o Harry, certo?
 -Sim, acabei de começar.
-Acabaste de ser despedido.Peças para Automóveis 
+Acabaste de ser despedido.
+Peças para Automóveis 
 Dominic, gostei muito do que fizeste.
 Fico a dever-te uma.
 Brian, estás a interferir no meu negócio.
@@ -573,7 +574,8 @@ Quando acabares, lava-me o carro.
 -O que foi?
 -Nada, Mia.
 Estou a falar com o puto.
-Põe o teu vestido preferido, pois quando acabares, vou levar-te á rua a que pertences, beleza.lsto está partido?
+Põe o teu vestido preferido, pois quando acabares, vou levar-te á rua a que pertences, beleza.
+lsto está partido?
 Que se passa com isto?
 Qual era o restaurante cubano onde querias levar-me?
 Aquele que tinha o picadi//o e... 
@@ -933,7 +935,6 @@ Toretto!
 A polícia especial foi a minha casa... e desrespeitou toda a minha família porque alguém me denunciou.
 E sabes que mais?
 Foste tu!
-SEGURANÇA 
 Larga-o, meu.
 Acalma-te, Dom.
 Vá lá!

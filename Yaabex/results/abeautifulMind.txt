@@ -1,12 +1,12 @@
 Mathematicians won the war.                                                           --- Os matemáticos venceram a guerra.
-Mathematicians broke the Japanese codes... and built the A-bomb.                      --- Os matemáticos decifraram os códigos japoneses... e construíram a bomba atómica.
+Mathematicians broke the Japanese codes... ...and built the A-bomb.                   --- Os matemáticos decifraram os códigos japoneses... e construíram a bomba atómica.
 Mathematicians, like you.                                                             --- Matemáticos como vocês.
 The stated goal of the Soviets is global Communism.                                   --- A meta estabelecida pelos soviéticos é o comunismo global.
-In medicine or economics... in technology or space... battle lines are being drawn.   --- Na medicina ou na economia, na tecnologia ou no espaço, começam a criar-se linhas de batalha.
-To triumph, we need results... publishable, applicable results.                       --- Para triunfarmos, precisamos de resultados... que possam ser anunciados e utilizados.
+In medicine or economics... ...in technology or space... ...battle lines are being drawn. --- Na medicina ou na economia, na tecnologia ou no espaço, começam a criar-se linhas de batalha.
+To triumph, we need results... ...publishable, applicable results.                    --- Para triunfarmos, precisamos de resultados... que possam ser anunciados e utilizados.
 Now who among you will be the next Morse?                                             --- Qual de vós será o próximo Morse?
 The next Einstein?                                                                    --- O próximo Einstein?
-Who among you will be the vanguard of democracy... freedom, and discovery?            --- Qual de vós será a vanguarda da democracia, liberdade e descoberta?
+Who among you will be the vanguard of democracy... ...freedom, and discovery?         --- Qual de vós será a vanguarda da democracia, liberdade e descoberta?
 Today, we bequeath America's future into your able hands.                             --- Hoje, depositamos o futuro da América nas vossas mãos capazes.
 Welcome to Princeton, gentlemen.                                                      --- Bem-vindos a Princeton, senhores.
 It's not enough Hansen won the Carnegie Scholarship.                                  --- Não basta o Hansen ter ganho a Bolsa Carnegie.
@@ -52,10 +52,10 @@ Well, Martin Hansen.                                                            
 It is Martin, isn't it?                                                               --- Chama-se Martin, não é?
 Why, yes, John, it is.                                                                --- Sim, John.
 I imagine you're getting quite used to miscalculation.                                --- Julgo que deve estar a habituar-se aos erros de cálculo.
-I've read your preprints... both of them.                                             --- Li as suas pré-publicações, as duas.
-The one on Nazi ciphers... and the other one on nonlinear equations... and I am supremely confident that there is not a single seminal... or innovative idea in either one of them. --- A das cifras nazis... e a das equações não lineares. Tenho a certeza absoluta que não existe uma única ideia produtiva... ou inovadora em qualquer delas.
+I've read your preprints... ...both of them.                                          --- Li as suas pré-publicações, as duas.
+The one on Nazi ciphers... ...and the other one on nonlinear equations... ...and I am supremely confident that there is not a single seminal... ...or innovative idea in either one of them. --- A das cifras nazis... e a das equações não lineares. Tenho a certeza absoluta que não existe uma única ideia produtiva... ou inovadora em qualquer delas.
 Enjoy your punch.                                                                     --- Bom ponche.
-Gentlemen, meet John Nash... the mysterious West Virginia genius.                     --- Senhores, apresento-vos o John Nash, o génio misterioso da Virgínia do Oeste.
+Gentlemen, meet John Nash... ...the mysterious West Virginia genius.                  --- Senhores, apresento-vos o John Nash, o génio misterioso da Virgínia do Oeste.
 The other winner of the distinguished Carnegie Scholarship.                           --- O outro vencedor da notável Bolsa Carnegie.
 - Okay.                                                                               --- - Está bem.
 - Yeah?                                                                               --- - Foi ele?
@@ -64,9 +64,9 @@ Oh, Christ.                                                                     
 The prodigal roommate arrives.                                                        --- O companheiro pródigo chegou.
 Roommate?                                                                             --- Companheiro?
 Oh, God, no.                                                                          --- Meu Deus, não.
-Did you know that having a hangover... is not having enough water in your body... to run your Krebs cycle? --- Sabias que estar de ressaca...  é não ter água suficiente no organismo... para activar o ciclo de Krebs?
+Did you know that having a hangover... ...is not having enough water in your body... ...to run your Krebs cycle? --- Sabias que estar de ressaca...  é não ter água suficiente no organismo... para activar o ciclo de Krebs?
 Which is exactly what happens to you when you're dying of thirst.                     --- Que é exactamente o que nos acontece quando morremos de sede.
-So, dying of thirst... would probably feel... pretty much like the hangover that finally bloody kills you. --- Assim, morrer de sede... talvez seja... muito parecido com a ressaca que acaba por nos matar.
+So, dying of thirst... ...would probably feel... ...pretty much like the hangover that finally bloody kills you. --- Assim, morrer de sede... talvez seja... muito parecido com a ressaca que acaba por nos matar.
 John Nash?                                                                            --- És o John Nash?
 Hello.                                                                                --- Olá.
 Charles Herman.                                                                       --- Charles Herman.
@@ -78,8 +78,8 @@ I'm almost human again.                                                         
 Officer, I saw the driver who hit me.                                                 --- Sr. Polícia, vi o condutor que me atropelou.
 His name was Johnny Walker.                                                           --- Chamava-se Johnny Walker.
 Whew.                                                                                 --- 
-Well, I got in last night in time for... English department cocktails.                --- Entrei ontem à noite, a tempo... dos cocktails à inglesa.
-Cock was mine... the tail belonged to a particularly lovely young thing with a passion for... D.H. Lawrence. --- O cock era meu... e o tail pertencia a uma jovem muito bela, apaixonada por...  D.H. Lawrence.
+Well, I got in last night in time for... ...English department cocktails.             --- Entrei ontem à noite, a tempo... dos cocktails à inglesa.
+Cock was mine... ...the tail belonged to a particularly lovely young thing with a passion for... ...D.H. Lawrence. --- O cock era meu... e o tail pertencia a uma jovem muito bela, apaixonada por...  D.H. Lawrence.
 You're not easily distracted, are you?                                                --- Não te distrais facilmente, pois não?
 - I'm here to work.                                                                   --- - Estou aqui para trabalhar.
 - Are you?                                                                            --- - Estás?
@@ -89,13 +89,13 @@ Crikey!                                                                         
 Is my roommate a dick?                                                                --- O meu companheiro é idiota?
 Hmm?                                                                                  --- 
 Listen.                                                                               --- Escuta.
-If we can't break the ice... how about we drown it?                                   --- Se não conseguimos quebrar o gelo, o que achas de o afogarmos?
+If we can't break the ice... ...how about we drown it?                                --- Se não conseguimos quebrar o gelo, o que achas de o afogarmos?
 So what's your story?                                                                 --- Qual é a tua história?
 You the poor kid that never got to go to Exeter or Andover?                           --- És o pobre miúdo que nunca pôde ir para o liceu Exeter ou Andover?
 Despite my privileged upbringing, I'm well-balanced.                                  --- Apesar da educação privilegiada, sou bem equilibrado.
 I have a chip on both shoulders.                                                      --- Tenho pedras nas duas mãos.
 Maybe you're just better with the old integers than you are with people.              --- Talvez lides melhor com números inteiros do que com pessoas.
-My first grade teacher said I was born with two helpings of brain... but only half a helping of heart. --- A professora do primeiro ano disse-me que nasci com duas doses de cérebro, mas só com meia dose de coração.
+My first grade teacher said I was born with two helpings of brain... ...but only half a helping of heart. --- A professora do primeiro ano disse-me que nasci com duas doses de cérebro, mas só com meia dose de coração.
 Wow! She sounds lovely!                                                               --- Ela parece encantadora!
 The truth is that I... I don't like people much. And they don't much like me.         --- Na verdade, não gosto muito das pessoas, nem elas gostam muito de mim.
 But why, with all your obvious wit and charm?                                         --- Apesar dessa tua notória inteligência e charme?
@@ -105,9 +105,9 @@ And you know why?                                                               
 Because it's boring.                                                                  --- Porque é aborrecida.
 It's really boring.                                                                   --- Bastante mesmo.
 You know, half these schoolboys are already published?                                --- Sabes que metade dos estudantes já publicaram trabalhos?
-I cannot waste time with these classes and... these books.                            --- Não posso perder tempo com estas aulas e... estes livros.
+I cannot waste time with these classes and... ...these books.                         --- Não posso perder tempo com estas aulas e... estes livros.
 Memorizing the weaker assumptions of lesser mortals!                                  --- A memorizar as suposições mais débeis de mortais menores!
-I need to look through... to the governing dynamics. Find a truly original idea.      --- Tenho de estudar... a dinâmica de governo, de achar uma ideia mesmo original.
+I need to look through... ...to the governing dynamics. Find a truly original idea.   --- Tenho de estudar... a dinâmica de governo, de achar uma ideia mesmo original.
 That's the only way I'll ever distinguish myself.                                     --- Só assim é que me posso distinguir.
 - It's the only way that I'll ever...                                                 --- - Só assim é que serei...
 - Matter.                                                                             --- - Importante.
@@ -129,7 +129,7 @@ I'm hoping to extract an algorithm to define their movement.                    
 Oh.                                                                                   --- Maluco.
 Psycho.                                                                               --- Maluco.
 I thought you dropped out.                                                            --- Pensei que tivesses desistido.
-You ever going to go to class or...                                                   --- Pensas ir mesmo às aulas ou... 
+You ever going to go to class or...                                                   --- Pensas ir mesmo às aulas ou...
 Classes will dull your mind.                                                          --- As aulas entorpecem-nos a mente.
 Destroy the potential for authentic creativity.                                       --- Destroem o potencial de uma criatividade verdadeira.
 Oh, I didn't know that.                                                               --- Não sabia disso.
@@ -145,7 +145,7 @@ Pressed and folded.                                                             
 Let me ask you something, John.                                                       --- Deixa-me perguntar-te uma coisa.
 Be my guest, Martin.                                                                  --- Faz favor.
 Bender and Sol here correctly completed Allen's proof of Peron’s conjectures.         --- Eles completaram correctamente a prova do Allen sobre as conjecturas de Perron.
-Adequate work... without innovation.                                                  --- Um trabalho adequado, sem inovação.
+Adequate work... ...without innovation.                                               --- Um trabalho adequado, sem inovação.
 - I'm flattered.                                                                      --- - Sinto-me lisonjeado.
 You flattered?                                                                        --- 
 - Flattered.                                                                          --- - Também.
@@ -155,7 +155,7 @@ But Nash achievements: zero.                                                    
 I'm a patient man, Martin.                                                            --- 
 Is there an actual question coming?                                                   --- Vais mesmo fazer-me alguma pergunta?
 What if you never come up with your original idea?                                    --- E se nunca tiveres uma ideia original?
-How will it feel when I'm chosen for Wheeler... and you're not?                       --- Que sentirás se me escolherem para o Wheeler... e não a ti?
+How will it feel when I'm chosen for Wheeler... ...and you're not?                    --- Que sentirás se me escolherem para o Wheeler... e não a ti?
 What if you lose?                                                                     --- E se perderes?
 You should not have won.                                                              --- Não devias ter ganho.
 Hmm.                                                                                  --- 
@@ -174,13 +174,14 @@ John, you watched a mugging.                                                    
 That's weird.                                                                         --- Isso é esquisito.
 In competitive behavior, someone always loses.                                        --- No comportamento competitivo, há sempre um perdedor.
 Well, my niece knows that, John, and she's about this high.                           --- A minha sobrinha sabe disso e só tem esta altura.
-See, if I could derive an equilibrium... where prevalence is a non-singular event... where nobody loses.Imagine the effect that would have on conflict scenarios...  --- Gostava de conseguir um equilíbrio... onde a prevalência fosse um acontecimento colectivo... onde ninguém perdesse.Imagina o efeito que isso teria em cenários de conflito... 
+See, if I could derive an equilibrium... ...where prevalence is a non-singular event... ...where nobody loses. --- Gostava de conseguir um equilíbrio... onde a prevalência fosse um acontecimento colectivo... onde ninguém perdesse.
+Imagine the effect that would have on conflict scenarios...                           --- Imagina o efeito que isso teria em cenários de conflito...
 When did you last eat?                                                                --- Quando comeste pela última vez?
 - When did you last eat?                                                              --- - Quando comeste pela última vez?
 - Currency exchange?                                                                  --- - Troca de moeda?
 You know, food.                                                                       --- Refiro-me a comida.
 You have no respect for cognitive reverie, you know?                                  --- Não tens respeito pela fantasia cognitiva, sabes?
-Yes. But pizza...                                                                     --- Sim, mas a pizza... 
+Yes. But pizza...                                                                     --- Sim, mas a pizza...
 Now, pizza I have enormous respect for.                                               --- Tenho um respeito enorme pela pizza.
 And, of course, beer.                                                                 --- E, é claro, pela cerveja.
 I have respect for beer.                                                              --- Tenho respeito pela cerveja.
@@ -201,16 +202,17 @@ Neils is trying to get your attention.                                          
 - Come back a man.                                                                    --- - Volta como homem.
 - Fortune favors the brave.                                                           --- - A sorte favorece os valentes.
 - Bombs away.                                                                         --- - Atira-te.
-Gentlemen, might I remind you that my odds of success... dramatically improve with each attempt? This is going to be classic. --- Senhores, posso lembrar-lhes que as minhas hipóteses de sucesso... melhoram bastante com cada tentativa?Isto vai ser perfeito.
+Gentlemen, might I remind you that my odds of success... ...dramatically improve with each attempt? --- Senhores, posso lembrar-lhes que as minhas hipóteses de sucesso... melhoram bastante com cada tentativa?
+This is going to be classic.                                                          --- Isto vai ser perfeito.
 Maybe you want to buy me a drink.                                                     --- Talvez me queiras pagar uma bebida.
-I don't know what I'm required to say... in order for you to have intercourse with me... but could we assume that I've said all that? --- Não sei bem o que devo dizer... para que tenhas relações sexuais comigo, mas podemos presumir que disse tudo?
+I don't know what I'm required to say... ...in order for you to have intercourse with me... ...but could we assume that I've said all that? --- Não sei bem o que devo dizer... para que tenhas relações sexuais comigo, mas podemos presumir que disse tudo?
 Essentially we're talking about fluid exchange, right?                                --- Essencialmente, falamos de troca de fluidos, certo?
 So, could we just go straight to the sex?                                             --- Então, podemos ir directamente ao sexo?
 Oh, that was sweet.                                                                   --- Foi simpático.
 Have a nice night, asshole!                                                           --- Boa noite, parvalhão!
 Ladies, wait!                                                                         --- Senhoras, esperem!
 I especially liked the bit about fluid exchange.                                      --- Gostei imenso da parte sobre a troca de fluidos.
-It was... really charming.                                                            --- Foi... mesmo encantadora.
+It was... ...really charming.                                                         --- Foi... mesmo encantadora.
 Walk with me, John.                                                                   --- Acompanhe-me.
 I've been meaning to talk with you.                                                   --- Tenho querido falar consigo.
 The faculty is completing mid-year reviews.                                           --- A faculdade está a terminar os exames do meio do ano.
@@ -221,7 +223,7 @@ Actually, I don't really have a second choice, sir.                             
 Your fellows have attended classes.                                                   --- Os seus colegas têm assistido às aulas.
 They've written papers.                                                               --- Escreveram ensaios.
 They've published.                                                                    --- Publicaram-nos.
-I'm still searching, sir, for my...                                                   --- Ainda estou à procura da minha... 
+I'm still searching, sir, for my...                                                   --- Ainda estou à procura da minha...
 - Your original idea.                                                                 --- - Da sua ideia original.
 - Governing dynamics, sir.                                                            --- - Dinâmica de governo.
 It's very clever, John, but I'm afraid it's just not nearly good enough.              --- É bastante boa, mas receio que não seja suficiente.
@@ -231,7 +233,7 @@ I'm working on manifold embedding.                                              
 My bargaining stratagems show some promise.                                           --- As estratégias de troca parecem prometer.
 If you could just arrange another meeting with Professor Einstein.                    --- Bastava que me marcasse outro encontro com o Professor Einstein.
 I've repeatedly asked you for that.                                                   --- Pedi-lhe isso várias vezes.
-I'd be able to show him my revisions on his...                                        --- Mostrava-lhe as minhas revisões sobre a sua... 
+I'd be able to show him my revisions on his...                                        --- Mostrava-lhe as minhas revisões sobre a sua...
 John.                                                                                 --- John.
 Do you see what they're doing there?                                                  --- Vê o que eles estão ali a fazer?
 Congratulations, Professor Max.                                                       --- Parabéns, Professor Max.
@@ -256,7 +258,7 @@ I can't fail.                                                                   
 - I have to get something done.                                                       --- Tenho de fazer qualquer coisa.
 - John! - I can't keep staring into space.                                            --- - Não devo continuar a olhar para o espaço.
 - John, enough!                                                                       --- - Basta!
-Got to face the wall, follow their rules, read their books... do their classes.       --- Tenho de me virar para a parede, seguir as regras, ler os livros deles... e assistir às aulas.
+Got to face the wall, follow their rules, read their books... ...do their classes.    --- Tenho de me virar para a parede, seguir as regras, ler os livros deles... e assistir às aulas.
 Come on!                                                                              --- Vá lá!
 Go on, bust your head!                                                                --- Continua, dá cabo da cabeça!
 Kill yourself.                                                                        --- Mata-te!
@@ -269,7 +271,7 @@ What the hell is your problem?                                                  
 It's not my problem.                                                                  --- Não é meu.
 And it's not your problem.                                                            --- Nem é teu.
 It's their problem.                                                                   --- É deles.
-Your answer isn't, "face the wall." It's out there... where you've been working.      --- A tua resposta não é: "virar para a parede."  Está além, onde tens estado a trabalhar.
+Your answer isn't, "face the wall." It's out there... ...where you've been working.   --- A tua resposta não é: "virar para a parede."  Está além, onde tens estado a trabalhar.
 That was heavy.                                                                       --- Era pesada.
 That Isaac Newton fellow was right.                                                   --- O tal Isaac Newton tinha razão.
 - He was onto something.                                                              --- - Ele teve uma boa ideia.
@@ -289,7 +291,8 @@ Will she want a large wedding, you think?                                       
 Shall we say swords?                                                                  --- Fazemos um duelo?
 Pistols at dawn?                                                                      --- Pistolas ao amanhecer?
 Have you remembered nothing?                                                          --- Não se lembram de nada?
-Recall the lessons of Adam Smith... the father of modern economics."In competition... "...individual ambition serves the common good."  --- Lembrem-se das lições de Adam Smith, o pai da economia moderna."Em competição, a ambição individual serve o bem geral." 
+Recall the lessons of Adam Smith... ...the father of modern economics.                --- Lembrem-se das lições de Adam Smith, o pai da economia moderna.
+"In competition... "...individual ambition serves the common good."                   --- "Em competição, a ambição individual serve o bem geral."
 Every man for himself, gentlemen.                                                     --- Cada homem por si, senhores.
 Those who strike out are stuck with her friends.                                      --- Os que fracassarem, ficam com as amigas dela.
 I'm not going to strike out.                                                          --- Não vou fracassar.
@@ -297,24 +300,25 @@ You can lead a blonde to water, but you can't make her drink.                   
 Nobody move.                                                                          --- Ninguém se mexe.
 She's looking over here.                                                              --- Ela está a olhar para aqui.
 She's looking at Nash.                                                                --- Está a olhar para o Nash.
-Oh, God. He may have the upper hand now... but wait until he opens his mouth.         --- Meu Deus, a vantagem pode ser dele, mas esperem até abrir a boca.
+Oh, God. He may have the upper hand now... ...but wait until he opens his mouth.      --- Meu Deus, a vantagem pode ser dele, mas esperem até abrir a boca.
 Remember the last time?                                                               --- Lembras-te da última vez?
 That was one for the history books.                                                   --- Aquela ficou na história.
 - Adam Smith needs revision.                                                          --- - O Adam Smith tem de ser revisto.
 - What are you talking about?                                                         --- - De que estás a falar?
-If we all go for the blonde... we block each other.                                   --- Se todos nos atirarmos à loira, empatamo-nos uns aos outros.
+If we all go for the blonde... ...we block each other.                                --- Se todos nos atirarmos à loira, empatamo-nos uns aos outros.
 Not a single one of us is going to get her.                                           --- Nenhum de nós ficará com ela.
-So then we go for her friends... but they will all give us the cold shoulder because nobody likes to be second choice. --- Então atiramo-nos às amigas, mas não nos passarão cartão porque ninguém gosta de ser a segunda opção.
+So then we go for her friends... ...but they will all give us the cold shoulder because nobody likes to be second choice. --- Então atiramo-nos às amigas, mas não nos passarão cartão porque ninguém gosta de ser a segunda opção.
 Well, what if no one goes for the blonde?                                             --- E se ninguém se atirar à loira?
-We don't get in each other's way... and we don't insult the other girls.              --- Não nos empatamos uns aos outros, nem insultamos as outras raparigas.
+We don't get in each other's way... ...and we don't insult the other girls.           --- Não nos empatamos uns aos outros, nem insultamos as outras raparigas.
 That's the only way we win.                                                           --- É a única forma de ganharmos.
 That's the only way we all get laid.                                                  --- É a única forma de todos fazermos amor.
-Adam Smith said: "The best result comes... "...from everyone in the group doing what's best for himself."  --- O Adam Smith disse: "O melhor resultado surge... "quando cada elemento do grupo faz o que é melhor para si." 
+Adam Smith said: "The best result comes... "...from everyone in the group doing what's best for himself." --- O Adam Smith disse: "O melhor resultado surge... "quando cada elemento do grupo faz o que é melhor para si."
 Right. Incomplete.                                                                    --- Sim, mas incompleto.
 Okay?                                                                                 --- Percebes?
-Because the best result will come... from everyone in the group... doing what's best for himself... and the group.If this is some way for you to get the blonde, go to hell. --- Porque o melhor resultado surgirá... quando cada elemento do grupo... fizer o que é melhor para si... e para o grupo. Se isto é uma forma de ficares com a loira, vai para o diabo.
+Because the best result will come... ...from everyone in the group... ...doing what's best for himself... ...and the group. --- Porque o melhor resultado surgirá... quando cada elemento do grupo... fizer o que é melhor para si... e para o grupo.
+If this is some way for you to get the blonde, go to hell.                            --- Se isto é uma forma de ficares com a loira, vai para o diabo.
 Governing dynamics.                                                                   --- Dinâmica de governo.
-Adam Smith... was wrong.                                                              --- O Adam Smith... estava errado.
+Adam Smith... ...was wrong.                                                           --- O Adam Smith... estava errado.
 - Here we go.                                                                         --- - Lá vamos nós.
 - Careful, careful.                                                                   --- - Cuidado.
 Thank you.                                                                            --- Obrigado.
@@ -323,8 +327,8 @@ You do realize this flies in the face of 150 years of economic theory?          
 Yes, I do, sir.                                                                       --- Sim, tenho.
 - That's rather presumptuous, no?                                                     --- - É bastante presunçoso, não acha?
 - It is, sir.                                                                         --- - É, sim.
-Well, Mr. Nash... with a breakthrough of this magnitude... I'm confident you will get any placement you like. --- Bem, Sr. Nash, com um progresso desta magnitude, estou certo que conseguirá ser colocado onde quiser.
-Wheeler Labs... they'll ask you to recommend two team members.                        --- Os Wheeler Labs... irão pedir-lhe que recomende dois colegas de equipa.
+Well, Mr. Nash... ...with a breakthrough of this magnitude... ...I'm confident you will get any placement you like. --- Bem, Sr. Nash, com um progresso desta magnitude, estou certo que conseguirá ser colocado onde quiser.
+Wheeler Labs... ...they'll ask you to recommend two team members.                     --- Os Wheeler Labs... irão pedir-lhe que recomende dois colegas de equipa.
 Stills and Frank are excellent choices.                                               --- O Stills e o Frank são óptimas escolhas.
 Sol and Bender, sir.                                                                  --- O Sol e o Bender.
 Sol and Bender are extraordinary mathematicians.                                      --- Eles são matemáticos extraordinários.
@@ -378,7 +382,7 @@ What are the Russians moving, General?                                          
 Captain Rogers will escort you to the unrestricted area, Doctor.                      --- O Capitão Rogers vai acompanhá-lo até à área irrestrita, doutor.
 Thank you.                                                                            --- Obrigado.
 Dr. Nash, follow me, please.                                                          --- Siga-me, por favor.
-None of those who said they don't like the method... have told us any other method they could use that would be effective. --- Nenhum dos que afirmaram não gostar do método... nos indicaram um que pudesse ser eficaz.
+None of those who said they don't like the method... ...have told us any other method they could use that would be effective. --- Nenhum dos que afirmaram não gostar do método... nos indicaram um que pudesse ser eficaz.
 - It's Dr. Nash.                                                                      --- - É o Dr. Nash.
 - All right.                                                                          --- - Está bem.
 - Thank you, sir.                                                                     --- - Obrigado.
@@ -391,11 +395,11 @@ Two trips to the Pentagon in four years.                                        
 - That's two more than we've had.                                                     --- - São mais duas do que as nossas.
 - It gets better.                                                                     --- - Está a melhorar.
 Just got our latest scintillating assignment.                                         --- Acabei de receber o nosso recente trabalho brilhante.
-You know, the Russians have the H-bomb, the Nazis are repatriating South America... the Chinese have a standing army of 2.8 million... and I am doing stress tests on a dam. --- Sabem, os russos têm a bomba H, os nazis instalam-se na América do Sul, os chineses têm um exército de 2,8 milhões... e eu estou a fazer testes de esforço numa barragem.
+You know, the Russians have the H-bomb, the Nazis are repatriating South America... ...the Chinese have a standing army of 2.8 million... ...and I am doing stress tests on a dam. --- Sabem, os russos têm a bomba H, os nazis instalam-se na América do Sul, os chineses têm um exército de 2,8 milhões... e eu estou a fazer testes de esforço numa barragem.
 You made the cover of Fortune again.                                                  --- Tu voltaste a aparecer na capa da Fortune.
 Please note the use of the word "you," not "we."                                      --- Por favor, repara que usei a palavra "tu" e não "nós".
 That was supposed to be just me.                                                      --- Devia ser só eu.
-Not only do they rob me of the Fields' Medal... they put me on the cover of Fortune magazine with these hacks... these scholars of trivia. --- Não só me roubaram a Medalha Fields, como me colocaram na capa da revista Fortune com estes subalternos, estes estudantes de banalidades.
+Not only do they rob me of the Fields' Medal... ...they put me on the cover of Fortune magazine with these hacks... ...these scholars of trivia. --- Não só me roubaram a Medalha Fields, como me colocaram na capa da revista Fortune com estes subalternos, estes estudantes de banalidades.
 Exactly what's the difference between genius and most genius?                         --- Qual é exactamente a diferença entre génio e génio máximo?
 Quite a lot.                                                                          --- É enorme.
 He's your son.                                                                        --- Ele é teu filho.
@@ -404,7 +408,7 @@ Anyway, you've got 10 minutes.                                                  
 - Before your new class?                                                              --- - Antes da nova aula?
 Can I not get a note from a doctor or something?                                      --- Será que um doutor não me passa um atestado?
 You are a doctor, John, and no.                                                       --- Tu és um doutor e a resposta é "não".
-You know the drill, we get these beautiful facilities... MIT gets America's great minds of today, teaching their great minds of tomorrow. --- Conheces a rotina: nós obtemos estas belas instalações, o ITM obtém as grandes mentes de hoje, para ensinarem as de amanhã.
+You know the drill, we get these beautiful facilities... ...MIT gets America's great minds of today, teaching their great minds of tomorrow. --- Conheces a rotina: nós obtemos estas belas instalações, o ITM obtém as grandes mentes de hoje, para ensinarem as de amanhã.
 - Poor bastards.                                                                      --- - Pobres palermas.
 - Now, have a nice day at school.                                                     --- - Tem um bom dia na escola.
 The bell is ringing.                                                                  --- A campainha está a tocar.
@@ -412,7 +416,7 @@ The eager young minds of tomorrow.                                              
 Can we leave one open, Professor?                                                     --- Podemos deixar uma aberta, professor?
 It's really hot, sir.                                                                 --- Está muito calor.
 Your comfort comes second to my ability to hear my own voice.                         --- O teu bem-estar vem a seguir à capacidade de ouvir a minha própria voz.
-Personally... I think this class will be a waste of your... and what is infinitely worse... my time. --- Pessoalmente, penso que esta aula vai ser uma perda do vosso e, o que é infinitamente pior, do meu tempo.
+Personally... ...I think this class will be a waste of your... ...and what is infinitely worse... ...my time. --- Pessoalmente, penso que esta aula vai ser uma perda do vosso e, o que é infinitamente pior, do meu tempo.
 However, here we are.                                                                 --- Contudo, aqui estamos nós.
 So you may attend or not.                                                             --- Assim, podem assistir ou não.
 You may complete your assignments at your whim.                                       --- Podem completar os vossos trabalhos conforme queiram.
@@ -422,25 +426,26 @@ Excuse me!                                                                      
 - Excuse me! - Hey, hey!                                                              --- Desculpe!
 Hi!                                                                                   --- Olá!
 We have a little problem.                                                             --- Temos um pequeno problema.
-It's extremely hot in here with the windows closed... and extremely noisy with them open.I was wondering if there was any way you could... I don't know, maybe work someplace else for about 45 minutes? --- Isto fica bastante quente com as janelas fechadas... e extremamente barulhento com elas abertas. Será que há alguma hipótese de poderem... trabalhar noutro local durante cerca de 45 minutos?
+It's extremely hot in here with the windows closed... ....and extremely noisy with them open. --- Isto fica bastante quente com as janelas fechadas... e extremamente barulhento com elas abertas.
+I was wondering if there was any way you could... ...I don't know, maybe work someplace else for about 45 minutes? --- Será que há alguma hipótese de poderem... trabalhar noutro local durante cerca de 45 minutos?
 - Not a problem.                                                                      --- - Não há problema.
 - Thank you so much!                                                                  --- - Muito obrigada!
 - Break!                                                                              --- - Intervalo!
 - Got it!                                                                             --- - É para já!
 Let's go.                                                                             --- Vamos.
 Clean it up a little bit.                                                             --- Lavamo-nos um pouco.
-As you will find in multivariable calculus, there is often... a number of solutions for any given problem. --- Como verão no cálculo multivariável, há normalmente... várias soluções para qualquer problema.
-As I was saying, this problem here... will take some of you many months to solve.     --- Como dizia, este problema... levará muitos meses a ser resolvido por alguns de vós.
-For others among you... it will take you the term of your natural lives.              --- Para outros, levará toda a vida.
+As you will find in multivariable calculus, there is often... ...a number of solutions for any given problem. --- Como verão no cálculo multivariável, há normalmente... várias soluções para qualquer problema.
+As I was saying, this problem here... ...will take some of you many months to solve.  --- Como dizia, este problema... levará muitos meses a ser resolvido por alguns de vós.
+For others among you... ...it will take you the term of your natural lives.           --- Para outros, levará toda a vida.
 Professor Nash.                                                                       --- Professor Nash.
 William Parcher.                                                                      --- William Parcher.
-Big Brother... at your service.                                                       --- O Big Brother, ao seu dispor.
+Big Brother... ...at your service.                                                    --- O Big Brother, ao seu dispor.
 What can I do for the Department of Defense?                                          --- Em que posso ajudar o Ministério da Defesa?
 - Are you here to give me a raise?                                                    --- - Está aqui para me dar um aumento?
 - Let's take a walk.                                                                  --- - Vamos dar um passeio.
 - Impressive work at the Pentagon.                                                    --- - O trabalho no Pentágono foi excepcional.
 - Yes, it was.                                                                        --- - Sim, foi.
-Oppenheimer used to say, "A genius sees the answer before the question."              --- O Oppenheimer dizia: "Um génio vê a resposta antes da pergunta." 
+Oppenheimer used to say, "A genius sees the answer before the question."              --- O Oppenheimer dizia: "Um génio vê a resposta antes da pergunta."
 You knew Oppenheimer?                                                                 --- Conheceu-o?
 His project was under my supervision.                                                 --- Supervisionei o projecto dele.
 Which project?                                                                        --- Que projecto?
@@ -451,17 +456,17 @@ We incinerated 150,000 people in a heartbeat.                                   
 Great deeds come at great cost, Mr. Parcher.                                          --- As grandes obras custam caro, Sr. Parcher.
 Conviction, it turns out, is a luxury of those on the sidelines, Mr. Nash.            --- Ao que parece, a convicção é um luxo dos que estão nas linhas laterais.
 I'll try and keep that in mind.                                                       --- Tentarei lembrar-me disso.
-So, John, no family... no close friends.                                              --- Então, não tem família, nem amigos íntimos.
+So, John, no family... ...no close friends.                                           --- Então, não tem família, nem amigos íntimos.
 - Why is that?                                                                        --- - Porquê?
 - I like to think it's because I'm a Ione wolf.                                       --- - Julgo que é por eu ser um solitário.
 But mainly it's because people don't like me.                                         --- Mas é sobretudo porque as pessoas não gostam de mim.
-There are certain endeavors... where your lack of personal connection would be considered an advantage. --- Há certos empreendimentos... em que a falta de ligação pessoal é considerada uma vantagem.
+There are certain endeavors... ...where your lack of personal connection would be considered an advantage. --- Há certos empreendimentos... em que a falta de ligação pessoal é considerada uma vantagem.
 - This is a secure area.                                                              --- - Esta é uma área interdita.
 - They know me.                                                                       --- - Eles conhecem-me.
 Have you ever been here?                                                              --- Já aqui esteve?
 We were told in our initial briefing these warehouses were abandoned.                 --- Nas instruções iniciais, disseram-nos que eram armazéns abandonados.
 That's not precisely accurate.                                                        --- Não são bem isso.
-By telling you this... I am increasing your security clearance to top secret.         --- Ao contar-lhe o que lhe vou dizer, aumento o seu acesso a informações secretas.
+By telling you this... ...I am increasing your security clearance to top secret.      --- Ao contar-lhe o que lhe vou dizer, aumento o seu acesso a informações secretas.
 Disclosure of secure information can result in imprisonment.                          --- Revelar informações confidenciais pode resultar em prisão.
 Get it?                                                                               --- Percebeu?
 What operation?                                                                       --- Qual é a operação?
@@ -472,13 +477,13 @@ The Soviets reached this facility before we did, and we lost the damn thing.    
 The routing orders at the Pentagon.                                                   --- As ordens de marcha no Pentágono.
 They were about this, weren't they?                                                   --- Referiam-se a isto, não era?
 The Soviets aren't as unified as people believe.                                      --- Os soviéticos não são tão unidos como se pensa.
-A faction of the Red Army calling itself Novaya Svoboda... the "New Freedom," has control of the bomb... and intends to detonate it on U.S. soil. --- Uma facção do Exército Vermelho, que se intitula Novaya Svoboda, ou "Nova Liberdade", tem a bomba em seu poder... e pretende detoná-la em solo americano.
+A faction of the Red Army calling itself Novaya Svoboda... ...the "New Freedom," has control of the bomb... ...and intends to detonate it on U.S. soil. --- Uma facção do Exército Vermelho, que se intitula Novaya Svoboda, ou "Nova Liberdade", tem a bomba em seu poder... e pretende detoná-la em solo americano.
 Their plan is to incur maximum civilian casualties.                                   --- O plano deles é causar o máximo de vítimas civis.
 Man is capable of as much atrocity as he has imagination.                             --- O Homem é capaz de atrocidades tão grandes quanto a sua imaginação.
 New Freedom has sleeper agents here in the U.S.                                       --- A Nova Liberdade tem espiões aqui nos E.U.A.
 McCarthy is an idiot, but, unfortunately, that doesn't make him wrong.                --- O McCarthy é um idiota, mas, infelizmente, não significa que esteja errado.
-New Freedom communicates to its agents... through codes imbedded in newspapers and magazines... and that's where you come in. --- A Nova Liberdade contacta os agentes... através de códigos inseridos em jornais e revistas... e é aí que você entra.
-You see, John, what distinguishes you... is that you are, quite simply... the best natural code-breaker I have ever seen. --- O que o distingue...  é o facto de você ser, simplesmente, o melhor descodificador natural que jamais vi.
+New Freedom communicates to its agents... ...through codes imbedded in newspapers and magazines... ...and that's where you come in. --- A Nova Liberdade contacta os agentes... através de códigos inseridos em jornais e revistas... e é aí que você entra.
+You see, John, what distinguishes you... ...is that you are, quite simply... ...the best natural code-breaker I have ever seen. --- O que o distingue...  é o facto de você ser, simplesmente, o melhor descodificador natural que jamais vi.
 What exactly is it that you would like me to do?                                      --- O que querem exactamente que eu faça?
 Commit this list of periodicals to memory.                                            --- Memorize esta lista de publicações periódicas.
 Scan each new issue, find any hidden codes, decipher them.                            --- Examine cada uma delas, descubra os códigos escondidos e decifre-os.
@@ -502,26 +507,26 @@ Everyone waited half an hour.                                                   
 - For?                                                                                --- - Por?
 - Class.                                                                              --- - Pela aula.
 You missed class today.                                                               --- Hoje faltou à aula.
-Oh. I suspect that... nobody missed me.                                               --- 
-The problem that you left on the board... I solved it.                                --- O problema que deixou no quadro, eu resolvi-o.
+Oh. I suspect that... ...nobody missed me.                                            --- 
+The problem that you left on the board... ...I solved it.                             --- O problema que deixou no quadro, eu resolvi-o.
 - No, you didn't.                                                                     --- - Não, não resolveu.
 - You didn't even look.                                                               --- - Nem sequer olhou.
 I never said that the vector fields were rational functions.                          --- Nunca disse que os campos vectoriais eram funções racionais.
-Your solution is elegant. Though on this particular occasion... ultimately incorrect. --- A sua solução é elegante, embora, desta vez, seja incorrecta.
+Your solution is elegant. Though on this particular occasion... ...ultimately incorrect. --- A sua solução é elegante, embora, desta vez, seja incorrecta.
 - You're still here.                                                                  --- - Ainda está aqui.
 - I'm still here.                                                                     --- - Sim, estou.
 Why?                                                                                  --- Porquê?
-I'm wondering, Professor Nash... if I can ask you to dinner.                          --- Professor Nash, posso convidá-lo para jantar?
+I'm wondering, Professor Nash... ...if I can ask you to dinner.                       --- Professor Nash, posso convidá-lo para jantar?
 You do eat, don't you?                                                                --- O senhor come, não é?
 On occasion, yeah.                                                                    --- Ocasionalmente, sim.
 Table for one.                                                                        --- Mesa para um.
-Prometheus alone chained to the rock... with the bird circling overhead, you know how it is. --- Prometeu acorrentado à rocha, com o pássaro a esvoaçar sobre a cabeça.
-No, I expect that you wouldn't know...                                                --- Não, penso que não deve saber... 
+Prometheus alone chained to the rock... ...with the bird circling overhead, you know how it is. --- Prometeu acorrentado à rocha, com o pássaro a esvoaçar sobre a cabeça.
+No, I expect that you wouldn't know...                                                --- Não, penso que não deve saber...
 Leave your address with my office.                                                    --- Deixe a sua morada no meu escritório.
-I'll pick you up Friday... at 8:00 and we'll eat.                                     --- Irei buscá-la na sexta-feira...  às 20:00 e comeremos.
+I'll pick you up Friday... ...at 8:00 and we'll eat.                                  --- Irei buscá-la na sexta-feira...  às 20:00 e comeremos.
 One more thing.                                                                       --- Mais uma coisa.
 Do you have a name, or should I just keep calling you "miss"?                         --- Tem nome, ou devo continuar a tratá-la por "menina"?
-Governor...                                                                           --- Governador, 
+Governor...                                                                           --- Governador,
 - ...may I present...                                                                 --- - apresento-lhe...
 - Miss Alicia Larde.                                                                  --- - Menina Alicia Larde.
 Professor, please. You and the governor.                                              --- Por favor, o senhor e o governador.
@@ -529,7 +534,7 @@ Wait, one second.                                                               
 I'm sorry.                                                                            --- Desculpe.
 I want a copy of this.                                                                --- Quero uma cópia disto.
 First big date and all, you know.                                                     --- A primeira saída importante.
-So, you boys need to look good... which is not a state you find yourselves in altogether naturally. --- Por isso, têm de ter bom aspecto, o que não é um estado em que se encontrem naturalmente.
+So, you boys need to look good... ...which is not a state you find yourselves in altogether naturally. --- Por isso, têm de ter bom aspecto, o que não é um estado em que se encontrem naturalmente.
 There.                                                                                --- Pronto.
 Better.                                                                               --- Está melhor.
 - I'm surprising him.                                                                 --- - Estou a surpreendê-lo.
@@ -538,7 +543,7 @@ Professor.                                                                      
 God must be a painter.                                                                --- Deus deve ser pintor.
 Why else would we have so many colors?                                                --- Por que outro motivo teríamos tantas cores?
 So you're a painter?                                                                  --- Então, é pintora?
-That's not actually what I said... but, yes, I am.                                    --- Não foi bem isso que eu disse, mas, sim, sou.
+That's not actually what I said... ...but, yes, I am.                                 --- Não foi bem isso que eu disse, mas, sim, sou.
 Here.                                                                                 --- Aqui.
 Me.                                                                                   --- Para mim.
 Your date.                                                                            --- O seu par.
@@ -575,13 +580,15 @@ What would you like?                                                            
 You don't talk much, do you?                                                          --- Não falas muito, pois não?
 I can't talk to you about my work, Alicia.                                            --- Não posso falar do meu trabalho.
 I don't mean work.                                                                    --- Não me refiro ao trabalho.
-I find that polishing my interactions... in order to make them sociable requires a tremendous effort.I have a tendency to expedite information flow... by being direct. --- Acho que polir as minhas interacções... para as poder tornar sociáveis, requer um tremendo esforço. Tenho tendência para acelerar o fluxo de informação... ao ser directo.
+I find that polishing my interactions... ...in order to make them sociable requires a tremendous effort. --- Acho que polir as minhas interacções... para as poder tornar sociáveis, requer um tremendo esforço.
+I have a tendency to expedite information flow... ...by being direct.                 --- Tenho tendência para acelerar o fluxo de informação... ao ser directo.
 - I often don't get a pleasant result.                                                --- - Nem sempre obtenho um bom resultado.
 - Try me.                                                                             --- - Tenta comigo.
 All right.                                                                            --- Está bem.
 I find you attractive.                                                                --- Acho-te atraente.
 Your aggressive moves towards me indicate that you feel the same way.                 --- Os teus modos agressivos para comigo indicam que sentes o mesmo.
-But still, ritual requires that we continue with a number of platonic activities... before we have sex.I am proceeding with those activities... but in point of actual fact... all I really want to do is have intercourse with you as soon as possible. --- Contudo, o ritual exige que continuemos um número de actividades platónicas, antes de fazermos amor. Estou a prosseguir essas actividades, mas perante os factos actuais, tudo o que quero é ter relações contigo o mais cedo possível.
+But still, ritual requires that we continue with a number of platonic activities... ...before we have sex. --- Contudo, o ritual exige que continuemos um número de actividades platónicas, antes de fazermos amor.
+I am proceeding with those activities... ...but in point of actual fact... ...all I really want to do is have intercourse with you as soon as possible. --- Estou a prosseguir essas actividades, mas perante os factos actuais, tudo o que quero é ter relações contigo o mais cedo possível.
 Are you going to slap me now?                                                         --- Vais dar-me uma bofetada agora?
 How was that result?                                                                  --- Que pensas desse resultado?
 What are you doing?                                                                   --- O que está a fazer?
@@ -589,9 +596,9 @@ Trying to isolate patterned reoccurrences within periodicals over time.         
 And you?                                                                              --- E tu?
 You talk funny, Mr. Nash.                                                             --- Fala de uma forma estranha.
 Do I know you?                                                                        --- Conheço-te?
-My uncle says you're very smart but not very nice... so I shouldn't pay no mind if you're mean to me. --- O meu tio diz que é muito inteligente, mas pouco simpático. Por isso, devo ignorá-lo, se for mau para mim.
+My uncle says you're very smart but not very nice... ...so I shouldn't pay no mind if you're mean to me. --- O meu tio diz que é muito inteligente, mas pouco simpático. Por isso, devo ignorá-lo, se for mau para mim.
 And who might your uncle be?                                                          --- E quem é o teu tio?
-The prodigal roommate... returns.                                                     --- O companheiro pródigo... regressa.
+The prodigal roommate... ...returns.                                                  --- O companheiro pródigo... regressa.
 Come here, Charles.                                                                   --- Vem cá, Charles.
 My sister got herself killed in a car crash.                                          --- A minha irmã morreu num acidente de carro.
 Not too far now, Marcee!                                                              --- Não te afastes, Marcee!
@@ -600,12 +607,12 @@ So, I took her in.                                                              
 - She's so small.                                                                     --- - É tão pequena.
 - She's young.                                                                        --- - É jovem.
 That's how they come.                                                                 --- São mesmo assim.
-I'm at Harvard... doing the great author's workshop.                                  --- Estou em Harvard, a dar a aula prática do grande autor.
+I'm at Harvard... ...doing the great author's workshop.                               --- Estou em Harvard, a dar a aula prática do grande autor.
 D.H. bloody Lawrence.                                                                 --- O raio do D.H. Lawrence.
 I really do think you should buy yourself a new book.                                 --- Acho realmente que devias comprar um novo livro.
 Well, I've been reading a lot about you.                                              --- Bem, tenho lido muito sobre ti.
 How are you, John?                                                                    --- Como estás?
-At first, all my work here was trivial... but a new assignment came up and... I can't really tell you any details. --- No início, todo o meu trabalho aqui era trivial, mas surgiu um novo cargo e...  Não te posso contar os pormenores.
+At first, all my work here was trivial... ...but a new assignment came up and... I can't really tell you any details. --- No início, todo o meu trabalho aqui era trivial, mas surgiu um novo cargo e...  Não te posso contar os pormenores.
 Top secret?                                                                           --- 
 Black bag?                                                                            --- Operações ilegais?
 Black ops?                                                                            --- Operações ilegais?
@@ -617,7 +624,7 @@ Well, I met a girl.                                                             
 A human girl?                                                                         --- Uma humana?
 - Homo sapien.                                                                        --- - Homo sapiens.
 - A biped?                                                                            --- - Uma bípede?
-- Yep. And contrary to all probabilities... she finds me attractive on a number of different levels. --- - Sim, e contrariamente às probabilidades, ela acha-me atraente em vários níveis.
+- Yep. And contrary to all probabilities... ...she finds me attractive on a number of different levels. --- - Sim, e contrariamente às probabilidades, ela acha-me atraente em vários níveis.
 God, that's wonderful.                                                                --- Meu Deus, isso é maravilhoso!
 There's no accounting for taste, is there?                                            --- O bom gosto já não existe, pois não?
 - Should I marry her?                                                                 --- - Devo casar-me com ela?
@@ -638,7 +645,8 @@ Again.                                                                          
 I'm sorry.                                                                            --- Desculpa.
 I didn't have time to wrap it.                                                        --- Não tive tempo para o embrulhar.
 Happy birthday.                                                                       --- Parabéns.
-The refractive faces of the glass create a full wavelength dispersal... so if you look inside, you can see...  --- As faces refractivas do vidro criam uma onda de dispersão total. Se olhares para dentro, verás... 
+The refractive faces of the glass create a full wavelength dispersal... ...           --- As faces refractivas do vidro criam uma onda de dispersão total.
+so if you look inside, you can see...                                                 --- Se olhares para dentro, verás...
 - Every possible color. - Every possible color.                                       --- Todas as cores possíveis.
 Yeah.                                                                                 --- 
 Remember you said that time, God must be a painter because of all the colors?         --- Lembras-te de teres dito que Deus devia ser pintor por causa das cores?
@@ -648,7 +656,7 @@ I was listening.                                                                
 It's beautiful.                                                                       --- É lindo.
 Alicia, does our relationship warrant long-term commitment?                           --- A nossa relação garante um compromisso a longo prazo?
 Because I need some kind of proof, some kind of verifiable, empirical data.           --- Porque preciso de uma prova, de um tipo de informação verificável e empírica.
-I'm sorry, just give me a moment... to redefine my girlish notions of romance.        --- Desculpa, dá-me só um instante... para redefinir as minhas noções femininas de romance.
+I'm sorry, just give me a moment... ...to redefine my girlish notions of romance.     --- Desculpa, dá-me só um instante... para redefinir as minhas noções femininas de romance.
 A proof?                                                                              --- Uma prova?
 Verifiable data.                                                                      --- Informação verificável.
 Okay.                                                                                 --- Está bem.
@@ -661,7 +669,7 @@ You haven't seen it.                                                            
 How do you know for sure?                                                             --- Como podes ter a certeza?
 I don't, I just believe it.                                                           --- Não tenho, mas acredito.
 It's the same with love, I guess.                                                     --- Acho que acontece o mesmo no amor.
-Now... the part that you don't know... is if I want to marry you.                     --- Agora, a parte que não sabes...  é se me quero casar contigo.
+Now... ...the part that you don't know... ...is if I want to marry you.               --- Agora, a parte que não sabes...  é se me quero casar contigo.
 Smile for the camera!                                                                 --- Sorriam para a fotografia!
 Well done!                                                                            --- Muito bem!
 Congratulations.                                                                      --- Parabéns.
@@ -691,7 +699,7 @@ He said you left the office hours ago.                                          
 Why didn't you call me?                                                               --- Porque não me telefonaste?
 Are you all right?                                                                    --- Estás bem?
 Honey?                                                                                --- Querido?
-John... please, talk to me.                                                           --- Por favor, fala comigo. Diz-me o que aconteceu.
+John... ...please, talk to me.                                                        --- Por favor, fala comigo. Diz-me o que aconteceu.
 Tell me what happened.                                                                --- Diz-me o que aconteceu.
 John, open the door.                                                                  --- Abre a porta.
 Come on, open the door!                                                               --- Vá lá, abre a porta!
@@ -706,19 +714,19 @@ This is not what I signed up for.                                               
 Every time a car backfires or a door slams... I understand better than you could possibly imagine. --- Sempre que um carro engasga ou uma porta bate...  Compreendo melhor do que possa imaginar.
 You need to calm down, John.                                                          --- Precisa de se acalmar.
 Now listen.                                                                           --- Agora escute.
-We're closing in on the bomb... in large part due to your work.                       --- Estamos a aproximar-nos da bomba, em grande parte, devido ao seu trabalho.
+We're closing in on the bomb... ...in large part due to your work.                    --- Estamos a aproximar-nos da bomba, em grande parte, devido ao seu trabalho.
 Now don't you think your fear is a small price to pay?                                --- Não acha que o seu medo é um pequeno preço a pagar?
 William, my circumstance has changed.                                                 --- A minha situação mudou.
 Alicia's pregnant.                                                                    --- A Alicia está grávida.
 I told you attachments were dangerous.                                                --- Avisei-lhe que as ligações eram perigosas.
 You chose to marry the girl.                                                          --- Preferiu casar com a rapariga.
 I did nothing to prevent it.                                                          --- Não fiz nada para o impedir.
-The best way to ensure everybody's safety... is for you to continue your work.        --- A melhor forma de garantir a segurança de todos...  é continuar o seu trabalho.
+The best way to ensure everybody's safety... ...is for you to continue your work.     --- A melhor forma de garantir a segurança de todos...  é continuar o seu trabalho.
 Well, I'll just quit.                                                                 --- Paro de trabalhar.
 You won't.                                                                            --- Não pára nada.
 Why would I not?                                                                      --- Porque não?
 Because I keep the Russians from knowing you work for us.                             --- Porque impeço que os russos saibam que trabalha para nós.
-You quit working for me... I quit working for you.                                    --- Se parar de trabalhar para mim, eu paro de trabalhar para si.
+You quit working for me... ...I quit working for you.                                 --- Se parar de trabalhar para mim, eu paro de trabalhar para si.
 Parcher!                                                                              --- Parcher!
 John, you all right?                                                                  --- Estás bem?
 John? Turn it off!                                                                    --- Apaga a luz!
@@ -740,7 +748,7 @@ I'll explain when I can.                                                        
 Uncle John! Uncle John!                                                               --- Tio John!
 Hey, baby girl!                                                                       --- Olá, garota!
 Wow, someone needed a hug!                                                            --- Alguém precisava de um abraço!
-I saw you on the slate, and I thought to myself: "How can I miss seeing a guest lecture by the inimitable John Nash?"  --- Vi o teu nome na lista e pensei para comigo: "Como posso deixar de assistir à palestra do inimitável John Nash?" 
+I saw you on the slate, and I thought to myself: "How can I miss seeing a guest lecture by the inimitable John Nash?" --- Vi o teu nome na lista e pensei para comigo: "Como posso deixar de assistir à palestra do inimitável John Nash?"
 What's wrong?                                                                         --- Que se passa?
 I got myself into something.                                                          --- Meti-me num sarilho.
 I think I might need some help.                                                       --- Talvez precise de ajuda.
@@ -748,8 +756,8 @@ Now you tell me, what is it?                                                    
 Professor Nash!                                                                       --- 
 Welcome!                                                                              --- Bem-vindo!
 After?                                                                                --- Depois?
-So, we see that the zeroes of the Riemann Zeta function... correspond to singularities... in space-time...  --- Assim, vemos que os zeros da função Zeta de Riemann... correspondem a singularidades... no espaço-tempo... 
-Singularities in space-time then...                                                   --- Então, as singularidades no espaço-tempo... 
+So, we see that the zeroes of the Riemann Zeta function... ...correspond to singularities... ...in space-time... --- Assim, vemos que os zeros da função Zeta de Riemann... correspondem a singularidades... no espaço-tempo...
+Singularities in space-time then...                                                   --- Então, as singularidades no espaço-tempo...
 And conventional number theory... It breaks down in the face of relativistic exploration. --- E a convencional teoria dos números...  é anulada diante da exploração relativista.
 Sometimes our expectations are betrayed by the numbers.                               --- Às vezes, as nossas expectativas são traídas pelos números.
 Variables are impossible to assign any rational value.                                --- As variáveis não podem atribuir valores racionais.
@@ -828,8 +836,8 @@ People with this disorder are often paranoid.                                   
 But his work.                                                                         --- E o trabalho dele?
 He deals with conspiracy.                                                             --- Ele trata de conspirações.
 Yes, I know.                                                                          --- Sim, eu sei.
-In John's world, these behaviors are accepted... encouraged.                          --- No mundo dele, estes comportamentos são aceites... e estimulados.
-As such, his illness may have gone untreated... far longer than is typical.           --- Como tal, a doença pode ter ficado sem tratamento... mais tempo do que é normal.
+In John's world, these behaviors are accepted... ...encouraged.                       --- No mundo dele, estes comportamentos são aceites... e estimulados.
+As such, his illness may have gone untreated... ...far longer than is typical.        --- Como tal, a doença pode ter ficado sem tratamento... mais tempo do que é normal.
 What do you mean?                                                                     --- Que quer dizer?
 How long? Possibly since graduate school.                                             --- 
 At least that's when his hallucinations seem to have begun.                           --- Pelo menos, foi quando as alucinações parecem ter começado.
@@ -849,14 +857,14 @@ This is ridiculous.                                                             
 I phoned Princeton.                                                                   --- Liguei para Princeton.
 According to their housing records, John lived alone.                                 --- Segundo os registos deles, o John morou sozinho.
 Now, which is more likely?                                                            --- Bem, o que é mais provável?
-That your husband... a mathematician with no military training... is a spy fleeing the Russians... --- Que o seu marido, um matemático sem treino militar,  - seja um espião a vigiar os russos...
+That your husband... ...a mathematician with no military training... ...is a spy fleeing the Russians... --- Que o seu marido, um matemático sem treino militar,  - seja um espião a vigiar os russos...
 - You're making him sound crazy.                                                      --- - Está a fazer dele maluco.
 Or, that he has lost his grip on reality?                                             --- Ou, que tenha perdido a noção da realidade?
-The only way I can help him, is to show him the difference... between what is real and what is in his mind. --- A única forma de poder ajudá-lo, é mostrar-lhe a diferença... entre o que é real e o que existe na mente dele.
+The only way I can help him, is to show him the difference... ...between what is real and what is in his mind. --- A única forma de poder ajudá-lo, é mostrar-lhe a diferença... entre o que é real e o que existe na mente dele.
 Come on.                                                                              --- Venha.
 What's he been working on?                                                            --- Em que tem estado ele a trabalhar?
 His work is classified.                                                               --- O trabalho é confidencial.
-He mentioned a supervisor... by the name of William Parcher.                          --- Mencionou um supervisor... chamado William Parcher.
+He mentioned a supervisor... ...by the name of William Parcher.                       --- Mencionou um supervisor... chamado William Parcher.
 Maybe Mr. Parcher can clarify things for us.                                          --- Talvez ele nos possa esclarecer as coisas.
 But I can't get to him without clearances.                                            --- Mas não posso contactá-lo sem autorização.
 You want me to help you get the details of my husband's work?                         --- Quer que o ajude a obter os pormenores do trabalho do meu marido?
@@ -872,7 +880,7 @@ Stop.                                                                           
 Oh, my God.                                                                           --- Meu Deus.
 Oh, my God.                                                                           --- Meu Deus.
 Why didn't you say something?                                                         --- Porque não me disseram?
-Alicia, John has always been... a little weird.                                       --- O John foi sempre... um pouco esquisito.
+Alicia, John has always been... ...a little weird.                                    --- O John foi sempre... um pouco esquisito.
 He said he was doing code-breaking.                                                   --- Disse que andava a decifrar códigos.
 - It was eyes-only.                                                                   --- - Era confidencial.
 - Top-secret, part of the military effort.                                            --- - Secreto, ligado ao sector militar.
@@ -881,7 +889,7 @@ It was possible.                                                                
 Directives come down all the time that some aren't cleared for.                       --- Estão sempre a chegar directrizes, mas umas são confidenciais.
 - It was possible.                                                                    --- - Era possível.
 - Possible, but not likely.                                                           --- - Possível, mas improvável.
-Lately, he'd become much more agitated, and then when you called...                   --- Ultimamente, andava muito mais agitado e quando lhe telefonaste... 
+Lately, he'd become much more agitated, and then when you called...                   --- Ultimamente, andava muito mais agitado e quando lhe telefonaste...
 So, is this all he's been doing every day?                                            --- Então, é só isto que ele faz todos os dias?
 Cutting up magazines?                                                                 --- Cortar revistas?
 Well, not all.                                                                        --- Bem, não só.
@@ -890,7 +898,9 @@ Well, not all.                                                                  
 I missed you.                                                                         --- Senti a tua falta.
 I have to talk to you.                                                                --- Tenho de falar contigo.
 Okay.                                                                                 --- Está bem.
-Alicia, I've been thinking about it... and I do realize that my behavior... and my inability to discuss the situation with you... must have appeared insane.I left you with no other choice.I do understand...  --- Tenho estado a pensar... e percebo que o meu comportamento... e a minha incapacidade de discutir a situação contigo... devem ter parecido tolos.
+Alicia, I've been thinking about it... ...and I do realize that my behavior... ...and my inability to discuss the situation with you... ...must have appeared insane. --- Tenho estado a pensar... e percebo que o meu comportamento... e a minha incapacidade de discutir a situação contigo... devem ter parecido tolos.
+I left you with no other choice.                                                      --- Não te dei outra hipótese.
+I do understand...                                                                    --- Eu compreendo...
 - ...and I'm truly sorry.                                                             --- - e lamento sinceramente.
 - That's okay.                                                                        --- - Não faz mal.
 Everything will be all right.                                                         --- Tudo vai ficar bem.
@@ -899,8 +909,10 @@ We just have to talk quietly.                                                   
 They may be listening.                                                                --- Eles podem estar a ouvir.
 There may be microphones.                                                             --- Pode haver microfones.
 I'll tell you everything now.                                                         --- Vou contar-te tudo agora.
-It's breaking with protocol, but you need to know... because you have to help me get out of here.I've been doing top-secret work for the government. --- É quebrar o protocolo, mas precisas de saber, porque tens de me ajudar a sair daqui. Tenho estado a trabalhar secretamente para o governo.
-There's a threat that exists... of catastrophic proportions.I think the Russians feel my profile is too high. --- Existe uma ameaça... de proporções catastróficas. Penso que os russos acham que dou muito nas vistas.
+It's breaking with protocol, but you need to know... ...because you have to help me get out of here. --- É quebrar o protocolo, mas precisas de saber, porque tens de me ajudar a sair daqui.
+I've been doing top-secret work for the government.                                   --- Tenho estado a trabalhar secretamente para o governo.
+There's a threat that exists... ...of catastrophic proportions.                       --- Existe uma ameaça... de proporções catastróficas.
+I think the Russians feel my profile is too high.                                     --- Penso que os russos acham que dou muito nas vistas.
 That's why they won't do away with me.                                                --- É por isso que não me matam.
 They're keeping me here to try to stop me from doing my work.                         --- Mantêm-me aqui para me impedirem de fazer o meu trabalho.
 You have to get to Wheeler.                                                           --- Tens de ir ao Wheeler.
@@ -939,7 +951,8 @@ John?                                                                           
 The implant is gone.                                                                  --- O implante desapareceu.
 I can't find it.                                                                      --- Não o encontro.
 It's gone.                                                                            --- Desapareceu.
-You see, the nightmare of schizophrenia... is not knowing what's true.Imagine... if you had suddenly learned that the people and the places... and the moments most important to you were not gone, not dead... but worse, had never been. --- Imagine... que descobria subitamente que as pessoas, os lugares... e os momentos mais importantes para si não tinham desaparecido, nem morrido, mas pior, nunca tinham existido.
+You see, the nightmare of schizophrenia... ...is not knowing what's true.             --- O pesadelo da esquizofrenia...  é não saber o que é verdade.
+Imagine... ...if you had suddenly learned that the people and the places... ...and the moments most important to you were not gone, not dead... ...but worse, had never been. --- Imagine... que descobria subitamente que as pessoas, os lugares... e os momentos mais importantes para si não tinham desaparecido, nem morrido, mas pior, nunca tinham existido.
 What kind of hell would that be?                                                      --- Que inferno seria esse?
 Administering insulin.                                                                --- A injectar insulina.
 8:42 a.m.                                                                             --- 8:42.
@@ -956,13 +969,15 @@ Hey.                                                                            
 Want this?                                                                            --- Queres isto?
 So, Alicia, how are you holding up?                                                   --- Como vão as coisas?
 The delusions have passed.                                                            --- As alucinações passaram.
-They're saying with the medication and low stress environment... I mean, how are you?I think often what I feel... is obligation. --- 
+They're saying with the medication and low stress environment... I mean, how are you? --- Dizem que, com os medicamentos e um ambiente calmo...  Quero dizer, como estás?
+I think often what I feel... ...is obligation.                                        --- Muitas vezes, o que sinto...  é obrigação.
 Or guilt over wanting to leave.                                                       --- Ou culpa, por querer ir embora.
-Rage against John, against God, and...                                                --- Fúria contra o John, contra Deus e... 
-But... then I look at him... and I force myself to see the man that I married.        --- Mas... depois olho para ele... e obrigo-me a ver o homem com quem me casei.
+Rage against John, against God, and...                                                --- Fúria contra o John, contra Deus e...
+But... ...then I look at him... ...and I force myself to see the man that I married.  --- Mas... depois olho para ele... e obrigo-me a ver o homem com quem me casei.
 And he becomes that man.                                                              --- E ele torna-se nesse homem.
 He's transformed into someone that I love. And I'm transformed into someone who loves him. --- Transforma-se na pessoa que amo... e eu transformo-me na pessoa que o ama.
-It's not all the time, but... it's enough.I think John is a very lucky man, Alicia.   --- Acho que o John é um homem com muita sorte.
+It's not all the time, but... ...it's enough.                                         --- Não é sempre, mas...  é suficiente.
+I think John is a very lucky man, Alicia.                                             --- Acho que o John é um homem com muita sorte.
 So unlucky.                                                                           --- Com muito pouca sorte.
 - This is us.                                                                         --- - É aqui.
 - This is it?                                                                         --- - Aqui?
@@ -990,7 +1005,7 @@ Here you go.                                                                    
 Okay.                                                                                 --- Está bem.
 So, I was in town giving a workshop.                                                  --- Vim à cidade dar uma aula prática.
 I go back tonight.                                                                    --- Regresso esta noite.
-Bender really wanted to stop by... you know, see you.                                 --- O Bender queria mesmo cá vir, para te ver, te cumprimentar.
+Bender really wanted to stop by... ...you know, see you.                              --- O Bender queria mesmo cá vir, para te ver, te cumprimentar.
 Say hi.                                                                               --- Teve medo?
 Squeamish?                                                                            --- Teve medo?
 Yeah.                                                                                 --- Sim.
@@ -999,8 +1014,8 @@ But, alas, I'm stuck with me.                                                   
 I'm trying to solve the Riemann hypothesis.                                           --- Estou a tentar resolver a hipótese de Riemann.
 Uh-huh.                                                                               --- Estás?
 Oh, yeah?                                                                             --- Estás?
-I figured if I dazzle them... they will have to reinstate me.                         --- Calculei que, se os deslumbrar, terão de me readmitir.
-But it's difficult with the medication... because it's hard... to see the solution.   --- Mas, com os medicamentos, é difícil, porque é complicado... ver a solução.
+I figured if I dazzle them... ...they will have to reinstate me.                      --- Calculei que, se os deslumbrar, terão de me readmitir.
+But it's difficult with the medication... ...because it's hard... ...to see the solution. --- Mas, com os medicamentos, é difícil, porque é complicado... ver a solução.
 You know, John, you should go easy.                                                   --- Sabes, devias ir com calma.
 There are other things besides work.                                                  --- Há outras coisas além do trabalho.
 What are they?                                                                        --- Quais são elas?
@@ -1009,9 +1024,9 @@ What do people do?                                                              
 It's life, John.                                                                      --- É a vida.
 Activities available, just add meaning.                                               --- As actividades disponíveis apenas lhe dão significado.
 You could try leaving the house.                                                      --- Podias tentar sair de casa.
-You know, maybe... talk to people.                                                    --- E talvez... conversar com pessoas.
+You know, maybe... ...talk to people.                                                 --- E talvez... conversar com pessoas.
 You could try taking out the garbage.                                                 --- Podias tentar pôr o lixo lá fora.
-And there's some more, there's some more in...                                        --- E há mais, há mais no... 
+And there's some more, there's some more in...                                        --- E há mais, há mais no...
 Who were you talking to?                                                              --- Com quem estavas a falar?
 Garbage man.                                                                          --- Com o homem do lixo.
 Garbage men don't come at night.                                                      --- Os homens do lixo não vêm à noite.
@@ -1034,7 +1049,7 @@ Don't be ridiculous.                                                            
 I don't think that I would go that way.                                               --- Acho que eu não iria por aí.
 It's time for you to get back to work.                                                --- Está na hora de voltar ao trabalho.
 The bomb is in its final position here in the U.S.                                    --- A bomba está na posição final, aqui nos E.U.A.
-Knowing your situation requires you keep a low profile, "Mohammed"... we've brought the mountain to you. --- Sabendo que a sua situação requer que seja discreto, "Maomé", trouxemos-lhe a montanha.
+Knowing your situation requires you keep a low profile, "Mohammed"... ...we've brought the mountain to you. --- Sabendo que a sua situação requer que seja discreto, "Maomé", trouxemos-lhe a montanha.
 We've narrowed the bomb's location to somewhere on the eastern seaboard.              --- Reduzimos a localização da bomba para algures na costa oriental.
 But we haven't been able to pinpoint its exact position.                              --- Mas não conseguimos descobrir a posição exacta.
 Their codes have grown increasingly complex.                                          --- Os códigos deles tornaram-se muito mais complexos.
@@ -1072,7 +1087,8 @@ He was okay.                                                                    
 - There is no one here.                                                               --- - Não há ninguém aqui.
 There is no one here!                                                                 --- Não há ninguém aqui!
 He's been injected with a cloaking serum.                                             --- Injectaram-lhe um soro de invisibilidade.
-I can see him because of a chemical that was released into my bloodstream... when my implant dissolved.I couldn't tell you, it was for your own protection! --- Eu vejo-o devido a um químico que me adicionaram à corrente sanguínea, quando o implante se dissolveu. Não te podia dizer, para a tua própria protecção!
+I can see him because of a chemical that was released into my bloodstream... ...when my implant dissolved. --- Eu vejo-o devido a um químico que me adicionaram à corrente sanguínea, quando o implante se dissolveu.
+I couldn't tell you, it was for your own protection!                                  --- Não te podia dizer, para a tua própria protecção!
 Alicia!                                                                               --- Alicia!
 - No!                                                                                 --- - Não!
 - Hello, I need Dr. Rosen's office, please.                                           --- - Está, passe-me ao Dr. Rosen, por favor.
@@ -1108,7 +1124,7 @@ Uncle John?                                                                     
 John, please!                                                                         --- Por favor!
 Now!                                                                                  --- Já!
 Alicia and Charles never coexist in the same interactive field.                       --- A Alicia e o Charles nunca coexistiram no mesmo campo interactivo.
-Parcher and Charles...                                                                --- O Parcher e o Charles... 
+Parcher and Charles...                                                                --- O Parcher e o Charles...
 Charles and Marcee cannot coexist with Alicia.                                        --- O Charles e a Marcee não podem coexistir com a Alicia.
 I understand.                                                                         --- Compreendo.
 She never gets old.                                                                   --- Ela nunca cresce.
@@ -1141,16 +1157,16 @@ I can work it out.                                                              
 All I need is time.                                                                   --- Só preciso de tempo.
 Is that the baby?                                                                     --- É o bebé?
 The baby is at my mother's, John.                                                     --- O bebé está com a minha mãe.
-Without treatment, John... the fantasies may take over... entirely.                   --- Sem tratamento, as fantasias podem apoderar-se de si... completamente.
+Without treatment, John... ...the fantasies may take over... ...entirely.             --- Sem tratamento, as fantasias podem apoderar-se de si... completamente.
 You almost ready?                                                                     --- Estás quase pronto?
 Rosen's waiting outside.                                                              --- O Rosen está à espera lá fora.
 I can't go back to that hospital.                                                     --- Não posso voltar para aquele hospital.
 I won't come home.                                                                    --- Não voltarei para casa.
-He said that if you said that... he has commitment papers for me to sign.             --- Ele disse que, se tu dissesses isso, dava-me os papéis de internamento para eu assinar.
+He said that if you said that... ...he has commitment papers for me to sign.          --- Ele disse que, se tu dissesses isso, dava-me os papéis de internamento para eu assinar.
 Well, maybe you won't sign them.                                                      --- Talvez não os assines.
 Maybe you'll just give me some time.                                                  --- Talvez me dês algum tempo.
 I will try to figure this out.                                                        --- Eu tentarei resolver isto.
-Whatever you do... Rosen is right about one thing.                                    --- Faças o que fizeres, o Rosen tem razão numa coisa.
+Whatever you do... ...Rosen is right about one thing.                                 --- Faças o que fizeres, o Rosen tem razão numa coisa.
 You shouldn't be here.                                                                --- Não devias estar aqui.
 I'm not safe anymore.                                                                 --- Já não sou seguro.
 Would you have hurt me, John?                                                         --- Ter-me-ias magoado?
@@ -1164,14 +1180,14 @@ This.                                                                           
 This.                                                                                 --- Isto.
 This.                                                                                 --- Isto.
 This is real.                                                                         --- Isto é real.
-Maybe the part... that knows the waking from the dream... maybe it isn't here. Maybe it's here. --- Talvez a parte... que conhece o acordar de um sonho... não esteja aqui, mas aqui.
-I need to believe... that something extraordinary is possible.                        --- Preciso de acreditar... que algo extraordinário é possível.
+Maybe the part... ...that knows the waking from the dream... ...maybe it isn't here. Maybe it's here. --- Talvez a parte... que conhece o acordar de um sonho... não esteja aqui, mas aqui.
+I need to believe... ...that something extraordinary is possible.                     --- Preciso de acreditar... que algo extraordinário é possível.
 Come.                                                                                 --- Entre.
 Hello, Martin.                                                                        --- Olá, Martin.
 Jesus Christ.                                                                         --- Jesus Cristo.
 No. I... I don't have that one.                                                       --- Não, eu... não tenho esse.
 My savior complex takes on a completely different form.                               --- O meu complexo salvador assume uma forma totalmente diferente.
-I heard what happened and... I wanted to write, and I tried you at MacArthur's... but you'd left, and I just...  --- Soube o que aconteceu, quis escrever-te e tentei contactar-te no MacArthur, mas já lá não estavas e eu... 
+I heard what happened and... ...I wanted to write, and I tried you at MacArthur's... ...but you'd left, and I just... --- Soube o que aconteceu, quis escrever-te e tentei contactar-te no MacArthur, mas já lá não estavas e eu...
 This is Helinger's old office.                                                        --- Este é o velho gabinete do Helinger.
 Yeah.                                                                                 --- Sim.
 Yeah, I stole it from him.                                                            --- Roubei-lho.
@@ -1193,14 +1209,15 @@ Is that what we are, Martin?                                                    
 Friends?                                                                              --- Amigos?
 John, of course.                                                                      --- Claro.
 Of course. We always have been.                                                       --- Fomos sempre.
-Alicia and I think... that fitting in, being part of a community... might do me some good. --- Eu e a Alicia pensamos... que enquadrar-me, fazer parte de uma comunidade, talvez me faça bem.
-That a certain level of attachment, familiar places, familiar people... might help me... elbow out... these certain delusions that I have.It's a lot to ask, and now that I'm here... I'm quite certain that you will just say no. --- Que um certo nível de ligação, lugares familiares e pessoas conhecidas, talvez me ajudem... a afastar... as alucinações que tenho. É pedir muito e, agora que aqui estou, tenho a certeza de que irás negar.
+Alicia and I think... ...that fitting in, being part of a community... ...might do me some good. --- Eu e a Alicia pensamos... que enquadrar-me, fazer parte de uma comunidade, talvez me faça bem.
+That a certain level of attachment, familiar places, familiar people... ...might help me... ...elbow out... ...these certain delusions that I have. --- Que um certo nível de ligação, lugares familiares e pessoas conhecidas, talvez me ajudem... a afastar... as alucinações que tenho.
+It's a lot to ask, and now that I'm here... ...I'm quite certain that you will just say no. --- É pedir muito e, agora que aqui estou, tenho a certeza de que irás negar.
 But I was wondering if I could hang around.                                           --- Mas gostava de saber se posso andar por aí.
 Huh.                                                                                  --- 
 Will you be needing an office?                                                        --- Vais precisar de um gabinete?
 No.                                                                                   --- Não.
 No, I could just work out of the library.                                             --- Podia trabalhar na biblioteca.
-This guy tries to wander into the library...                                          --- Está um tipo a tentar entrar na biblioteca, 
+This guy tries to wander into the library...                                          --- Está um tipo a tentar entrar na biblioteca,
 - ...But he has no ID. - Why can't people read memos?                                 --- - mas não tem identificação. - Porque não lêem os memorandos?
 Then he goes totally nuts.                                                            --- Depois, ele enlouquece totalmente.
 You're not real! You're not real.                                                     --- Você não é real!
@@ -1236,7 +1253,7 @@ You should've seen their faces.                                                 
 Everybody was just staring at me.                                                     --- Todos olhavam para mim.
 John, you know that stress triggers the delusions.                                    --- Sabes que o stress estimula as alucinações.
 I know.                                                                               --- Eu sei.
-But then, on the way home... Charles was there.                                       --- Mas depois, a caminho de casa, apareceu o Charles.
+But then, on the way home... ...Charles was there.                                    --- Mas depois, a caminho de casa, apareceu o Charles.
 Sometimes, I really miss talking to him.                                              --- Às vezes, sinto muita falta de conversar com ele.
 Maybe Rosen's right.                                                                  --- Talvez o Rosen tenha razão.
 Maybe I have to think about going back into the hospital again.                       --- Talvez devesse pensar em voltar para o hospital.
@@ -1254,7 +1271,8 @@ I was wondering if I might audit your course.                                   
 It's an honor, Professor Nash.                                                        --- É uma honra, Professor Nash.
 Is something wrong?                                                                   --- Há algum problema?
 This will be my first class.                                                          --- Esta será a minha primeira aula.
-Good morning... eager young minds.It's never going to work, John.                     --- 
+Good morning... ...eager young minds.                                                 --- Bom dia,  ávidas mentes jovens.
+It's never going to work, John.                                                       --- Nunca irá resultar.
 You're just humiliating yourself.                                                     --- Só te estás a humilhar.
 It's pathetic!                                                                        --- É patético!
 You are being pathetic.                                                               --- Estás a ser patético.
@@ -1276,40 +1294,41 @@ Well, what do you think?                                                        
 That's an analog to Frobenius for non-commutative extensions.                         --- É um análogo das extensões não comutativas de Frobenius.
 Yes, it is.                                                                           --- Sim, é.
 But it only appears to work sporadically, so, no.                                     --- Mas só parece resultar esporadicamente, por isso, não.
-But... I believe I'm making progress.                                                 --- Mas... creio que estou a fazer progressos.
+But... ...I believe I'm making progress.                                              --- Mas... creio que estou a fazer progressos.
 You're...                                                                             --- É o John Nash, não é?
 You're John Nash, right?                                                              --- É o John Nash, não é?
 - Toby Kelly.                                                                         --- - Toby Kelly.
 - Hello.                                                                              --- - Olá.
 I've been studying your equilibrium that you wrote here at Princeton.                 --- Tenho estado a estudar o equilíbrio que escreveu aqui, na Princeton.
-To come up with something totally original, the way you did...                        --- Para descobrir algo totalmente original, do modo como o fez... 
+To come up with something totally original, the way you did...                        --- Para descobrir algo totalmente original, do modo como o fez...
 You know, I was young.                                                                --- Eu era jovem.
 I've been developing a theory.                                                        --- Tenho estado a desenvolver uma teoria.
-I believe I can prove... that Galois extensions are covering spaces.                  --- Creio que posso provar... que as extensões de Galois são espaços cobertos.
+I believe I can prove... ...that Galois extensions are covering spaces.               --- Creio que posso provar... que as extensões de Galois são espaços cobertos.
 That everything is connected.                                                         --- Que tudo está interligado.
 That it's all part of the same subject.                                               --- Que tudo faz parte da mesma matéria.
 When was the last time you ate?                                                       --- Quando foi a última vez que comeu?
 - Excuse me?                                                                          --- - Desculpe?
 - You know, food.                                                                     --- - Refiro-me a comida.
 Oh, uh...                                                                             --- - Refiro-me a comida.
-My wife... she loves mayonnaise.                                                      --- A minha mulher... adora maionese.
+My wife... ...she loves mayonnaise.                                                   --- A minha mulher... adora maionese.
 Thank you.                                                                            --- Obrigado.
 Go on.                                                                                --- Continue.
-The functor... is in the two categories.                                              --- O functor... está nas duas categorias.
+The functor... ...is in the two categories.                                           --- O functor... está nas duas categorias.
 Alicia!                                                                               --- Alicia!
 Alicia!                                                                               --- Alicia!
-Coming together at a maximum speed of... let us say, 10 miles per hour.               --- A juntarem-se a uma velocidade máxima de, digamos, 15 quilómetros por hora.
-So you have a fly on the tire of bicycle "B"... and the fly, who can travel at 20 miles an hour... leaves the tire of "B" and flies to the tire of bicycle "A"... and backwards and forwards until the two bikes collide... and the poor little fly is squashed. --- Então têm uma mosca no pneu da bicicleta "B". A mosca, que pode voar a 30 quilómetros por hora, deixa o pneu "B", voa para o pneu da bicicleta "A", recua e avança, até as duas bicicletas colidirem... e a pobre mosquinha ser esmagada.
-This is the important thing about actually focusing in and comprehending... the area you're dealing with. --- É esta a importância de nos concentrarmos e compreendermos... a área com que lidamos.
-Mathematics is very specific... and it is an art form, no matter what people here will tell you... especially people from biology. --- A matemática é muito específica... e é uma forma de arte, digam lá o que disserem as pessoas aqui, em especial as de biologia.
+Coming together at a maximum speed of... ...let us say, 10 miles per hour.            --- A juntarem-se a uma velocidade máxima de, digamos, 15 quilómetros por hora.
+So you have a fly on the tire of bicycle "B"... ...and the fly, who can travel at 20 miles an hour... ...leaves the tire of "B" and flies to the tire of bicycle "A"... ...and backwards and forwards until the two bikes collide... ...and the poor little fly is squashed. --- Então têm uma mosca no pneu da bicicleta "B". A mosca, que pode voar a 30 quilómetros por hora, deixa o pneu "B", voa para o pneu da bicicleta "A", recua e avança, até as duas bicicletas colidirem... e a pobre mosquinha ser esmagada.
+This is the important thing about actually focusing in and comprehending... ...the area you're dealing with. --- É esta a importância de nos concentrarmos e compreendermos... a área com que lidamos.
+Mathematics is very specific... ...and it is an art form, no matter what people here will tell you... ...especially people from biology. --- A matemática é muito específica... e é uma forma de arte, digam lá o que disserem as pessoas aqui, em especial as de biologia.
 Don't listen to those people.                                                         --- Não lhes dêem ouvidos.
 Let me go back to what you were doing.                                                --- Voltemos ao que estavam a fazer.
-I might want to steal this... write a book and get famous.I was thinking that I might teach. --- Talvez eu queira roubar isto, escrever um livro e ficar famoso. Estava a pensar em dar aulas.
+I might want to steal this... ...write a book and get famous.                         --- Talvez eu queira roubar isto, escrever um livro e ficar famoso.
+I was thinking that I might teach.                                                    --- Estava a pensar em dar aulas.
 A classroom with 50 students can be daunting for anyone.                              --- Uma sala com 50 estudantes pode assustar qualquer um.
 John, besides, you're a terrible teacher.                                             --- Além disso, és um péssimo professor.
 I'm an acquired taste, Martin.                                                        --- Sou um gosto adquirido.
 I was hoping there still might be something I could contribute.                       --- Estava à espera de ainda poder contribuir com alguma coisa.
-What about the...                                                                     --- E os... 
+What about the...                                                                     --- E os...
 Well, you know.                                                                       --- Bem, tu sabes.
 Are they gone?                                                                        --- Desapareceram?
 No, they're not gone. And maybe they never will be.                                   --- Não, não desapareceram... e talvez nunca o façam.
@@ -1329,7 +1348,7 @@ Terrified.                                                                      
 Mortified.                                                                            --- Mortificado.
 Petrified.                                                                            --- Petrificado.
 Stupefied by you.                                                                     --- Estupidificado por ti.
-Now you ought best ring Alicia, or you'll get me...                                   --- Agora, é melhor telefonares à Alicia, ou metes-me... 
+Now you ought best ring Alicia, or you'll get me...                                   --- Agora, é melhor telefonares à Alicia, ou metes-me...
 - I'll ring her.                                                                      --- - Eu telefono-lhe.
 in a lot of trouble.                                                                  --- num enorme sarilho.
 - Thanks, Professor.                                                                  --- - Obrigado, Professor.
@@ -1354,10 +1373,10 @@ Professor, my name is Thomas King.                                              
 Thomas King?                                                                          --- Chamo-me Thomas King.
 I'm here to tell you that you're being considered for the Nobel Prize.                --- Estou aqui para o informar que é um candidato ao Prémio Nobel.
 Forgive me, but I'm just a little stunned.                                            --- Desculpe, mas fiquei aturdido.
-Over the past years, your equilibrium has become a cornerstone... of modern economics. --- Ao longo dos últimos anos, o seu equilíbrio tornou-se uma base... da economia moderna.
+Over the past years, your equilibrium has become a cornerstone... ...of modern economics. --- Ao longo dos últimos anos, o seu equilíbrio tornou-se uma base... da economia moderna.
 Suddenly everybody likes that one.                                                    --- De repente, todos gostam desse.
 What about my work on other some such projects like manifold embedding?               --- E o meu trabalho sobre outros projectos, como as combinações de janela?
-The application of your bargaining problem... to FCC bandwidth auctions or to antitrust cases...  --- A aplicação da sua estratégia de troca... em leilões de banda larga da FCC, ou em casos de antimonopólio... 
+The application of your bargaining problem... ...to FCC bandwidth auctions or to antitrust cases... --- A aplicação da sua estratégia de troca... em leilões de banda larga da FCC, ou em casos de antimonopólio...
 - Antitrust cases?                                                                    --- - De antimonopólio?
 - Yes.                                                                                --- - Sim.
 I never would have considered that.                                                   --- Eu nunca tinha considerado isso.
@@ -1371,8 +1390,10 @@ Come on, John.                                                                  
 Let's have some tea.                                                                  --- É um dia importante.
 It's a big day.                                                                       --- É um dia importante.
 Most commercially available brands of tea are not suitable to my palate.              --- A maioria das marcas de chá à venda não são adequadas ao meu paladar.
-I'm not...                                                                            --- Não vou... 
-There are some Northern Indian teas which are dense enough... I enjoy the flavor that they have.I have not been in this room... for quite some many years.I wonder what tea they serve. --- 
+I'm not...                                                                            --- Não vou...
+There are some Northern Indian teas which are dense enough... I enjoy the flavor that they have. --- Há alguns do norte da Índia que são suficientemente densos...  Gosto do sabor deles.
+I have not been in this room... ...for quite some many years.                         --- Não entro nesta sala... há já muitos anos.
+I wonder what tea they serve.                                                         --- Que chá servirão eles?
 Why, thank you, young lady.                                                           --- Obrigado, jovem.
 Things have certainly changed around here.                                            --- As coisas mudaram muito por aqui.
 I have a son that age.                                                                --- Tenho um filho da idade dela.
@@ -1381,13 +1402,15 @@ Hmm. I would have thought the nominations for the Nobel Prize would've been secr
 I would have thought you'd only find out if you won or lost.                          --- Pensei que só sabíamos se tínhamos ganho ou perdido.
 That is generally the case, yes, but these are special circumstances.                 --- Sim, em geral é o que acontece, mas estas são circunstâncias especiais.
 The awards are substantial.                                                           --- Os prémios são substanciais.
-They require private funding as such... the image of the Nobel is... I see, you came here to find out if I was crazy? --- Requerem financiamento privado, uma vez que... a imagem do Nobel é...  Percebo, veio aqui para ver se sou louco?
+They require private funding as such... ...the image of the Nobel is... I see, you came here to find out if I was crazy? --- Requerem financiamento privado, uma vez que... a imagem do Nobel é...  Percebo, veio aqui para ver se sou louco?
 Find out if I would screw everything up if I actually won?                            --- Para ver se eu estragaria tudo se acabasse por ganhar?
 Dance around the podium, strip naked and squawk like a chicken?                       --- Se começaria a dançar no pódio, a despir e a cacarejar como uma galinha?
 Something like that, yes.                                                             --- Algo desse género, sim.
 Would I embarrass you?                                                                --- Se eu vos envergonharia?
 Yes, it is possible.                                                                  --- Sim, é possível.
-You see, I... I am crazy.I take the newer medications... but I still see things that are not here.I just choose not to acknowledge them. --- Tomo os mais recentes medicamentos, mas ainda vejo coisas que não existem.
+You see, I... I am crazy.                                                             --- É que eu... sou louco.
+I take the newer medications... ...but I still see things that are not here.          --- Tomo os mais recentes medicamentos, mas ainda vejo coisas que não existem.
+I just choose not to acknowledge them.                                                --- Apenas opto por não as reconhecer.
 Like a diet of the mind, I choose not to indulge certain appetites.                   --- Como uma dieta mental, opto por não satisfazer certos apetites.
 Like my appetite for patterns. Perhaps my appetite to imagine and to dream.           --- Como o apetite por padrões... e talvez o apetite por imaginar e sonhar.
 Professor Nash.                                                                       --- Professor Nash.
@@ -1405,12 +1428,13 @@ Thank you, Ed.                                                                  
 That was certainly most unexpected.                                                   --- Foi mesmo muito inesperado.
 Thank you.                                                                            --- Obrigado.
 I've always believed in numbers. In the equations and logics that lead to reason.     --- Eu sempre acreditei nos números, nas equações e lógicas que conduzem à razão.
-But after a lifetime of such pursuits... I ask, what truly is logic?                  --- Mas após uma vida a persegui-los, pergunto: o que é realmente a lógica?
+But after a lifetime of such pursuits... ...I ask, what truly is logic?               --- Mas após uma vida a persegui-los, pergunto: o que é realmente a lógica?
 Who decides reason?                                                                   --- Quem decide a razão?
-My quest has taken me through the physical... the metaphysical... the delusional... and back. --- Mas após uma vida a persegui-los, pergunto: o que é realmente a lógica?
+My quest has taken me through the physical... ...the metaphysical... ...the delusional... ...and back. --- Mas após uma vida a persegui-los, pergunto: o que é realmente a lógica?
 And I have made the most important discovery of my career.                            --- E fiz a descoberta mais importante da minha carreira.
 The most important discovery of my life.                                              --- A descoberta mais importante da minha vida.
-It is only in the mysterious equations of love... that any logical reasons can be found.I'm only here tonight because of you. --- É apenas nas misteriosas equações do amor... que se encontram quaisquer razões lógicas. Só estou aqui esta noite por tua causa.
+It is only in the mysterious equations of love... ...that any logical reasons can be found. --- É apenas nas misteriosas equações do amor... que se encontram quaisquer razões lógicas.
+I'm only here tonight because of you.                                                 --- Só estou aqui esta noite por tua causa.
 You are the reason I am.                                                              --- És a minha razão de ser.
 You are all my reasons.                                                               --- És todas as minhas razões.
 Thank you.                                                                            --- Obrigado.

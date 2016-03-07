@@ -1,2 +1,4 @@
-avengers-EN.srt
-avengers-PT.srt
+fastfurious-EN.srt
+fastfurious-PT.srt
+hobbit-EN.srt
+hobbit-PT.srt
