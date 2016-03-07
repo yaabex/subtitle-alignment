@@ -1,2 +1,2 @@
-up-EN.srt
-up-PT.srt
+avengers-EN.srt
+avengers-PT.srt
