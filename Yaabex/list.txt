@@ -1,4 +1,8 @@
-fastfurious-EN.srt
-fastfurious-PT.srt
-hobbit-EN.srt
-hobbit-PT.srt
+fight-EN.srt
+fight-PT.srt
+insideOut-EN.srt
+insideOut-PT.srt
+lion3-EN.srt
+lion3-PT.srt
+whiplash-EN.srt
+whiplash-PT.srt

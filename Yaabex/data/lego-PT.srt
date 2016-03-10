@@ -148,7 +148,7 @@ Que grande patranha.
 
 38
 00:02:21,729 --> 00:02:25,996
-8 >>
+8 ANOS E MEIO MAIS TARDE>>
 
 39
 00:02:39,288 --> 00:02:41,456
@@ -576,7 +576,7 @@ Sinto-me tão bem agora! Podia cantar isto durante horas!
 
 145
 00:06:30,185 --> 00:06:32,562
-5 >>
+5 HORAS MAIS TARDE>>
 
 146
 00:06:32,563 --> 00:06:34,981
@@ -645,6 +645,10 @@ Esperem aí! Pronto, eu vou lá ter convosco.
 162
 00:07:08,390 --> 00:07:09,640
 Para onde foi?
+
+163
+00:07:09,641 --> 00:07:10,516
+ INTEGRAR-SE!
 
 164
 00:07:10,517 --> 00:07:12,074
@@ -729,6 +733,10 @@ Sinto que devia tocar naquilo.
 186
 00:09:08,093 --> 00:09:09,594
 Toca na Peça.
+
+187
+00:09:09,595 --> 00:09:12,055
+NÃO TOCAR>>
 
 188
 00:09:12,056 --> 00:09:16,281
@@ -1494,6 +1502,10 @@ Ora bolas, bolas, bolas!
 00:18:37,121 --> 00:18:39,455
 Espera. Onde estamos?
 
+379
+00:18:39,456 --> 00:18:41,707
+VELHO OESTE>>
+
 380
 00:18:41,708 --> 00:18:43,098
 Isto é tão estran...>>
@@ -1736,7 +1748,7 @@ que estavam sempre a mudar tudo.
 
 440
 00:20:57,469 --> 00:20:58,636
-INTEGRAR! É MUITO BOM!
+É MUITO BOM!
 
 441
 00:20:58,637 --> 00:20:59,804
@@ -1794,6 +1806,8 @@ Está bem.
 00:21:25,956 --> 00:21:27,971
 Quão assustador pode ser um escritório?
 
+455
+00:21:34,173 --> 00:21:36,146
 DE NEGÓCIOS>>
 
 456
@@ -1803,10 +1817,6 @@ Presidente de Negócios, estamos a tentar achar o fugitivo,>>
 457
 00:21:39,470 --> 00:21:42,430
 mas tem uma cara tão comum que se confunde na nossa base de dados.
-
-458
-00:21:42,431 --> 00:21:43,598
-PROCURA-SE!
 
 459
 00:21:43,599 --> 00:21:44,807
@@ -2071,10 +2081,6 @@ Eu chamo-lhe>>
 524
 00:24:14,333 --> 00:24:17,085
 o Tentáculo para Pulverizar o Kragle no Exterior.
-
-525
-00:24:17,086 --> 00:24:18,628
-Ou TAKOS.
 
 526
 00:24:18,629 --> 00:24:20,143
@@ -2450,7 +2456,7 @@ Vemo-nos no andar de cima daqui a 10 segundos.
 
 619
 00:28:19,078 --> 00:28:21,885
-"10" >>
+"10" SEGUNDOS MAIS TARDE>>
 
 620
 00:28:24,917 --> 00:28:26,932
@@ -2819,10 +2825,6 @@ Espera aí, parceiro.
 711
 00:32:13,896 --> 00:32:15,869
 Desenha um chapéu de cowboy nele.
-
-712
-00:32:17,733 --> 00:32:19,331
-PROCURA-SE!
 
 713
 00:32:22,321 --> 00:32:24,489
@@ -3996,6 +3998,8 @@ Não se partiu!
 00:45:51,380 --> 00:45:53,381
 Porque está colado. Máquina de pastilha elástica!
 
+1007
+00:45:53,382 --> 00:45:54,674
 MASCAR>>
 
 1008
@@ -5542,7 +5546,9 @@ Batman, quando entrarmos na sala,>>
 01:04:23,826 --> 01:04:25,243
 estarão sensores de áudio por todo o lado.
 
-CHIU!
+1396
+01:04:25,244 --> 01:04:26,119
+NEM UM PIO CHIU!
 
 1397
 01:04:26,120 --> 01:04:27,370
@@ -6322,7 +6328,7 @@ Venham ter comigo lá abaixo daqui a 10 segundos.
 
 1593
 01:13:51,310 --> 01:13:53,116
-10 >>
+10 SEGUNDOS MAIS TARDE>>
 
 1594
 01:13:53,145 --> 01:13:57,371
@@ -6820,6 +6826,10 @@ Para que eu possa fazer as coisas como devem ser.
 01:20:22,493 --> 01:20:24,174
 Para sempre.
 
+1719
+01:20:25,329 --> 01:20:26,676
+SUPER COLA>>
+
 1720
 01:20:26,997 --> 01:20:28,498
 Mais Kragles?
@@ -7003,10 +7013,6 @@ Não tens de quê.
 1765
 01:23:30,806 --> 01:23:32,654
 Agora é contigo, Emmet.
-
-1766
-01:23:36,478 --> 01:23:38,577
-ACREDITA!
 
 1767
 01:23:42,276 --> 01:23:43,874
@@ -7279,6 +7285,14 @@ Está ali dentro.
 1834
 01:27:57,406 --> 01:27:59,171
 Aqui?
+
+1836
+01:28:28,687 --> 01:28:30,660
+NÃO TOCAR>>
+
+1837
+01:28:32,524 --> 01:28:34,623
+NÃO MEXER>>
 
 1838
 01:28:36,862 --> 01:28:40,921
