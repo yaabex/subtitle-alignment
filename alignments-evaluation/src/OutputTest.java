@@ -33,8 +33,8 @@ public class OutputTest {
 				for(String m : results)
 					if(m.contains(str) && !m.matches(".*--- .+"))
 						notFound++;
-			System.out.println(filename+" | Passed: " + passed + " | Failed: " + failed + " | "+ (int)(passed*100/(float)(passed+failed)) + "%");
-			System.out.println("\tNot Found: "+ notFound+"\n");
+			System.out.println(filename+" | TP: " + passed + " | FP: " + (failed-notFound) + " | "+ (int)(passed*100/(float)(passed+failed+notFound)) + "%");
+			System.out.println("\tFN: "+ notFound+"\n");
 		}
 	}
 }

@@ -1,8 +1,2 @@
-fight-EN.srt
-fight-PT.srt
-insideOut-EN.srt
-insideOut-PT.srt
-lion3-EN.srt
-lion3-PT.srt
-whiplash-EN.srt
-whiplash-PT.srt
+batman-EN.srt
+batman-PT.srt
