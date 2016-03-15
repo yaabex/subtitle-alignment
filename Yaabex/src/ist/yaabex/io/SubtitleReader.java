@@ -47,9 +47,11 @@ public class SubtitleReader {
 
 	public SubtitlePair readPair(){
 		SubtitlePair pair = pairsList.get(index++);
-		pair.setSource(readSubtitle(pair.getSourceName()));
-		pair.setTarget(readSubtitle(pair.getTargetName()));
-
+		try{
+			pair.setSubtitles(readSubtitle(pair.getSourceName()), readSubtitle(pair.getTargetName()));
+		}catch(Exception e){
+			System.err.println("ERROR: Impossible to read subtitle pair \"" + pair.getName() + "\"\n       "+e.getMessage());
+		}
 		return pair;
 	}
 
@@ -60,18 +62,25 @@ public class SubtitleReader {
 
 		try {
 			Scanner scanner = new Scanner(new File(filename), encoding);
+			int screenId=1;
 			String line = new String();
 			String text = new String();
 			String timestampLine = new String();
 			while (scanner.hasNextLine()) {
 				line = scanner.nextLine();
 
-				if(line.matches("^[0-9]+$"))					// id line - new screen start
+				if(line.matches("^[0-9]+$")){					// id line - new screen start
+					screenId = Integer.parseInt(line);
 					text = new String();
-				else if(line.matches(".+[0-9] --> [0-9].+"))	// timestamp line
+				}else if(line.matches(".+[0-9] --> [0-9].+"))	// timestamp line
 					timestampLine = line;
 				else if(line.matches("^$"))
-					subtitle.addText(text, getAbsoluteStartTime(timestampLine), getAbsoluteEndTime(timestampLine));
+					try{
+						subtitle.addText(text, getAbsoluteStartTime(timestampLine), getAbsoluteEndTime(timestampLine));
+					}catch(Exception e){
+						scanner.close();
+						throw new RuntimeException("Incorrect format at subtitle screen " + screenId);
+					}
 				else
 					text += line;	
 			}

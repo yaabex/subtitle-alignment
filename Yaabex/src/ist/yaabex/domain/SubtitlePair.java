@@ -3,8 +3,8 @@ package ist.yaabex.domain;
 public class SubtitlePair{
 	private String sourceName;
 	private String targetName;
-	private Subtitle source;
-	private Subtitle target;
+	private Subtitle source = null;
+	private Subtitle target = null;
 	
 	public SubtitlePair(String sourceName, String targetName) {
 		this.sourceName = sourceName;
@@ -16,6 +16,12 @@ public class SubtitlePair{
 	public String getName()				{	return sourceName.replaceAll("-.*", "");}
 	public Subtitle getSource()			{	return source;		}
 	public Subtitle getTarget()			{	return target;		}
-	public void setSource(Subtitle s)	{ source = s;			}
-	public void setTarget(Subtitle t)	{ target = t;			}
+	
+	public void setSubtitles(Subtitle s, Subtitle t) {
+		source = s;
+		target = t;
+	}
+	public boolean isValid() {
+		return source != null && target != null;
+	}
 }

@@ -1,2 +1,2 @@
-batman-EN.srt
-batman-PT.srt
+indiana-EN.srt
+indiana-PT.srt
