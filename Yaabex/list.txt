@@ -1,2 +1,12 @@
-indiana-EN.srt
-indiana-PT.srt
+citizen-EN.srt
+citizen-PT.srt
+dayAfter-EN.srt
+dayAfter-PT.srt
+forrestGump-EN.srt
+forrestGump-PT.srt
+gravity-EN.srt
+gravity-PT.srt
+notebook-EN.srt
+notebook-PT.srt
+vendetta-EN.srt
+vendetta-PT.srt

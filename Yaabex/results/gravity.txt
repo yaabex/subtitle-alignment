@@ -1,0 +1,971 @@
+Please verify that the P-one ATA removal on replacement cap part one and two are complete. --- Certifiquem-se que completam a retirada da parte 1 e 2 do P1 do ATA.
+DMA M-one, M-two, M-three and M four are complete.                                    --- A M1, M2, M3 e M4 do DMA estão completas.
+- Okay. Copy that, Explorer.                                                          --- 
+Dr. Stone, Houston.                                                                   --- Stone, daqui Houston.
+Medical is concerned about your ECG readings.                                         --- O Dep. Médico está inquieto com o seu ECG.
+I'm fine, Houston.                                                                    --- Estou óptima, Houston.
+- Well, Medical doesn't agree, Doc.                                                   --- O Dep. Médico não concorda.
+Are you feeling nauseous?                                                             --- Sente-se enjoada?
+- Not any more than usual, Houston.                                                   --- Não mais do que o habitual, Houston.
+Diagnostics are green.                                                                --- O diagnóstico é verde.
+Link to communications card ready for data reception.                                 --- O link para o painel de comunicações está preparado para receber dados.
+If this works, when we touch down tomorrow, I'm buying all you guys a round of drinks. --- Se isto resultar, quando chegarmos amanhã, pago-vos uma rodada.
+That's a date, Doctor. Just remember, Houston's partial to margaritas.                --- Lembre-se só que em Houston gostamos de margaritas.
+Booting comms card now.                                                               --- A inicializar painel de comunicações.
+Please confirm link.                                                                  --- Por favor, confirmem o link.
+That's a negative, we're not seeing any data.                                         --- Negativo, não recebemos quaisquer dados.
+Standby, Houston, I'm gonna reboot the comms card.                                    --- Aguardem, Houston, vou reinicializar o painel.
+Standing by.                                                                          --- Estamos a aguardar.
+Houston, I have a bad feeling about this mission.                                     --- Houston, tenho um mau pressentimento quanto a esta missão.
+- Please expand.                                                                      --- Por favor, explica-te.
+Okay, let me tell you a story.                                                        --- Deixem-me contar-vos uma história.
+It was ninety-six.                                                                    --- 
+I'd been up here for forty-two days.                                                  --- Eu estava cá em cima há 42 dias.
+Every time I passed over Texas, I looked down knowing that Mrs. Kowalski was looking up, thinking of me. --- Sempre que sobrevoava o Texas, olhava para baixo, sabendo que a Sra. Kowalski estava a olhar para cima, a pensar em mim.
+Six weeks I'm blowing kisses at that woman.                                           --- Passei seis semanas a mandar beijos à mulher.
+Then we land at Edwards and I find out that she's run off with this lawyer.           --- Mas quando aterrámos em Edwards, soube que ela fugira com um advogado.
+So, I packed my car, and I headed to...                                               --- Carreguei o carro e dirigi-me a...
+- ...                                                                                 --- 
+Tijuana. You've told this story, Kowalski.                                            --- Já nos contaste, Kowalski.
+As Houston recalls, she, uh, took off in your seventy-four GTO.                       --- Se Houston bem se recorda, ela fugiu no teu GTO de 1974.
+Engineering requests fuel status on the jetpack prototype.                            --- de Engenharia pede os dados do protótipo do propulsor a jacto.
+Five hours off the reservation and I show thirty percent drain.                       --- Estou há cinco horas fora da estação e gastei 30 por cento.
+Give my compliments to Engineering.                                                   --- de Engenharia.
+Except for a slight malfunction in the nulling of the roll axis, this jetpack is one prime piece of thrust. Engineering says thank you. --- À excepção de uma ligeira avaria na neutralização da rotação, este propulsor é um equipamento de primeira.
+Tell 'em I still prefer my sixty-seven Corvette, though.                              --- Diz-lhes que, ainda assim, prefiro o meu Corvette de 1967.
+Speaking of which, did I ever tell you...                                             --- -Já conhecemos a história do Corvette, Matt.
+- We know the Corvette story, Matt.                                                   --- O Dep. de Engenharia também?
+Even Engineering?                                                                     --- de Engenharia também?
+- Especially Engineering.                                                             --- Sobretudo eles.
+We're going to miss you, Matt.                                                        --- A reinicializar o painel de comunicações.
+Comms card reboot in progress.                                                        --- A reinicializar o painel de comunicações.
+- Thank you, Doctor.                                                                  --- Obrigado, Dra.
+Shariff, what's your status?                                                          --- Shariff, como vai isso?
+Nearly there. Replacing battery module A-one and C.                                   --- Estou a substituir as baterias A1 e C.
+Ccould you be a little more specific?                                                 --- Importas-te de ser mais específico?
+Indeterminate estimates make Houston anxious.                                         --- Houston fica ansioso com essas imprecisões.
+No, Houston. Don't be anxious.                                                        --- Não, Houston, não fiques ansioso!
+Anxiety's not good for the heart.                                                     --- A ansiedade faz mal ao coração.
+System is ready to reactivate.                                                        --- O sistema está pronto a reactivar.
+Hubble telescope engaged.                                                             --- O upgrade está a funcionar em pleno.
+Upgrade fully functional.                                                             --- O upgrade está a funcionar em pleno.
+That applause you hear is for you, Shariff.                                           --- Os aplausos que ouves são para ti, Shariff.
+Congratulations. Kick back, take the rest of the day off.                             --- 
+Matt, do you have a visual on just what Mission Specialist Shariff is doing up there? --- Matt, vês o que o Especialista de Missão Shariff está a fazer?
+He appears to be doing some form of the Macarena.                                     --- Parece estar a fazer uma espécie de Macarena.
+But that would be just a best-guess scenario on my part.                              --- Mas vindo de mim, isso é meramente uma conjectura.
+Dr. Stone, Houston.                                                                   --- Stone, daqui Houston.
+Medical now have you with a temperature drop to thirty-five-point-nine and a heart-rate rise to seventy. --- Médico regista uma queda de temperatura para 35,9º e um aumento da frequência cardíaca para 70.
+How are you feeling?                                                                  --- Como se sente?
+- Houston, I'm fine. It's just keeping your lunch down in zero-G is harder than it looks. --- Houston, eu estou bem.
+Dr. Stone, Medical is asking if you want to return to Explorer.                       --- Médico pergunta se quer regressar ao Explorer.
+Negative. We've been here a week, Houston.                                            --- Estamos aqui há uma semana, Houston.
+Let's just finish this.                                                               --- Vamos acabar esta...
+Card is up.                                                                           --- 
+- No, that's a negative.                                                              --- Estamos aqui há uma semana, Houston.
+I'm afraid we're getting nothing on this end, Doctor.                                 --- 
+Try again.                                                                            --- Experimentem novamente.
+- No, still nothing.                                                                  --- Não, ainda nada.
+Houston, can you please turn that music off?                                          --- Houston, importam-se de desligar a música?
+- Kowalski. Not a problem.                                                            --- Obrigada, Kowalski.
+Thank you, Kowalski.                                                                  --- Obrigada, Kowalski.
+Now, Houston? - That's a negative.                                                    --- E agora, Houston?
+Could Houston be misinterpreting the data?                                            --- É possível que Houston esteja a interpretar mal os dados?
+Well, we're not receiving any data.                                                   --- Não estamos a receber dados nenhuns.
+Engineering is recommending a vis-check for component damage.                         --- de Engenharia recomenda uma verificação visual para ver se há danos.
+Let me see what's going on.                                                           --- Vamos lá ver o que se passa.
+What have we got?                                                                     --- O que temos aqui?
+Visual examination doesn't reveal any damaged components.                             --- O exame visual não revela qualquer estrago.
+The problem must be originating from the comms panel.                                 --- O problema deve estar no painel de comunicações.
+Yeah, that seems to be the case.                                                      --- Parece ser esse o caso.
+Engineering admits that you warned us that this could happen.                         --- de Engenharia reconhece que nos avisou que isto poderia acontecer.
+That's as close to an apology as you're going to get from them.                       --- Para eles, isso equivale a pedir-lhe desculpa.
+We should have listened to you, Doc.                                                  --- Devíamos ter-lhe dado ouvidos, doutora.
+Get working. - Well, ooks like we're going to have to improvise.                      --- Parece que vamos ter de improvisar.
+I'm on it.                                                                            --- 
+- How long do you think it'll take you?                                               --- Quanto tempo acha que leva? Uma hora.
+One hour.                                                                             --- Uma hora.
+- Outstanding.                                                                        --- Formidável!
+Installing your system in the Hubble is the purpose of this mission and so we appreciate your patience, Doctor. --- O propósito da missão era instalar o seu sistema no Hubble e agradecemos a sua paciência, doutora.
+Kowalski, we... we know you don't care about things like this, but, uh, for your information, this delay is not gonna be long enough for you to break Anatoly Solovyev's spacewalking record. --- 
+It seems like you're gonna be left...                                                 --- -Parece que te vão faltar...
+- Seventy-five minutes shy?                                                           --- -Uns 75 minutos?
+Never crossed my mind.                                                                --- Nem tal me passou pela cabeça.
+Matt...                                                                               --- Matt...
+it's been a privilege.                                                                --- Tem sido um privilégio.
+- Right back at you, Houston.                                                         --- O mesmo digo eu, Houston.
+Enjoy your last walk.                                                                 --- Aprecia a tua última caminhada.
+Am I a go to assist Dr. Stone in removing the panel?                                  --- Posso ir ajudar a Dra. Stone a remover o painel?
+Assistance appreciated.                                                               --- -Estás autorizado.
+- Permission granted. Thank you, Houston.                                             --- 
+Mind if I join the fun?                                                               --- Como se sente?
+- Certainly. How you feeling?                                                         --- Como se sente?
+Like a Chihuahua that's being tumble-dried.                                           --- Como um chihuahua que meteram numa secadora.
+Well, it's been a rough week.                                                         --- Tem sido uma semana difícil.
+If it makes you feel any better, I coughed up everything but my kidneys on my first ride. Shit. --- 
+Sorry.                                                                                --- Desculpe.
+I'm used to a basement lab in a hospital where things fall to the floor.              --- Estou habituada ao laboratório do hospital em que nada passa do chão.
+Thank you.                                                                            --- Obrigada.
+Well, you're the genius up here.                                                      --- A doutora é que é o génio.
+I only drive the bus.                                                                 --- 
+Yeah, well, call me a genius if I can get this board initialized in the next hour.    --- Chame-me génio se conseguir inicializar o painel dentro de uma hora.
+Explorer, this is Houston.                                                            --- Explorer, daqui Houston.
+- Go ahead, Houston.                                                                  --- Pode dizer, Houston.
+NORAD reports a Russian satellite has incurred a missile strike.                      --- foi atingido por um míssil.
+The impact has created a cloud of debris orbiting at twenty thousand miles per hour.  --- O impacto criou uma nuvem de detritos em órbita a 32 mil km/hora.
+Current debris orbit does not overlap with your trajectory.                           --- Os detritos não colidem com a vossa órbita.
+We'll keep you posted on any developments.                                            --- Manter-vos-emos a par de qualquer evolução.
+- Copy that, Houston.                                                                 --- Recebido, Houston.
+Should we...                                                                          --- Devemos preocupar-nos?
+Should we be worried? - No, let's let the boys down there worry for us.               --- Devemos preocupar-nos?
+Explorer, engage arm and pivot to cargo bay.                                          --- Explorer, active o braço e gire até à doca de carga.
+Stand by for arm maneuver.                                                            --- Preparar para manobra do braço.
+So, doc, now that you work for NASA, how do you like us?                              --- E então, doutora, agora que trabalha para a NASA, gosta de estar aqui?
+Kind of like winning the lottery, huh?                                                --- É como ganhar a lotaria, não?
+I was just happy that they didn't cut the funding to my research.                     --- Fiquei feliz por não me cortarem o financiamento das pesquisas.
+How long was your training?                                                           --- -Quanto tempo foi o seu treino?
+- Six months. Including holidays?                                                     --- Incluindo férias?
+- Mm-hm.                                                                              --- 
+So, what is this scanning system?                                                     --- Em que consiste este novo sistema?
+- Oh, nothing Matt.                                                                   --- 
+It's just a new set of eyes to scan the edge of the universe.                         --- É só um novo par de olhos para perscrutar os confins do universo.
+It's designed for hospital use, but this one's a prototype.                           --- Foi concebido para uso hospitalar, mas este é um protótipo.
+Stand by for locking.                                                                 --- Nada de especial.
+Listen, they don't bankroll prototypes.                                               --- Nem sequer pelos seus lindos olhos azuis.
+Even for your pretty blue eyes.                                                       --- Nem sequer pelos seus lindos olhos azuis.
+Well, my eyes are brown.                                                              --- Os meus olhos são castanhos.
+Right now, your eyes are bloodshot.                                                   --- Ouça, eles não financiam protótipos.
+Kowalski!                                                                             --- Kowalski!
+Is this great, or what?                                                               --- Não achas isto formidável?
+Woo-hoo-hoo!                                                                          --- 
+And to think he went to Harvard.                                                      --- Ninguém diria que ele andou em Harvard...
+You gotta admit one thing:                                                            --- Uma coisa é certa:
+Can't beat the view.                                                                  --- Não há vista mais bonita!
+So, what do you like about being up here?                                             --- De que mais gosta cá em cima?
+The silence.                                                                          --- Do silêncio.
+I could get used to it.                                                               --- Podia habituar-me...
+Terrific.                                                                             --- 
+Houston, from first inspection, comms panel appears to be dead.                       --- Houston, à primeira vista, o painel parece morto.
+Am I a go to cut link to auxiliary?                                                   --- Posso avançar para o auxiliar?
+You're the expert, doctor.                                                            --- A senhora é que sabe.
+It's your call. Houston, I have a bad feeling about this mission.                     --- 
+Please elaborate. - It's the same feeling I had about Mardi Gras in 1987.             --- Por favor, desenvolve.
+That is affirmative.                                                                  --- Afirmativo.
+Surprisingly, Control hasn't heard the Mardi Gras story.                              --- Surpreendentemente, o Controlo não conhece a história do Carnaval.
+Please proceed.                                                                       --- Por favor, desenvolve.
+Well, it's day one, and I'm bumping my way down Bourbon Street looking for a sister of a friend of mine. --- É o primeiro dia de Carnaval e desço a Bourbon Street no meio da multidão  à procura da irmã de um amigo meu.
+Streets are full of people. I'm thinking there's no way I'm gonna find this girl.     --- 
+Proceeding to override.                                                               --- A neutralizar o comando.
+- Then all of the sudden, I look up, and there she is, and I'm about to yell out, and I see she's holding hands with some short, hairy guy in board shorts and a Margaritaville shirt. --- De repente, olho para cima e vejo-a e disponho-me a chamá-la, quando a vejo de mão dada com um baixote peludo vestido à surfista.
+And then I realize that this guy is not a guy.                                        --- E depois percebo que o tipo não é um tipo.
+That my girl is holding hands with a... ISS, this is Houston. - Proceed, Houston.     --- E que a minha miúda está de mão dada com... EEI, daqui Houston.
+Explorer, this is Houston.                                                            --- -Pode falar, Houston.
+- Go ahead, Houston.                                                                  --- Abortar missão.
+Mission abort.                                                                        --- Repito, abortar missão.
+Repeat. Mission abort.                                                                --- Repito, abortar missão.
+Initiate emergency disconnect from Hubble.                                            --- Iniciar afastamento de emergência do Hubble.
+Begin reentry procedure.                                                              --- Proceder a reentrada imediata.
+ISS, initiate emergency evacuation.                                                   --- EEI, iniciar evacuação de emergência.
+Copy all, Houston, and in work.                                                       --- Matt, regressa imediatamente.
+Matt, immediate return to Explorer.                                                   --- Matt, regressa imediatamente.
+Repeat, immediate return to Explorer.                                                 --- Repito, regresso imediato ao Explorer.
+- Copy. Explorer, prep airlock.                                                       --- Preparar câmara de vácuo.
+- Airlock engaged, ready to receive.                                                  --- -Câmara preparada para receber.
+- Houston, elaborate.                                                                 --- -Houston, pormenores.
+Debris from the missile strike has caused a chain reaction, hitting other satellites and creating new debris. --- Os detritos do disparo do míssil provocaram uma reacção em cadeia, batendo noutros satélites e provocando mais detritos.
+Traveling faster than a high-speed bullet up towards your altitude.                   --- Dirigem-se a vocês a toda a velocidade.
+All copy?                                                                             --- Confirmada.
+- Copy all.                                                                           --- Remate isso, Dra.
+Put a bow on it, Dr. Stone.                                                           --- 
+- I can't. The board is still initializing.                                           --- A placa ainda está a inicializar.
+- I'm not gonna ask you again.                                                        --- -Não volto a pedir-lhe.
+One second.                                                                           --- Nem um segundo.
+- Not one second.                                                                     --- Nem um segundo.
+Now.                                                                                  --- Agora!
+Shut it down.                                                                         --- Desligue isso!
+That's an order. - Okay, I'm sorry.                                                   --- Está bem, desculpe, desculpe.
+I'm sorry.                                                                            --- Acabei.
+I'm done.                                                                             --- Acabei.
+I'm done. Kowalski, initiate emergency disconnect from the Hubble.                    --- 
+All right, Shariff, let's do this.                                                    --- 
+- Roger, Matt.                                                                        --- -Recebido, Matt.
+Houston, update. - Well, we have a full-on chain reaction.                            --- Houston, actualização.
+It's been confirmed that it's the unintentional side effect of the Russians striking one of their own satellites. --- Confirma-se que é um efeito secundário indesejado do ataque dos russos a um dos seus próprios satélites.
+They shot down their own satellite?                                                   --- -Destruíram o seu próprio satélite?
+- Right of disposal.                                                                  --- -Têm direito a isso.
+Most likely a spy sat gone bad.                                                       --- Deve ter sido um satélite espião que pifou.
+Now it's shrapnel.                                                                    --- E agora são estilhaços.
+Explorer, ready to disengage HST.                                                     --- Explorer, preparar para desacoplar do HST.
+Locks releasing in three...                                                           --- Desacoplamento em três, dois, um.
+two...                                                                                --- 
+one. - Explorer, new data coming through.                                             --- Explorer, recebemos novos dados.
+What's the blowback, Houston?                                                         --- Quais são os estragos, Houston?
+- It's not good.                                                                      --- A coisa é séria.
+Most of our systems are gone.                                                         --- Perdemos a maioria dos sistemas.
+Debris chain reaction is out of control and rapidly expanding.                        --- A reacção em cadeia dos destroços está descontrolada e é cada vez maior.
+Multiple satellites are down, and they keep on falling.                               --- Já destruiu vários satélites e há-de destruir mais.
+Define 'multiple satellites.                                                          --- Define "vários satélites".
+' - Most of them are gone.                                                            --- Perdemos a maior parte deles.
+Telecommunication systems are dead.                                                   --- Os sistemas de telecomunicações foram abaixo.
+Expect a communication blackout at any moment.                                        --- Prevê-se a qualquer momento a quebra de comunicações.
+Kowalski, visual of debris at nine o'clock.                                           --- Kowalski, avistei detritos às 9 horas.
+- Half of North America just lost their Facebook.                                     --- Metade da América do Norte acaba de perder o Facebook.
+Explorer, repeat, expect a communication blackout at any moment.                      --- Explorer, repito, vamos perder as comunicações a qualquer momento.
+Copy that, Houston.                                                                   --- Recebido, Houston.
+- Explorer, this is Kowalski, confirming visual contact with debris.                  --- Explorer, daqui Kowalski, confirmo avistamento de detritos.
+Debris is from a BSE sat.                                                             --- Explorer, daqui Kowalski, confirmo avistamento de detritos.
+- Heads up!                                                                           --- 
+To repeat, I have...                                                                  --- -Repito, vi...
+- Dr. Stone requesting faster transport.                                              --- Stone requisita transporte rápido.
+We have to go. We have to go, go, go!                                                 --- -Temos de ir, temos de ir!
+Kennedy reports meteorologicalconditions no-go for re-entry.                          --- Kennedy não dá condições meteorológicas para reentrada.
+Houston, Explorer.                                                                    --- Houston, Explorer.
+Copy.                                                                                 --- 
+Explorer, Dr. Stone requesting faster transport to bay area.                          --- Stone requisita transporte mais rápido. Explorer, ouvem-me?
+Explorer, do you copy? - Explorer, permission to retrieve Dr. Stone.                  --- Houston, daqui Explorer, ouvem?
+You're a go, Kowalski.                                                                --- -Podes ir, Kowalski.
+Houston, this is Explorer, copy.                                                      --- Houston, daqui Explorer, ouvem?
+All right. - We've lost Houston.                                                      --- Perdemos Houston.
+We've lost Houston.                                                                   --- Perdemos Houston.
+Unstrap. Look, we need to get the hell out of here.                                   --- Temos de sair já daqui!
+- All right.                                                                          --- 
+Need some help there, Matt?                                                           --- -Não esperes por nós!
+- No, don't wait for us.                                                              --- Está presa!
+- It's stuck!                                                                         --- 
+Man down! Man down!                                                                   --- Temos uma baixa!
+Houston, this is Explorer, copy. Houston, this is Explorer, copy.                     --- Houston, daqui Explorer, confirmem.
+Kowalski, repor...                                                                    --- Kowalski, a transmit...
+Explorer's been hit!                                                                  --- O Explorer foi atingido.
+- Explorer, do you read?                                                              --- Explorer, escutam?
+Explorer, over!                                                                       --- Explorer, escuto!
+Explorer!                                                                             --- Explorer!
+Astronaut is off structure!                                                           --- Temos um astronauta em queda!
+Dr. Stone is off structure!                                                           --- Stone está em queda!
+Dr. Stone, detach!                                                                    --- Stone, solte-se!
+- No!                                                                                 --- 
+- You must detach!                                                                    --- Tem de se soltar!
+If you don't detach, that arm's gonna carry you too far!                              --- Se não se soltar, o braço vai levá-la para longe.
+Listen to my voice!                                                                   --- -Ouça a minha voz!
+You need to focus!                                                                    --- Concentre-se.
+I'm losing visual of you.                                                             --- Estou a perdê-la de vista.
+In a few seconds, I won't be able to track you.                                       --- Daqui a segundos não poderei localizá-la.
+You need to detach!                                                                   --- Tem de se soltar!
+I can't see you anymore!                                                              --- -Já não a vejo!
+Do it now!                                                                            --- Solte-se já!
+- I'm trying! I'm trying!                                                             --- 
+I'm trying!                                                                           --- 
+Houston, I've lost visual of Dr. Stone.                                               --- Houston, perdi contacto visual com a Dra.
+Houston, I've lost visual of Dr. Stone.                                               --- Houston, perdi contacto visual com a Dra.
+Dr. Stone, do you copy?                                                               --- Stone, ouve-me?
+Repeat, do you copy?                                                                  --- Repito, ouve-me?
+Yes, yes, yes.                                                                        --- -Sim, ouço.
+I copy!                                                                               --- 
+I'm detached!                                                                         --- Já me soltei!
+- Give me your position.                                                              --- -Dê-me a sua posição.
+I don't know!                                                                         --- Não sei!
+I don't know!                                                                         --- Não sei!
+I'm spinning!                                                                         --- Estou a girar!
+I can't...                                                                            --- Não consigo...
+I can't...                                                                            --- 
+Report your position.                                                                 --- Não sei!
+- GPS is down.                                                                        --- Não consigo...
+It's down, I can't...                                                                 --- Avariou, não consigo...
+Give me a visual.                                                                     --- -Dê-me uma indicação visual.
+- I told you, nothing.                                                                --- -Já lhe disse, não vejo nada!
+I see nothing!                                                                        --- -Vê o Explorer?
+Do you have a visual of Explorer?                                                     --- -Vê o Explorer?
+- No.                                                                                 --- -Não.
+No. - Do you have a visual of ISS?                                                    --- -Não.
+- No. You need to focus.                                                              --- Tem de se concentrar.
+Anything, use the sun and the Earth, give me coordinates.                             --- Use o Sol e a Terra, dê-me coordenadas.
+I can't breathe!                                                                      --- -Não consigo respirar!
+I can't breathe!                                                                      --- -Não consigo respirar!
+Give me coordinates!                                                                  --- Stone, está a ouvir?
+Dr. Stone, do you copy?                                                               --- Stone, está a ouvir?
+Repeat, do you copy?                                                                  --- 
+Give me your position!                                                                --- Stone, está a ouvir?
+Report your position.                                                                 --- Stone, está a ouvir?
+Do you have a visual of Explorer?                                                     --- Stone, está a ouvir?
+Do you have a visual of ISS?                                                          --- Stone, está a ouvir?
+I need you to focus.                                                                  --- 
+Anything. Use the sun and the Earth, give me coordinates.                             --- Kowalski, vi uma coisa.
+Give me coordinates.                                                                  --- Stone, está a ouvir?
+Kowalski? Kowalski, do you copy?                                                      --- Kowalski, está a ouvir?
+Kowalski...                                                                           --- Avistei...
+I have...                                                                             --- Avistei...
+have a vis... Kowalski, I have a visual.                                              --- Kowalski, vi uma coisa.
+I have... have a visual of Explorer.                                                  --- Estou a ver o Explorer.
+With north at... twelve o'clock and the shuttle is at the center of the dial.         --- Com o norte às 12 horas, e o vaivém está no centro do ponteiro.
+I can see... I can see the Chinese station.                                           --- Vejo a estação chinesa.
+No, it's the International Space Station.                                             --- Não, é a Estação Espacial Internacional.
+ISS is at... ISS is at seven o'clock.                                                 --- A EEI está às 7 horas.
+Lieutenant Kowalski, do you copy?                                                     --- Tenente Kowalski, ouve-me?
+Explorer, do you... do you copy?                                                      --- Explorer, ouvem-me?
+Houston, do you copy?                                                                 --- Houston, ouvem-me?
+Houston, this is Mission Specialist Ryan Stone.                                       --- Houston, daqui Especialista de Missão Ryan Stone.
+I am off structure and I am drifting.                                                 --- 
+Do you copy?                                                                          --- Ouvem-me?
+Anyone?                                                                               --- Alguém?
+Anybody?                                                                              --- Alguém?
+Do you copy?                                                                          --- Ouvem-me?
+Please copy.                                                                          --- Por favor, ouçam-me.
+Please.                                                                               --- Por favor...
+Dr. Stone, do you copy?                                                               --- Stone, ouve-me?
+- Yeah, Lieutenant Kowalski, yes.                                                     --- Sim, Tenente Kowalski, sim!
+Yes, Lieutenant Kowalski, I'm here, I'm here.                                         --- -Repito, ouve-me?
+- Repeat, do you copy?                                                                --- -Sim, sim, ouço!
+Yes, yes, I copy, I'm here!                                                           --- -Sim, sim, ouço!
+I'm here. - Flash your light.                                                         --- Acenda a luz!
+My light...                                                                           --- 
+my light? - Flash it so I can see you.                                                --- -Pisque para poder vê-la.
+Okay.                                                                                 --- 
+Uh... I...                                                                            --- Pronto, pronto... Aqui, aqui!
+Okay, okay.                                                                           --- Aqui, aqui!
+Here, here!                                                                           --- Estou aqui!
+I'm here!                                                                             --- Já a vi.
+There you are.                                                                        --- Já a vi.
+Hang on tight.                                                                        --- Deixe-se estar!
+Report your status.                                                                   --- Comunique a sua situação.
+I'm fine, I'm fine.                                                                   --- Estou óptima, estou bem.
+I'm all right.                                                                        --- A sua situação.
+Your status.                                                                          --- Deixe-se estar!
+Give me your readings.                                                                --- Quais as leituras?
+Three... three...                                                                     --- Tenho 3...
+three point six PSI.                                                                  --- 3,6 PSI.
+- Your O2, give me your O2.                                                           --- O oxigénio, como está o oxigénio?
+Oxygen is going down.                                                                 --- Está a descer.
+It's going down fast.                                                                 --- 
+It's going down fast.                                                                 --- Está a 9...
+Nine...                                                                               --- 
+No. No, eight-eight percent.                                                          --- 
+Okay, you're breathing too fast.                                                      --- 
+- Eight three point nine percent. You're burning oxygen, and we don't want to do that. --- 
+We want to relax.                                                                     --- Temos de nos acalmar.
+Copy?                                                                                 --- 
+- Okay, sorry.                                                                        --- Sim, ouvi.
+Yes, copy, copy.                                                                      --- -Estou quase aí.
+All right.                                                                            --- 
+Nearly there.                                                                         --- -Estou quase aí.
+- Please hurry.                                                                       --- -Por favor, despache-se.
+You can holster that torch, Dr. Stone.                                                --- Stone. Desculpe, desculpe.
+- Sorry.                                                                              --- Desculpe, desculpe.
+Sorry.                                                                                --- Desculpe, desculpe.
+Gotcha. All right, now I'm gonna tether you to me.                                    --- Agora vou prendê-la a mim.
+I know, you never realized how devastatingly good-looking I am.                       --- Já sei, nunca se apercebeu de como sou bem parecido.
+But I need you to stop staring and help me with the tether.                           --- Mas tem de parar de olhar para mim e ajudar-me a prendê-la.
+Okay? - Okay, okay.                                                                   --- 
+I got it.                                                                             --- 
+All right, here we go. All right.                                                     --- 
+Now, to clear you from the jets...                                                    --- Ora bem, vou dar-lhe um empurrãozinho para a desviar dos jactos.
+I'm gonna give you a little push.                                                     --- Não é bem um empurrão.
+No, no, no, no.                                                                       --- Não é bem um empurrão.
+No, no, no.                                                                           --- Bolas, não!
+- Not a push.                                                                         --- É mais um encontrãozinho.
+No, no.                                                                               --- Bolas, não!
+- A nudge. No, no, no, no, no, no, no, no, no!                                        --- Bolas, não!
+Damn it, no!                                                                          --- Bolas, não!
+No!                                                                                   --- Bolas, não!
+See? Where you go, I go.                                                              --- 
+Better.                                                                               --- Melhor.
+Let's get outta here.                                                                 --- Vamos sair daqui.
+Goddamn it. - I know what you mean.                                                   --- -A quem o diz!
+Damn it. - You're burning oxygen.                                                     --- Está a queimar oxigénio.
+We're going back to the shuttle.                                                      --- Que tal acha o plano?
+How's that for a plan?                                                                --- Que tal acha o plano?
+Copy?                                                                                 --- 
+Fuck!                                                                                 --- Certo.
+- Right.                                                                              --- Certo.
+Copy that.                                                                            --- 
+Houston, in the blind.                                                                --- Eu e a Dra.
+This is Kowalski. Dr. Stone and I are gonna make our way back to base.                --- Houston, daqui Kowalski.
+Can you get the Explorer to prepare the airlock for arrival?                          --- Pedem ao Explorer que prepare a câmara de vácuo?
+Copy? Houston, this is...                                                             --- 
+Kowalski.                                                                             --- Daqui Kowalski.
+How do you copy?                                                                      --- 
+Houston, in the blind.                                                                --- Daqui Kowalski.
+This is Kowalski.                                                                     --- Não nos ouvem.
+They can't hear us. - We don't know that.                                             --- Não nos ouvem.
+That's why we keep talking. If somebody is listening, they might just save your life. --- Marque 90 minutos no cronómetro.
+Set your watch for ninety minutes.                                                    --- Marque 90 minutos no cronómetro.
+- Why ninety? Well, Houston clocked that debris at fifty thousand miles an hour.      --- -Porquê?
+If you factor in our current orbit, then I figure we got about ninety minutes before we get our asses kicked again. --- 
+O2 down to six percent.                                                               --- 
+- Okay. Pretty scary shit being untethered up here, isn't it?                         --- É assustador como a merda, andar solto aqui, não é?
+Yeah, pretty scary shit.                                                              --- Mas a doutora saiu-se bem.
+- Well, you did all right.                                                            --- Mas a doutora saiu-se bem.
+Well, you weren't so bad yourself.                                                    --- Você também não se saiu mal.
+Houston, in the blind.                                                                --- Daqui Kowalski.
+This is Kowalski. Our current location is approximately nine hundred meters out from the Explorer. --- Onde está ele?
+Dr. Stone and I would like to retrieve the body of Mission Specialist Shariff and return it to the shuttle. --- Gostaríamos de recuperar o corpo do Especialista de Missão Shariff e regressar ao vaivém.
+Am I a go to retrieve?                                                                --- 
+Roger that.                                                                           --- Onde está ele?
+- Where is he?                                                                        --- Onde está ele?
+Where is he?                                                                          --- Onde está ele?
+Oh, my God. Oh, my God.                                                               --- Meu Deus!
+Grab him!                                                                             --- Agarre-o!
+Grab him!                                                                             --- Agarre-o!
+- I'm trying, I'm trying!                                                             --- 
+You're pullin' me away.                                                               --- Apanhei-o!
+- Got...                                                                              --- 
+I got him! Clutch him like he's your Valentine.                                       --- -Agarre-se bem a ele!
+- I got him.                                                                          --- -Agarre-se bem a ele!
+Okay.                                                                                 --- 
+I got him. I can't engage my thrust with you two yo-yoin' around.                     --- Não consigo ligar o propulsor convosco a dançar como iô-iôs!
+Jesus Christ.                                                                         --- Valha-me Deus!
+Here's hopin' you have a hell of an insurance policy, Houston.                        --- Espero que tenham um belíssimo seguro, Houston.
+The damages to Explorer are catastrophic.                                             --- Os danos no Explorer são catastróficos!
+Will commence search for survivors.                                                   --- 
+O2 down to five percent.                                                              --- 
+All right, here we go.                                                                --- 
+Careful of the edges!                                                                 --- Cuidado com as arestas!
+Here.                                                                                 --- 
+Here!                                                                                 --- 
+Houston, in the blind.                                                                --- Dê-me a mão, segure-se!
+To confirm.                                                                           --- 
+Mission Specialist Dr. Stone and Mission Commander Matthew Kowalski are the sole survivors of the STS-one-five-seven. --- Stone e o Comandante Matthew Kowalski são os únicos sobreviventes do STS-157.
+I apologize for not complying. I should've stopped working as soon as you instructed me to. --- Desculpe não ter obedecido.
+We were gonna get hit no matter what.                                                 --- Stone e o Comandante Matthew Kowalski são os únicos sobreviventes do STS-157.
+There was nothing you could do to change that.                                        --- Nada do que tivesse feito evitaria isso.
+Hey.                                                                                  --- 
+- Yes?                                                                                --- Sim?
+All right, we have to make our way to the Space Station.                              --- Temos de ir para a Estação Espacial.
+Over there.                                                                           --- Ali.
+It's a bit of a hike, but we need to use their escape pod, the Soyuz, to get back to Earth. --- É um passeiozito, mas precisamos da cápsula de fuga, o Soyuz, para regressar à Terra.
+Agreed?                                                                               --- Combinado?
+Dr. Stone, agreed?                                                                    --- Stone? Está combinado?
+Agreed. - All right.                                                                  --- Certo, vá à frente...
+After you.                                                                            --- 
+Oh, God.                                                                              --- Meu Deus!
+Houston, in the blind.                                                                --- Daqui Kowalski.
+This is Kowalski.                                                                     --- Daqui Kowalski.
+Dr. Stone and I have determined to proceed to ISS and use one of their Soyuz for re-entry. --- Stone decidimos ir para a EEI e usar uns dos Soyuz para a reentrada.
+ISS, if you hear us... we could sure use a rescue mission.                            --- EEI, se nos ouvem... dava-nos jeito que viessem resgatar-nos.
+O2 down to two percent.                                                               --- Tenho o oxigénio a 2 por cento.
+- We're getting there.                                                                --- Estamos a chegar.
+Beautiful, don't you think?                                                           --- É lindo, não acha?
+What?                                                                                 --- O quê?
+The sunrise.                                                                          --- O nascer-do-sol.
+That's what I'm gonna miss the most.                                                  --- É o que mais falta me vai fazer.
+So where's home, Dr. Stone?                                                           --- Onde fica a sua casa, Dra.
+Ryan, where's home?                                                                   --- Ryan, onde mora?
+Home?                                                                                 --- Onde moro?
+Down there. Mother Earth.                                                             --- Lá em baixo, no planeta Terra.
+Where do you pitch you tent?                                                          --- Onde fica a sua palhota?
+Lake Zurich.                                                                          --- Em Lake Zurich.
+- Where the hell is that?                                                             --- Onde raio fica isso?
+Illinois.                                                                             --- Em Illinois.
+- Illinois. Central Time Zone.                                                        --- No fuso horário central.
+That would make it roughly... eight PM.                                               --- Então são mais ou menos... 8 da noite.
+What are the good people of Lake Zurich doing at eight o'clock?                       --- O que faz a boa gente de Lake Zurich às 8 da noite?
+I don't know.                                                                         --- Não sei.
+I'm not gonna make it.                                                                --- E estou a empatá-lo.
+I'm slowing you down.                                                                 --- 
+- What would you be doing?                                                            --- O que estaria a Ryan a fazer?
+Come on, Ryan.                                                                        --- Diga lá, Ryan.
+It's eight o'clock.                                                                   --- São 8 da noite.
+You've just left the hospital after an eighteen-hour shift.                           --- Acaba de sair do hospital, de um turno de 18 horas.
+Driving home.                                                                         --- Vai a caminho de casa.
+The radio.                                                                            --- A rádio.
+I listen to the radio.                                                                --- Boa! Deixe-me adivinhar...
+- There we go.                                                                        --- 
+Let me guess.                                                                         --- A Rádio Pública Nacional?
+NPR? Classical?                                                                       --- O posto clássico?
+Top forty?                                                                            --- O Top 40?
+Anything.                                                                             --- Um qualquer.
+I don't care, as long as they don't talk.                                             --- 
+I just drive.                                                                         --- 
+And where are you driving to?                                                         --- E para onde conduz?
+I just drive.                                                                         --- 
+- What do you miss down there?                                                        --- O que lhe faz falta lá de baixo?
+Is there a Mr. Stone?                                                                 --- Há um Sr. Stone?
+No.                                                                                   --- Não.
+- Nobody special?                                                                     --- Não tem ninguém em especial?
+Somebody down there looking up, thinking about you?                                   --- Não há ninguém lá em baixo, a olhar para cima e a pensar em si?
+Ryan?                                                                                 --- Ryan?
+I had a daughter.                                                                     --- Tive uma filha.
+She was four.                                                                         --- 
+She was at school playing tag.                                                        --- Escorregou, bateu com a cabeça, e pronto.
+Slipped, hit her head, and that was it.                                               --- Escorregou, bateu com a cabeça, e pronto.
+Stupidest thing.                                                                      --- Uma coisa tão estúpida...
+I was driving when I got the call, so...                                              --- Estava a conduzir quando me ligaram, portanto...
+Ever since then, that's what I do.                                                    --- Desde então, é tudo o que faço.
+I wake up, I go to work, and I just drive.                                            --- Acordo... vou trabalhar e conduzo.
+O2 down to one percent.                                                               --- Tenho o oxigénio a 1 por cento.
+Well, I've got good news and bad news.                                                --- Tenho boas e más notícias.
+The good news is, we're about five minutes from the ISS and I know where the Russians stash their vodka. --- As boas notícias é que estamos a 5 minutos da EEI e eu sei onde os russos escondem a vodka.
+And that is good, because I'm runnin' on fumes here.                                  --- E isso é bom, porque já estou a avançar a custo.
+The bad news is, I'm gonna be about ten minutes short of breakin' Anatoly's record, and I... --- A má notícia é que me faltam uns 10 minutos para bater o recorde do Anatoly...
+What?                                                                                 --- O que foi?
+- I'm redlining.                                                                      --- Sinal de alerta.
+My O2 tank pressure is low.                                                           --- 
+Your tank is out of oxygen but you still have it in your suit.                        --- Entendido. Tem de bebericar, e não emborcar.
+- Got it. So you have to sip, not gulp.                                               --- Tem de bebericar, e não emborcar.
+Wine, not beer.                                                                       --- É vinho, não é cerveja.
+Sip, Ryan.                                                                            --- Beberique, Ryan.
+Houston, in the blind, we have a visual of the ISS.                                   --- Houston, a transmitir às cegas, estamos a ver a EEI.
+The station must have been evacuated because the first Soyuz is missing.              --- A estação deve ter sido evacuada, porque falta o Soyuz 1.
+The second Soyuz exhibits surface damage, and its chute has been deployed.            --- O Soyuz 2 revela danos de superfície e o pára-quedas está aberto.
+Any use as an escape pod for re-entry is impossible.                                  --- É impossível usá-lo para reentrar.
+Shouldn't we be turning?                                                              --- Estamos outra vez à deriva.
+We're drifting again.                                                                 --- Estamos outra vez à deriva.
+Not yet. I wasn't kidding about those fumes.                                          --- Ainda não, não estava a brincar com aquilo de avançar a custo.
+This can has one or two good thrusts left... if we're lucky.                          --- Esta garrafa tem um ou dois jactos fortes, se tivermos sorte.
+Steady.                                                                               --- 
+Aim.                                                                                  --- 
+Fire!                                                                                 --- 
+Brake!                                                                                --- 
+Brake! You have to brake!                                                             --- 
+- I can't, the can's empty.                                                           --- Vamos colidir com ele!
+We're gonna hit hard!                                                                 --- Agarre-se ao que puder!
+Grab a hold of anything you can!                                                      --- Agarre-se ao que puder!
+What do I do?                                                                         --- O que faço?
+What do I do?!                                                                        --- O que faço?
+Ryan!                                                                                 --- Ryan!
+The tether broke, I'm detached!                                                       --- O cabo partiu-se, estou solta!
+I'm detached!                                                                         --- 
+Grab a hold!                                                                          --- Agarre-se!
+Grab anything!                                                                        --- Agarre-se a qualquer coisa!
+Ryan!                                                                                 --- Ryan!
+Give me five!                                                                         --- -Apanhei-o!
+- I've got you.                                                                       --- Eu apanho-o!
+I've got you.                                                                         --- Eu agarro-o!
+Right here, right here.                                                               --- 
+Shit!                                                                                 --- Merda!
+- No.                                                                                 --- 
+No, no, no...                                                                         --- 
+Got ya.                                                                               --- Apanhei-o!
+Got ya.                                                                               --- 
+You just... hold on and I'm gonna start pulling you in.                               --- Agarre-se bem, vou puxá-lo para cá.
+I'm gonna start...                                                                    --- 
+Hey, Doc. - Just hold on.                                                             --- Agarre-se bem, segure-se.
+Hang on. I am gonna pull you in.                                                      --- -Vou puxá-lo para cá.
+Ryan, listen.                                                                         --- -Ryan, ouça.
+- I'm gonna pull you in.                                                              --- Tem de me deixar ir.
+- You have to let me go.                                                              --- Os cabos estão demasiado laços, vou arrastá-la.
+- No.                                                                                 --- Não.
+The ropes are too loose. I'm pulling you with me.                                     --- Os cabos estão demasiado laços, vou arrastá-la.
+You have to let me go, or we both die.                                                --- 
+I'm not letting you go!                                                               --- Nós safamo-nos!
+We're fine!                                                                           --- 
+- No.                                                                                 --- Não.
+Ryan, let me go.                                                                      --- Ryan, largue-me.
+- No.                                                                                 --- Não.
+No.                                                                                   --- Não.
+You're not going anywhere.                                                            --- Não vai a lado nenhum!
+You're not going anywhere.                                                            --- -A decisão não é sua.
+It's not up to you.                                                                   --- -Não, não, não!
+- No, no, no, no... Please don't do this.                                             --- Por favor, não faça isso!
+Please, please, please, please don't do this.                                         --- Por favor, por favor! Por favor, não faça isso!
+Please don't do this.                                                                 --- Por favor, não faça isso!
+No, no, no.                                                                           --- Por favor, não, Matt.
+Please don't, Matt.                                                                   --- Por favor, não faça isso!
+Please don't do this.                                                                 --- Por favor, não faça isso!
+You're gonna make it, Ryan.                                                           --- Por favor, não faça isso!
+No!                                                                                   --- Não!
+I had you.                                                                            --- Você vai safar-se, Ryan.
+I had you!                                                                            --- Você vai safar-se, Ryan.
+I had you.                                                                            --- 
+Ryan, do you hear me?                                                                 --- Ryan, está a ouvir?
+Do you copy?                                                                          --- O alarme do CO2 disparou.
+- My CO2 alarm went off.                                                              --- O alarme do CO2 disparou.
+My CO2 alarm went off. - Look, you need to board the station.                         --- O alarme do CO2 disparou.
+Do you see the airlock?                                                               --- Está a ver a câmara de vácuo?
+Hey, Ryan, you copy?                                                                  --- 
+Look for the airlock.                                                                 --- Procure a câmara de vácuo.
+It's above you, next to the Zarya module.                                             --- Fica por cima de si, ao lado do módulo Zarya.
+You see it?                                                                           --- Sim, sim!
+- Yes. Yes, I see it.                                                                 --- Estou a ver, sim!
+I see it.                                                                             --- Boa!
+- Good. That's where you want to go.                                                  --- É para lá que quer ir.
+Now you're getting lightheaded, right?                                                --- Sim...
+Yeah.                                                                                 --- Sim...
+Yes.                                                                                  --- Sim...
+- That's because you're breathing CO2.                                                --- É por estar a respirar dióxido de carbono.
+You're losing consciousness.                                                          --- Vai perder os sentidos.
+You need to board the station.                                                        --- Está bem.
+- Okay.                                                                               --- 
+That second Soyuz is too damaged for re-entry, but it's perfectly fine for a little Sunday drive. --- O Soyuz 2 está demasiado danificado para a reentrada, mas serve perfeitamente para um belo passeio de domingo.
+Sunday drive?                                                                         --- Olhe para oeste.
+Look to the west.                                                                     --- Olhe para oeste.
+You see that dot in the distance?                                                     --- Vê aquele pontinho à distância?
+That's a Chinese station.                                                             --- É a estação chinesa.
+- Yes. You're gonna take the Soyuz, and you're gonna cruise over there.               --- Vai meter-se no Soyuz e vai até lá.
+Chinese lifeboat is a Shenzhou.                                                       --- O salva-vidas chinês é um Shenzhou.
+I've never flown a Shenzhou.                                                          --- Não faz mal.
+- It doesn't matter. Its re-entry protocol is identical to the Soyuz.                 --- O protocolo de reentrada é idêntico ao do Soyuz.
+Okay.                                                                                 --- Certo.
+You never flown the Soyuz either?                                                     --- Também nunca pilotou um Soyuz?
+- Only a simulator.                                                                   --- Então sabe como é.
+Well, then you know.                                                                  --- Então sabe como é.
+- But I crashed it.                                                                   --- Mas espetei-me.
+It's a simulator, that's what it's designed for.                                      --- É um simulador, é para isso que ele serve.
+Every time. I crashed it every time.                                                  --- 
+You point the damn thing at Earth.                                                    --- Aponte aquela porcaria à Terra!
+It's not rocket science.                                                              --- Não é preciso grande ciência!
+And by this time tomorrow, you're gonna be back in Lake Zurich with a hell of a story to tell. --- Amanhã por esta hora está em Lake Zurich a contar uma bela história.
+You copy?                                                                             --- Ouviu-me?
+Ryan, you copy?                                                                       --- Ryan, ouviu-me?
+- I'm gonna take the Soyuz and come get you.                                          --- -Vou meter-me no Soyuz e vou buscá-lo.
+No, you're not.                                                                       --- -Vou buscá-lo.
+- I'm coming to get you.                                                              --- 
+No, I've got too much of a head start on you.                                         --- -Vou buscá-lo.
+- I'm coming to get you. I'm afraid that ship already sailed.                         --- 
+Ryan, you're gonna have to learn to let go.                                           --- Ryan, tem de aprender a aceitar as perdas.
+But I... - I want to hear you say you're gonna make it...                             --- 
+Come on, Ryan, say it.                                                                --- Vá lá, Ryan, diga-o.
+I'm gonna make it.                                                                    --- 
+- All right. Keep going.                                                              --- Está bem, continue.
+What kind of name is Ryan for a girl?                                                 --- Que raio de nome é Ryan para uma rapariga?
+Dad wanted a boy.                                                                     --- O meu pai queria um menino.
+- Are you close to the airlock?                                                       --- Está perto da câmara de vácuo?
+Not yet.                                                                              --- Ainda não.
+- Keep going.                                                                         --- 
+So now that we have some distance between us... you're attracted to me, right?        --- Agora que estamos a uma distância segura, sente-se atraída por mim, não sente?
+- What? Well, people say I have beautiful blue eyes.                                  --- O quê?
+You have beautiful...                                                                 --- Tem uns belos...
+You have beautiful blue eyes.                                                         --- 
+I have brown eyes.                                                                    --- São castanhos.
+You want to know the good news?                                                       --- Quer saber a boa notícia?
+- What? I'm gonna break Anatoly's record, and I think mine's gonna stand for a long, long time. --- O que é?
+No. I'm coming to get you.                                                            --- Eu vou buscá-lo!
+Oh, my God.                                                                           --- O que foi?
+- What?                                                                               --- O que é?
+What?                                                                                 --- O que é?
+Wow.                                                                                  --- Ryan?
+Hey, Ryan?                                                                            --- Sim?
+- Yeah?                                                                               --- Sim?
+You should see the sun on the Ganges.                                                 --- Devia ver o Sol no Ganges.
+It's amazing.                                                                         --- É espantoso!
+Where are you?                                                                        --- Onde estás?
+Where are you?                                                                        --- Comunicações...
+Comms.                                                                                --- Cá estás.
+Comms.                                                                                --- Certo...
+There you are.                                                                        --- 
+Okay. Matt, this is Ryan, copy.                                                       --- Matt, daqui Ryan, ouve-me?
+Matt, this is Ryan, copy.                                                             --- Matt, daqui Ryan, ouve-me?
+Matt, I made it, I'm here, I'm on the station.                                        --- 
+Do you copy?                                                                          --- Ouve-me?
+Come on, Matt, talk to me.                                                            --- Diga-me onde está.
+Tell me where you are, give me your position.                                         --- 
+Where are you?                                                                        --- Diga-me onde está.
+Give me a visual.                                                                     --- Diga-me lá o que vê!
+Just tell me what you see.                                                            --- Diga-me lá o que vê!
+Come on. You've been yammering since we left Cape Canaveral, and now you decide to shut up? --- Diga qualquer coisa!
+Talk to me.                                                                           --- 
+Just say something, say anything!                                                     --- Vá lá, qualquer coisa, tanto faz!
+I don't care!                                                                         --- 
+Hey, tell me about, uh, Mardi Gras.                                                   --- 
+Tell me about the hairy guy.                                                          --- 
+Huh? Tell me what happened.                                                           --- Conte-me o que aconteceu.
+What happened to the hairy guy?                                                       --- O que aconteceu ao tipo peludo?
+Please talk to me.                                                                    --- Por favor, fale comigo.
+Please.                                                                               --- Por favor...
+Houston, in the blind... this is Mission Specialist Ryan Stone reporting from the ISS. --- Houston, transmissão às cegas...  Especialista de Missão Ryan Stone a transmitir da EEI.
+All communications with Mission Commander Matthew Kowalski have been lost.            --- Perdi a comunicação com o Comandante Matthew Kowalski.
+Radio transmission absent.                                                            --- Não há qualquer transmissão de rádio.
+Visuals nonexistent.                                                                  --- Não há contacto visual.
+To confirm, I, Ryan Stone, am the sole survivor of STS-one-five-seven.                --- Confirma-se: eu, Ryan Stone, sou a única sobrevivente do STS-157.
+What now?                                                                             --- O que foi agora?
+Okay.                                                                                 --- 
+Okay.                                                                                 --- Onde está?
+Where is it, where is it?                                                             --- Onde está? Onde está a energia?
+Where is the power?                                                                   --- Onde está a energia?
+Great, just like training.                                                            --- Desacoplar.
+Undocking, undocking.                                                                 --- Desacoplar.
+Undocking.                                                                            --- 
+Red.                                                                                  --- Vermelho.
+Okay.                                                                                 --- Ora bem...
+Okay, where is it?                                                                    --- Ora bem, onde está?
+Where is it?                                                                          --- Vá lá...
+Come on.                                                                              --- 
+Okay.                                                                                 --- 
+Okay, I remember this, I remember this.                                               --- Eu lembro-me disto, eu lembro-me...
+You don't have four minutes.                                                          --- Não tens quatro minutos.
+We're going manual.                                                                   --- Vamos passar a manual.
+Come on. Okay.                                                                        --- 
+Active-Activate, undock.                                                              --- Ora bem, activar desacoplamento.
+Seven minutes to get out of here.                                                     --- Tenho sete minutos para sair daqui.
+All right, okay.                                                                      --- 
+What...                                                                               --- O que foi?
+what?                                                                                 --- O que foi?
+No, no, no, no, no, no, no, no, no!                                                   --- Não, não, não, não!
+Stop!                                                                                 --- Pára!
+Stop!                                                                                 --- Pára!
+Stop!                                                                                 --- Pára!
+Stop!                                                                                 --- Pára!
+Stop!                                                                                 --- Pára!
+Come on, come on, come on!                                                            --- Isso mesmo, é isso...
+Come on!                                                                              --- Isso mesmo, é isso...
+Come on, come on, come on!                                                            --- Isso mesmo, é isso...
+That's right, that's right. That's right, that's right, that's right.                 --- 
+Come on.                                                                              --- Vá lá!
+Great.                                                                                --- Fantástico...
+Clear skies with a chance of satellite debris.                                        --- Céu limpo com possíveis destroços de satélites.
+Okay, we detach this, and we go home. Piece of cake.                                  --- Vamos soltar isto e voltar para casa.
+Okay.                                                                                 --- Pronto...
+Okay, what do we have?                                                                --- O que temos aqui?
+Okay, all right.                                                                      --- Ora bem...
+Shit.                                                                                 --- Merda!
+Okay, come on.                                                                        --- Vá lá!
+Come on, come on.                                                                     --- 
+All right.                                                                            --- Certo...
+I hate space.                                                                         --- Odeio o espaço!
+Shut up.                                                                              --- Cala-te.
+Okay.                                                                                 --- Pronto.
+All right.                                                                            --- Certo.
+That's good.                                                                          --- Isto é bom.
+Okay.                                                                                 --- 
+Let's stabilize you.                                                                  --- Vamos lá estabilizar-te...
+Okay.                                                                                 --- 
+Let's go visit the Chinese station.                                                   --- Vamos visitar a estação chinesa.
+Houston, in the blind,  Tiangong is approximately one hundred kilometers to the west, and I am off its course by about thirteen degrees. --- Houston, transmissão às cegas.
+I will correct trajectory.                                                            --- Vou corrigir a trajectória.
+Okay.                                                                                 --- Pronto.
+Okay.                                                                                 --- Pronto.
+Okay.                                                                                 --- Pronto.
+I will engage S-Ka-Dae in five... four... three...                                    --- Vou ligar o SKD dentro de cinco, quatro, três, dois, um.
+two...                                                                                --- 
+one.                                                                                  --- 
+What's happening, what's happening?                                                   --- O que se passa?
+Come on, come on.                                                                     --- Vá lá!
+One.                                                                                  --- Um.
+Come on, come on.                                                                     --- Vá lá, vá lá!
+You gotta be kidding me.                                                              --- Não acredito!
+You gotta be kidding me!                                                              --- Estão a gozar comigo!
+No! Don't you fuck...                                                                 --- Não acredito!
+Houston, in the blind.                                                                --- Houston, transmissão às cegas, daqui a Dra.
+Houston, in the blind, this is Dr. Ryan Stone.                                        --- Houston, transmissão às cegas, daqui a Dra.
+I'm calling from the Soyuz TMA-one-four-M.                                            --- Estou a ligar do Soyuz TMA-14M.
+I'm currently out of fuel and adrift, do you copy?                                    --- Estou sem combustível e à deriva, ouvem-me?
+Houston.                                                                              --- Houston.
+This is Dr. Ryan Stone.                                                               --- 
+Do you copy?                                                                          --- 
+Houston. This is Ryan Stone.                                                          --- Houston.
+Do you copy?                                                                          --- Ouvem-me?
+Houston, this is Missish...                                                           --- Houston, daqui Especialista de Missão Ryan Stone.
+Mission Specialist Ryan Stone, do you copy?                                           --- Houston, daqui Especialista de Missão Ryan Stone.
+Houston, Houston, please confirm identity.                                            --- Houston, por favor, confirmem identidade.
+Houston, you're coming in over an A.M. frequency.                                     --- Houston, recebo-vos numa frequência AM.
+Copy.                                                                                 --- 
+Do you copy?                                                                          --- 
+Is this the Chinese station?                                                          --- É da Tiangong?
+Is this Tiangong?                                                                     --- Escuto.
+Copy.                                                                                 --- Escuto.
+Mayday, can you copy?                                                                 --- Mayday, mayday.
+Mayday, mayday, mayday.                                                               --- Mayday. -Mayday.
+Yes, yes.                                                                             --- Mayday, mayday.
+Mayday, mayday.                                                                       --- -Mayday.
+Mayday, mayday.                                                                       --- -Mayday, mayday.
+Aningaaq.                                                                             --- Aningaaq.
+Is that...?                                                                           --- -Aningaaq.
+Is that your...?                                                                      --- -Aningaaq.
+Is that your name?                                                                    --- -Chama-se Aningaaq?
+Aningaaq is your...                                                                   --- É o seu nome?
+is your name?                                                                         --- -Mayday.
+Is that your name?                                                                    --- Aningaaq.
+Mayday!                                                                               --- Não, não, não!
+No, no, no.                                                                           --- Eu não me chamo Mayday.
+No, my name is not 'Mayday.                                                           --- Chamo-me Stone.
+' I'm Stone.                                                                          --- Dra.
+Dr. Ryan Stone, I need help.                                                          --- Estão a ligar da Terra.
+I am...  Those are dogs.                                                              --- Estou... Isso são cães!
+They're calling from Earth.                                                           --- Estão a ligar da Terra.
+They're calling from Earth.                                                           --- Estão a ligar da Terra.
+Aningaaq, make your dogs bark again for me, would you please?                         --- 
+Your dogs.                                                                            --- Os cães...
+Dogs, you know.                                                                       --- Os cães...
+Woof, woof.                                                                           --- 
+Dogs.                                                                                 --- 
+Oh, I'm gonna die, Aningaaq.                                                          --- Vou morrer, Aningaaq.
+I know, we're all gonna die.                                                          --- Toda a gente sabe isso.
+Everybody knows that.                                                                 --- Eu sei, vamos todos.
+But I'm gonna die today.                                                              --- Mas eu vou morrer hoje!
+Funny, that. You know, to know...                                                     --- Tem graça...
+But the thing is, it's that I'm still scared.                                         --- A questão é que tenho medo.
+I'm really scared.                                                                    --- 
+Nobody will mourn for me, no one will pray for my soul.                               --- Ninguém me há-de chorar, nem rezar pela minha alma.
+Will you mourn for me?                                                                --- Vais chorar-me?
+Will you say a prayer for me?                                                         --- Dirás uma oração por mim?
+Or is it too late?                                                                    --- Ou é tarde demais?
+I mean, I'd say one for myself, but I've never prayed in my life, so...               --- Eu até rezava por mim, mas nunca rezei na vida e...
+Nobody ever taught me how.                                                            --- Nunca me ensinaram a fazê-lo.
+Nobody ever taught me how.                                                            --- Nunca me ensinaram.
+A baby.                                                                               --- Um bebé...
+There's a baby with you, huh?                                                         --- Tens aí um bebé?
+Is that a lullaby you're singing?                                                     --- Isso é uma canção de embalar?
+That's so sweet.                                                                      --- Que querido...
+I used to sing to my baby.                                                            --- Eu cantava para a minha bebé.
+I hope I see her soon.                                                                --- Canta-me para eu adormecer e eu adormeço.
+That's nice, Aningaaq.                                                                --- Continua a cantar.
+Keep singing, just like that.                                                         --- Continua a cantar.
+Sing me to sleep, and I'll sleep.                                                     --- Canta-me para eu adormecer e eu adormeço.
+Keep singing.                                                                         --- E canta e canta...
+And sing, and sing.                                                                   --- E canta e canta...
+No, no, no, don't!                                                                    --- Não, não, não faças isso!
+Check your watch. Thirteen hours and eleven minutes.                                  --- Treze horas e 11 minutos.
+Call Anatoly and tell him he's been bumped.                                           --- Ligue ao Anatoly e diga-lhe que foi ultrapassado.
+It's a little gloomy in here, isn't it?                                               --- -Como é que...
+- How did you...? Trust me, it's a hell of a story.                                   --- -Mas como é que...
+- But how did...?                                                                     --- -Mas como é que...
+That's better. I found a little extra...                                              --- Afinal ainda tinha um bocadito de bateria.
+a little extra battery power.                                                         --- Afinal ainda tinha um bocadito de bateria.
+It helps that I didn't have you around to distract me.                                --- Ajudou-me não a ter à volta para me distrair.
+I have to say, I'm glad to see ya. I didn't think you were gonna make it.             --- Ajudou-me não a ter à volta para me distrair.
+Did you find the vodka?                                                               --- Encontrou a vodka?
+- You...  You never told me where...                                                  --- -Não me disse onde estava...
+where it was, so...                                                                   --- -Ora...
+- Well...                                                                             --- -Ora...
+To Anatoly.                                                                           --- Ao Anatoly.
+Na zdorovje.                                                                          --- Ao Anatoly.
+Huh?                                                                                  --- 
+- No.                                                                                 --- Não?
+- No? All right.                                                                      --- Certo...
+Let's get out of here.                                                                --- Vamos lá sair daqui.
+The Chinese station's about a hundred miles.                                          --- A estação chinesa fica a 160 km.
+Just a little Sunday drive.                                                           --- -Não podemos. -Claro que podemos.
+We can't.                                                                             --- -Claro que podemos.
+- Sure we can. There's no fuel, I tried everything.                                   --- -Não há combustível, já tentei tudo.
+Well, there's always something we can do.                                             --- -Há sempre algo a fazer.
+- I tried everything.                                                                 --- Já tentei tudo.
+Did you try the soft landing jets?                                                    --- Tentou os jactos de aterragem?
+They're for landing.                                                                  --- São para aterrar, portanto...
+So... - Well, landing is launching.                                                   --- Aterrar e descolar é o mesmo.
+It's the same thing.                                                                  --- Não aprendeu isso na formação?
+Didn't you learn about that in training?                                              --- 
+I never got to land the simulator.                                                    --- -Já disse que nunca cheguei a aterrar.
+I told you that.                                                                      --- 
+But you know about it.                                                                --- -Despenhei-me sempre.
+- And I crashed it every time.                                                        --- -Despenhei-me sempre.
+Listen, do you want to go back, or do you want to stay here?                          --- -Quer voltar, ou quer ficar aqui?
+I get it, it's nice up here.                                                          --- Aqui em cima ninguém lhe pode fazer mal.
+You can just shut down all the systems, turn out all the lights... and just close your eyes and tune out everybody. --- Pode desligar os sistemas todos... desligar as luzes... fechar os olhos e esquecer toda a gente.
+There's nobody up here that can hurt you.                                             --- Aqui em cima ninguém lhe pode fazer mal.
+It's safe.                                                                            --- É seguro.
+I mean, what's the point of going on?                                                 --- Para quê viver?
+What's the point of living?                                                           --- Para quê viver?
+Your kid died. Doesn't get any rougher than that.                                     --- A sua filha morreu, não há pior do que isso.
+But still, it's a matter of what you do now.                                          --- Mas não deixa de ser uma escolha a fazer agora.
+If you decide to go, then you gotta just get on with it.                              --- Se decidir ir, então tem de se despachar.
+Sit back, enjoy the ride.                                                             --- Encoste-se e goze bem a viagem.
+You gotta plant both your feet on the ground and start livin' life.                   --- Tem de pôr os pés no chão e começar a viver a vida.
+How did you get here?                                                                 --- Como é que chegou aqui?
+- I'm telling you, it's a hell of a story.                                            --- Já lhe disse, é uma história dos diabos!
+Hey, Ryan?                                                                            --- O que foi?
+- What?                                                                               --- O que foi?
+It's time to go home.                                                                 --- Está na altura de ir para casa.
+Landing...                                                                            --- 
+Landing...                                                                            --- 
+Landing is launching.                                                                 --- Aterrar é descolar.
+I said...                                                                             --- Eu disse...
+Okay, landing, landing.                                                               --- 
+Landing is green.                                                                     --- Aterrar é verde.
+Okay.                                                                                 --- Ora bem...
+Okay, landing.                                                                        --- Vejamos, aterrar...
+All right.                                                                            --- Certo.
+Okay. Soft landing jets trigger automatically at three meters before landing, so...   --- 
+You're a clever son of a bitch, Matt.                                                 --- És mesmo um safado esperto, Matt!
+I need to...                                                                          --- 
+I need to get rid of the B.O...                                                       --- Tenho de me livrar do B-O e do módulo do motor.
+And the engine module.                                                                --- 
+Right.                                                                                --- Ora bem...
+Okay.                                                                                 --- Ora bem...
+Okay.                                                                                 --- Ora bem...
+Okay.                                                                                 --- Pronto...
+Tri-module separation.                                                                --- Separação tri-modular.
+Go.                                                                                   --- Força.
+Okay.                                                                                 --- 
+Houston, here's the tricky part.                                                      --- Houston, agora é a parte mais difícil.
+Soyuz has to think we are three meters off the Earth.                                 --- O Soyuz tem de pensar que estamos a 3 metros da Terra.
+All right. Okay.                                                                      --- Ora bem...
+Hey, Matt?                                                                            --- Matt?
+Since I had to listen to endless hours of your storytelling this week, I need for you to do me a favor. --- Já que passei a semana a ouvir as suas histórias intermináveis, preciso que me faça um favor.
+You are gonna see a little girl with brown hair, very messy, lots of knots.           --- Vai ver uma menina com cabelo castanho, sempre despenteado e cheio de nós.
+She doesn't like to brush it.                                                         --- Não gosta de se pentear.
+That's okay.                                                                          --- 
+Her name is Sarah.                                                                    --- Chama-se Sarah.
+Can you please tell her that Mama found her red shoe?                                 --- Pode dizer-lhe que a mamã encontrou o sapato vermelho?
+She was so worried about that shoe, Matt.                                             --- Ela estava tão ralada com o sapato...
+But it was just right under the bed.                                                  --- Mas estava debaixo da cama.
+Give her a big hug and a big kiss for me, and tell her that Mama misses her.          --- Dê-lhe um grande abraço e um beijo e diga-lhe que a mamã tem saudades.
+You tell her that she is my angel.                                                    --- Diga-lhe que ela é o meu anjo.
+And she makes me so proud.                                                            --- E que me orgulho dela.
+So, so proud.                                                                         --- Que me orgulho muito!
+And you tell her that I'm not quitting.                                               --- E diga-lhe que não vou desistir.
+You tell her that I love her, Matt.                                                   --- Diga-lhe que a amo, Matt.
+You tell her that I love her so much.                                                 --- E que me orgulho dela.
+Can you do that for me?                                                               --- 
+Roger that?                                                                           --- Entendido.
+Here we go.                                                                           --- 
+You're losing altitude, Tiangong.                                                     --- Estás a perder altitude, Tiangong.
+You keep dropping and you're gonna kiss the atmosphere.                               --- Se continuas a cair, vais entrar na atmosfera.
+But not without me, because you're my last ride.                                      --- Mas não sem mim, pois és a minha última boleia.
+Okay.                                                                                 --- Espera.
+Wait.                                                                                 --- Espera.
+Five... four... three...                                                              --- Quatro.
+No more just driving.                                                                 --- 
+Let's go home.                                                                        --- Vamos para casa.
+Steady.                                                                               --- Onde estás?
+Okay, come on, come on.                                                               --- Calma, calma...
+Steady, steady.                                                                       --- Onde estás?
+Come on. Come on.                                                                     --- Vá lá, vá lá!
+Where are you?                                                                        --- Onde estás?
+Where are you?                                                                        --- Onde estás?
+Forty-five, ninety, one-eighty.                                                       --- 
+Come on.                                                                              --- 
+Okay, okay.                                                                           --- Bolas!
+Okay.                                                                                 --- Bolas!
+All right.                                                                            --- 
+Damn it.                                                                              --- Bolas!
+Down, down, down.                                                                     --- 
+Come to Mama.                                                                         --- Bolas!
+Okay.                                                                                 --- 
+Okay.                                                                                 --- 
+Shit!                                                                                 --- Merda!
+Okay.                                                                                 --- 
+Come on.                                                                              --- Shenzhou.
+Shenzhou, come on.                                                                    --- Shenzhou.
+Shenzhou.                                                                             --- Shenzhou.
+Shenzhou.                                                                             --- Shenzhou.
+Fuck! Okay, this way.                                                                 --- 
+Shenzhou.                                                                             --- Shenzhou.
+Where are you? Come on, where are you?                                                --- Pronto, por aqui...
+What's this?                                                                          --- 
+In the Soyuz, the power button is here.                                               --- No Soyuz, o botão para ligar é... aqui.
+Okay, undocking, undocking.                                                           --- Ora bem, desacoplar, desacoplar.
+Eeni, meeni...                                                                        --- Não parece ser isto.
+Okay, that doesn't sound good.                                                        --- 
+Miny, meeni...                                                                        --- 
+moe. No hablo chino.                                                                  --- Dó-li... tá.
+Miny...                                                                               --- 
+moe.                                                                                  --- 
+Okay. Okay, good.                                                                     --- Certo, óptimo!
+Houston. Houston, in the blind.                                                       --- Houston, transmissão às cegas.
+This is Mission Specialist Ryan Stone reporting from the Shenzhou.                    --- Especialista de Missão Ryan Stone a transmitir do Shenzhou.
+I'm about to undock from Tiangong...                                                  --- Especialista de Missão Ryan Stone a transmitir do Shenzhou.
+And I have a bad feeling about this mission.                                          --- E tenho um mau pressentimento quanto a esta missão.
+Reminds me of a story, Houston...                                                     --- Lembra-me uma história, Houston.
+Never... Never mind the story, Houston.                                               --- Esqueçam a história, Houston.
+Never mind the story.                                                                 --- Esqueçam a história...
+It's getting hot in here.                                                             --- Está a ficar calor aqui...
+Okay.                                                                                 --- 
+All right.                                                                            --- Ora bem...
+Okay.                                                                                 --- 
+All right, the way I see it, there's only two possible outcomes.                      --- Ora bem, tanto quanto me apercebo, só há dois desfechos possíveis.
+Either I make it down there in one piece and I have one hell of a story to tell, or I burn up in the next ten minutes. --- Ou chego lá abaixo inteira e tenho uma história do caraças para contar, ou entro em combustão nos próximos 10 minutos.
+Either way, whichever way... no harm, no foul!                                        --- 
+Because either way... it'll be one hell of a ride.                                    --- Porque aconteça o que acontecer... vai ser uma viagem dos diabos!
+I'm ready.                                                                            --- Estou pronta!
+Shenzhou, in the blind, this is Houston.                                              --- Shenzhou, transmissão às cegas, daqui Houston.
+Indicate FM frequency.                                                                --- Indique frequência FM.
+Our radars detect you on a re-entry trajectory.                                       --- Por favor, confirme identidade.
+If you copy, please confirm identity.                                                 --- Por favor, confirme identidade.
+This is Houston.                                                                      --- Daqui Houston...
+- It's freezing, it's boring as hell.                                                 --- 
+...is: No money down!                                                                 --- 
+...messages, we'll be right...                                                        --- 
+- Please confirm identity. Skies over the Midwest are completely clear...             --- O céu no Midwest está completamente limpo...
+We've deployed a rescue mission to retrieve you.                                      --- Já enviámos uma equipa de salvamento.
+Rescue mission is on the way.                                                         --- Já enviámos uma equipa de salvamento.
+Shenzhou, in the blind, this is Houston. We've deployed a rescue mission to retrieve you. --- Shenzhou, transmissão às cegas, daqui Houston.
+Thank you.                                                                            --- Obrigada.
+
