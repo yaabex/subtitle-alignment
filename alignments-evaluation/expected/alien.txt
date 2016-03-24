@@ -5,7 +5,7 @@ I am cold.                                                                      
 - Right.                                                                              --- - Pois.
 - I feel dead.                                                                        --- Sinto-me morto.
 - Anybody ever telI you you Iook dead?                                                --- Já alguma vez te disseram que pareces morto, meu?
-Before we dock, we ought to discuss the bonus situation.                              --- Antes de atracarmos...  Penso que devemos falar sobre a situação do bónus.
+Before we dock, we ought to discuss the bonus situation.                              --- Antes de atracarmos... Penso que devemos falar sobre a situação do bónus.
 Mr Parker and I feel the bonus situation has never been equitable.                    --- O Sr. Parker e eu achamos que a situação do bónus nunca esteve a um nível justo.
 Brett and l think we deserve full shares.                                             --- O Brett e eu achamos que merecemos repartição igual.
 You get what you're contracted for, like everybody else.                              --- Bem, recebes o que foi assinado no contrato, tal como toda a gente.
@@ -15,7 +15,7 @@ CommerciaI towing vehicle Nostromo, out of the Solomons, registration number 1 8
 - Keep trying.                                                                        --- - Continua a tentar.
 - Engaged.                                                                            --- - Ligado.
 - Engage artificial gravity.                                                          --- - Ligar gravidade artificial.
-- I'm aItering the vector now.                                                        --- Vou a alterar o vector...
+- I'm aItering the vector now.                                                        --- Vou a alterar o vector... agora.
 - Right.                                                                              --- - Pois.
 - Terrific.                                                                           --- Fantástico.
 Thank you.                                                                            --- Obrigado.
@@ -34,7 +34,7 @@ This is Ripley, last survivor of the Nostromo, signing off.                     
 With a little luck, the network wiIl pick me up.                                      --- Com um pouco de sorte, a rede de comunicações deve descobrir-me.
 I should reach the frontier in about six weeks.                                       --- Devo alcançar a fronteira em cerca de seis semanas.
 Cargo and ship destroyed.                                                             --- O carregamento e a nave destruídas.
-Kane, Lambert, Parker, Brett, Ash and Captain DalIas - are dead.                      --- Kane, Lambert...  Parker, Brett...  Ash... e o Capitão Dallas, estão mortos.
+Kane, Lambert, Parker, Brett, Ash and Captain DalIas - are dead.                      --- Kane, Lambert... Parker, Brett... Ash... e o Capitão Dallas, estão mortos.
 FinaI report of the commercial starship Nostromo. Third Officer reporting.            --- Relatório final da nave espacial comercial Nostromo... relatado pela 3ª oficial.
 You are my lucky star.                                                                --- És a minha estrela da sorte...
 Danger.                                                                               --- Perigo.

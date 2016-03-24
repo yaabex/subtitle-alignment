@@ -8,7 +8,8 @@ About the Piece of Resistance.                                                  
 This MasterBuilder will thwart The Kragle and save the realm                          --- Este Mestre Construtor irá opor-se Ao Kragle e salvar o reino
 Give me a break!                                                                      --- Poupa-me!
 The supposed missing Piece of Resistance... that can somehow magically disarm the Kragle. --- A suposta Peça da Resistência perdida que pode desarmar magicamente o Kragle.
-A Special One with face of yellow  Will make the Piece of Resistance found            --- Um Escolhido de cara amarela Irá encontrar a Peça da Resistência
+A Special One with face of yellow                                                     --- Um Escolhido de cara amarela
+Will make the Piece of Resistance found                                               --- Irá encontrar a Peça da Resistência
 Comb your hair.                                                                       --- Penteie o cabelo.
 That was a great, inspiring legend... that you made up.                               --- Essa foi uma lenda fantástica e inspiradora que inventaste.
 Can you feel me?                                                                      --- Sentem-no?
@@ -38,7 +39,6 @@ Well, things sure have a way of working out smoothly.                           
 Dark, brooding... important... groundbreaking.                                        --- Sinistra, melancólica, importante, inovadora.
 Super rich                                                                            --- Riquíssimo
 That's just the first verse.                                                          --- É só o primeiro verso.
-Curtains drawn In the basement                                                        --- As cortinas estão fechadas  Na cave
 Continued darkness                                                                    --- Uma escuridão contínua
 We're from the Planet Duplon.                                                         --- Nós somos do Planeta Duplon.
 We are here to destroy you.                                                           --- Nós estamos aqui para destruir-vos.

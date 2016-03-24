@@ -2,11 +2,13 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class AlignmentsReader{
 	private final String encoding = StandardCharsets.UTF_8.name();
 	private final String resultsPath = "results/";
+	//private final String resultsPath = "tiedemann-results/";
 	private final String expectedPath = "expected/";
 	private ArrayList<String> testingList = new ArrayList<String>();
 	
@@ -15,6 +17,7 @@ public class AlignmentsReader{
 		for(File file : expectedFolder.listFiles())
 			if(file.isFile())
 				testingList.add(file.toString().replaceAll(".*/(.*)$", "$1"));
+		Collections.sort(testingList);
 	}
 	
 	public ArrayList<String> readExpected(String filename){
