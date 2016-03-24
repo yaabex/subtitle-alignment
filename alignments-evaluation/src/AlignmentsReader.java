@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class AlignmentsReader{
 	private final String encoding = StandardCharsets.UTF_8.name();
 	private final String resultsPath = "results/";
-	//private final String resultsPath = "tiedemann-results/";
+	//private final String resultsPath = "results-tiedemann/";
 	private final String expectedPath = "expected/";
 	private ArrayList<String> testingList = new ArrayList<String>();
 	

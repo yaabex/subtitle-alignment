@@ -94,7 +94,7 @@ What's going on, Murph?                                                         
 Why did you and Mom name me after something that's bad?                               --- Porque é que tu e a mãe me deram o nome de algo mau?
 - We didn't.                                                                          --- Não demos nada.
 - Murphy's Law?                                                                       --- Lei de Murphy?
-Murphy's Law doesn't mean that something bad will happen.                             --- A Lei de Murphy não quer dizer que algo de mau... ...irá acontecer.
+Murphy's Law doesn't mean that something bad will happen.                             --- A Lei de Murphy não quer dizer que algo de mau... irá acontecer.
 What it means is whatever can happen will happen.                                     --- Diz-nos apenas que aquilo que tiver que acontecer, acontecerá.
 And that sounded just fine with us.                                                   --- E isso pareceu-nos correcto.
 Whoa!                                                                                 --- Entra.
@@ -130,7 +130,7 @@ Go.                                                                             
 Let's lay her down right there at the edge of the reservoir.                          --- O Controlo de Missões em Deli encerrou há 10 anos, tal como o nosso.
 Nicely done.                                                                          --- Muito bem.
 How long you think it's been up there?                                                --- Quanto tempo achas que andou lá em cima?
-Delhi Mission Control went down, same as ours...  - ...ten years ago.                 --- O Controlo de Missões em Deli encerrou há 10 anos, tal como o nosso.
+Delhi Mission Control went down, same as ours... - ...ten years ago.                  --- O Controlo de Missões em Deli encerrou há 10 anos, tal como o nosso.
 - Heh. So for ten years?                                                              --- - Não sei.
 - Why did it come down so low?                                                        --- - Porque é que voava tão baixo?
 - I don't know.                                                                       --- - Não sei.
@@ -370,7 +370,7 @@ You're sitting in the best-kept secret in the world.                            
 Nobody stumbles in here. Nobody stumbles out.                                         --- 
 Cooper, please. Cooperate with these people.                                          --- Cooper, por favor, coopera com estas pessoas.
 Look. It's kind of hard to explain.                                                   --- 
-We learned these coordinates from an anomaly.                                         --- Nós encontrámos estas coordenadas  - através de uma anomalia.
+We learned these coordinates from an anomaly.                                         --- Nós encontrámos estas coordenadas - através de uma anomalia.
 What sort of anomaly?                                                                 --- - Que tipo de anomalia?
 I hesitate to term it supernatural, but it definitely wasn't scientific.              --- Hesitaria em qualificá-la de sobrenatural, mas não é científica...
 You're going to have to be specific, Mr. Cooper.                                      --- Terá que começar a ser mais específico, Sr. Cooper, e depressa.
@@ -469,7 +469,7 @@ Twelve possible worlds, twelve Ranger launches carrying... the bravest humans ev
 led by the remarkable Dr. Mann.                                                       --- Liderados pelo extraordinário Dr. Mann.
 Each person's landing pod had enough life support for two years.                      --- Cada cápsula de aterragem pessoal assegurava dois anos de sobrevivência.
 But they could use hibernation to stretch that... making observations on organics over a decade or more. --- Mas podiam recorrer à hibernação para prolongar esse tempo, estendendo a análise de ambientes orgânicos durante décadas.
-Their mission was to assess their world, and if it showed potential... then they could send out a signal, bed down for the long nap, wait to be rescued. --- A missão consistia em avaliar esse novo mundo e, se mostrasse potencial, enviariam um sinal antes de entrarem num longo sono  - à espera de serem resgatados.
+Their mission was to assess their world, and if it showed potential... then they could send out a signal, bed down for the long nap, wait to be rescued. --- A missão consistia em avaliar esse novo mundo e, se mostrasse potencial, enviariam um sinal antes de entrarem num longo sono - à espera de serem resgatados.
 And what if the world didn't show promise?                                            --- - E se o mundo não mostrasse potencial?
 Hence the bravery.                                                                    --- Daí a bravura.
 You don't have the resources to visit all 12.                                         --- - Não têm recursos para visitar os doze.
@@ -481,7 +481,7 @@ One. That's a bit of a long shot, isn't it?                                     
 One system with three potential worlds?                                               --- Um sistema com três potenciais planetas.
 No long shot.                                                                         --- Não tem nada de remoto.
 Okay.                                                                                 --- 
-So if we find a home...  - ...then what?                                              --- Então, se encontrarmos um bom lugar, o que é que acontece?
+So if we find a home... - ...then what?                                               --- Então, se encontrarmos um bom lugar, o que é que acontece?
 - That's the long shot.                                                               --- - Essa é a possibilidade remota.
 There's a Plan A and a Plan B.                                                        --- Há um plano A e um plano B.
 Did you notice anything strange about the launch chamber?                             --- Notaste alguma coisa estranha na câmara de lançamento?
@@ -513,7 +513,7 @@ You give up on them?                                                            
 My kids? That's why Plan A is a lot more fun.                                         --- Por isso é que o plano A é muito mais atractivo.
 - How far have you got?                                                               --- - Quais são os progressos?
 - Almost there.                                                                       --- - Estou quase lá.
-You're asking me to hang everything... on an almost.                                  --- Pede-me para largar tudo...  - em nome de um "quase".
+You're asking me to hang everything... on an almost.                                  --- Pede-me para largar tudo... - em nome de um "quase".
 I'm asking you to trust me.                                                           --- - Estou a pedir-te que confies em mim.
 Find us a new home.                                                                   --- Encontra-nos um novo lar.
 And by the time you return... I will have solved the problem of gravity.              --- E quando regressares, já terei resolvido o problema da gravidade.
@@ -570,7 +570,7 @@ It says, "Stay!"                                                                
 One for you, one for me.                                                              --- Um para ti. Outro para mim.
 When I'm up there in hypersleep, or... traveling near the speed of light, or... near a black hole... time's gonna change for me. --- Quando estiver lá em cima em hiper-sono, ou a viajar à velocidade da luz, ou perto dum buraco negro, o tempo será diferente para mim.
 It's gonna run more slowly.                                                           --- Vai andar mais devagar.
-When we get back... we're gonna compare.                                              --- Portanto, quando nos reencontrarmos,  - iremos comparar.
+When we get back... we're gonna compare.                                              --- Portanto, quando nos reencontrarmos, - iremos comparar.
 - Time will run differently for us?                                                   --- - O tempo passará actuará diferente em nós?
 - Yeah.                                                                               --- Sim.
 By the time I get back, we might even be the same age, you and me.                    --- Talvez quando eu voltar, nós tenhamos a mesma idade. Tu e eu.
@@ -694,7 +694,7 @@ That's a lot of Dramamine.                                                      
 Look after my family, will you, please, sir?                                          --- Faria o favor de zelar pela minha família, professor?
 We'll be waiting for you when you get back.                                           --- Estaremos à tua espera, quando regressares.
 A little older, a little wiser, but happy to see you.                                 --- Um pouco mais velhos, mais sábios, mas felizes por te ver.
-Do not go gentle into that good night  Old age should burn and rave at close of day   --- "Não entreis docilmente nessa noite serena, "porque a velhice deveria arder e delirar no termo do dia.
+Do not go gentle into that good night Old age should burn and rave at close of day    --- "Não entreis docilmente nessa noite serena, "porque a velhice deveria arder e delirar no termo do dia.
 Rage, rage against the dying of the light                                             --- "Odeia, odeia a luz que começa a morrer.
 Though wise men at their end Know dark is right                                       --- "No fim, ainda que os sábios aceitem as trevas, "porque se esgotou o raio nas suas palavras, "eles não entram docilmente nessa noite serena.
 Because their words had forked No lightning they                                      --- 
@@ -736,7 +736,7 @@ You don't think nature can be evil?                                             
 No.                                                                                   --- Não.
 Formidable.                                                                           --- 
 Frightening.                                                                          --- 
-But... ...no, not evil.                                                               --- Pode ser terrível, assustadora, mas... nunca maléfica.
+But... no, not evil.                                                                  --- Pode ser terrível, assustadora, mas... nunca maléfica.
 Is a lion evil because it rips a gazelle to shreds?                                   --- Um leão é mau por retalhar uma gazela?
 Just what we take with us, then.                                                      --- Então, depende do que levamos connosco?
 Yeah.                                                                                 --- Sim.
@@ -822,7 +822,7 @@ No, it's just that all the illustrations I've ever seen, they... In the illustra
 So they say you want to go from here to there.                                        --- Digamos que queres ir daqui, para aqui.
 But it's too far, right?                                                              --- Mas é demasiado longe.
 So a Wormhole bends space like this, so you can take a shortcut through... a higher dimension. --- Portanto, um wormhole dobra o espaço desta forma para que possas seguir um atalho através duma dimensão superior.
-Okay, so... to show that, they've turned three-dimensional space into two dimensions which turns a Wormhole into two dimensions, a circle. --- Ora bem...  Para o demonstrar, converteram o espaço tridimensional em duas dimensões, fazendo com que visualizemos o wormhole como um círculo.
+Okay, so... to show that, they've turned three-dimensional space into two dimensions which turns a Wormhole into two dimensions, a circle. --- Ora bem... Para o demonstrar, converteram o espaço tridimensional em duas dimensões, fazendo com que visualizemos o wormhole como um círculo.
 What's a circle in three dimensions?                                                  --- E o que é um círculo em três dimensões?
 - A sphere.                                                                           --- - Uma esfera.
 - Exactly.                                                                            --- - Exacto.
@@ -848,7 +848,7 @@ Don't!                                                                          
 Don't!                                                                                --- Não.
 What was that?                                                                        --- O que foi isso?
 The first handshake.                                                                  --- O primeiro aperto de mão.
-We're...  We're here.                                                                 --- 
+We're... We're here.                                                                  --- 
 So the lost communications came through.                                              --- - As comunicações perdidas chegaram.
 - How?                                                                                --- - Como?
 - The relay on this side cached them.                                                 --- As sondas de cá armazenaram-nas.
@@ -860,7 +860,7 @@ Transmitter failure?                                                            
 Maybe. He was sending the thumbs up right until it went dark.                         --- Enviou relatórios antes de ficar incontactável.
 But Miller's still looks good though, right?                                          --- - Mas o do Miller continua a transmitir.
 - Because she's coming up fast.                                                       --- - Porque se desloca mais rapidamente.
-- DOYLE:  With one complication.                                                      --- Mas tem uma desvantagem.
+- DOYLE: With one complication.                                                       --- Mas tem uma desvantagem.
 The planet is much closer to Gargantua than we thought.                               --- O planeta está muito mais perto do Gargantua do que pensávamos.
 - Gargantua? - It's what we're calling the black hole.                                --- - Gargantua?
 Miller's and Dr. Mann's planets both orbit it.                                        --- Os planetas do Miller e do Dr. Mann orbitam em torno dele.
@@ -875,7 +875,7 @@ Every hour we spend on that planet will be... seven years back on Earth.        
 Jesus.                                                                                --- - Caramba.
 Well, that's relativity, folks.                                                       --- - É a relatividade, meus caros.
 Well, we can't just drop down there without...                                        --- - Bem, não podemos aterrar aí sem...
-Cooper, we have a mission.                                                            --- - Cooper...  - Temos uma missão.
+Cooper, we have a mission.                                                            --- - Cooper... - Temos uma missão.
 Yeah, Doyle, we have a mission, and our mission Plan A is... to find a planet that can habitate the people that are living on Earth right now. --- E segundo a missão, o plano A é encontrar um planeta habitável para as pessoas que vivem agora na Terra.
 You can't just think about your family. Now you have to think bigger than that.       --- Não podes pensar apenas na tua família, tens que pensar para além disso, estás a ver?
 I am thinking about my family and millions of other families, okay?                   --- Estou a pensar na minha família e em milhões de outras.
@@ -1054,18 +1054,18 @@ It can stretch and it can squeeze, but... it can't run backwards.               
 It just can't.                                                                        --- É impossível!
 The only thing that can move across dimensions, like time, is gravity.                --- A única coisa que pode atravessar dimensões, como o tempo, é a gravidade.
 Okay.                                                                                 --- Muito bem.
-The beings that led us here, they communicate...  - ...through gravity, right?        --- Os seres que nos trouxeram até aqui, comunicam através da gravidade, certo?
+The beings that led us here, they communicate... - ...through gravity, right?         --- Os seres que nos trouxeram até aqui, comunicam através da gravidade, certo?
 - Yes. Could they be talking to us from the future?                                   --- - Poderão estar a falar connosco do futuro?
 - Maybe.                                                                              --- Pronto.
 - Okay.                                                                               --- - Talvez.
-If they can... "They" are beings of five dimensions.                                  --- Se eles podem...  Eles... são seres de 5 dimensões.
+If they can... "They" are beings of five dimensions.                                  --- Se eles podem... Eles... são seres de 5 dimensões.
 To them, time might be another physical dimension.                                    --- Para eles, o tempo pode ser apenas outra dimensão física.
 To them... the past might be a canyon that they can climb into and the future... a mountain they can climb up. But to us, it's not, okay? --- Para eles, o passado pode ser um desfiladeiro pelo qual passam, e o futuro, uma montanha que podem escalar, mas nós não!
 Look, Cooper, I screwed up.                                                           --- Ouve, Cooper, eu sei que fiz asneira.
 I'm sorry.                                                                            --- Lamento.
 - But you knew about relativity.                                                      --- - Mas estavas ciente da relatividade.
 - Oh.                                                                                 --- - Nem por isso.
-Brand... my daughter was 10 years old.                                                --- Brand...  A minha filha tem dez anos.
+Brand... my daughter was 10 years old.                                                --- Brand... A minha filha tem dez anos.
 I couldn't teach her Einstein's theories before I left.                               --- Não podia ensinar-lhe as teorias de Einstein antes de partir.
 Couldn't you have told her you were going to save the world?                          --- Não podias ter dito à tua filha que ias salvar o mundo?
 No.                                                                                   --- Não.
@@ -1131,12 +1131,12 @@ Okay.                                                                           
 Sorry it's been a while.                                                              --- Desculpa não falarmos há uns tempos.
 Just... what with Jesse and all.                                                      --- Depois do que se passou com o Jesse...
 Grandpa died last week.                                                               --- O avô morreu na semana passada.
-We buried him out in the back forty next to Mom and...  Jesse.                        --- Enterrámo-lo ao lado da mãe... e do Jesse.
+We buried him out in the back forty next to Mom and... Jesse.                         --- Enterrámo-lo ao lado da mãe... e do Jesse.
 Which is where we would have buried you if you'd ever... come back.                   --- É onde te teríamos enterrado, se tivesses voltado.
 Murph was there at the funeral.                                                       --- A Murph veio ao funeral.
 We don't see her that much, but she came for that.                                    --- Não a vemos muito, mas ela veio de propósito.
 You aren't listening to this, I know that.                                            --- Sei que não vais ouvir nada isto.
-All these messages are just, like... drifting out there in the darkness.              --- Todas estas mensagens estão...  à deriva na escuridão do espaço.
+All these messages are just, like... drifting out there in the darkness.              --- Todas estas mensagens estão... à deriva na escuridão do espaço.
 Lois says that... I have to let you go.                                               --- A Lois diz que tenho de aceitar que partiste.
 And...                                                                                --- E...
 So... I guess I'm letting you go.                                                     --- 
@@ -1179,9 +1179,9 @@ I'm an old physicist.                                                           
 I'm afraid of time.                                                                   --- Tenho medo do tempo.
 Time.                                                                                 --- Tempo.
 You're afraid of time.                                                                --- Tem medo do tempo.
-We've been trying to solve the equation... without changing the underlying assumption about time. --- Durante anos, temos tentado resolver a equação sem alterar  - o próprio conceito de tempo.
+We've been trying to solve the equation... without changing the underlying assumption about time. --- Durante anos, temos tentado resolver a equação sem alterar - o próprio conceito de tempo.
 - And?                                                                                --- - E então?
-- And that means... each iteration is an attempt to prove its own proof.              --- E então, cada interacção é uma demonstração da sua própria validade,  é recorrente...
+- And that means... each iteration is an attempt to prove its own proof.              --- E então, cada interacção é uma demonstração da sua própria validade, é recorrente...
 It's recursive.                                                                       --- é absurda.
 It's nonsensical.                                                                     --- é absurda.
 Are you calling my life's work... nonsense, Murph?                                    --- Estás a dizer que o trabalho de toda a minha vida é um absurdo, Murph?
@@ -1262,7 +1262,7 @@ Coop, finish your fritter, please.                                              
 Will you spend the night?                                                             --- Passas cá a noite?
 Your room is exactly as you left it.                                                  --- O teu quarto está exactamente como o deixaste.
 It's ready. I need to get back.                                                       --- 
-My sewing machine is in there, but there's plenty... I need to...                     --- Tenho lá a minha máquina de costura, mas ainda...  Eu tenho que...
+My sewing machine is in there, but there's plenty... I need to...                     --- Tenho lá a minha máquina de costura, mas ainda... Eu tenho que...
 Too many memories.                                                                    --- - Demasiadas recordações.
 We might have something for that.                                                     --- - Bem, temos um remédio para isso.
 Hey, Coop.                                                                            --- 
@@ -1296,7 +1296,7 @@ I do, professor.                                                                
 I...                                                                                  --- 
 I lied, Murph.                                                                        --- Eu menti, Murph.
 I lied to you.                                                                        --- Eu menti-te.
-There was no need for him to...  To come back.                                        --- Não há necessidade de ele voltar.
+There was no need for him to... To come back.                                         --- Não há necessidade de ele voltar.
 There is no way to help us.                                                           --- - Não há nada para perdoar.
 But Plan A...                                                                         --- E o plano A?
 All this.                                                                             --- Tudo isto?
@@ -1339,7 +1339,7 @@ Mann? Tell us about your world.                                                 
 Our world, we hope.                                                                   --- Do nosso planeta, esperemos.
 Our world... is cold... stark... but undeniably beautiful.                            --- O nosso planeta é frio, inóspito, mas inegavelmente belo.
 The days are 67 hours long, cold.                                                     --- Os dias têm 67 horas, longas e gélidas.
-The nights are...  67 far colder hours.                                               --- E as noites, 67 horas ainda mais frias.
+The nights are... 67 far colder hours.                                                --- E as noites, 67 horas ainda mais frias.
 The gravity is a very, very pleasant 80 percent of the Earth's.                       --- A gravidade corresponde a uns simpáticos 80% do valor da Terra.
 Now, up here where I landed, the water is alkali... and the air has too much ammonia to breathe for more than just a few minutes... but down at the surface, and there is a surface... the chlorine dissipates. --- Mas, à superfície, pois existe uma superfície, o cloro dissipa-se e o amoníaco dá lugar a hidrocarbonetos cristalinos.
 The ammonia gives way to crystalline hydrocarbons and breathable air.                 --- Ar respirável, para compostos orgânicos.
@@ -1352,13 +1352,13 @@ Over the years, I've dropped various probes.                                    
 - I've mounted several major expeditions. But with oxygen in limited supply, KIPP there really did most of the legwork. --- Organizei várias expedições, mas o fornecimento de oxigénio era limitado, como tal o KIPP fez a maior parte do trabalho de campo.
 - What went wrong with him, sir?                                                      --- Que lhe aconteceu, senhor?
 - Degeneration. He misidentified the first organics we found as ammonia crystals.     --- Identificou erradamente os primeiros compostos orgânicos como cristais de amoníaco.
-We struggled on for a time, but ultimately I decommissioned him and... used his power source to keep the mission going. --- Continuámos a tentar por uns tempo, mas...  Acabei por desactivá-lo e utilizar a fonte de alimentação para continuar a missão.
+We struggled on for a time, but ultimately I decommissioned him and... used his power source to keep the mission going. --- Continuámos a tentar por uns tempo, mas... Acabei por desactivá-lo e utilizar a fonte de alimentação para continuar a missão.
 I thought I was alone before I shut him down.                                         --- E eu a pensar que me sentia sozinho antes de desligá-lo.
 Would you like me to look at him?                                                     --- Quer que dê uma vista d'olhos?
 No.                                                                                   --- 
 No.                                                                                   --- 
 He needs a human touch.                                                               --- Não, precisa de um toque humano.
-Dr. Brand, CASE is relaying a message for you from the comm station.                  --- Brand, o CASE vai retransmitir-lhe uma mensagem  - a partir da estação de comunicações.
+Dr. Brand, CASE is relaying a message for you from the comm station.                  --- Brand, o CASE vai retransmitir-lhe uma mensagem - a partir da estação de comunicações.
 Okay.                                                                                 --- 
 Be right there.                                                                       --- - Certo, já lá vou.
 Excuse me.                                                                            --- Com licença.
@@ -1434,7 +1434,7 @@ He'd had it for years.                                                          
 - It's half the answer.                                                               --- É metade da resposta.
 Okay, how do you find the other half?                                                 --- Então, como é que encontramos a outra metade?
 Out there? A black hole.                                                              --- Lá fora, seria num buraco negro.
-- But stuck down here on Earth?                                                       --- Mas aqui na Terra...  O que é que tem?
+- But stuck down here on Earth?                                                       --- Mas aqui na Terra... O que é que tem?
 - Yeah?                                                                               --- 
 I'm not sure you can.                                                                 --- Não creio que seja possível.
 God, they just pack up and leave.                                                     --- Limitam-se a fazer as malas e ir embora?
@@ -1545,7 +1545,7 @@ Professor, I am having trouble completing the boot up.                          
 I don't understand.                                                                   --- Não estou a perceber.
 It's funny.                                                                           --- Tem graça.
 When I left Earth... I thought I was prepared to die.                                 --- Quando deixei a Terra, pensei que estava preparado para morrer.
-The truth is... I never really considered the possibility that my planet wasn't the one. --- A verdade...  é que nunca considerei a possibilidade do meu planeta não ser único.
+The truth is... I never really considered the possibility that my planet wasn't the one. --- A verdade... é que nunca considerei a possibilidade do meu planeta não ser único.
 Nothing worked out the way it was supposed to.                                        --- - Nada acontece como é suposto.
 Let's go.                                                                             --- - Vamos andando.
 All right, buddy, give me a big deep breath.                                          --- 
@@ -1728,13 +1728,13 @@ Retro thrusters, everything we've got, CASE!                                    
 - Thrusters are full!                                                                 --- - Nada de bom.
 - Back! Relay my transmission to the onboard computer... and have it rebroadcast as emergency P.A. --- CASE, transmite a minha mensagem ao computador de bordo e torna-a audível como comunicado de emergência.
 Dr. Mann... I repeat, do not open the inner hatch.                                    --- Repito, não abra a escotilha interior.
-I repeat...  Brand?                                                                   --- - Repito, não abra...
+I repeat... Brand?                                                                    --- - Repito, não abra...
 I don't know what he said to you... but I am taking command of the Endurance.         --- Não sei o que ele te disse, mas vou assumir o comando da Endurance.
 And then we can talk about completing the mission.                                    --- Depois podemos falar em como vamos completar a missão.
 Dr. Mann, listen to me.                                                               --- Dr. Mann, oiça-me.
 This is not about my life. Or Cooper's life.                                          --- Não é a minha vida, nem a do Cooper que está em jogo.
 This is about all mankind.                                                            --- É a de toda a humanidade.
-There is a moment... It is not sa...                                                  --- Chega um momento...  Se não...
+There is a moment... It is not sa...                                                  --- Chega um momento... Se não...
 Oh, my God.                                                                           --- Meu Deus!
 - There's no point using fuel to chase...                                             --- - Cooper, não faz sentido gastar combustível...
 - Analyze the Endurance's spin.                                                       --- - Calcula a rotação da Endurance.
@@ -1799,7 +1799,7 @@ I'm gonna take us just inside the critical orbit.                               
 I'm sorry, Cooper.                                                                    --- Desculpa, Cooper.
 Once we've gathered enough speed around Gargantua... we use Lander 1... and Ranger 2 as rocket boosters to... push us out of the black hole's gravity. --- Uma vez que tenhamos alcançado velocidade suficiente à volta do Gargantua, usaremos o Módulo 1 e a Ranger 2 como propulsores para sairmos do campo gravitacional do buraco negro.
 The Lender's linkages have been destroyed... so we'll have to control manually.       --- As conexões dos módulos estão destruídas, vamos ter de controlar tudo manualmente.
-Once Lander 1 is spent, TARS will detach...  And get sucked into that black hole.     --- Assim que o Módulo 1 ficar sem combustível, o TARS separar-se-á e será engolido pelo buraco negro.
+Once Lander 1 is spent, TARS will detach... And get sucked into that black hole.      --- Assim que o Módulo 1 ficar sem combustível, o TARS separar-se-á e será engolido pelo buraco negro.
 Why does TARS have to detach?                                                         --- Temos de perder peso para escapar da gravidade.
 We have to shed the weight to escape the gravity.                                     --- Temos de perder peso para escapar da gravidade.
 Newton's third law.                                                                   --- Terceira Lei de Newton.
@@ -1849,7 +1849,7 @@ Cooper! What are you doing?                                                     
 Newton's third law.                                                                   --- Terceira Lei de Newton.
 You got to leave something behind.                                                    --- Há que deixar algo para trás.
 You told me we had enough resources for both of us.                                   --- Disseste que havia recursos suficientes para nós dois.
-We agreed, Amelia...  90 percent.                                                     --- E nós concordámos, Amelia... em 90%.
+We agreed, Amelia... 90 percent.                                                      --- E nós concordámos, Amelia... em 90%.
 Don't.                                                                                --- Não...
 Detach.                                                                               --- Separar.
 Okay, I am nosing down.                                                               --- Muito bem, inclinar o nariz para baixo.
@@ -2018,7 +2018,7 @@ I think it might have.                                                          
 How do you know?                                                                      --- Como é que sabes?
 Because the bulk beings are closing the tesseract.                                    --- Porque os seres da grande massa estão a fechar o Tesseract.
 Don't you get it yet, TARS?                                                           --- Ainda não percebeste, TARS?
-They're not "beings."  They're us.                                                    --- Não são seres... somos nós!
+They're not "beings." They're us.                                                     --- Não são seres... somos nós!
 What I've been doing for Murph, they're doing for me.                                 --- O que fiz pela Murph, estão agora a fazê-lo por mim.
 For all of us.                                                                        --- Por todos nós.
 Cooper, people couldn't build this.                                                   --- Cooper, as pessoas não podem ter construído isto.
@@ -2083,7 +2083,7 @@ Security settings.                                                              
 Honesty, new setting:                                                                 --- Honestidade, nova configuração.
 95 percent.                                                                           --- - Confirmado.
 Confirmed. Additional customization?                                                  --- Personalização adicional?
-Humor:  75 percent.                                                                   --- Humor: 75%.
+Humor: 75 percent.                                                                    --- Humor: 75%.
 Confirmed.                                                                            --- Confirmado.
 Auto self-destruct T-minus 10, nine...                                                --- Autodestruição em 10, 9...
 Let's make that 60 percent.                                                           --- Passemos para os 60%.

@@ -96,7 +96,7 @@ Apparently, it's a big deal.                                                    
 People are calling it the crime of the century and stuff like that.                   --- Até lhe chamam o crime do século, e assim.
 But am I upset?                                                                       --- Mas, estou aborrecido?
 No, I am not!                                                                         --- Não, não estou!
-A little, but we have had a pretty good year ourselves, and you guys are all right in my book. --- Um pouco...  Mas nós tivemos um ano muito bom, e vocês estão a trabalhar bem, para mim.
+A little, but we have had a pretty good year ourselves, and you guys are all right in my book. --- Um pouco... Mas nós tivemos um ano muito bom, e vocês estão a trabalhar bem, para mim.
 No, no raises!                                                                        --- Não, não há aumentos!
 You're not going to get any raises.                                                   --- Não vão receber aumentos.
 What did we do?                                                                       --- O que é que fizemos?
@@ -125,7 +125,9 @@ And I will be the greatest villain of all time!                                 
 That's what I'm talking about.                                                        --- Era disto que eu estava a falar!
 Yes?                                                                                  --- Sim?
 Hello, Gru?                                                                           --- Estou?
-I've been crunching some numbers, and I really don't see how we can afford this.It can't be done.I'm not a miracle worker. --- Estive a bater uns números e não estou a ver como é que vamos pagar isto.
+I've been crunching some numbers, and I really don't see how we can afford this.      --- Estive a bater uns números e não estou a ver como é que vamos pagar isto.
+It can't be done.                                                                     --- É impossível.
+I'm not a miracle worker.                                                             --- Eu não faço milagres.
 Hey, chillax.                                                                         --- Relaxa.
 I'll iust get another loan from the bank.                                             --- Peço outro empréstimo, no banco.
 They love me!                                                                         --- Eles adoram-me.
@@ -169,7 +171,7 @@ Go clean something of mine.                                                     
 - Hi, Penny.                                                                          --- Olá, Penny.
 Hi, guys.                                                                             --- Olá, malta.
 Hello, Mom.                                                                           --- Olá, mãe.
-Sorry, I meant to call, but... I iust wanted to congratulate you on stealing the pyramid. --- Desculpa, eu ia ligar-te mas...  Queria dar-te os parabéns, por roubares a pirâmide.
+Sorry, I meant to call, but... I iust wanted to congratulate you on stealing the pyramid. --- Desculpa, eu ia ligar-te mas... Queria dar-te os parabéns, por roubares a pirâmide.
 That was you, wasn't it?                                                              --- Foste tu, não foste?
 Or was it a villain who's actually successful?                                        --- Ou foi um vilão realmente com sucesso?
 Just so you know, Mom, I am about to do something that's very, very big, very important. --- Para que saibas, mãe, estou prestes a fazer algo muito, muito grande, muito importante.
@@ -187,7 +189,7 @@ I'm applying for a new villain loan.                                            
 Go by the name of Vector.                                                             --- 
 It's a mathematical term, a quantity represented by an arrow, with both direction and magnitude. --- É um termo matemático, uma quantidade representada por uma seta, com direcção e magnitude.
 Vector!                                                                               --- Vector!
-That's me,  'cause I'm committing crimes with both direction and magnitude.           --- Sou eu, porque vou cometer crimes com direcção e magnitude.
+That's me, 'cause I'm committing crimes with both direction and magnitude.            --- Sou eu, porque vou cometer crimes com direcção e magnitude.
 Oh, yeah!                                                                             --- Sim!
 Check out my new weapon.                                                              --- Vê bem a minha nova arma...
 Piranha gun!                                                                          --- A arma-piranha!
@@ -250,7 +252,7 @@ What?                                                                           
 Hey, Gru!                                                                             --- Gru!
 Try this on for size!                                                                 --- Experimenta este tamanho!
 That's weird.                                                                         --- Que estranho.
-What is going...  This is claustrophobic!                                             --- O que se... Isto é claustrofóbico!
+What is going... This is claustrophobic!                                              --- O que se... Isto é claustrofóbico!
 No, no, no!                                                                           --- Não, não, não!
 Too small!                                                                            --- Muito pequeno!
 This is too small for me!                                                             --- Isto é muito pequeno para mim!
@@ -265,7 +267,7 @@ Amen.                                                                           
 - Amen.                                                                               --- - Ámen.
 Unicorns, I love them Unicorns, I love them                                           --- Unicórnios, adoro-os Unicórnios, adoro-os
 Uni, uni, unicorns I love them                                                        --- Uni, uni, unicórnios Adoro-os
-Uni, unicorns, I could pet one If they were really real                               --- Uni, unicórnios Queria ter um  Se fossem reais,
+Uni, unicorns, I could pet one If they were really real                               --- Uni, unicórnios Queria ter um Se fossem reais,
 And they are                                                                          --- E são!
 So, I bought one so I could pet it                                                    --- Por isso, vou comprar um Por isso, vou ter um
 Now it loves me Now I love it                                                         --- Ele vai adorar-me Eu vou adorá-lo
@@ -297,7 +299,9 @@ And I see you have been given the Medal of Honor and a knighthood.              
 - Me, me, me.                                                                         --- E vejo que recebeu a Medalha de Honra, e é cavaleiro.
 - Me, me, me.                                                                         --- E vejo que recebeu a Medalha de Honra, e é cavaleiro.
 Kevin?                                                                                --- Kevin?
-You had your own cooking show and you can hold your breath for 30 seconds?It's not that impressive.Idiot! --- Teve um programa de culinária e consegue estar trinta segundos sem respirar?
+You had your own cooking show and you can hold your breath for 30 seconds?            --- Teve um programa de culinária e consegue estar trinta segundos sem respirar?
+It's not that impressive.                                                             --- Não impressiona grandemente.
+Idiot!                                                                                --- Idiota!
 - Fight!                                                                              --- Luta!
 Fight!                                                                                --- Luta!
 Fight!                                                                                --- Luta!
@@ -311,7 +315,8 @@ What?                                                                           
 Well, here's the dealio.                                                              --- A questão é esta.
 Things have been so lonely since my wife,                                             --- Tenho andado muito só, desde que a minha mulher,
 Debbie, passed on.                                                                    --- Debbie, faleceu.
-It's like my heart is a tooth, and it's got a cavity that can only be filled with children.I'm sorry. --- É como se o meu coração fosse um dente e tivesse uma cavidade, que só pode ser preenchida com crianças. Desculpe.
+It's like my heart is a tooth, and it's got a cavity that can only be filled with children. --- É como se o meu coração fosse um dente e tivesse uma cavidade, que só pode ser preenchida com crianças.
+I'm sorry.                                                                            --- Desculpe.
 You are a beautiful woman.                                                            --- É uma mulher linda.
 Do you speak Spanish?                                                                 --- Fala espanhol?
 Do I look like I speak Spanish?                                                       --- Tenho cara de quem fala espanhol?
@@ -392,8 +397,8 @@ Well, I suppose the plan will work with two.                                    
 Hey!                                                                                  --- Ei!
 It's dark in here.                                                                    --- Aqui dentro está escuro!
 It poked a hole in my juice box.                                                      --- Fez um buraco no meu pacote de sumo.
-As you can see, I have provided everything a child might need.                        --- Como podem ver, tratei de tudo o que uma criança pode precisar.COMIDA ÁGUA CHICHI & COCÓ
-All right.                                                                            --- 
+As you can see, I have provided everything a child might need.                        --- Como podem ver, tratei de tudo o que uma criança pode precisar.
+All right.                                                                            --- COMIDA ÁGUA CHICHI & COCÓ
 Okay. As I was saying...                                                              --- Como estava a dizer...
 Hey!                                                                                  --- Ei!
 Somebody broke that.                                                                  --- Alguém partiu aquilo.
@@ -510,7 +515,8 @@ Okey-dokey.                                                                     
 Beddie-bye.                                                                           --- 
 All tucked in.                                                                        --- Estão prontinhas.
 Sweet dreams.                                                                         --- Bons sonhos.
-Just so you know, you're never gonna be my dad.I think I can live with that.          --- Só para que saibas, nunca serás o meu pai. Acho que posso viver com isso.
+Just so you know, you're never gonna be my dad.                                       --- Só para que saibas, nunca serás o meu pai.
+I think I can live with that.                                                         --- Acho que posso viver com isso.
 Are these beds made out of bombs?                                                     --- Estas camas são feitas de bombas?
 Yes, but they are very old and highly unlikely to blow up.                            --- Sim, mas são muito antigas e é altamente improvável que expludam.
 But try not to toss and turn.                                                         --- Mas tenta não te mexeres muito.
@@ -741,12 +747,12 @@ Let's face reality, Gru.                                                        
 You've been at this for far too long with Far too little success.                     --- Andas nisto há demasiado tempo, com muito pouco sucesso.
 We're gonna put our faith, our money, into a...                                       --- Vamos depositar a nossa confiança, o nosso dinheiro, num...
 Well, a younger villain.                                                              --- Bem, num vilão mais novo.
-But I... It's over.                                                                   --- Mas, eu...  Acabou.
+But I... It's over.                                                                   --- Mas, eu... Acabou.
 Goodbye, Gru.                                                                         --- Adeus, Gru.
 Now, I know there have been some rumours going around that the bank is no longer funding us. --- Eu sei que têm circulado alguns boatos de que o banco já não nos vai apoiar.
 Well, I am here to put those rumours to rest.                                         --- Bem, estou aqui para esclarecer esses boatos.
 They are true.                                                                        --- É verdade.
-In terms of money, we have no money.                                                  --- Em termos de dinheiro...  Não temos dinheiro.
+In terms of money, we have no money.                                                  --- Em termos de dinheiro... Não temos dinheiro.
 So how will we get to the moon?                                                       --- Então, como é que vamos até à Lua?
 The answer is clear.                                                                  --- A resposta é clara.
 We won't.                                                                             --- Não vamos.
@@ -846,7 +852,8 @@ Now you brush the fur.                                                          
 This is literature?                                                                   --- Isto é literatura?
 A 2-year-old could have written this.                                                 --- Uma criança de dois anos escrevia isto!
 All right.                                                                            --- Está bem.
-"Three little kittens with fur all brushed "said, 'We can't sleep, we feel too rushed! ' "Their mother replied, with a voice like silk, "'Fine, but at least you should drink your milk."' --- "Os três gatinhos, com os pêlos escovados, "disseram, não podemos dormir, estamos excitados!"A mãe replicou, com uma voz de deleite: "Pronto, mas ao menos deviam beber o leite."
+"Three little kittens with fur all brushed "said, 'We can't sleep, we feel too rushed! --- "Os três gatinhos, com os pêlos escovados, "disseram, não podemos dormir, estamos excitados!
+' "Their mother replied, with a voice like silk, "'Fine, but at least you should drink your milk."' --- "A mãe replicou, com uma voz de deleite: "Pronto, mas ao menos deviam beber o leite."
 Now make them drink the milk.                                                         --- Agora, fá-los beber o leite.
 I don't like this book.                                                               --- Não gosto deste livro.
 This is going on forever.                                                             --- Nunca mais acaba.
@@ -867,7 +874,7 @@ He's nice.                                                                      
 But scary.                                                                            --- Mas assustador.
 Like Santa!                                                                           --- Como o Pai Natal!
 Only 48 hours till the launch, and all systems are go.                                --- Só faltam quarenta e oito horas para o lançamento e está tudo pronto.
-About that, I was thinking that maybe we could move the date of the heist.            --- Acerca disso...  Estava a pensar que, se calhar, podíamos mudar a data do roubo.
+About that, I was thinking that maybe we could move the date of the heist.            --- Acerca disso... Estava a pensar que, se calhar, podíamos mudar a data do roubo.
 Please tell me this is not as a result of the girls' dance recital, is it?            --- Por favor, diz-me que isto não tem nada a ver com o recital de dança das miúdas.
 No, no, no!                                                                           --- Não, não, não!
 The recital?                                                                          --- O recital?
@@ -909,7 +916,7 @@ I'm here for the girls.                                                         
 I received a call that you wanted to return them.                                     --- Recebi um telefonema a dizer que queria devolvê-las.
 And also, I did purchase a Spanish dictionary.                                        --- E também comprei um dicionário de espanhol.
 I didn't like what you said.                                                          --- Não gostei do que disse.
-But... I will get the girls ready.                                                    --- Mas...  Vou preparar as meninas.
+But... I will get the girls ready.                                                    --- Mas... Vou preparar as meninas.
 Don't let her take us, Mr Gru!                                                        --- Não a deixes levar-nos!
 Tell her you wanna keep us.                                                           --- Diz-lhe que queres ficar connosco.
 All right, girls.                                                                     --- Muito bem, meninas.
@@ -933,7 +940,10 @@ All systems go.                                                                 
 Boo-ya!                                                                               --- Boa!
 My flight suit.                                                                       --- O meu fato voador!
 Oh, yeah!                                                                             --- 
-Once again, the mighty... I've got it!I've got the moon!I've got the moon!I can make it! --- 
+Once again, the mighty... I've got it!                                                --- Mais uma vez, o grande Vect... Já a tenho.
+I've got the moon!                                                                    --- Já tenho a Lua.
+I've got the moon!                                                                    --- Já tenho a Lua.
+I can make it!                                                                        --- Ainda consigo!
 - Wait a minute!                                                                      --- - Espera aí!
 - Kevin!                                                                              --- - Kevin!
 Come on, come on!                                                                     --- Vá lá, vá lá!
@@ -1023,7 +1033,7 @@ Hang on!                                                                        
 I got you.                                                                            --- Apanhei-te!
 No!                                                                                   --- Não!
 Oh, poop.                                                                             --- Bolas!
-This time, good triumphs, and the moon has been returned to its rightful place in the sky. --- Desta vez, o bem venceu, e a Lua está de volta onde pertence, no céu.VOLTOU!
+This time, good triumphs, and the moon has been returned to its rightful place in the sky. --- Desta vez, o bem venceu, e a Lua está de volta onde pertence, no céu.
 But once again, law enforcement is baffled, leaving everyone to wonder, who is this mysterious hero? --- Mas, mais uma vez, as forças da lei estão confusas, deixando no ar a pergunta, quem é este herói misterioso?
 And what will he do next?                                                             --- E que fará ele, a seguir?
 Okay, girls.                                                                          --- 
@@ -1046,7 +1056,8 @@ That's the horn!                                                                
 This is gonna be the best book ever!                                                  --- Este vai ser o melhor livro do mundo!
 Not to pat myself on the back, but, yes, it probably will be.                         --- Não é para me gabar, mas, sim, provavelmente vai ser.
 Here we go.                                                                           --- Vamos a isto.
-"One big unicorn, strong and free "thought he was happy as he could be."Then three little kittens came around "and turned his whole life upside down." --- "Um grande unicórnio, forte, em liberdade "pensava que era feliz, mesmo de verdade."Então, três gatinhos vieram lá morar, "e viraram-lhe a vida de pernas para o ar."
+"One big unicorn, strong and free "thought he was happy as he could be.               --- "Um grande unicórnio, forte, em liberdade "pensava que era feliz, mesmo de verdade.
+"Then three little kittens came around "and turned his whole life upside down."       --- "Então, três gatinhos vieram lá morar, "e viraram-lhe a vida de pernas para o ar."
 Hey, that one looks like me!                                                          --- Ei, aquele é parecido comigo!
 No, what are you talking about?                                                       --- Não, de que estás a falar?
 These are kittens!                                                                    --- São gatinhos!
@@ -1054,7 +1065,8 @@ Any relation to persons living or dead is completely coincidental.              
 "They made him laugh.                                                                 --- "Fizeram-no rir.
 "They made him cry.                                                                   --- "Fizeram-no chorar.
 "He never should have said goodbye.                                                   --- "E ele nunca os deveria abandonar.
-"And now he knows he could never part "from those three little kittens "that changed his heart."The end." --- "Mas agora ele sabe que não pode viver, "sem os três gatinhos "que o fizeram enternecer."Fim."
+"And now he knows he could never part "from those three little kittens "that changed his heart. --- "Mas agora ele sabe que não pode viver, "sem os três gatinhos "que o fizeram enternecer.
+"The end."                                                                            --- "Fim."
 Okay, all right.                                                                      --- 
 Good night.                                                                           --- Pronto, boa noite.
 I love you.                                                                           --- Adoro-te.

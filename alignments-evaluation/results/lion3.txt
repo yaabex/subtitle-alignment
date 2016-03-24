@@ -63,7 +63,7 @@ Clear.                                                                          
 Dig a tunnel, dig, dig a tunnel                                                       --- Cava um túnel Cá cava um túnel
 When you're done, you dig a bigger tunnel                                             --- No final tu cavas mais um túnel
 Dig a tunnel, dig, dig a tunnel                                                       --- Cava um túnel Cá cava um túnel
-Quick, before the hyena come  Quick, before the hyena come                            --- Vamos ver se a hiena vem Sim
+Quick, before the hyena come Quick, before the hyena come                             --- Vamos ver se a hiena vem Sim
 Dig, dig a tunnel, dig, dig a tunnel                                                  --- Cava um túnel Cá cava um túnel
 You could dig and never get done                                                      --- Tu vai cavando, cava mais E leva farnel
 Dig a tunnel, dig, dig a tunnel                                                       --- Cava mais depressa
@@ -77,7 +77,7 @@ Mud and clay is a meerkat's friend                                              
 Always more around every bend                                                         --- Sempre mais um sem nunca acabar
 And when you get to your tunnel's end                                                 --- Quando pensas que vai findar
 And when you get to your tunnel's end                                                 --- Barro e lama para cavar
-HalleIujah, let's dig again, dig                                                      --- Aleluia é recomeçar  Aleluia é recomeçar
+HalleIujah, let's dig again, dig                                                      --- Aleluia é recomeçar Aleluia é recomeçar
 Dig a tunnel, dig, dig a tunnel                                                       --- Cava um túnel Cá cava um túnel
 When it's done, you dig a bigger tunnel                                               --- Cava um túnel
 Dig a tunnel, dig, dig a tunnel                                                       --- No final tu cavas mais um túnel
@@ -191,26 +191,26 @@ Scurry, sniff, flinch.                                                          
 Scurry, sniff, flinch.                                                                --- Não mais vou eu "estressar-me"
 Scurry, sniff, flinch.                                                                --- Não mais vou eu "estressar-me"
 There's more to life than panic                                                       --- Não mais vou eu "estressar-me"
-And bein' some other guy's snack, yuck I may be delicious organic                     --- Nem ser o lanchinho de alguém  Sou bem bom e queres provar-me
-But this little entree's fighting back I'm gonna put digging tunnels behind me        --- Mas cá o croquete luta bem  Vou deixar os túneis e vou "cavar-me"
-And live at a new altitude I'm gonna reach for the stars to remind me                 --- Viver numa nova altitude  Vou permitir-me sonhar, vou lembrar-me
+And bein' some other guy's snack, yuck I may be delicious organic                     --- Nem ser o lanchinho de alguém Sou bem bom e queres provar-me
+But this little entree's fighting back I'm gonna put digging tunnels behind me        --- Mas cá o croquete luta bem Vou deixar os túneis e vou "cavar-me"
+And live at a new altitude I'm gonna reach for the stars to remind me                 --- Viver numa nova altitude Vou permitir-me sonhar, vou lembrar-me
 That meerkats are not merely food                                                     --- Vou mas é tomar uma atitude
 For once I'll be                                                                      --- E quem pensa em mim
 For once I'll be                                                                      --- E quem pensa em mim
 Lookin' out for me                                                                    --- Vou olhar por mim
 Yeah, I'll tell you what I want                                                       --- Eu vou passar a expôr O gato é o maior
 This cat is movin' on                                                                 --- Vou mas é tomar uma atitude
-He's a bon vivant who's missin' out on bon I'd be a bigger cheese far from the desert scene --- Eu sou um "bon-vivant" Não perco o que é melhor  E p'ra me destacar Eu cá vou desertar
+He's a bon vivant who's missin' out on bon I'd be a bigger cheese far from the desert scene --- Eu sou um "bon-vivant" Não perco o que é melhor E p'ra me destacar Eu cá vou desertar
 A little cooling breeze, a little patch of green                                      --- A brisa vem do mar E eu quero descansar
-And I'll be snoozing in my hammock  By a rippling stream                              --- Fazer a sesta numa rede Até nem se está mal
+And I'll be snoozing in my hammock By a rippling stream                               --- Fazer a sesta numa rede Até nem se está mal
 Many miles from any tunnel and the digging team                                       --- A anos-luz de qualquer túnel E do pessoal
 Looking after number one will be my only creed                                        --- Fazer a sesta numa rede Até nem se está mal
 Looking after number one will be my only creed                                        --- Fazer a sesta numa rede Até nem se está mal
-That's all I need  That's all I need                                                  --- Vai ser assim Vai ser assim
-That's all I need I've always been good at running away                               --- Fui sempre o primeiro quando é a cavar  Agora cavo, mas não no chão
-Well, now I'm gonna run to show I've always been seen as the uItimate prey            --- Agora cavo, mas não no chão  Em mim sempre vês o primeiro a marchar
+That's all I need That's all I need                                                   --- Vai ser assim Vai ser assim
+That's all I need I've always been good at running away                               --- Fui sempre o primeiro quando é a cavar Agora cavo, mas não no chão
+Well, now I'm gonna run to show I've always been seen as the uItimate prey            --- Agora cavo, mas não no chão Em mim sempre vês o primeiro a marchar
 But now my status ain't so quo                                                        --- Mas o meu status não é tão quo
-A dream sublime It's hyena time--oh!                                                  --- Eu vou amar  Sem hienas estar...
+A dream sublime It's hyena time--oh!                                                  --- Eu vou amar Sem hienas estar...
 Oh, look, it's dinner and a show.                                                     --- Olha, é um jantar dançante.
 And I thought beans were the only musical food.                                       --- Eu julgava que só os feijões é que dançavam.
 Hy-hy-hy--                                                                            --- 
@@ -266,7 +266,7 @@ Trust me.                                                                       
 I did trust you.                                                                      --- Eu confiei em ti.
 But--                                                                                 --- Mas...
 Ohh.                                                                                  --- 
-Aw, sweetie... I'm never going to fit in here.                                        --- Querido...  Nunca me darei bem aqui.
+Aw, sweetie... I'm never going to fit in here.                                        --- Querido... Nunca me darei bem aqui.
 Nobody even likes me.                                                                 --- Nem sequer gostam de mim.
 Sure they do, honey.                                                                  --- Nunca me darei bem aqui.
 Sure they do. Besides you, Ma.                                                        --- 
@@ -275,7 +275,7 @@ Um, there's-- I have to find my place, but it isn't here.                       
 Yes, it is. We just haven't found it yet.                                             --- Só tens que te adaptar.
 But we will.                                                                          --- - Hás-de conseguir.
 Oh, here's an idea.                                                                   --- Ouve...
-You can--  Stop with the hair already.                                                --- 
+You can-- Stop with the hair already.                                                 --- 
 My place is out there, Mom.                                                           --- O meu lugar fica noutro lado, Mãe.
 Oh, I may not know exactly where or how far, but I got to go.                         --- Não sei bem para onde, mas tenho que partir.
 No, wait, wait, wait.                                                                 --- - Não, espera.
@@ -434,7 +434,7 @@ Right, Timon?                                                                   
 Oh, you got that right, pally.                                                        --- 
 Ingonyama                                                                             --- 
 At last, things were looking up.                                                      --- Começava tudo a compor-se.
-I had the sun on my shoulders, the wind at my heels...  A song in my heart.           --- O sol luzia, o vento estava de feição e eu estava todo alegre.
+I had the sun on my shoulders, the wind at my heels... A song in my heart.            --- O sol luzia, o vento estava de feição e eu estava todo alegre.
 -Aah!                                                                                 --- 
 -Aah!                                                                                 --- 
 And to protect me, a great big fat guy.                                               --- E tinha um matulão gorducho para me proteger.
@@ -511,7 +511,7 @@ Lonely? Try commitment-free.                                                    
 The elbow-to-elbow life reminds me... a little too much of home.                      --- Viver às cotoveladas faz-me recordar a minha antiga casa.
 This place has everything-- cool refreshments, cozy little hammock... a lovely water feature, and it's all mine. --- 
 Oh.                                                                                   --- e é tudo meu.
-Well, it's really coming together, Timon, so, uh... so, I guess I'll just be going.   --- Está tudo a compor-se, Timon, por isso...  É melhor eu ir andando.
+Well, it's really coming together, Timon, so, uh... so, I guess I'll just be going.   --- Está tudo a compor-se, Timon, por isso... É melhor eu ir andando.
 Wait a minute, now.                                                                   --- Espera um pouco.
 Wa-wa-wait. There's no law that says you have to go.                                  --- 
 I mean, if you want--                                                                 --- - Se quiseres...
@@ -543,7 +543,7 @@ Get a load of these guys.                                                       
 Knock it off!                                                                         --- Deixem-se disso.
 Just can't wait                                                                       --- Vê-me só esta gente.
 Timon, look out!                                                                      --- Cuidado.
-To be king  Aah!                                                                      --- P'ra ser rei
+To be king Aah!                                                                       --- P'ra ser rei
 I'm OK.                                                                               --- Estou bem.
 Oy.                                                                                   --- 
 Phew.                                                                                 --- Artistas...
@@ -759,7 +759,7 @@ Maybe it was just my love of adventure...                                       
 Maybe it was just my love of adventure... or my innate courage... my valiant and fearless way of-- --- Talvez fosse pelo meu amor pela aventura, ou pela minha coragem inata, pelo meu denodo e arrojo...
 OK, who's in charge of the freeze frames?                                             --- Quem é que controla o controlo?
 Sorry.                                                                                --- - Bem, então...
-Anywho... rescuing Simba was a cinch.                                                 --- - Bem, então...  Salvar o Simba foi canja.
+Anywho... rescuing Simba was a cinch.                                                 --- - Bem, então... Salvar o Simba foi canja.
 Then came the really scary part-- parenthood.                                         --- 
 In the jungIe, the mighty jungle                                                      --- Sermos pais.
 The lion sleeps tonight In the jungle, the mighty jungle... In the jungle, the mighty jungle... --- 
@@ -919,7 +919,7 @@ Can you feel the love tonight?                                                  
 She's making those eyes.                                                              --- Ela faz-lhe olhinhos.
 She's making those eyes. He's smiling that smile.                                     --- Ele é só sorrisinhos.
 They're laughing... and hugging... and--and...                                        --- 
-And if he falls in love tonight It can be assumed                                     --- E se ele se apaixonar Hoje à noite  Podemos supor
+And if he falls in love tonight It can be assumed                                     --- E se ele se apaixonar Hoje à noite Podemos supor
 His carefree days                                                                     --- 
 With us are history In short, our pal is doomed                                       --- 
 Ah, that's it, buddy.                                                                 --- 
@@ -948,7 +948,7 @@ He's gone?                                                                      
 It's just like the baboon said. The king has returned.                                --- É como o babuíno disse, "O rei regressou."
 Ohh. You want me to go over it again?                                                 --- 
 Yes, please, but be a dear... and just skip to the part about Simba-- not that your childhood wasn't fascinating. --- Sim, mas salta para a parte que trata do Simba. Não é que a tua infância não fosse fascinante...
-OK, look, Simba's the rightful king... but after he disappeared...  Scar proclaimed himself the king... and formed an alliance with the hyenas. --- O Simba é o rei legítimo, mas depois de ele ter desaparecido o Scar proclamou-se rei e aliou-se às hienas.
+OK, look, Simba's the rightful king... but after he disappeared... Scar proclaimed himself the king... and formed an alliance with the hyenas. --- O Simba é o rei legítimo, mas depois de ele ter desaparecido o Scar proclamou-se rei e aliou-se às hienas.
 Poor Simba-- the treachery, the villainy... the sheer indescribabIe horror.           --- Sim, mas salta para a parte que trata do Simba.
 Blah, blah, blah.                                                                     --- Ela está a brincar connosco?
 Why is she toying with us?                                                            --- Esta maluca vai devorar-nos.
@@ -978,7 +978,7 @@ Oh, boy, oh, boy, oh, boy.                                                      
 Hakuna matata                                                                         --- Hakuna Matata
 What a wonderfuI phrase                                                               --- 
 Hakuna matata                                                                         --- Hakuna Matata
-Ain't no passing craze It means...                                                    --- Sim, vais perceber  Quer dizer...
+Ain't no passing craze It means...                                                    --- Sim, vais perceber Quer dizer...
 Uhh.                                                                                  --- 
 No worries.                                                                           --- Não te rales.
 Hoo hoo hoo hoo hoo hoo hoo!                                                          --- Tu! Não, não digas nada.
@@ -1143,8 +1143,8 @@ Crane... spreads its wings, turns with dainty hands.                            
 Dig a tunnel, dig, dig a tunnel                                                       --- Cava um túnel Cá cava um túnel
 We're never gonna dig another tunnel                                                  --- Nunca mais cavarei túneis
 Dig a tunnel, dig, dig a tunnel                                                       --- Cava um túnel Cá cava um túnel
-Never gonna hyena come  Never gonna hyena come                                        --- A hiena já não virá
-Sing the praises of great Timon  The greatest meerkat we've ever known                --- Louvemos o Timon corajoso Ele é a suricata mais famosa
+Never gonna hyena come Never gonna hyena come                                         --- A hiena já não virá
+Sing the praises of great Timon The greatest meerkat we've ever known                 --- Louvemos o Timon corajoso Ele é a suricata mais famosa
 Never dreamed he'd heIp Simba shine                                                   --- Nunca pensou que o Simba Recuperaria tudo
 Proved it's cool to hang out with swine                                               --- E como seria fixe Andar com um porco tronchudo
 Accidentally saved the day                                                            --- Foi por sorte que ele salvou a situação
@@ -1213,38 +1213,38 @@ Quick, before the hyena come                                                    
 Can you dig it?                                                                       --- 
 I can dig it                                                                          --- 
 Whoo!                                                                                 --- 
-Oh, yeah  Oh whoa whoa whoa                                                           --- 
-Sure is memories living in the grass  Grazing in the grass, it's a gas                --- Subtitle Ripped By Queo @ iNSPiRE
+Oh, yeah Oh whoa whoa whoa                                                            --- 
+Sure is memories living in the grass Grazing in the grass, it's a gas                 --- Subtitle Ripped By Queo @ iNSPiRE
 Baby, can't you dig it?                                                               --- 
 What a trip just watching as the world goes past                                      --- Subtitle Ripped By Queo @ iNSPiRE
 Grazing in the grass, it's a gas                                                      --- Continuo a não me dar bem nas multidões.
 Baby, can't you dig it?                                                               --- 
-There are so many groovy things to see  While grazing in the grass                    --- 
+There are so many groovy things to see While grazing in the grass                     --- 
 Grazing in the grass, it's a gas                                                      --- 
 Baby, can't you dig it?                                                               --- 
-Flowers with colors  Making everything out of sight in the grass                      --- 
+Flowers with colors Making everything out of sight in the grass                       --- 
 Grazing in the grass, it's a gas                                                      --- 
 Here we go                                                                            --- 
 The sun beaming down between the leaves                                               --- 
 Grazing in the grass, it's a gas                                                      --- 
 Baby, can't you dig it?                                                               --- 
-And the birds  Darting in and out of the trees                                        --- Subtitle Ripped By Queo @ iNSPiRE
+And the birds Darting in and out of the trees                                         --- Subtitle Ripped By Queo @ iNSPiRE
 Grazing in the grass, it's a gas                                                      --- Continuo a não me dar bem nas multidões.
-Yeah, yeah  And everything here is so clear                                           --- 
+Yeah, yeah And everything here is so clear                                            --- 
 You can see it                                                                        --- 
 And everything here is so near                                                        --- 
 You can feel it                                                                       --- 
 And it's real                                                                         --- 
-So real, so real  So real, so real, so real                                           --- Subtitle Ripped By Queo @ iNSPiRE
+So real, so real So real, so real, so real                                            --- Subtitle Ripped By Queo @ iNSPiRE
 Can you dig it? I can dig it, he can dig it, she can dig it                           --- 
 We can dig it, they can dig it, you can dig it                                        --- 
-Oh, let's dig it  Can you dig it, baby?                                               --- 
+Oh, let's dig it Can you dig it, baby?                                                --- 
 I can dig it, he can dig it, she can dig it                                           --- 
 We can dig it, they can dig it, you can dig it                                        --- 
 Oh, let's dig it                                                                      --- 
 Can you dig it, baby?                                                                 --- Subtitle Ripped By Queo @ iNSPiRE
 We, let's dig it I can dig it, he can dig it, she can dig it                          --- 
-We can dig it, baby, everybody, let's dig it  Can you dig it, baby?                   --- 
+We can dig it, baby, everybody, let's dig it Can you dig it, baby?                    --- 
 The sun beaming down between the leaves                                               --- Subtitle Ripped By Queo @ iNSPiRE
 Ooh                                                                                   --- 
 And the birds                                                                         --- 
@@ -1254,33 +1254,33 @@ You can see it                                                                  
 And everything here is so near                                                        --- 
 You can feel it                                                                       --- 
 And it's real                                                                         --- 
-So real, so real  So real, so real, so real                                           --- Subtitle Ripped By Queo @ iNSPiRE
+So real, so real So real, so real, so real                                            --- Subtitle Ripped By Queo @ iNSPiRE
 Can you dig it?                                                                       --- 
-Oh, yeah I can dig it, he can dig it, she can dig it  We can dig it, they can dig it, you can dig it --- Subtitle Ripped By Queo @ iNSPiRE
-Oh, let's dig it  Can you dig it, baby?                                               --- 
+Oh, yeah I can dig it, he can dig it, she can dig it We can dig it, they can dig it, you can dig it --- Subtitle Ripped By Queo @ iNSPiRE
+Oh, let's dig it Can you dig it, baby?                                                --- 
 I can dig it, he can dig it, she can dig it                                           --- 
 We can dig it, they can dig it, you can dig it                                        --- 
-Oh, let's dig it  Can you dig it, baby?                                               --- 
+Oh, let's dig it Can you dig it, baby?                                                --- 
 I can dig it, he can dig it, she can dig it                                           --- 
 We can dig it, they can dig it, you can dig it                                        --- 
 Oh, let's dig it                                                                      --- 
 Baby I can dig it, he can dig it, she can dig it                                      --- Subtitle Ripped By Queo @ iNSPiRE
 We can dig it, they can dig it, you can dig it                                        --- 
 Oh, Iet's dig it                                                                      --- 
-Everything here is so cIear  You can feeI it I can dig it, he can dig it, she can dig it --- Subtitle Ripped By Queo @ iNSPiRE
+Everything here is so cIear You can feeI it I can dig it, he can dig it, she can dig it --- Subtitle Ripped By Queo @ iNSPiRE
 We can dig it, baby, everybody dig it It's Timon-a-rama time!                         --- 
 I've never been the type                                                              --- 
 You'll have a perfect home                                                            --- 
 To form a hole and hide                                                               --- 
 When old hyenas come                                                                  --- 
-Above the meerkat role  Where it's a shooting scene In some organic hole              --- Subtitle Ripped By Queo @ iNSPiRE
+Above the meerkat role Where it's a shooting scene In some organic hole               --- Subtitle Ripped By Queo @ iNSPiRE
 Then you won't have to fear                                                           --- 
 And all that circle rot Is just a cunning plot                                        --- Subtitle Ripped By Queo @ iNSPiRE
 For comin' to the crunch I ain't nobody's lunch                                       --- Subtitle Ripped By Queo @ iNSPiRE
 Get on the roundabout                                                                 --- 
 This isn't a diversion, it's a monkeyshine I ain't asking for a lot                   --- 
 But what is mine is mine                                                              --- Continuo a não me dar bem nas multidões.
-You never want to argue with a chorus line  That's all I need                         --- Subtitle Ripped By Queo @ iNSPiRE
+You never want to argue with a chorus line That's all I need                          --- Subtitle Ripped By Queo @ iNSPiRE
 That is all he needs                                                                  --- 
 Whoa, whoa, I'm begging pIease                                                        --- 
 Whoa, begging pIease                                                                  --- 

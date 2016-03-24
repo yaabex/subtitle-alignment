@@ -16,7 +16,6 @@ CommerciaI towing vehicle Nostromo, out of the Solomons, registration number 1 8
 - Engaged.                                                                            --- - Ligado.
 - Engage artificial gravity.                                                          --- - Ligar gravidade artificial.
 - I'm aItering the vector now.                                                        --- Vou a alterar o vector... agora.
-- Right.                                                                              --- - Pois.
 - Terrific.                                                                           --- Fantástico.
 Thank you.                                                                            --- Obrigado.
 Back to the old freezerinos.                                                          --- De volta aos velhos congeladores.

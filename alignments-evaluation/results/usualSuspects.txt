@@ -1,5 +1,5 @@
 How you doing, Keaton?                                                                --- Como estás, Keaton?
-I can't feel my legs...  Keyser.                                                      --- Não consigo sentir as pernas... Keyser.
+I can't feel my legs... Keyser.                                                       --- Não consigo sentir as pernas... Keyser.
 Ready?                                                                                --- Pronto?
 What time is it?                                                                      --- Que horas são?
 12:30.                                                                                --- Meia-noite e meia.
@@ -44,7 +44,7 @@ This is a small problem.                                                        
 Enjoy the meal.                                                                       --- Tenham um bom apetite.
 I'll talk to you later.                                                               --- 
 It didn't make sense that I'd be there.                                               --- Não fazia sentido eu estar lá.
-These guys were hard-core hijackers... but there I was.                               --- Quero dizer, estes tipos eram ladrões da pesada...  Mas lá estava eu.
+These guys were hard-core hijackers... but there I was.                               --- Quero dizer, estes tipos eram ladrões da pesada... Mas lá estava eu.
 At that point, I wasn't scared.                                                       --- Naquela altura não estava assustado.
 I knew I hadn't done anything they could do me for.                                   --- Eu sabia que não tinha feito nada para ser preso.
 Besides, it was fun.                                                                  --- Além disso, era divertido.
@@ -163,7 +163,7 @@ How 'bout it, Keaton?                                                           
 You a lawyer's wife?                                                                  --- Casaste-te com uma advogada?
 What kind of retainer you giving her?                                                 --- Que espécie de "segurança" tens sobre ela?
 Do your friend a favor... tell him to keep quiet.                                     --- Faz um favor ao teu amigo... diz-lhe para se calar.
-Dean Keaton...  Gone clean?                                                           --- Dean Keaton... endireitou-se, hã?
+Dean Keaton... Gone clean?                                                            --- Dean Keaton... endireitou-se, hã?
 Say it ain't so.                                                                      --- Diz-me que não é assim.
 -Or was it you that hit that truck?                                                   --- 
 -Mac, forget him.                                                                     --- Esquece.
@@ -419,7 +419,7 @@ Thanks.                                                                         
 When I was pickin' beans in Guatemala we used to make fresh coffee.                   --- Quando eu apanhava café na Guatemala, costumávamos fazer café fresco.
 Right off the trees, I mean.                                                          --- 
 That was good.                                                                        --- Isto é uma merda.
--This is shit, but I'm in a police station.                                           --- Mas, estou numa esquadra de polícia...  Podemos começar outra vez?
+-This is shit, but I'm in a police station.                                           --- Mas, estou numa esquadra de polícia... Podemos começar outra vez?
 -Can we get started again?                                                            --- O que aconteceu depois da sala de suspeitos?
 What happened after the lineup?                                                       --- O que aconteceu depois da sala de suspeitos?
 The desk sergeant was telling me he couldn't release you.                             --- ...O sargento estava a tentar dizer-me que eles não te podiam libertar.
@@ -959,7 +959,7 @@ Nobody knew him or saw anybody that ever worked directly for him. To hear Kobaya
 You never knew.                                                                       --- Esse é o seu poder.
 That was his power.                                                                   --- Esse é o seu poder.
 The greatest trick the Devil ever pulled... was convincing the world he didn't exist. --- O maior truque do demónio... foi convencer o mundo que ele não existe.
-One story the guys told me, the story I believe... was from his days in Turkey.       --- Uma das histórias que eles me contaram, - a história que eu acredito...  é dos dias dele na Turquia.
+One story the guys told me, the story I believe... was from his days in Turkey.       --- Uma das histórias que eles me contaram, - a história que eu acredito... é dos dias dele na Turquia.
 There was a gang of Hungarians that wanted their own mob.                             --- Havia um grupo de húngaros que queriam ter a sua própria máfia.
 They realized that to be in power, you didn't need guns... or money or even numbers.  --- Compreenderam que para estarem no poder... não precisavam de armas, ou de dinheiro, ou de números.
 You just needed the will to do what the other guy wouldn't.                           --- Só precisavam da coragem de fazer o que os outros não fazem.
@@ -986,7 +986,7 @@ A spook story that criminals tell their kids at night.                          
 "Rat on your pop, and Keyser Soze will get you."                                      --- "Se traíres o teu colega, o Keyser Soze apanha-te."
 No one ever really believes.                                                          --- Nunca ninguém acreditou realmente.
 Do you believe in him?                                                                --- Tu acreditas nele, Verbal?
-Keaton always said: "I don't believe in God, but I'm afraid of him." I believe in God. --- O Keaton dizia: "Eu não acredito em Deus, mas tenho medo dele."  Bem, eu acredito em Deus.
+Keaton always said: "I don't believe in God, but I'm afraid of him." I believe in God. --- O Keaton dizia: "Eu não acredito em Deus, mas tenho medo dele." Bem, eu acredito em Deus.
 And the only thing that scares me is Keyser Soze.                                     --- E a única coisa que me assusta é o Keyser Soze.
 You give any weight to this?                                                          --- Tens alguma prova disto?
 I can introduce you to Dan Metzheiser from Justice.                                   --- Posso apresentar-te a Dan Metzheiser da Justiça.
@@ -1099,7 +1099,7 @@ Don't move.                                                                     
 Press 20.                                                                             --- Carrega no 20.
 Do it now.                                                                            --- 
 Move.                                                                                 --- Mexe-te.
--The answer is "no." -Mr. Soze will be most--                                         --- O Sr. Soze vai ficar muito desapontado...  Ouve-me, meu merdas, o Keyser Soze não existe.
+-The answer is "no." -Mr. Soze will be most--                                         --- O Sr. Soze vai ficar muito desapontado... Ouve-me, meu merdas, o Keyser Soze não existe.
 Listen, cocksucker, there is no Keyser Soze.                                          --- Ouve-me, meu merdas, o Keyser Soze não existe.
 Mention his name again, I'll kill you right now.                                      --- Se disseres o nome dele novamente, mato-te imediatamente.
 A strange threat.                                                                     --- Estranha ameaça, Sr. Keaton.
@@ -1137,7 +1137,7 @@ Never leaves her for a moment.                                                  
 I thought you'd be glad to know she's in good hands.                                  --- Pensei que gostaria de saber que ela está em boas mãos.
 Get some rest.                                                                        --- Agora descansem um pouco.
 The boat will be ready for you on Friday.                                             --- O navio estará pronto para vocês na sexta.
-If I see you or any of your friends before then... Miss Finneran will be the victim of a most gruesome violation before she dies. --- Se eu vir algum antes disso...  A Sra. Finneran vai ser vítima... de uma cruel violação antes de morrer.
+If I see you or any of your friends before then... Miss Finneran will be the victim of a most gruesome violation before she dies. --- Se eu vir algum antes disso... A Sra. Finneran vai ser vítima... de uma cruel violação antes de morrer.
 As indeed will your father, Mr. Hockney... and your Uncle Randall in Arizona, Mr. Kint. --- Assim como o seu pai, Sr. Hockney... e o seu tio Randall, no Arizona, Mr. Kint.
 I might only castrate Mr. McManus' nephew, David.                                     --- E talvez apenas castre... o sobrinho do Sr. McManus.
 Do I make myself clear?                                                               --- Fui claro?
@@ -1366,7 +1366,7 @@ I saw him die.                                                                  
 I believe he's dead.                                                                  --- Acredito que ele está morto.
 Christ.                                                                               --- 
 You're not safe on your own.                                                          --- Tu não estás seguro sozinho.
-You think he's...  Keyser Soze?                                                       --- Você acha que ele é... o Keyser Soze?
+You think he's... Keyser Soze?                                                        --- Você acha que ele é... o Keyser Soze?
 I don't know.                                                                         --- Não sei, Verbal.
 Keyser Soze's a shield, or like you said, a spook story.                              --- Como tu disseste, uma história de assombrar.
 But I know Keaton, and someone is out there pulling strings for you.                  --- E alguém está a mexer os pauzinhos por ti. Fica aqui e deixa-nos dar-te protecção.
@@ -1427,7 +1427,7 @@ I'm sure you've heard tall tales.                                               
 -A big fat guy.                                                                       --- Parecia uma orca.
 Like, orca fat.                                                                       --- Parecia uma orca.
 There was a lawyer...                                                                 --- Parecia uma orca.
-Kobayashi...  When I was picking beans in Guatemala we made fresh coffee.             --- Quando eu apanhava café na Guatemala, costumávamos fazer café fresco... ele era um bom homem...
+Kobayashi... When I was picking beans in Guatemala we made fresh coffee.              --- Quando eu apanhava café na Guatemala, costumávamos fazer café fresco... ele era um bom homem...
 -I know you thought he was a good man.                                                --- Eu sei que ele era bom.
 -I know he was good.                                                                  --- Eu sei que ele era bom.
 -You tell me every last detail.                                                       --- Como atiras no demónio pelas costas?

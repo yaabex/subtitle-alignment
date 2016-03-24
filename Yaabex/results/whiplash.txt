@@ -13,7 +13,7 @@ Did I ask you to start playing again?                                           
 -Ugh, I'm sorry...                                                                    --- - Desculpe...
 -I asked you why did you stop playing and your version of an answer was to turn into a wind-up monkey --- Fiz uma pergunta e respondes como o macaco da bateria.
 -I'm...                                                                               --- 
-I'm sorry.  -Show me your rudiments.                                                  --- - Mostra os rudimentares.
+I'm sorry. -Show me your rudiments.                                                   --- - Mostra os rudimentares.
 Yes sir.                                                                              --- Sim, senhor.
 Double time swing.                                                                    --- Em duplo swing.
 No double time, double it.                                                            --- Não, duplo.
@@ -68,7 +68,7 @@ May I?                                                                          
 Cute.                                                                                 --- Giro.
 Down the line, trumpets, bar 78.                                                      --- Só os trompetes, compassos 7 e 8.
 Three Four                                                                            --- Três, quatro...
-Three Four  Ok, alright.                                                              --- Três, quatro...
+Three Four Ok, alright.                                                               --- Três, quatro...
 the bar 24, the end of two.                                                           --- Compasso 24 ao fim da segunda.
 Maybe not.                                                                            --- Talvez não.
 Let's pick up on 211, Three Four.                                                     --- 
@@ -89,7 +89,7 @@ Room B16, tomorrow morning 6am                                                  
 Don't be late.                                                                        --- Não te atrases.
 Alright everybody, from the top.                                                      --- Amanhã às seis da manhã na sala B-16.
 One Two Three                                                                         --- Um, dois, três...
-Hey  How are you?                                                                     --- - Olá, como é que estás?
+Hey How are you?                                                                      --- - Olá, como é que estás?
 Good, how are you?                                                                    --- - Bem, e tu?
 I'm good, thanks.                                                                     --- Obrigada.
 The usual?                                                                            --- - Vai ser o de sempre?
@@ -109,7 +109,7 @@ That's actually pretty mean                                                     
 what's your name?                                                                     --- - Como te chamas?
 -No big deal.                                                                         --- - Não há problema.
 -Oh I'm Andrew.                                                                       --- - Sou o Andrew.
-  -Andrew I'm Nicole                                                                  --- - Andrew? - Sou a Nicole.
+ -Andrew I'm Nicole                                                                   --- - Andrew? - Sou a Nicole.
 Nice to meet you Nicole.                                                              --- - Prazer em conhecer-te, Nicole.
 Nice to meet you too.                                                                 --- O prazer é meu.
 So you wanna take me out?                                                             --- - Então queres levar-me a sair?
@@ -126,8 +126,8 @@ Okay?                                                                           
 Great                                                                                 --- Óptimo!
 -Ok.                                                                                  --- 
 Seven o'clock?                                                                        --- - Às sete?
--Here   -7pm                                                                          --- - Sete da noite.
--Monday   -Alright, bye.                                                              --- - Segunda. Está bem.
+-Here -7pm                                                                            --- - Sete da noite.
+-Monday -Alright, bye.                                                                --- - Segunda. Está bem.
 -You are the new alternate?                                                           --- - És a nova reserva?
 -Yeah, I'm Andrew Neyman.                                                             --- Andrew Neyman.
 -Tune the set to a B-flat and turn my pages during rehearsal                          --- Afina em Si e vai virando as páginas.
@@ -155,7 +155,7 @@ Five Six and..                                                                  
 No, my ears are fine, we definitely have an out-of-tone player.                       --- Não, os meus ouvidos não mentem. Alguém está a desafinar.
 Whoever it is, this is your last chance.                                              --- Seja quem for, é a sua última oportunidade.
 And there it went.                                                                    --- A oportunidade acabou.
-Now either you are deliberately playing out-of-tone and sabotaging my band  Or you don't know you are out-of-tone which I'm afraid is even worse. --- Ou está a fazer de propósito para sabotar a minha banda, ou não sabe que está a desafinar, o que seria ainda pior.
+Now either you are deliberately playing out-of-tone and sabotaging my band Or you don't know you are out-of-tone which I'm afraid is even worse. --- Ou está a fazer de propósito para sabotar a minha banda, ou não sabe que está a desafinar, o que seria ainda pior.
 Five Six and..                                                                        --- Cinco, seis, e...
 Bones                                                                                 --- Trombones.
 Five Six and..                                                                        --- Cinco, seis, e...
@@ -173,7 +173,7 @@ I carried your fat ass for too long Metz I'm not gonna have you cost us a compet
 Jackson congratulations, you are fourth chair.                                        --- 
 Mets why are you still sitting there, get the fuck out!                               --- Mets, por que ainda estás aí?
 For the record, Mets wasn't out of tone                                               --- Vai-te foder daqui para fora!
-You were, Ericson  But he didn't know.                                                --- 
+You were, Ericson But he didn't know.                                                 --- 
 And that's bad enough.                                                                --- 
 Alright take 10, when we get back the squeaker is on.                                 --- 
 Andrew                                                                                --- Andrew...
@@ -252,10 +252,10 @@ One two three four One two three four One two three four                        
 -Rushing or dragging?                                                                 --- - Acelerado ou atrasado?
  -Rushing. So you do know the difference!                                             --- - Acelerado.
 If you deliberately sabotage my band, I'll fuck you like a pig.                       --- Se sabotares a minha banda, vou foder-te como um porco!
-Now are you a rusher, or are you a dragger  Or are you gonna be on my fucking time?!  --- Vais acelerar e atrasar ou vais tocar a merda do meu andamento?
+Now are you a rusher, or are you a dragger Or are you gonna be on my fucking time?!   --- Vais acelerar e atrasar ou vais tocar a merda do meu andamento?
 I'll be on your time.                                                                 --- Vou tocar o seu andamento.
 What does that say?                                                                   --- - O que diz aqui?
--Quarter note equals 215   -Count me a 215.                                           --- - O tempo é 215.
+-Quarter note equals 215 -Count me a 215.                                             --- - O tempo é 215.
 One two three four One two three four                                                 --- - Um, dois, três, quatro...
 Jesus fucking Christ, I don't know they allow retards into Shaffer.                   --- Jesus, foda-se! Não sabia que aceitávamos anormais.
 Am I to understand you cannot read tempo?                                             --- 
@@ -274,7 +274,7 @@ Oh my dear god.                                                                 
 Are you one of those single tear people?                                              --- És um daqueles que só choram uma lágrima?
 Do I look like a double fucking rainbow to you?                                       --- Achas que sou o cabrão de um arco-íris?
 -You must be upset. Are you upset?                                                    --- - Deves estar chateado, não estás?
-  -No                                                                                 --- - Não.
+ -No                                                                                  --- - Não.
 No. So you just don't give a shit about any of this?                                  --- - Não.
 -I do give a shit...                                                                  --- - Não estou!
 -So are you upset, yes or fucking no?                                                 --- Foda-se, estás chateado ou não?
@@ -307,16 +307,16 @@ What?                                                                           
 That's the name of the song.                                                          --- É o nome da música.
 Jacky Hill, July 17th, 1938                                                           --- Jacky Hill, 17/07/1938.
 Bob Ellis on the drums.                                                               --- Bob Ellis, na bateria.
-You know every time I saw you at the theater  Your eyes were glued to the floor.      --- Sempre que o vias no cinema, olhavas para o chão.
+You know every time I saw you at the theater Your eyes were glued to the floor.       --- Sempre que o vias no cinema, olhavas para o chão.
 Really?                                                                               --- A sério?
 My dad says that I have trouble making eye contact.                                   --- O meu pai diz que tenho problemas com o contacto visual.
 My parents like to criticize me too.                                                  --- Os meus pais também gostam de me criticar.
 When I was growing up my mom said that I had a really big chin. And that's why guys don't like me --- A minha mãe dizia que o meu queixo era grande e era por isso que não tinha namorados.
 -Really?                                                                              --- Mas não é.
-  -Yeah.                                                                              --- - Juro.
+ -Yeah.                                                                               --- - Juro.
 -You don't. -Well she said my dad curse me with one.                                  --- Mas não é.
 -No it's not.                                                                         --- - Não pareces nada!
-  -Yeah it is.                                                                        --- - Pareço pois.
+ -Yeah it is.                                                                         --- - Pareço pois.
 I don't...                                                                            --- Não concordo nem um pouco.
 I don't think so at all.                                                              --- Não concordo nem um pouco.
 Your chin is very...                                                                  --- O teu queixo é bem fixe.
@@ -360,7 +360,7 @@ Is this really Eva?                                                             
 Wow, last time I saw you you were very tiny.                                          --- Eras tão pequenina na última vez que te vi...
 Are you playing an instrument yet?                                                    --- - Já tocas alguma coisa?
 She started piano last week.                                                          --- - Ela começou piano.
-Hey when you are a big college kid  Will you come and play in my band?                --- Quando estiveres na faculdade, queres tocar na minha banda?
+Hey when you are a big college kid Will you come and play in my band?                 --- Quando estiveres na faculdade, queres tocar na minha banda?
 -Do you like that?                                                                    --- - Já tocas alguma coisa?
 -Would you be my piano player?                                                        --- - Já tocas alguma coisa?
 Excellent, give me five                                                               --- - Serás a minha pianista.
@@ -375,7 +375,7 @@ Tanner, the kit is a fucking tonal catastrohpy                                  
 Get it in tone alright?                                                               --- 
 Rhythm and soloists, bar 45 we gonna pick up the tempo there alright?                 --- Os percussionistas e solistas, compasso 45 apanhamos o andamento.
 Bar 106, brass, do not forget we sharp that knife.                                    --- Saxofones: não esqueçam de entrar afinados no compasso 106.
-Everybody remember, Lincoln Center and its ilk use these competitions to decide who they are interested in and who they are not  And I am not gonna have my reputation in that department tarnished by a bunch of fucking limp-dick, sour-note, flattered on their girlfriend's flexible tempo dipshits. --- Lincoln Center usa estas competições para decidir quem vão chamar e não vou manchar a minha reputação neste departamento por causa de um bando de idiotas mais lentos que as namoradas flácidas.
+Everybody remember, Lincoln Center and its ilk use these competitions to decide who they are interested in and who they are not And I am not gonna have my reputation in that department tarnished by a bunch of fucking limp-dick, sour-note, flattered on their girlfriend's flexible tempo dipshits. --- Lincoln Center usa estas competições para decidir quem vão chamar e não vou manchar a minha reputação neste departamento por causa de um bando de idiotas mais lentos que as namoradas flácidas.
 Got it?                                                                               --- Dá-me isso aqui.
 One more thing.                                                                       --- 
 Eugene give me that.                                                                  --- 
@@ -399,7 +399,7 @@ No.. I swear I just had it here two seconds ago It's gotta be around here.      
 -How could you be so fucking stupid?                                                  --- - Como consegues ser tão estúpido?
 -I don't know, maybe a janitor came bay or something..                                --- 
 -A janitor?                                                                           --- O porteiro?
- -Yeah  -Find the fucking folder!                                                     --- Encontra a merda da pasta!
+ -Yeah -Find the fucking folder!                                                      --- Encontra a merda da pasta!
 A fucking janitor?!                                                                   --- És um palhaço!
 You are done!                                                                         --- Idiota!
 Fuck!                                                                                 --- 
@@ -464,7 +464,7 @@ Yeah it's going really well.                                                    
 I'm the new core drummer...                                                           --- Sou o novo baterista principal...
 -Did you hear yet?                                                                    --- - Não, o quê?
  -No, what happened?                                                                  --- - Não, o quê?
-Travis just got MVP  That's fantastic!                                                --- - O Travis foi eleito o melhor jogador.
+Travis just got MVP That's fantastic!                                                 --- - O Travis foi eleito o melhor jogador.
 Dustin is heading up Model UN, soon-to-be-Rhodes-Scholar and who knows what           --- O Dustin vai fazer um projecto com a ONU, e ganhar uma bolsa na Rhodes.
 And Jim, teacher of the year I mean, come on, the talent of this table, that is stunning. --- O Dustin vai fazer um projecto com a ONU, e ganhar uma bolsa na Rhodes.
 And Andy, with your drumming.                                                         --- - E o Andy com a bateria.
@@ -557,7 +557,7 @@ Don't worry about Fletcher, he's more bark than bite.                           
 -I said not now!                                                                      --- - Já disse que agora não!
 If you want the fucking part, earn it.                                                --- Se queres tocá-la, merece-a.
 I'm just gonna lay it out there. This is why I don't think that we shouldn't be together. --- Acho que não devemos ficar mais juntos.
-And I thought about it a lot.  And this is what's gonna happen, ok?                   --- Pensei bastante nisto e já sei o que vai acontecer.
+And I thought about it a lot. And this is what's gonna happen, ok?                    --- Pensei bastante nisto e já sei o que vai acontecer.
 I'm gonna keep pursuing what I'm pursuing                                             --- Pensei bastante nisto e já sei o que vai acontecer.
 And because I'm doing that it's gonna take more and more of my time                   --- Vou continuar atrás do meu sonho e isso vai consumir o meu tempo, impedindo que te dê atenção.
 And I'm not gonna be able to spend so much time with you. And when I do spend time with you, I'll be thinking about drumming. --- E enquanto estivermos juntos, só vou pensar em música e partituras.
@@ -611,7 +611,7 @@ His name was Sean Casey.                                                        
 I found out this morning that...                                                      --- E eu só queria...
 Sean died yesterday.                                                                  --- 
 in a car accident.                                                                    --- E eu só queria...
-And I just... want you guys to know he was a beautiful player.                        --- E eu só queria...  Quero que saibam que foi um grande músico.
+And I just... want you guys to know he was a beautiful player.                        --- E eu só queria... Quero que saibam que foi um grande músico.
 I just thought you should know.                                                       --- Achei que deviam saber.
 I'm sorry.                                                                            --- Desculpem.
 Ok.                                                                                   --- 
@@ -627,7 +627,7 @@ One and two and                                                                 
 Motherfucker!                                                                         --- Filho da puta!
 Connelly get your ass back on the kit                                                 --- Connelly, volta à bateria!
 We'll stay here for as long as it takes till one of faggots can play in time.         --- 
-One and two and looks like it'll be all night.                                        --- Um e, dois e...  Vai ser a noite toda.
+One and two and looks like it'll be all night.                                        --- Um e, dois e... Vai ser a noite toda.
 Neyman.                                                                               --- Neyman.
 One and two and                                                                       --- Um, dois, e...
 Not my fucking tempo!                                                                 --- Foda-se, não é esse andamento!
@@ -640,7 +640,7 @@ This is really the fastest you can play, you worthless himey fuck?              
 No wonder mommy ran out on you.                                                       --- Foi por isso que a tua mamã foi embora.
 Get off the fucking kit.                                                              --- Sai da bateria, puto.
 And here comes Mr. Gay pride of the Upper Western side himself                        --- Vamos ouvir agora o próprio orgulho do festival Gay.
-Unfortunately this is not a Bette Midler Concert, we'll not be serving Cosmopolitan and Baked Alaska  So just play faster than you give fucking hand jobs, will you please? --- Não é um espectáculo da Bette Midler e não vamos servir Cosmopolitans, então toca mais depressa que as punhetas que fazes.
+Unfortunately this is not a Bette Midler Concert, we'll not be serving Cosmopolitan and Baked Alaska So just play faster than you give fucking hand jobs, will you please? --- Não é um espectáculo da Bette Midler e não vamos servir Cosmopolitans, então toca mais depressa que as punhetas que fazes.
 One two one two                                                                       --- Um, dois, e...
 Not even fucking close                                                                --- Nem chegaste perto.
 Let's go with the Irish mick fucking paddy-cracker now                                --- Agora vamos ouvir o anão irlandês.
@@ -725,7 +725,7 @@ At 5.30, that's exactly 11 minutes, my band is on stage.                        
 If your ass is not on that stool with your own fucking sticks in hand                 --- Se não estiveres lá com as tuas baquetas ou se cometeres um erro, um só, vais andar a virar páginas em Nassau até te formares ou desistires.
 Or you make one fucking mistake                                                       --- 
 One I'll drum your ass back to Nassau where you can turn pages untill you graduate or fucking drop off. --- Se não estiveres lá com as tuas baquetas ou se cometeres um erro, um só, vais andar a virar páginas em Nassau até te formares ou desistires.
-By the time you are done at Shaffer, you're gonna make daddy look like a fucking successful story  Got it? --- Se te formares, a história do papá vai ser um sucesso, comparada à tua.
+By the time you are done at Shaffer, you're gonna make daddy look like a fucking successful story Got it? --- Se te formares, a história do papá vai ser um sucesso, comparada à tua.
 Or, we can let Johnny Utah play the part.                                             --- Ou podemos deixar o palhaço tocar.
 You choose.                                                                           --- Tu é que decides.
 It's my part, I'll be on your stage.                                                  --- A música é minha.
@@ -777,7 +777,7 @@ Did he ever intentionally inflict emotional distress?                           
 This will not be a public hearing, you know?                                          --- Não vão abrir nenhum inquérito.
 Fletcher will never know it was you who spoke up.                                     --- Ele nunca vai saber que abriu a boca.
 Why would you do this to me?                                                          --- Porque estás a fazer isto comigo?
-Do you think that I would let him put my son through hell  And just walk away scot-free? --- Achas que o deixava fazer passares pelo inferno e depois sair ileso?
+Do you think that I would let him put my son through hell And just walk away scot-free? --- Achas que o deixava fazer passares pelo inferno e depois sair ileso?
 Don't you know I would never let that happen?                                         --- Achas que ia permitir isso?
 That there is nothing in the world more important to me than you?                     --- Nada neste mundo é mais importante para mim do que tu.
 Don't you know that?                                                                  --- Não sabias isso?
@@ -789,7 +789,7 @@ Just tell me what to say.                                                       
 Thanks                                                                                --- Obrigado.
 Andrew                                                                                --- Andrew!
 Hey                                                                                   --- Olá.
-Don't know if you heard... I'm not in Shaffer any more.                               --- Não sei se ouviste...  Mas já não estou em Shaffer.
+Don't know if you heard... I'm not in Shaffer any more.                               --- Não sei se ouviste... Mas já não estou em Shaffer.
 Yeah I did hear that.                                                                 --- Ouvi falar disso.
 Did you quit?                                                                         --- Pediu a demissão?
 Not exactly.                                                                          --- Não exactamente.
@@ -800,7 +800,7 @@ That's a good laugh right?                                                      
 -No I get it.                                                                         --- - Eu percebo.
 I know I've made enemies.                                                             --- Sei que fiz, inimigos.
 I'm conducting though                                                                 --- Mas voltei a dirigir.
-They brought back JVC fest this year  They got me opening in a couple of weeks with a pro band. --- O Festival JVC vai voltar este ano e vou abrir com uma banda profissional.
+They brought back JVC fest this year They got me opening in a couple of weeks with a pro band. --- O Festival JVC vai voltar este ano e vou abrir com uma banda profissional.
 That's great.                                                                         --- Isso é óptimo.
 It's alright.                                                                         --- 
 Truth is, I don't think people... understood what it was I was doing at Shaffer.      --- A verdade é que acho que as pessoas não entendiam o que tentava fazer em Shaffer.
@@ -839,7 +839,7 @@ Yeah.                                                                           
 The truth is, Andrew I never really had a Charlie Parker.                             --- A verdade Andrew, é que eu...
 But I tried.                                                                          --- Mas tentei.
 I actually fucking tried.                                                             --- A verdade Andrew, é que eu...
-And that's  more than most people ever do.                                            --- 
+And that's more than most people ever do.                                             --- 
 and I'll never apologize for how I tried.                                             --- Nunca me vou desculpar pela minha maneira de tentar.
 Alright, see you later.                                                               --- Vemo-nos por aí.
 Hey Andrew                                                                            --- Andrew...
@@ -891,7 +891,7 @@ The folks out there make a phone call                                           
 You can be a blue note signee                                                         --- Mas se deixarem cair os tomates,
 An EMC client                                                                         --- Mas se deixarem cair os tomates,
 A Lincoln Center core                                                                 --- 
-On the other hand, if you drop the ball you might be looking for a new line of work because the other thing about these cats is they never forget. --- Mas se deixarem cair os tomates,  é melhor mudarem de profissão porque estes tipos nunca esquecem.
+On the other hand, if you drop the ball you might be looking for a new line of work because the other thing about these cats is they never forget. --- Mas se deixarem cair os tomates, é melhor mudarem de profissão porque estes tipos nunca esquecem.
 We all set?                                                                           --- Preparados?
 Alright, let's have fun.                                                              --- Vamos divertir.
 You think I'm fucking stupid?                                                         --- Achas-me algum cabrão estúpido?

@@ -37,7 +37,7 @@ The Tesseract is misbehaving.                                                   
 The Tesseract is not only active, she's behaving.                                     --- O Tesseract não está só activo, tem vontade própria.
 I assume you pulled the plug.                                                         --- - É uma fonte energética, mal o desligamos volta a autoligar-se.
 She's an energy source. We turn off the power, she turns it back on.                  --- - É uma fonte energética, mal o desligamos volta a autoligar-se.
-If she reaches peak level...  We prepared for this, Doctor.                           --- 
+If she reaches peak level... We prepared for this, Doctor.                            --- 
 Harnessing energy from space.                                                         --- Preparámo-nos para isto, para utilizar a energia do espaço.
 But we don't have the harness.                                                        --- Ainda não podemos, falta-me fazer cálculos e ele liberta interferências, radiação...
 My calculations are far from complete.                                                --- Ainda não podemos, falta-me fazer cálculos e ele liberta interferências, radiação...
@@ -116,7 +116,7 @@ The famous Black Widow and she turns out to be simply another pretty face.      
 You really think I'm pretty?                                                          --- Acha-me mesmo bonita?
 Tell Lermentov we don't need him to move the tanks.                                   --- Diz ao Lermentov que não precisamos dele para vender os tanques.
 Tell him he is out.                                                                   --- Diz-lhe que está de fora.
-Well... ...you may have to write it down.                                             --- Se calhar vais precisar de o escrever.
+Well... you may have to write it down.                                                --- Se calhar vais precisar de o escrever.
 It's for her.                                                                         --- É para ela.
 You listen carefully                                                                  --- 
 You're at 1- 14 Silensky Plaza, 3rd floor.                                            --- Estão no 1-14 da Silensky Plaza, 3º.
@@ -213,7 +213,7 @@ He can't be working alone. What about the other one?                            
 His brother.                                                                          --- Do irmão?
 Our intelligence says Thor is not a hostile but he's worlds away. We can't depend on him to help, either. --- Cremos saber que Thor não nos é hostil, mas está longe, não podemos contar com a ajuda dele.
 It's up to us. Which is why you should be focusing on Phase 2.                        --- Razão para se concentrar na Fase 2, que foi criada para...
-It was designed for exactly this...  Phase 2 isn't ready.                             --- A Fase 2 está inacabada, não o inimigo.
+It was designed for exactly this... Phase 2 isn't ready.                              --- A Fase 2 está inacabada, não o inimigo.
 Our enemy is.                                                                         --- 
 We need a response team.                                                              --- Precisamos duma equipa de resposta.
 The Avengers Initiative was shut down.                                                --- Os Vingadores foram desconvocados.
@@ -351,7 +351,7 @@ Boo!                                                                            
 We're about 40 minutes out from home base, sir.                                       --- Estamos a 40 minutos da Base.
 So, this Dr Banner was trying to replicate the serum they used on me?                 --- Esse Dr. Banner tentava replicar o soro que usaram em mim?
 A lot of people were. You were the world's first superhero.                           --- Tentava muita gente, foi você o primeiro super-herói do mundo.
-Banner thought gamma radiation might hold the key to unlocking  Erskine's original formula. --- E o Banner achou que radiações gama podiam levar à descoberta da fórmula do Erskine.
+Banner thought gamma radiation might hold the key to unlocking Erskine's original formula. --- E o Banner achou que radiações gama podiam levar à descoberta da fórmula do Erskine.
 Didn't really go his way, did it?                                                     --- - Não muito.
 Not so much.                                                                          --- - Não muito.
 When he's not that thing, though, the guy's like a Stephen Hawking.                   --- Mas quando não é aquilo, o tipo é um Stephen Hawking.
@@ -366,8 +366,8 @@ Absolutely.                                                                     
 We made some modifications to the uniform.                                            --- Fizemos umas alterações no uniforme.
 I had a little design input.                                                          --- Fizemos umas alterações no uniforme.
 The uniform?                                                                          --- - No uniforme?
-Aren't the stars and stripes a little old-fashioned?                                  --- A bandeira americana não estará...  Um pouco fora de moda?
-With everything that's happening and the things that are about to come to light, people might just need a little old-fashioned. --- Com tudo o que está a acontecer e com o que está prestes a saber-se...  Talvez seja disso mesmo que as pessoas precisam.
+Aren't the stars and stripes a little old-fashioned?                                  --- A bandeira americana não estará... Um pouco fora de moda?
+With everything that's happening and the things that are about to come to light, people might just need a little old-fashioned. --- Com tudo o que está a acontecer e com o que está prestes a saber-se... Talvez seja disso mesmo que as pessoas precisam.
 The Chitauri grow restless.                                                           --- Os Chitauri estão impacientes.
 Let them gird themselves. I will lead them in the glorious battle.                    --- Eles que se preparem, liderá-los-ei numa gloriosa batalha.
 Battle?                                                                               --- Batalha?
@@ -531,7 +531,7 @@ You should thank me. With the Bifrost gone, how much dark energy did the Allfath
 I thought you dead.                                                                   --- Julguei-te morto.
 Did you mourn?                                                                        --- Chorámos-te todos.
 We all did.                                                                           --- O nosso pai...
-Our father...  Your father.                                                           --- Teu pai.
+Our father... Your father.                                                            --- Teu pai.
 He did tell you my true parentage, did he not?                                        --- 
 We were raised together.                                                              --- Brincámos juntos, brigámos juntos!
 We played together, we fought together.                                               --- Brincámos juntos, brigámos juntos!
@@ -640,7 +640,7 @@ That man is playing Galaga.                                                     
 He thought we wouldn't notice, but we did.                                            --- Julgou que não reparávamos, mas enganou-se.
 How does Fury even see these?                                                         --- - Como vê o Fury tudo isto?
 He turns. Sounds exhausting.                                                          --- 
-The rest of the raw materials,  Agent Barton can get his hands on pretty easily.      --- O Agente Barton arranja facilmente o resto das matérias-primas.
+The rest of the raw materials, Agent Barton can get his hands on pretty easily.       --- O Agente Barton arranja facilmente o resto das matérias-primas.
 The only major component he still needs is a power source of high-energy density.     --- é uma fonte de energia de alta densidade.
 Something to kick-start the Cube.                                                     --- Algo que faça pôr a trabalhar o Cubo.
 When did you become an expert in thermonuclear astrophysics?                          --- Desde quando é perito em astrofísica termonuclear?
@@ -649,7 +649,7 @@ The packet, Selvig's notes, the extraction theory papers.                       
 Am I the only one who did the reading?                                                --- Algo que faça pôr a trabalhar o Cubo.
 Does Loki need any particular kind of power source?                                   --- O Loki precisa duma fonte de energia especial?
 He would have to heat the Cube to 120-million Kelvin just to break through the Coulomb barrier. --- Terá de aquecer o Cubo a 120 milhões de graus Kelvin só para penetrar a barreira de Coulomb.
-Unless Selvig has figured out how to stabilise the quantum tunnelling effect.         --- A não ser que o Selvig tenha descoberto como estabilizar  - o efeito-túnel.
+Unless Selvig has figured out how to stabilise the quantum tunnelling effect.         --- A não ser que o Selvig tenha descoberto como estabilizar - o efeito-túnel.
 Well, if he could do that, he could achieve heavy ion fusion at any reactor on the planet. --- - Bom, se descobriu, obtém a fusão do ferro em qualquer reactor do planeta.
 Finally, someone who speaks English.                                                  --- Finalmente, alguém que fala inglês...
 Is that what just happened?                                                           --- Prazer em conhecê-lo, Dr. Banner.
@@ -701,12 +701,12 @@ It's bugging him, too.                                                          
 Isn't it?                                                                             --- Capitão, ele é o espião.
 I just want to finish my work here, and...                                            --- Doutor?
 Doctor?                                                                               --- 
-"A warm light for all mankind."  Loki's jab at Fury about the Cube.                   --- "Cálida luz para a humanidade", o que disse o Loki ao Fury sobre o Cubo.
+"A warm light for all mankind." Loki's jab at Fury about the Cube.                    --- "Cálida luz para a humanidade", o que disse o Loki ao Fury sobre o Cubo.
 I heard it.                                                                           --- 
 I think that was meant for you.                                                       --- - Acho que a dirigia a si.
-Even if Barton didn't tell Loki about the tower, it was still all over the news.      --- Mesmo que o Barton tenha escondido a torre ao Loki  - ela foi notícia em todo o lado.
+Even if Barton didn't tell Loki about the tower, it was still all over the news.      --- Mesmo que o Barton tenha escondido a torre ao Loki - ela foi notícia em todo o lado.
 The Stark Tower?                                                                      --- Aquele medonho...
-That big, ugly building in New York?                                                  --- Aquele medonho...  Edifício em Nova Iorque?
+That big, ugly building in New York?                                                  --- Aquele medonho... Edifício em Nova Iorque?
 It's powered by an arc reactor, a self-sustaining energy source.                      --- Tem um reactor próprio que lhe proporciona energia própria.
 That building will run itself for, what, a year?                                      --- O prédio é auto-suficiente por quanto, um ano?
 It's just the prototype. I'm kind of the only name in clean energy right now.         --- Neste momento só eu produzo energia limpa.
@@ -796,7 +796,7 @@ After whatever tortures Fury can concoct, you would appear as a friend, as a bal
 And I would cooperate.                                                                --- E eu colaborava.
 I want to know what you've done to Agent Barton.                                      --- Quero saber o que fez ao Agente Barton.
 I would say I've expanded his mind.                                                   --- Expandi a mente dele.
-And once you've won, once you're king of the mountain, what happens to his mind?      --- E uma vez tendo ganho, uma vez sendo já o rei da montanha...  Que acontece à mente dele?
+And once you've won, once you're king of the mountain, what happens to his mind?      --- E uma vez tendo ganho, uma vez sendo já o rei da montanha... Que acontece à mente dele?
 Is this love, Agent Romanoff? Love is for children.                                   --- Amor é para miúdos, eu tenho uma dívida a pagar.
 I owe him a debt.                                                                     --- Que acontece à mente dele?
 Tell me.                                                                              --- Conte.
@@ -826,7 +826,7 @@ Your ledger is dripping. It's gushing red and you think saving a man no more vir
 This is the basest sentimentality.                                                    --- Isso é do mais baixo sentimentalismo,
 This is a child at prayer.                                                            --- é patético!
 Pathetic!                                                                             --- 
-You lie and kill in the service of liars and killers.                                 --- Mentes e matas  às ordens de aldrabões e assassinos.
+You lie and kill in the service of liars and killers.                                 --- Mentes e matas às ordens de aldrabões e assassinos.
 You pretend to be separate, to have your own code, something that makes up for the horrors. --- Finges ser melhor, reger-te por um código próprio, um que compense os horrores praticados.
 But they are part of you.                                                             --- Mas eles são parte de ti.
 And they will never go away.                                                          --- E nunca te largarão.
@@ -873,7 +873,7 @@ We learned that not only are we not alone but we are hopelessly, hilariously, ou
 My people want nothing but peace with your planet.                                    --- Mas há outros povos espaço fora?
 But you're not the only people out there, are you?                                    --- E não são a única ameaça.
 And you're not the only threat.                                                       --- E não são a única ameaça.
-The world's filling up with people who can't be matched, that can't be controlled.    --- O mundo está a encher-se de gente incontrolável,  - que não é controlável.
+The world's filling up with people who can't be matched, that can't be controlled.    --- O mundo está a encher-se de gente incontrolável, - que não é controlável.
 Like you controlled the Cube?                                                         --- - Como não controlou o Cubo?
 Your work with the Tesseract is what drew Loki to it, and his allies.                 --- Foi o vosso uso do Tesseract que atraiu o Loki e seus aliados.
 It is a signal to all the realms that the Earth is ready for a higher form of war.    --- É um sinal a todos os reinos que a Terra pode travar guerras a um nível superior.
@@ -938,7 +938,7 @@ So, I put a bullet in my mouth, and the other guy spit it out.                  
 So I moved on. I focused on helping other people.                                     --- 
 I was good. Until you dragged me back into this freak show and put everyone here at risk. --- 
 You want to know my secret, Agent Romanoff? You want to know how I stay calm?         --- Quer saber o meu segredo, saber como mantenho a calma?
-Dr Banner, put down the sceptre.                                                      --- Dr. Banner...  Pouse o ceptro.
+Dr Banner, put down the sceptre.                                                      --- Dr. Banner... Pouse o ceptro.
 Got it.                                                                               --- 
 Sorry, kids, you don't get to see my party trick after all.                           --- Lamento, putos, afinal não verão o meu truque de magia.
 You located the Tesseract?                                                            --- - Ponho-me lá num ápice.
@@ -1073,7 +1073,7 @@ These were in Phil Coulson's jacket.                                            
 I guess he never did get you to sign them.                                            --- Não tenho nada para vocês.
 We're dead in the air up here.                                                        --- Os meios de comunicação, a localização do Cubo...
 Our communications, the location of the Cube,                                         --- Os meios de comunicação, a localização do Cubo...
-Banner, Thor... I got nothing for you.                                                --- O Banner, o Thor...  Não tenho nada para vocês.
+Banner, Thor... I got nothing for you.                                                --- O Banner, o Thor... Não tenho nada para vocês.
 I lost my one good eye.                                                               --- Perdi o meu único olho bom.
 Maybe I had that coming.                                                              --- Se calhar, mereci...
 Yes, we were going to build an arsenal with the Tesseract.                            --- íamos construir um arsenal com o Tesseract.
@@ -1463,7 +1463,7 @@ Tough questions are being asked about the Avengers themselves.                  
 Their sudden appearance and equally sudden disappearance...                           --- O quê, tudo isto foi culpa deles?
 What, this is all somehow their fault?                                                --- O quê, tudo isto foi culpa deles?
 Captain America saved my life.                                                        --- O Capitão América salvou-me a vida.
-Wherever he is, and wherever any of them are, I would just... I would want to say thank you. --- Esteja ele onde estiver, onde quaisquer deles estiverem, só quero...  Quero só dizer "obrigada".
+Wherever he is, and wherever any of them are, I would just... I would want to say thank you. --- Esteja ele onde estiver, onde quaisquer deles estiverem, só quero... Quero só dizer "obrigada".
 Where are the Avengers? I'm not currently tracking their whereabouts.                 --- Não conheço o actual paradeiro deles, parece-me que bem merecem umas férias.
 I'd say they've earned a leave of absence.                                            --- E o Tesseract?
 And the Tesseract?                                                                    --- E o Tesseract?

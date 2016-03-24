@@ -28,7 +28,7 @@ I saw someone making their way below stage.                                     
 I followed him.                                                                       --- Segui-o.
 It was Borden, watching Mr. Angier drown.                                             --- Era o Borden, a ver o Sr. Angier afogar-se.
 Would you please describe your occupation to the jury, Mr. Cutter.                    --- Importa-se de descrever a sua ocupação ao júri, Sr. Cutter?
-I'm an ingénieur, I design illusions and construct the apparatus necessary for performing them. --- Sou um engenheiro, desenho ilusões e construo o aparato necessário para  sua execução.
+I'm an ingénieur, I design illusions and construct the apparatus necessary for performing them. --- Sou um engenheiro, desenho ilusões e construo o aparato necessário para sua execução.
 So, Mr. Cutter, was this water-filled tank beneath the stage part of Mr. Angier's illusion? --- Então, Sr. Cutter, este tanque cheio de água por baixo do palco fazia parte da ilusão do Sr. Angier?
 No.                                                                                   --- Não.
 The tank was brought on for the first trick and then taken offstage.                  --- O tanque foi trazido para o primeiro truque e depois levado para fora do palco.
@@ -38,7 +38,9 @@ It's a normal tank for escape under water, about 400 or 500 gallons.            
 How do you think he was able to move the tank under the trap door without anyone noticing? --- Como é que acha que ele moveu o tanque para baixo do alçapão sem que ninguém tenha notado?
 He's a magician, ask him.                                                             --- Ele é o mágico, pergunte-lhe a ele.
 I ask again, would this man explain the mechanics of Mr. Angier's illusion.           --- Volto a pedir, pode este homem explicar a mecânica da ilusão do Sr. Angier.
-The Real Transported Man is one of the most sought after illusions in this business.I have the right to sell it on.If I reveal the method here, the trick is worthless. --- O Homem Real Transportado é uma das ilusões mais requisitadas neste ramo.
+The Real Transported Man is one of the most sought after illusions in this business.  --- O Homem Real Transportado é uma das ilusões mais requisitadas neste ramo.
+I have the right to sell it on.                                                       --- Tenho o direito de a vender.
+If I reveal the method here, the trick is worthless.                                  --- Se eu revelar o método aqui, o truque perde todo o valor.
 How can we know that the tank wasn't simply some part of the trick that went wrong?   --- Como é que podemos saber que o tanque não era simplesmente uma parte do truque que correu mal?
 Mr. Cutter, I see your predicament.                                                   --- Sr. Cutter, entendo a sua situação
 But Alfred Borden's life hangs in the balance.                                        --- Mas a vida de Alfred Borden oscila nesse equilíbrio.
@@ -48,7 +50,7 @@ I'm going to have to ask you to turn out your pockets.                          
 Not my idea, sir.                                                                     --- A ideia não foi minha, senhor.
 The warden saw his show in Manchester last year where he vanished into thin air.      --- O guarda viu um espectáculo dele em Manchester o ano passado onde ele desapareceu em pleno ar.
 He's convinced he'll try and escape.                                                  --- Está convencido que ele vai tentar escapar.
-I told him the only way Borden's going to disappear is if I leave him out there with the other inmates. --- Eu disse-lhe que a única forma de o Borden desaparecer  é deixando-o aí fora com os outros presos.
+I told him the only way Borden's going to disappear is if I leave him out there with the other inmates. --- Eu disse-lhe que a única forma de o Borden desaparecer é deixando-o aí fora com os outros presos.
 Check the locks... twice.                                                             --- Verifica as fechaduras... duas vezes.
 My name is Owens.                                                                     --- Chamo-me Owens.
 I'm a solicitor.                                                                      --- Sou advogado.
@@ -76,11 +78,14 @@ I'm offering you a way to wrap up your affairs with dignity.                    
 I'm offering your daughter a future.                                                  --- Estou a oferecer um futuro à sua filha.
 As Lord Caldlow's ward, she will want for nothing... ever.                            --- À guarda de Lord Caldlow, ela não precisará de mais nada... nunca.
 Well, think it over.                                                                  --- Bom, pense bem nisso.
-And Lord Caldlow would like you to have this, as a show of good faith.It might be of interest. --- E Lord Caldlow gostava que ficasse com isto como prova de boa fé. Pode ser de interesse para si.
+And Lord Caldlow would like you to have this, as a show of good faith.                --- E Lord Caldlow gostava que ficasse com isto como prova de boa fé.
+It might be of interest.                                                              --- Pode ser de interesse para si.
 Robert Angier's diary, including the time he spent in Colorado learning your trick.   --- O diário de Robert Angier, incluindo o tempo que ele passou no Colorado a aprender o seu truque.
 - He never learned it.                                                                --- - Ele nunca o aprendeu.
 - Really?                                                                             --- - A sério?
-On his return, he mounted a version of The Transported Man that the papers said was better even than your original.If you want Angier's secrets, you go dig him up and ask him yourself.I want your secret, Mr. Borden. --- Quando voltou, montou uma versão do Homem Transportado que segundo os jornais era melhor que a sua original.
+On his return, he mounted a version of The Transported Man that the papers said was better even than your original. --- Quando voltou, montou uma versão do Homem Transportado que segundo os jornais era melhor que a sua original.
+If you want Angier's secrets, you go dig him up and ask him yourself.                 --- Se quer os segredos do Angier, vá desenterrá-lo e pergunte-lhe você mesmo.
+I want your secret, Mr. Borden.                                                       --- Quero o seu segredo, Sr. Borden.
 Consider your daughter.                                                               --- Pense na sua filha.
 A cipher, an enigma... a search, a search for answers.                                --- Um código, um enigma... uma busca, uma busca por respostas.
 Even if Colorado is the end of my journey, it'll take much longer to unravel the rest of Borden's secrets. --- Mesmo que o Colorado seja o fim da minha viagem, levará muito mais tempo a descobrir o resto dos segredos do Borden
@@ -106,7 +111,8 @@ Not the welcome I was expecting.                                                
 I know you.                                                                           --- Eu conheço-te.
 You're the Great Danton.                                                              --- És o Grande Danton.
 I saw your show in London.                                                            --- Vi o teu espectáculo em Londres.
-Seven times you guessed every object the audience had in their pockets.I'm Alley.     --- Por sete vezes adivinhaste o objecto que o público tinha nos bolsos.
+Seven times you guessed every object the audience had in their pockets.               --- Por sete vezes adivinhaste o objecto que o público tinha nos bolsos.
+I'm Alley.                                                                            --- Sou o Alley.
 Sorry about the fence.                                                                --- Perdoe-me pela vedação.
 People keep interfering with our work.                                                --- As pessoas estão sempre a interferir com o meu trabalho
 - I've come to see Tesla.                                                             --- - Vim ver o Tesla.
@@ -151,7 +157,8 @@ Then you sell it to him for a small fortune.                                    
 No one else can do my trick.                                                          --- Mais ninguém consegue fazer o meu truque.
 - Wrong.                                                                              --- - Errado.
 If Mr. Borden has invented his masterpiece, he's prepared to do it.                   --- Se o Sr. Borden inventou a sua obra-prima, então está preparado para a fazer.
-Milton is a showman, but Borden is right, he won't get his hands dirty.If you want to see what it takes to make real magic, go to the Tenley. --- Milton é um verdadeiro showman, mas o Borden tem razão ele não vai sujar as mãos. Se queres ver o que é preciso para fazer magia verdadeira, vai ao Tenley.
+Milton is a showman, but Borden is right, he won't get his hands dirty.               --- Milton é um verdadeiro showman, mas o Borden tem razão ele não vai sujar as mãos.
+If you want to see what it takes to make real magic, go to the Tenley.                --- Se queres ver o que é preciso para fazer magia verdadeira, vai ao Tenley.
 There's a Chinaman there and he really has what it takes.                             --- Há lá um chinês e ele tem o que é preciso.
 - Chung Ling Soo.                                                                     --- - Chung Ling Soo.
 - I can't afford that.                                                                --- - Não posso pagar isso.
@@ -165,7 +172,8 @@ The top theatrical agent in London.                                             
 - I saw you drop the knot again.                                                      --- - Vi que deixaste cair o nó outra vez.
 - I turned my wrists.                                                                 --- - Eu virei os pulsos.
 Some nights you just don't get it, do you?                                            --- Há noites em que não consegues mesmo, pois não?
-I mean, if that knot slips and Julia's on the hoist, she'll break her leg.It's the wrong knot. --- Quer dizer, se o nó escorrega, e a Julia está na grua, ainda parte uma perna. É o nó errado.
+I mean, if that knot slips and Julia's on the hoist, she'll break her leg.            --- Quer dizer, se o nó escorrega, e a Julia está na grua, ainda parte uma perna.
+It's the wrong knot.                                                                  --- É o nó errado.
 Like I said, the Langford double will hold tighter.                                   --- Como disse, o Langford duplo aguenta melhor.
 The Langford double isn't a wet knot.                                                 --- O Langford duplo não é um nó molhado.
 It's too dangerous.                                                                   --- É demasiado perigoso.
@@ -200,13 +208,14 @@ You're wrong.                                                                   
 It can't be.                                                                          --- Não pode ser!
 - Look at the man.                                                                    --- -Olha para o homem.
 - This is the trick.                                                                  --- - O truque é isso.
-This is the performance.                                                              --- essa é  actuação.
+This is the performance.                                                              --- essa é actuação.
 Right here.                                                                           --- Essa mesma.
 This is why no one can detect his method.                                             --- É por isso que ninguém consegue descobrir o seu método.
 Total devotion to his art.                                                            --- Devoção total à sua arte.
 A lot of self-sacrifice.                                                              --- Muito auto-sacrifício.
 You know.                                                                             --- Tu sabes...
-It's the only way to escape... all this, you know?I can barely lift this thing and it's not even filled with water. --- É a única forma de escapar... a tudo isto, sabes? Mal consigo levantar esta coisa e nem cheia de água está.
+It's the only way to escape... all this, you know?                                    --- É a única forma de escapar... a tudo isto, sabes?
+I can barely lift this thing and it's not even filled with water.                     --- Mal consigo levantar esta coisa e nem cheia de água está.
 Or fish, look.                                                                        --- Nem peixes, olha.
 I don't know.                                                                         --- Não sei.
 Hang on a second.                                                                     --- Espera um segundo.
@@ -257,7 +266,7 @@ You're welcome.                                                                 
 Alfred, it's Alfred.                                                                  --- Alfred, é Alfred.
 Alfred.                                                                               --- Alfred.
 So I could use a cup of tea.                                                          --- Eu... gostava de uma chávena de chá.
-I can't allow...                                                                      --- Não posso  permitir...
+I can't allow...                                                                      --- Não posso permitir...
 It's the landlord.                                                                    --- É o senhorio.
 It's not...                                                                           --- Não é...
 You think that's...                                                                   --- Você acha que...
@@ -315,7 +324,7 @@ I'm sorry for your loss, Angier.                                                
 Which knot did you tie?                                                               --- Que nó é que deste?
 I keep asking myself that.                                                            --- Pergunto-me o mesmo constantemente.
 - And?                                                                                --- - E?
-- And... I'm sorry, I just don't know.                                                --- - E...  Desculpa, não sei mesmo.
+- And... I'm sorry, I just don't know.                                                --- - E... Desculpa, não sei mesmo.
 You don't know?                                                                       --- Não sabes?
 I'm sorry.                                                                            --- Desculpa.
 You don't know?                                                                       --- Não sabes?
@@ -327,7 +336,8 @@ I don't think we've had the pleasure.                                           
 - Mr. Fallon is my ingénieur. - Where did you get all...?                             --- - O Sr. Fallon é o meu engenheiro - Onde é que conseguiste...?
 - I had to borrow and...                                                              --- - Pedi emprestado e...
 don't ask.                                                                            --- nem perguntes.
-- He's a very enterprising soul is...is Mr. Fallon.                                   --- - É uma alma muito empreendedora
+- He's a very enterprising soul is...                                                 --- - É uma alma muito empreendedora
+is Mr. Fallon.                                                                        --- é o Sr. Fallon.
 So...                                                                                 --- Então...
 - We can't afford to pay him.                                                         --- - Não lhe podemos pagar.
 - The money will come with the audience.                                              --- - O dinheiro virá da audiência.
@@ -376,7 +386,7 @@ Ramrod.                                                                         
 Hold out your hand.                                                                   --- Estende a mão.
 The bullet is not even in the gun when the charge is fired.                           --- A bala nem sequer está na arma quando a carga é disparada.
 Once you know, it's actually very obvious.                                            --- Depois de saberes, é até bastante óbvio.
-Well, I mean, you still get... It's dangerous.                                        --- Bem, quer dizer, ainda tens...  É perigoso.
+Well, I mean, you still get... It's dangerous.                                        --- Bem, quer dizer, ainda tens... É perigoso.
 - People still get killed doing that.                                                 --- - As pessoas também morrem assim.
 - How?                                                                                --- - Como?
 You get some smartass who could put a penny or a button or, God forbid, Sarah, somebody could put a bullet down there. --- Um chico-esperto que te ponha uma moeda ou um botão... ou, Deus nos salves, Sara, alguém pôr uma bala lá dentro...
@@ -409,7 +419,8 @@ Which knot did you tie, Borden?                                                 
 Which knot did you tie, Borden?                                                       --- Que nó deste, Borden?
 I don't know.                                                                         --- Não sei.
 He came in to demand an answer, and I told him the truth.                             --- Ele veio exigir uma resposta, e eu dei-lhe a verdade.
-That I have fought with myself over that night, one half of me swearing blind that I tied a simple slipknot, the other half convinced that I tied the Langford double.I can never know for sure. --- Que tenho lutado comigo mesmo por causa dessa noite, metade de mim jura a pés juntos que dei um nó simples, a outra metade convencida que dei um Langford duplo. Nunca saberei ao certo.
+That I have fought with myself over that night, one half of me swearing blind that I tied a simple slipknot, the other half convinced that I tied the Langford double. --- Que tenho lutado comigo mesmo por causa dessa noite, metade de mim jura a pés juntos que dei um nó simples, a outra metade convencida que dei um Langford duplo.
+I can never know for sure.                                                            --- Nunca saberei ao certo.
 How can he not know!                                                                  --- Como pode ele não saber!
 How can he not know?                                                                  ---  Como pode ele não saber?
 He must know what he did.                                                             --- Ele deve saber o que fez.
@@ -505,7 +516,7 @@ Right.                                                                          
 Three.                                                                                --- Três.
 That's bloody marvelous, Cutter.                                                      --- Isso é maravilhoso, Cutter.
 Very nice.                                                                            --- Muito bom.
-And the best part is... I thought you said I had to get my hands dirty.               --- E a melhor parte é...  Pensei que tinha dito que tinha de sujar as mãos.
+And the best part is... I thought you said I had to get my hands dirty.               --- E a melhor parte é... Pensei que tinha dito que tinha de sujar as mãos.
 Someday, perhaps you will.                                                            --- Talvez o faças, um dia.
 I just had to know that you can.                                                      --- Só tinha de saber se eras capaz.
 Very nice.                                                                            --- Muito bem.
@@ -628,7 +639,7 @@ Like to know the future?                                                        
 The man who's speaking right now is going to change the world.                        --- O homem que agora vos fala irá mudar o mundo.
 Come one, come all.                                                                   --- Venham todos.
 Immediate seating, no waiting.                                                        --- Lugares Imediatos, sem esperas.
-Ladies and gentlemen, objections have been raised...                                  --- Senhoras e senhores,  Objecções têm sido levantadas...
+Ladies and gentlemen, objections have been raised...                                  --- Senhoras e senhores, Objecções têm sido levantadas...
 They should be raised.                                                                --- Devem ser levantadas.
 Does that look safe to you?                                                           --- Isso parece-vos seguro?
 Part of Thomas Edison's smear campaign against Mr. Tesla's superior alternating current. --- Parte da campanha de difamação de Thomas Edison contra a superior corrente alternada do Sr. Tesla.
@@ -709,7 +720,8 @@ So here I am, enjoying my retirement.                                           
 Nothing is impossible, Mr. Angier.                                                    --- Nada é impossível, Sr. Angier.
 What you want is simply expensive.                                                    --- O que quer é simplesmente dispendioso.
 If I were to build for you this machine, you would be presenting it merely as illusion? --- Se eu construísse uma máquina destas para si, iria apresentá-la apenas como uma mera ilusão?
-Well, if people actually believed the things I did on stage, they wouldn't clap, they'd scream. Think of sawing a woman in half. --- Bom, se as pessoas acreditassem Mesmo nas coisas que faço em palco, não batiam palmas, gritavam.Imagine serrar uma mulher ao meio.
+Well, if people actually believed the things I did on stage, they wouldn't clap, they'd scream. --- Bom, se as pessoas acreditassem Mesmo nas coisas que faço em palco, não batiam palmas, gritavam.
+Think of sawing a woman in half.                                                      --- Imagine serrar uma mulher ao meio.
 Have you considered the cost of this?                                                 --- Já pensou nos custos disto?
 Price is not an object.                                                               --- O preço não importa.
 Perhaps not, but have you considered the cost?                                        --- Talvez não, mas já pensou no preço?
@@ -734,14 +746,16 @@ Cutter said it'd be all right till we get another booking.                      
 What are you doing?                                                                   --- Que estás a fazer?
 Uh...                                                                                 --- Hm...
 research.                                                                             --- pesquisa.
-Part of a magician's job is to...watch his competition, see what illusions...         --- Parte do trabalho de mágico consiste em...observar a competição, ver que ilusões...
+Part of a magician's job is to...                                                     --- Parte do trabalho de mágico consiste em...
+watch his competition, see what illusions...                                          --- observar a competição, ver que ilusões...
 You're going to do something to that man, aren't you?                                 --- Vais fazer alguma coisa àquele homem, não vais?
 Cutter's hoping you let things lie.                                                   --- O Cutter tem esperança que deixes as coisas como estão.
 He says if Borden thinks things are even between you...                               --- Ele diz que se o Borden pensa que vocês estão quites...
 Even?                                                                                 --- Quites?
 My wife for a couple of his fingers?                                                  --- A minha mulher por um par dos dedos dele?
 He has a family now and he's performing again.                                        --- Ele agora tem família e voltou a actuar.
-Borden is out there living his life just as he intended, as if nothing had happened and look at me.I'm alone and no theater will touch me. --- O Borden anda por aí a viver a vida que quis, como se nada tivesse acontecido, e olha para mim. Estou sozinho e não há teatro que me queira.
+Borden is out there living his life just as he intended, as if nothing had happened and look at me. --- O Borden anda por aí a viver a vida que quis, como se nada tivesse acontecido, e olha para mim.
+I'm alone and no theater will touch me.                                               --- Estou sozinho e não há teatro que me queira.
 Us.                                                                                   --- Nós.
 You're going to need a better disguise.                                               --- Vais precisar de um disfarce melhor.
 I need a volunteer.                                                                   --- Preciso de um voluntário.
@@ -789,7 +803,7 @@ We got to find someone who looks like you.                                      
 - I don't know how Borden does it.                                                    --- - Não sei como ele o faz.
 Either...                                                                             --- Ou...
 You either wait for him to retire and buy the secret, or you listen to how I would do it. --- ou esperas que ele se retire E lhe compras o segredo, ou ouves como eu o faria.
-And the only way that I know how to do it is to find you a bloody good double.        --- E a única forma que sei de o conseguirmos  é arranjarmos-te um duplo mesmo bom.
+And the only way that I know how to do it is to find you a bloody good double.        --- E a única forma que sei de o conseguirmos é arranjarmos-te um duplo mesmo bom.
 All right.                                                                            --- Está bem.
 Take a good look.                                                                     --- Olha bem.
 Let's get out there and find me.                                                      --- Vamos lá à procura de mim.
@@ -803,7 +817,7 @@ You...                                                                          
 - I asked you last week...                                                            --- - Pedi-te a semana passada...
 - You caught me in a wrong mood.                                                      --- - Apanhaste-me mal disposto.
 - But you won't ever...                                                               --- - Mas tu nunca...
-- Sarah, I'm gonna have to change my mind, aren't I?                                  --- - Sarah,  Vou ter de mudar de ideias, não vou?
+- Sarah, I'm gonna have to change my mind, aren't I?                                  --- - Sarah, Vou ter de mudar de ideias, não vou?
 The act is taking off.                                                                --- O número está a avançar.
 Soon we'll be in a bigger theater, things will work out.                              --- Em breve estaremos num teatro melhor, as coisas vão melhorar.
 I can't believe it.                                                                   --- Não posso acreditar.
@@ -862,10 +876,12 @@ I'm not sure I wanna know.                                                      
 Have you thought what we should call it?                                              --- Já pensaste num nome para ele?
 There's no point being coy.                                                           --- Não é preciso seres tímido.
 Borden calls his trick The Transported Man.                                           --- O Borden chama ao dele o Homem Transportado.
-Ladies and gentlemen, much of what you've seen may be termed as illusions or entertaining trifles. Alas... I cannot claim this next feat as illusion. --- Senhoras e senhores, muito do que viram Podem ser chamadas de ilusões ou trivialidades de entretenimento.Infelizmente... não posso dizer que o próximo número seja uma ilusão.
+Ladies and gentlemen, much of what you've seen may be termed as illusions or entertaining trifles. --- Senhoras e senhores, muito do que viram Podem ser chamadas de ilusões ou trivialidades de entretenimento.
+Alas... I cannot claim this next feat as illusion.                                    --- Infelizmente... não posso dizer que o próximo número seja uma ilusão.
 Watch carefully.                                                                      --- Observem atentamente.
 You will see no trickery, for no trickery is employed.                                --- Não verão qualquer truque, pois nenhum truque será usado.
-Merely a technique familiar to certain citizens of the Orient and various holy men of the Himalayas.Indeed, many of you may be familiar with this technique, but for those of you who are not, do not be alarmed. --- Meramente uma técnica conhecida de alguns cidadãos do Oriente e de vários homens santos dos Himalaias. Certamente, muitos de vocês conhecerão esta técnica, mas os que não a conhecerem, não se alarmem.
+Merely a technique familiar to certain citizens of the Orient and various holy men of the Himalayas. --- Meramente uma técnica conhecida de alguns cidadãos do Oriente e de vários homens santos dos Himalaias.
+Indeed, many of you may be familiar with this technique, but for those of you who are not, do not be alarmed. --- Certamente, muitos de vocês conhecerão esta técnica, mas os que não a conhecerem, não se alarmem.
 What you're about to see is considered safe.                                          --- O que irão ver agora É considerado seguro.
 To our achievement.                                                                   --- Para o nosso objectivo.
 The manager says he's never seen a reaction like it.                                  --- O agente diz que nunca tinha visto uma reacção destas.
@@ -950,13 +966,16 @@ Why wouldn't I trust you?                                                       
 - Mr. Borden.                                                                         --- - Sr. Borden.
 - Alfred.                                                                             --- - Sr. Borden.
 I'm going to tell you the truth.                                                      --- Vou dizer-lhe a verdade.
-Now that is a slippery notion in our line of work, isn't it, Miss Wenscombe?I am here because he sent me here. --- No nosso tipo de trabalho, não é Miss Wenscombe?
+Now that is a slippery notion in our line of work, isn't it, Miss Wenscombe?          --- Ora aí está uma noção escorregadia. No nosso tipo de trabalho, não é Miss Wenscombe?
+I am here because he sent me here.                                                    --- Estou aqui porque ele me mandou cá.
 He wants me to work for you and steal your secret.                                    --- Ele quer que eu trabalhe para si e lhe roube o seu segredo.
 What does he need my secret for?                                                      --- Para que é que ele precisa do meu?
 His trick is topnotch.                                                                --- O truque dele é de alto nível.
-He vanishes, and then he reappears instantly on the other side of the stage, mute, overweight and, unless I'm mistaken, very drunk.It's astonishing. --- Ele desaparece, e depois reaparece instantaneamente no outro lado do palco, mudo, com excesso de peso, e, a menos que me engane, muito bêbado. É formidável.
+He vanishes, and then he reappears instantly on the other side of the stage, mute, overweight and, unless I'm mistaken, very drunk. --- Ele desaparece, e depois reaparece instantaneamente no outro lado do palco, mudo, com excesso de peso, e, a menos que me engane, muito bêbado.
+It's astonishing.                                                                     --- É formidável.
 How does he do it?                                                                    --- É formidável.
-And tell me, Olivia, does he enjoy taking his bows under the stage?It's killing him.  --- Como é que ele o faz? E diz-me, Olivia, ele gosta de fazer as suas vénias debaixo do palco?
+And tell me, Olivia, does he enjoy taking his bows under the stage?                   --- E diz-me, Olivia, ele gosta de fazer as suas vénias debaixo do palco?
+It's killing him.                                                                     --- Está a dar cabo dele.
 He's obsessed with discovering your methods.                                          --- Está obcecado em descobrir os teus métodos.
 He thinks of nothing else, takes no pleasure in our success.                          --- Não pensa em mais nada, não desfruta do seu sucesso.
 And I've had enough.                                                                  --- E eu fartei-me.
@@ -1011,7 +1030,8 @@ Very good.                                                                      
 I'm only doing one show, but to be frank, my people pretty much run things these days. --- Só vou fazer um espectáculo, mas para dizer a verdade, hoje em dia o meu pessoal praticamente gere as coisas.
 Get up there.                                                                         --- Sobe para aí.
 Get up!                                                                               --- Levanta-te!
-Your illusion, The Transported Man, I'm not claiming to know your methods, but I had a similar trick in my act, and, uh...I used a double. --- A sua ilusão, o Homem Transportado, não estou a afirmar conhecer os seus métodos, mas eu tinha um truque semelhante no meu número, e, hmm...eu usava um duplo.
+Your illusion, The Transported Man, I'm not claiming to know your methods, but I had a similar trick in my act, and, uh... --- A sua ilusão, o Homem Transportado, não estou a afirmar conhecer os seus métodos, mas eu tinha um truque semelhante no meu número, e, hmm...
+I used a double.                                                                      --- eu usava um duplo.
 - Mm, I see, very good.                                                               --- - Estou a ver, muito bom.
 - Well, it was, and then it went bad.                                                 --- - Sim, era, mas depois ficou mau.
 What I didn't count on was that when I incorporated this bloke into my act, he had complete power over me. --- O que eu não contava era que depois de incorporar este tipo no meu número, ele me dominasse por completo.
@@ -1044,7 +1064,7 @@ I expected you sooner.                                                          
 Your message said afternoon.                                                          --- Esperava-te mais cedo.
 It takes a bit for me to get around these days.                                       --- Dá-me muito trabalho andar por aí nos dias que correm.
 He's taken everything from me.                                                        --- A minha mulher, a minha carreira,
-My wife, my career,  - now you.                                                       --- A minha mulher, a minha carreira,
+My wife, my career, - now you.                                                        --- A minha mulher, a minha carreira,
 - You sent me.                                                                        --- - agora tu.
 I sent you to steal his secret, not to improve his act.                               --- Eu mandei-te para lhe roubares o segredo, não para lhe melhorares o número.
 - It's my job.                                                                        --- - É o meu trabalho.
@@ -1071,7 +1091,7 @@ The Great Danton is a blind fool.                                               
 His notebook.                                                                         --- O seu bloco de notas.
 You stole it?                                                                         --- Roubaste-o?
 I borrowed it for tonight.                                                            --- Trouxe-o emprestado por esta noite.
-I thought you could translate some of it... I can't.                                  --- Pensei que conseguisses traduzir algumas partes...  Não consigo.
+I thought you could translate some of it... I can't.                                  --- Pensei que conseguisses traduzir algumas partes... Não consigo.
 No one can.                                                                           --- Não consigo.
 It's a cipher.                                                                        --- Ninguém consegue.
 Even with the keyword, it will take months to decode.                                 --- Mesmo com a palavra-chave, demorará meses a decifrar.
@@ -1088,7 +1108,7 @@ All of his secrets are right here in my hands.                                  
 It won't bring your wife back.                                                        --- Isso não vai trazer a tua mulher de volta.
 I don't care about my wife.                                                           --- Não quero saber da minha mulher.
 I care about his secret.                                                              --- Quero saber do seu segredo.
-Look, I'll, um... I'll go to his workshop and stage a break-in.                       --- Olha, eu, hmm...  Eu vou à oficina dele e enceno um arrombamento.
+Look, I'll, um... I'll go to his workshop and stage a break-in.                       --- Olha, eu, hmm... Eu vou à oficina dele e enceno um arrombamento.
 - He'll know you took it.                                                             --- - Ele vai saber que foste tu.
 - Yes, me.                                                                            --- - Sim,eu.
 Not you.                                                                              --- - Sim,eu.
@@ -1146,7 +1166,7 @@ What does it mean?                                                              
 It means, Cutter, we have a journey ahead of us.                                      --- Quer dizer Cutter, temos uma viagem pela frente.
 - To America.                                                                         --- - À América.
 - Robert?                                                                             --- - Robert?
-Listen to me.                                                                         --- Não posso seguir-te para além disto.
+Listen to me.                                                                         --- Escuta-me.
 Obsession is a young man's game.                                                      --- A obsessão é um jogo de jovens.
 Come on.                                                                              --- Vá lá.
 I can't follow you any further in it.                                                 --- Não posso seguir-te para além disto.
@@ -1212,11 +1232,14 @@ Does he enjoy taking his bows under the stage?                                  
 He sent me here to steal your secrets, but I've come to offer you his.                --- Ele mandou-me cá para lhe roubar os segredos, mas eu estou a oferecer-lhe os dele.
 This is the truth... is it?                                                           --- Esta é a verdade... não é?
 No, that's what he told me to tell you.                                               --- Não, isso foi o que me disse para lhe dizer.
-The truth... is that I loved him and I stood by him and he sent me to you, like he would send a stagehand to pick up his shirts.I hate him for that.I could spot Angier's methods from the back of the theater. --- A verdade... é que o amei e apoiei e ele mandou-me até si, como mandaria um assistente de palco apanhar-lhe as camisas.
+The truth... is that I loved him and I stood by him and he sent me to you, like he would send a stagehand to pick up his shirts. --- A verdade... é que o amei e apoiei e ele mandou-me até si, como mandaria um assistente de palco apanhar-lhe as camisas.
+I hate him for that.                                                                  --- Odeio-o por isso.
+I could spot Angier's methods from the back of the theater.                           --- Podia topar os métodos do Angier na ponta do teatro.
 So, what could you possibly have to offer me?                                         --- Então, o que é que tens para me oferecer?
 You may know his tricks, but you can't understand why no one sees yours are better.   --- Tu podes saber os seus truques, mas não consegues entender porque é que os dele parecem melhores.
 You hide this.                                                                        --- Escondes isto.
-I had to look very closely to spot it during The Transported Man, but this makes you unique.It shows you aren't using a double. --- Tive de olhar com muita atenção para o ver durante o Homem Transportado, mas isto torna-te único.
+I had to look very closely to spot it during The Transported Man, but this makes you unique. --- Tive de olhar com muita atenção para o ver durante o Homem Transportado, mas isto torna-te único.
+It shows you aren't using a double.                                                   --- Prova que não estás a usar um duplo.
 You mustn't hide it.                                                                  --- Não deves escondê-lo.
 You must display it proudly.                                                          --- Devias mostrá-lo orgulhosamente.
 I'm sure it takes great skill to perform illusions with one good hand.                --- Estou certa que implica grande competência fazer este truque só com uma mão boa.
@@ -1227,7 +1250,7 @@ I think she's telling the truth.                                                
 I think we cannot trust her.                                                          --- Eu acho que não podes confiar nela.
 But I love her.                                                                       --- Mas eu amo-a.
 I need her.                                                                           --- Preciso dela
-To open myself to such a relationship, to the dangers of such an affair, I need assurances of fidelity, of love. --- Abrir-me desta maneira numa relação, aos perigos de tal situação,  Preciso da segurança da fidelidade, do amor.
+To open myself to such a relationship, to the dangers of such an affair, I need assurances of fidelity, of love. --- Abrir-me desta maneira numa relação, aos perigos de tal situação, Preciso da segurança da fidelidade, do amor.
 But how to be sure?                                                                   --- Mas como ter a certeza?
 I know a way.                                                                         --- Sei uma maneira.
 It's the only way to know her mind.                                                   --- Hoje, a minha amante prova a sua veracidade.
@@ -1239,7 +1262,8 @@ I've been convinced since she led me to Root.                                   
 Today, Olivia proves her love for me to you, Angier.                                  --- Hoje, a Olivia prova o seu amor por mim a ti, Angier.
 Yes, Angier, she gave you this notebook at my request.                                --- Sim, Angier, ela deu-te este bloco a meu pedido.
 And yes, "Tesla" is merely the key to my dairy, not to my trick.                      --- E sim, "Tesla" é apenas a chave do meu diário, não do meu truque.
-You really think I'd part with my secret so easily after so much? Goodbye, Angier.    --- Achaste mesmo que me separaria tão facilmente do meu segredo depois de tudo? Adeus, Angier.
+You really think I'd part with my secret so easily after so much?                     --- Achaste mesmo que me separaria tão facilmente do meu segredo depois de tudo?
+Goodbye, Angier.                                                                      ---  Adeus, Angier.
 May you find solace for your forward ambition back in your American home.             --- Que encontres alívio para a tua ambição desmedida no teu lar americano.
 Tesla!                                                                                --- Tesla!
 Tesla!                                                                                --- Tesla!
@@ -1292,7 +1316,9 @@ We'll go see those chimpanzees.                                                 
 Sarah...                                                                              --- Sarah...
 what are you doing?                                                                   --- o que estás a fazer?
 Each of us have our vices.                                                            --- Ambos temos os nossos vícios.
-Sarah, whatever you may think... your only competition for my affections is our little girl.I love you.I will always love you and you alone. --- Sarah, penses o que pensares... a tua única concorrência pelo meu afecto é a nossa menina.
+Sarah, whatever you may think... your only competition for my affections is our little girl. --- Sarah, penses o que pensares... a tua única concorrência pelo meu afecto é a nossa menina.
+I love you.                                                                           --- Amo-te.
+I will always love you and you alone.                                                 --- Vou amar-te sempre e só a ti.
 - You mean it today.                                                                  --- - Hoje dizes a verdade.
 - Absolutely.                                                                         --- - Completamente.
 Which makes it so much harder when you don't.                                         --- O que torna tudo tão mais difícil quando não dizes.
@@ -1322,7 +1348,7 @@ He protects the things that I care about.                                       
 We're sorry to see you go, Mr. Angier.                                                --- Temos pena de o ver partir, Sr. Angier.
 We were sorry to see Mr. Tesla leave, as well.                                        --- Também tivemos pena de ver o Sr. Tesla partir.
 He's very good to Colorado Springs.                                                   --- Ele é muito bom para Colorado Springs.
-Mr. Angier, I didn't think it was necessary to tell Edison's men about the box.       --- Sr. Angier,  Não achei necessário contar aos homens do Edison sobre a caixa.
+Mr. Angier, I didn't think it was necessary to tell Edison's men about the box.       --- Sr. Angier, Não achei necessário contar aos homens do Edison sobre a caixa.
 What box?                                                                             --- Que caixa?
 I apologize for leaving without saying goodbye.                                       --- Peço desculpa por partir sem me despedir.
 But I seem to have outstayed my welcome in Colorado.                                  --- Mas parece que abusei da estadia no Colorado.
@@ -1336,7 +1362,7 @@ Drop it to the bottom of the deepest ocean.                                     
 Such a thing will bring you only misery.                                              --- Tal coisa só lhe trará miséria.
 Tesla's warning is as unheeded as he knew it would be.                                --- O aviso do Tesla não sortiu qualquer efeito, tal como ele esperava.
 Today I tested the machine.                                                           --- Hoje testei a máquina.
-Taking precautions in case  Tesla hadn't ironed out the kinks in its operation.       --- Tomei precauções para o caso do Tesla não lhe ter estragado os sistemas com os seus arranjos.
+Taking precautions in case Tesla hadn't ironed out the kinks in its operation.        --- Tomei precauções para o caso do Tesla não lhe ter estragado os sistemas com os seus arranjos.
 But if it went wrong, I would not want to live like that for long.                    --- Mas se correu mal, eu não quereria viver muito tempo naquele estado.
 But here at the turn, I must leave you, Borden.                                       --- Mas aqui na curva, tenho de te deixar, Borden.
 Yes, you, Borden, sitting there in your cell, reading my diary, awaiting your death, for my murder. --- Sim, tu, Borden, sentado aí na tua cela, lendo o meu diário, aguardando a morte, pelo meu homicídio.
@@ -1384,7 +1410,8 @@ What is so wrong with your life?                                                
 Alfred, I can't live like this!                                                       --- Alfred, não posso viver assim!
 Well, what do you want from me?                                                       --- Bem, e o que é que queres de mim?
 I...                                                                                  --- Eu...
-I want... I want you to be...honest with me.                                          --- O que há de tão mau assim com a tua vida?
+I want... I want you to be...                                                         --- eu quero... Eu quero que sejas...
+honest with me.                                                                       --- honesto comigo.
 No tricks.                                                                            --- Sem truques.
 No lies.                                                                              --- Sem mentiras.
 And no secrets.                                                                       --- E sem segredos.
@@ -1403,7 +1430,7 @@ Blind stagehands, I like it.                                                    
 You always had a good eye for publicity.                                              --- Sempre tiveste bom olho para publicidade.
 I need your help, John.                                                               --- Preciso da tua ajuda, John.
 It's my last show.                                                                    --- É o meu último espectáculo.
-A limited engagement.                                                                 --- É o meu último espectáculo.
+A limited engagement.                                                                 --- Um compromisso limitado.
 Your last show?                                                                       --- O teu último espectáculo?
 A wise man once told me obsession was a young man's game.                             --- Um homem sábio disse-me um dia que a obsessão é um jogo para jovens.
 I'm almost done.                                                                      --- Estou quase a acabar.
@@ -1430,7 +1457,8 @@ He has to come back.                                                            
 - A prestige?                                                                         --- - Um prestígio?
 Exactly.                                                                              --- Exactamente.
 Pardon me.                                                                            --- Desculpe-me.
-It's very rare to see... real magic.It's been many years since...                     --- É muito raro ver... magia verdadeira. Passaram muitos anos desde que...
+It's very rare to see... real magic.                                                  --- É muito raro ver... magia verdadeira.
+It's been many years since...                                                         --- Passaram muitos anos desde que...
 Are you interested in helping us?                                                     --- Está interessado em ajudar-nos?
 Yes...                                                                                --- Sim...
 but you'll have to dress it up a little.                                              --- mas você terá de o aperaltar um pouco.
@@ -1444,7 +1472,8 @@ That she had something to tell me about you.                                    
 I was such a coward, I couldn't bring myself to face her.                             --- Eu fui um tal cobarde, que não me consegui forçar a encará-la.
 But... what would she have said?                                                      --- Mas... que teria ela dito?
 You want to know the truth about me?                                                  --- Queres saber a verdade sobre mim?
-The truth is that... I never loved Sarah.I never loved her.                           --- A verdade é que... eu nunca amei a Sarah. Nunca a amei.
+The truth is that... I never loved Sarah.                                             --- A verdade é que... eu nunca amei a Sarah.
+I never loved her.                                                                    --- Nunca a amei.
 You married her, you had a child with her.                                            --- Mas casaste com ela, tiveram uma criança juntos.
 Yes.                                                                                  --- 
 Part of me.                                                                           --- Sim, parte de mim.
@@ -1664,7 +1693,7 @@ I once told you about a sailor who described drowning to me.                    
 Yes, he said it was like going home.                                                  --- Sim, ele disse que era como ir para casa.
 I was lying.                                                                          --- Eu estava a mentir.
 He said it was agony.                                                                 --- Ele disse que era uma agonia.
-Alfred Borden, this day, in the name of the king and the High Court of England, you will meet your end. --- Alfred Borden, neste dia, Em nome do Rei  E do Alto Tribunal de Inglaterra, conhecerás o teu fim.
+Alfred Borden, this day, in the name of the king and the High Court of England, you will meet your end. --- Alfred Borden, neste dia, Em nome do Rei E do Alto Tribunal de Inglaterra, conhecerás o teu fim.
 No one cares about the man in the box.                                                --- Ninguém se rala com o homem na caixa.
 Cutter?                                                                               --- Cutter?
 Cutter!                                                                               --- Cutter!
@@ -1693,9 +1722,9 @@ What about Olivia and your wife?                                                
 We each loved one of them.                                                            --- Amávamos cada uma delas.
 I loved Sarah.                                                                        --- Eu amava a Sarah.
 He loved Olivia.                                                                      --- Ele amava a Olivia.
-We each had half of a full life, really, which was enough for us... just.             --- Tivemos ambos uma vida preenchida, a sério, que era suficiente para nós, apenas.
+We each had half of a full life, really, which was enough for us... just.             --- Tivemos ambos uma vida preenchida, a sério, que era suficiente para nós, ...apenas.
 But not for them.                                                                     --- Mas não para elas.
-See, sacrifice, Robert, that's the price of a good trick.                             --- Sabes, é que o sacrifício, Robert,  é esse o preço de um bom truque.
+See, sacrifice, Robert, that's the price of a good trick.                             --- Sabes, é que o sacrifício, Robert, é esse o preço de um bom truque.
 You wouldn't know anything about that, would you?                                     --- Não sabes nada sobre isso, pois não?
 I've...                                                                               --- Eu...
 I've made sacrifices.                                                                 --- eu fiz sacrifícios.
@@ -1703,7 +1732,8 @@ I've made sacrifices.                                                           
 - Yes.                                                                                --- - Não.
 It takes nothing to steal another man's work.                                         --- Não é preciso nada para roubar a obra de outro homem.
 Yeah, it takes everything.                                                            --- Sim, é preciso tudo.
-No, no, wait, I'm not... It took courage.It took courage to climb into that machine every night, not knowing... if I'd be the man in the box... or in the prestige. --- Não é preciso nada para roubar a obra de outro homem.
+No, no, wait, I'm not... It took courage.                                             --- Não, não...
+It took courage to climb into that machine every night, not knowing... if I'd be the man in the box... or in the prestige. --- Foi preciso coragem para entrar naquela máquina todas as noites, sem saber ...se iria ser o homem na caixa... ou o no prestígio.
 Do you want to see... what it cost me?                                                --- Queres ver... o que me custou?
 You didn't see where you are, did you?                                                --- Não viste onde estás, pois não?
 Look.                                                                                 --- Olha.

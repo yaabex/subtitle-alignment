@@ -26,7 +26,7 @@ Um, Miss Kavanagh has the flu, so she asked me to fill in.                      
 I see.                                                                                --- Estou a ver.
 So, you're studying journalism as well.                                               --- Divido a casa com a Kate.
 No, English Lit.                                                                      --- Não. Estudo Literatura Inglesa.
-Urn...  Kate's my roommate.                                                           --- Divido a casa com a Kate.
+Urn... Kate's my roommate.                                                            --- Divido a casa com a Kate.
 As I said, I only have 10 minutes.                                                    --- Como sabe, só tenho 10 minutos.
 Please, have a seat, Miss Steele.                                                     --- Por favor, sente-se Srta.
 Okay.                                                                                 --- 
@@ -34,7 +34,7 @@ Thank you.                                                                      
 Ready?                                                                                --- 
 Whenever you are.                                                                     --- - Quando quiser.
 Okay.                                                                                 --- 
-Urn...  So, this is for the special graduation issue of the student newspaper.        --- 
+Urn... So, this is for the special graduation issue of the student newspaper.         --- 
 Yes, I'm giving the commencement address at this year's ceremony.                     --- Pediram-me que fosse este ano, o orador principal, na cerimónia de Graduação.
 You are?                                                                              --- 
 Imean, urn... I know.                                                                 --- Quero dizer, eu sabia.
@@ -49,11 +49,13 @@ And I've always been good at people.                                            
 What motivates them, what incentivizes them, what inspires them.                      --- O que as motiva, o que as anima, o que as inspira.
 Um, maybe you're just lucky.                                                          --- Talvez seja um homem com sorte.
 I've always found that the harder I work, the more luck I seem to have.               --- Descobri que a sorte esconde-se por detrás do trabalho.
-The key to my success has been in identifying talented individuals and harnessing their efforts. --- O meu segredo é identificar pessoas talentosas,  - e projectar o que de melhor há nelas.
+The key to my success has been in identifying talented individuals and harnessing their efforts. --- O meu segredo é identificar pessoas talentosas, - e projectar o que de melhor há nelas.
 So, you're a control freak?                                                           --- - Por outras palavras, é um controlador.
 Oh, I exercise control in all things, Miss Steele.                                    --- Gosto de estar no controlo em tudo o que faço, Srta.
 Okay.                                                                                 --- 
-Urn... "Your company is involved primarily "in the telecommunications sector, "yet you also invest in numerous agricultural projects, "including several in Africa."Is that something that you feel passionate about?"Feeding the world's poor?" It's smart business. --- 
+Urn... "Your company is involved primarily "in the telecommunications sector, "yet you also invest in numerous agricultural projects, "including several in Africa. --- 
+"Is that something that you feel passionate about?                                    --- É algo que o apaixona?
+"Feeding the world's poor?" It's smart business.                                      --- Ajudar os mais necessitados? É bom para os negócios.
 You don't agree?                                                                      --- Não concorda comigo?
 I don't know enough about it.                                                         --- Não sei nada sobre o assunto.
 I just wonder if perhaps your heart might be a bit bigger than you want to let on?    --- Talvez o seu coração seja maior do que desejaria.
@@ -84,10 +86,12 @@ Cancel, please.                                                                 
 We're not finished here.                                                              --- Ainda não acabámos.
 Yes, sir.                                                                             --- Sim, Senhor.
 No...                                                                                 --- Não, não há problema.
-I'm... I can go.It's fine.I would like to know more about you.                        --- 
+I'm... I can go.                                                                      --- Posso ir-me embora...
+It's fine.                                                                            --- - Não há problema.
+I would like to know more about you.                                                  --- 
 There's really not much to know about me.                                             --- Não há muito para saber.
 You said you're an English major?                                                     --- Disse que estava a estudar Literatura Inglesa.
-Tell me, was it Charlotte Bronté,  Jane Austen, or Thomas Hardy who first made you faHinlove with literature? --- Disse que estava a estudar Literatura Inglesa.
+Tell me, was it Charlotte Bronté, Jane Austen, or Thomas Hardy who first made you faHinlove with literature? --- Disse que estava a estudar Literatura Inglesa.
 Hardy.                                                                                --- Hardy.
 I would have guessed Jane Austen.                                                     --- A minha aposta recairia na Jane Austen.
 What are your plans after you graduate?                                               --- Depois de se formar, o que pensa fazer?
@@ -114,7 +118,9 @@ Urn...                                                                          
 He was fine.                                                                          --- 
 "Fine"?                                                                               --- 
 Just fine?                                                                            --- 
-Um, he was really polite, and he was courteous, and very formal, and clean."Clean"?I mean, he was very smart. --- 
+Um, he was really polite, and he was courteous, and very formal, and clean.           --- 
+"Clean"?                                                                              --- - Limpo?
+I mean, he was very smart.                                                            --- Quero dizer, é uma pessoa muito inteligente.
 And intense.                                                                          --- E intenso.
 It was kind of intimidating.                                                          --- 
 I can understand the fascination.                                                     --- - Agora percebo o fascínio.
@@ -140,7 +146,8 @@ The camera loves him almost as much as you do.                                  
 Okay, I wasn't hungry, but now I am.                                                  --- Não estava como fome, mas agora estou.
 Thank you.                                                                            --- Obrigada.
 I love you.                                                                           --- Adoro-te.
-"I declared I could not change, "yet you tell me to my face "I shall change soon."And what a distortion in yourjudgment, "what a perversity in your ideas..." --- "Inequivocamente não podia mudar, o que contemplava na minha cara.
+"I declared I could not change, "yet you tell me to my face "I shall change soon.     --- "Inequivocamente não podia mudar, o que contemplava na minha cara. "As acções mudaram.
+"And what a distortion in yourjudgment, "what a perversity in your ideas..."          --- "Inequivocamente não podia mudar, o que contemplava na minha cara.
 Ana. I've been looking for you.                                                       --- - Andava à tua procura, Ana.
 What's up?                                                                            --- - Adivinha.
 Guess what.                                                                           --- - O que foi?
@@ -303,7 +310,7 @@ Let's go.                                                                       
 Ana, it's a package for you.                                                          --- Chegou algo para ti, Ana.
 "Why didn't you tell me there was danger?                                             --- "Porque não me disseste que era perigoso?
 "Why didn't you warn me?                                                              --- Porque não me avisaste?
-"Ladies know what to guard against "because they read novels that tell them of these tricks." --- "As mulheres sabem o que devem fazer para se proteger..."  - "porque lêem livros que as instruem." - Porque lêem livros que as instruem.
+"Ladies know what to guard against "because they read novels that tell them of these tricks." --- "As mulheres sabem o que devem fazer para se proteger..." - "porque lêem livros que as instruem." - Porque lêem livros que as instruem.
 That's a quote from Tess of the D'Urbervilles.                                        --- É uma citação da Tess, do livro D'Urbervilles.
 Oh, my God.                                                                           --- Meu Deus.
 These must be from Christian.                                                         --- Deve ter sido o Christian.
@@ -344,8 +351,8 @@ You hit the hail on the nead.                                                   
 I mean, the head right on the nail.                                                   --- Quero dizer, na mosca.
 Listen to me. I want you to go home right now.                                        --- 
 You're so bossy.                                                                      --- 
-"Ana, let's go for coffee." "Ana, let's go for coffee." "No, stay away from me, Ana."I don't want you. --- "Vamos beber um café, Ana." "Não, afasta-te de mim, Ana.
-Get away." "Come here, come here." "Go away."                                         --- 
+"Ana, let's go for coffee." "Ana, let's go for coffee." "No, stay away from me, Ana.  --- "Vamos beber um café, Ana." "Não, afasta-te de mim, Ana.
+"I don't want you. Get away." "Come here, come here." "Go away."                      --- Não te quero por perto." "Anda cá!
 That's it. Tell me where you are.                                                     --- - Diz-me onde estás.
 I'm a long way from Seattle.                                                          --- 
 A long way from you.                                                                  --- - e muito mais de ti.
@@ -391,7 +398,7 @@ Who's Elliot?                                                                   
 He's my brother.                                                                      --- É o meu irmão.
 He's inside, talking to her right now.                                                --- Está neste momento a falar com ela.
 How...                                                                                --- 
-I don't...  He was at my hotel with me.                                               --- - Eu não...
+I don't... He was at my hotel with me.                                                --- - Eu não...
 You're still at the Heathman? Yeah.                                                   --- - Ainda estás hospedado no Heathman?
 Come.                                                                                 --- Anda.
 That's your brother?                                                                  --- - Aquele é o teu irmão?
@@ -415,7 +422,7 @@ I didn't have much choice.                                                      
 Where did you sleep?                                                                  --- Onde é que dormiste?
 Oh, my God.                                                                           --- Nós...?
 Did we?                                                                               --- Nós...?
-We didn't...  Necrophilia is not my thing.                                            --- - A necrofilia não é para mim.
+We didn't... Necrophilia is not my thing.                                             --- - A necrofilia não é para mim.
 So we just slept, then?                                                               --- - Apenas dormimos?
 It was a novelty for me, too.                                                         --- - Também foi uma novidade para mim.
 You need to eat. I had Taylor pick you up some clothes.                               --- Agora, tu, tens que comer.
@@ -425,7 +432,9 @@ Thank you, but you didn't have to do that.                                      
 Yes, I did.                                                                           --- - Sim, tinha.
 Yours were covered in vomit.                                                          --- A tua roupa estava coberta de vomitado.
 You shouldn't get drunk like that.                                                    --- Não te devias embebedar assim.
-I'm all for testing the limits, but you put yourself at risk last night.I know.If you were mine, you wouldn't be able to sit down for a week. --- 
+I'm all for testing the limits, but you put yourself at risk last night.              --- Sou a favor que devemos testar os nossos limites, mas,
+I know.                                                                               --- - Eu sei.
+If you were mine, you wouldn't be able to sit down for a week.                        --- Se fosses minha, não te sentarias durante uma semana.
 What?                                                                                 --- O quê?
 I gotta go take a shower.                                                             --- Tenho que ir tomar banho.
 Why am I here, Christian?                                                             --- Porque me trouxeste para aqui, Christian?
@@ -458,7 +467,7 @@ Hey.                                                                            
 Hi. You must be Ana.                                                                  --- - Olá, deves ser a Ana.
 You must be Elliot.                                                                   --- - E tu deves ser o Elliot.
 And we must be going.                                                                 --- E nós temos de ir, Elliot.
-Elliot...  So awesome to meet you.                                                    --- 
+Elliot... So awesome to meet you.                                                     --- 
 Kate's told me a lot about you.                                                       --- A Kate falou-me muito de ti.
 Elliot, find your shoes.                                                              --- Elliot, procura os sapatos.
 Some of us have work to attend to.                                                    --- Alguns de nós têm de ir trabalhar.
@@ -506,7 +515,9 @@ Yes.                                                                            
 Of course you do.                                                                     --- É claro que tocas.
 What's this?                                                                          --- - O que é isto?
 It's a non-disclosure agreement.                                                      --- - É um acordo de confidencialidade.
-It means that you cannot discuss anything about us with anyone.I'm afraid my lawyer insists on it.I'd never talk to anyone about us, anyway. --- 
+It means that you cannot discuss anything about us with anyone.                       --- Significa que não podes falar sobre nós com ninguém.
+I'm afraid my lawyer insists on it.                                                   --- Receio que seja por insistência do meu advogado.
+I'd never talk to anyone about us, anyway.                                            --- Seja como for, nunca falaria sobre nós a ninguém.
 Are you gonna make love to me now?                                                    --- Agora vais fazer amor comigo?
 Two things.                                                                           --- Duas coisas.
 First, I don't make love.                                                             --- Primeira, eu não faço amor.
@@ -525,7 +536,7 @@ Oh, my God.                                                                     
 It's called a flogger.                                                                --- Chama-se flogger.
 Say something, please.                                                                --- Diz alguma coisa, por favor.
 Do women do this to you?                                                              --- 
-Or do you...  No, I do this to women.                                                 --- 
+Or do you... No, I do this to women.                                                  --- 
 With women.                                                                           --- Com as mulheres.
 Women who want me to.                                                                 --- Mulheres que querem que eu o faça.
 You're a sadist?                                                                      --- - És sádico?
@@ -539,7 +550,7 @@ How?                                                                            
 I have rules.                                                                         --- Tenho regras.
 If you follow them, I'll reward you.                                                  --- Se as seguires, recompensar-te-ei.
 If you don't, I'll punish you.                                                        --- Se não o fizeres, punir-te-ei.
-You'll punish me...  Like, you'd use this stuff on me?                                --- Punes-me usando estas coisas em mim?
+You'll punish me... Like, you'd use this stuff on me?                                 --- Punes-me usando estas coisas em mim?
 Yes.                                                                                  --- - Sim.
 What would I get out of this?                                                         --- - O que é que eu ganho com isso?
 Me.                                                                                   --- A mim.
@@ -549,7 +560,7 @@ You want me to move in?                                                         
 Not full time.                                                                        --- Não a tempo inteiro.
 Just Friday through to Sunday.                                                        --- Apenas de Sexta a Domingo.
 We can negotiate the particulars.                                                     --- - Podemos negociar os detalhes.
-So, uh...  So, I'd sleep in here with you?                                            --- 
+So, uh... So, I'd sleep in here with you?                                             --- 
 No. I'd be downstairs.                                                                --- Não, eu durmo no andar de baixo.
 I told you, I don't sleep with anyone.                                                --- Já te disse que não durmo com ninguém.
 What if I don't want anything to do with that?                                        --- E se eu não quiser nada disto?
@@ -558,7 +569,9 @@ But then we wouldn't have any sort of relationship at all?                      
 This is the only sort of relationship I have.                                         --- Este é o único tipo de relacionamento que tenho.
 Why?                                                                                  --- - Porquê?
 It's the way I am.                                                                    --- - É assim que sou.
-When you said "negotiate," what did you mean?I already have a contract prepared.It's fairly detailed. --- Quando falaste em negociar, a que te referias?
+When you said "negotiate," what did you mean?                                         --- Quando falaste em negociar, a que te referias?
+I already have a contract prepared.                                                   --- Já tenho um contrato pronto.
+It's fairly detailed.                                                                 --- É muito detalhado.
 You would review it, and we would negotiate what you are and are not willing to try.  --- Deves revê-lo e negociamos o que estás ou não disposta a fazer.
 How could I know what I'd be willing to try?                                          --- Como saberei o que estou disposta a fazer?
 Well, when you've had sex was there anything that you didn't like doing?              --- Quando fizeste sexo, houve alguma coisa que não gostasses de fazer?
@@ -567,7 +580,8 @@ I wouldn't know.                                                                
 What do you mean?                                                                     --- - O que queres dizer?
 Because I haven't...                                                                  --- - Porque eu não...
 You're still a virgin?                                                                --- - Ainda és virgem?
-I have just shown you... I know.I just...                                             --- - Acabei de te mostrar... - Eu sei, apenas...
+I have just shown you... I know.                                                      --- - Acabei de te mostrar...
+I just...                                                                             --- - Eu sei, apenas...
 You've done other things, right? No.                                                  --- - Já fizeste outras coisas, certo?
 Where have you been?                                                                  --- - Onde tens estado?
 Waiting.                                                                              --- - À espera.
@@ -628,7 +642,10 @@ So, what happened to calling before dropping by?                                
 And have your henchmen give me the runaround?                                         --- O que aconteceu a telefonares antes de apareceres aqui?
 No, thank you.                                                                        --- Não, obrigada.
 I'll take my chances.                                                                 --- Prefiro arriscar.
-Anyway, I was in the neighborhood, and I thought perhaps we could have lunch.I can't today.I have to drive Ana home.It's okay. --- 
+Anyway, I was in the neighborhood, and I thought perhaps we could have lunch.         --- 
+I can't today.                                                                        --- Hoje não posso.
+I have to drive Ana home.                                                             --- Tenho de levar a Ana a casa.
+It's okay.                                                                            --- 
 Take it. I was just showing Mother out.                                               --- Vou acompanhar a mãe à porta.
 Excuse me.                                                                            --- 
 Anastasia...                                                                          --- Anastasia!
@@ -651,10 +668,11 @@ She's excited.                                                                  
 She's never seen me with a woman before.                                              --- Nunca me viu com uma mulher antes.
 It was a first.                                                                       --- É uma estreia.
 What is it, Ana?                                                                      --- O que se passa, Ana?
-Urn... I just...  How many women have stayed in here?                                 --- É que, quantas mulheres já ficaram aqui?
+Urn... I just... How many women have stayed in here?                                  --- É que, quantas mulheres já ficaram aqui?
 Fifteen.                                                                              --- Quinze.
 That's a lot of women.                                                                --- - São muitas mulheres.
-I told you before, if you want out... I don't want out.I just... I'm not exactly jumping at the opportunity to get whipped and tortured in your red room of pain. --- Apenas não estou aos saltos com a ideia de ser açoitada e torturada no teu Quarto Vermelho da Dor.
+I told you before, if you want out... I don't want out.                               --- - Já te disse que se queres ir...
+I just... I'm not exactly jumping at the opportunity to get whipped and tortured in your red room of pain. --- Apenas não estou aos saltos com a ideia de ser açoitada e torturada no teu Quarto Vermelho da Dor.
 That room is much more about pleasure. Promise you.                                   --- Aquele quarto é muito mais de prazer, prometo-te.
 Would we still go out to dinner and movies?                                           --- E ainda iremos jantar e ao cinema?
 That's not really my thing.                                                           --- Não é propriamente a minha cena.
@@ -714,7 +732,7 @@ Just consider it, okay?                                                         
 I really hope you say yes.                                                            --- Espero realmente que digas que sim.
 Thanks for the ride.                                                                  --- - Obrigada pela boleia.
 Laters, baby.                                                                         --- 
-Urn...  Okay, you're all set.                                                         --- Muito bem, está montado.
+Urn... Okay, you're all set.                                                          --- Muito bem, está montado.
 Your roommate let me in.                                                              --- - A sua colega deixou-me entrar.
 I just figured that you forgot to tell me about it- Do I look okay?                   --- 
 Tell you about what?                                                                  --- - Avisar-te de quê?
@@ -742,7 +760,7 @@ Okay.                                                                           
 Bye!                                                                                  --- Adeus.
 The fundamental purpose of this contract is to allow the Submissive to explore her sensuality and her limits safely. --- é permitir à Submissa explorar a sua sensualidade e limites em segurança.
 The Dominant and Submissive agree and acknowledge that all that occurs under the terms of this contract will be consensual, confidential, and subject to the agreed limits and safety procedures set out in this contract. --- O Dominador e a Submissa concordam e reconhecem que tudo o que ocorrer nos termos deste contrato será consensual, confidencial e sujeito aos limites acordados e procedimentos de segurança definidos neste contrato.
-The Submissive will agree to any sexual activity deemed fit and pleasurable by the Dominant, excepting those activities outlined in Hard Limits- so much. --- A Submissa concordará com qualquer actividade sexual considerada adequada e aprazível ao Dominador, excepto as actividades definidas como "limites intransponíveis".
+The Submissive will agree to any sexual activity deemed fit and pleasurable by the Dominant, excepting those activities outlined in Hard Limits- ...so much. --- A Submissa concordará com qualquer actividade sexual considerada adequada e aprazível ao Dominador, excepto as actividades definidas como "limites intransponíveis".
 Thank you.                                                                            --- 
 The Submissive will not drink to excess, smoke, or take recreational drugs, or put her person into any unnecessary risk. --- A Submissa não beberá em excesso, não fumará ou tomará drogas. Ou se colocará em risco.
 The Submissive will not enter into sexual relations with anyone other than the Dominant. --- A Submissa não terá relações sexuais com ninguém, além do Dominador.
@@ -753,10 +771,10 @@ The Submissive will obey any instruction given by the Dominant.                 
 She will do so eagerly and without hesitation.                                        --- Fá-lo-á de imediato, e sem hesitação.
 The Submissive may not touch the Dominant without his expressed permission to do so.  --- A Submissa não pode tocar no Dominador sem a sua permissão expressa.
 The Submissive shall always conduct herself in a respectful manner to the Dominant,   --- A Submissa deverá comportar-se de forma respeitosa para com o Dominador de forma respeitosa para com o Dominador e tratá-lo apenas por, Sr. Grey ou outros de forma respeitosa para com o Dominador e tratá-lo apenas por, Sr. Grey ou outros títulos indicados pelo Dominador.de forma respeitosa para com o Dominador e tratá-lo apenas por, Sr. Grey ou outros títulos indicados pelo Dominador.O Dominador pode castigá-la fisicamente, de forma respeitosa para com o Dominador e tratá-lo apenas por, Sr. Grey ou outros títulos indicados pelo Dominador.O Dominador pode castigá-la fisicamente, se assim o entender, para a disciplinar.
-- and she'll address him only as "Sir, " "Mr. - Grey..." or such other title as the Dominant may direct. --- A palavra de segurança "Amarelo" será utilizada para chamar a atenção do Dominador, de que a Submissa está perto de atingir o limite de resistência.
+- and she'll address him only as "Sir, " "Mr. - Grey..." ...or such other title as the Dominant may direct. --- A palavra de segurança "Amarelo" será utilizada para chamar a atenção do Dominador, de que a Submissa está perto de atingir o limite de resistência.
 The Dominant may flog, spank, whip, or corporaiiy punish the Submissive as he sees fit, for purposes of discipline or for his personal enjoyment. --- A palavra de segurança "Amarelo" será utilizada para chamar a atenção do Dominador, de que a Submissa está perto de atingir o limite de resistência.
 The safeword "Yellow“ will be used to bring to the attention of the Dominant that the Submissive is close to her limit. --- A palavra de segurança "Amarelo" será utilizada para chamar a atenção do Dominador, de que a Submissa está perto de atingir o limite de resistência.
-When the safeword "Red" is spoken, the Dominanfs action will cease completely and immediately. --- Quando a palavra de segurança "Vermelho" é dita, as acções do Dominador pararão imediatamente.SUBMISSA
+When the safeword "Red" is spoken, the Dominanfs action will cease completely and immediately. --- Quando a palavra de segurança "Vermelho" é dita, as acções do Dominador pararão imediatamente.
 Does the Submissive consent to being restrained with hands bound in front?            --- A Submissa consente ser imobilizada com as mãos amarradas à frente?
 Does the Submissive consent to being blindfolded?                                     --- A Submissa consente em ser vendada?
 Does the Submissive consent to being gagged?                                          --- A Submissa consente em ser amordaçada?
@@ -960,7 +978,8 @@ Welcome to my world.                                                            
 What are you doing?                                                                   --- - Que estás a fazer?
 I have a few things at the office that require my attention.                          --- Precisam da minha atenção.
 You okay?                                                                             --- 
-I just thought that... I enjoyed tonight.I'll see you at my place tomorrow.           --- 
+I just thought that... I enjoyed tonight.                                             --- - Pensei que... - Gostei desta noite.
+I'll see you at my place tomorrow.                                                    --- Vemo-nos em minha casa amanhã.
 Hi, Momma.                                                                            --- Olá, mamã.
 Anastasia, what's going on?                                                           --- Anastasia, que se passa?
 I have left you two messages this week.                                               --- Deixei-te duas mensagens esta semana.
@@ -986,7 +1005,7 @@ Promise me you'll think about it. Yeah, I promise.                              
 I promise.                                                                            --- Prometo.
 I love you, Momma.                                                                    --- - Adoro-te, mamã.
 I love you, too, darling.                                                             --- - Também te adoro, querida.
-I gotta g0-  Bye.                                                                     --- Tenho que desligar, adeus.
+I gotta g0- Bye.                                                                      --- Tenho que desligar, adeus.
 Looks like you and Grey did some celebrating last night.                              --- Parece que tu e o Grey foram celebrar a tua formatura, ontem à noite.
 Is he still asleep?                                                                   --- - Ele ainda está a dormir?
 Uh... No, he couldn't stay.                                                           --- - Não, não podia ficar.
@@ -1106,7 +1125,8 @@ Why do you care so much about the contract, Christian?                          
 Don't you like me the way I am?                                                       --- - Não gostas como sou?
 Of course I do.                                                                       --- - Claro que gosto.
 Then why are you trying to change me? I'm not.                                        --- - Então, porque me queres mudar?
-It's... I need more.I want more.                                                      --- - É que... - Preciso de mais, quero mais.
+It's... I need more.                                                                  --- - Preciso de mais, quero mais.
+I want more.                                                                          --- - Não quero.
 Hearts and flowers?                                                                   --- Corações e flores?
 That's not something I know.                                                          --- Não é algo que conheça.
 Ana, please.                                                                          --- Ana, por favor...

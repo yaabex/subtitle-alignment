@@ -157,7 +157,7 @@ There's a mollusc. He walks up to...                                            
 Well, he swims up.                                                                    --- Bem, ele não caminha, nada.
 Actually, the mollusc isn't moving.                                                   --- Aliás, o molusco não se está a mexer.
 He's in one place.                                                                    --- Ele está parado.
-And then the sea cucumber... I'm mixed up.                                            --- O pepino-do-mar...  Estou baralhado.
+And then the sea cucumber... I'm mixed up.                                            --- O pepino-do-mar... Estou baralhado.
 There was a mollusc and a sea cucumber.                                               --- Havia um molusco e um pepino-do-mar.
 None of them were walking...                                                          --- Estavam os dois parados.
 Sheldon!                                                                              --- Sela!
@@ -190,7 +190,7 @@ All the rest are too deep for you and me to see I wonder where my class has gone
 We're under here.                                                                     --- Estamos aqui debaixo!
 There you are!                                                                        --- Ah, estão aí!
 Come aboard, explorers.                                                               --- Montem, exploradores!
-Knowledge exploring is oh so lyrical  When you think thoughts that are empirical      --- Explorar o conhecimento é muito lírico quando se tem um pensamento empírico!
+Knowledge exploring is oh so lyrical When you think thoughts that are empirical       --- Explorar o conhecimento é muito lírico quando se tem um pensamento empírico!
 Dad, you can go now.                                                                  --- Papá, pode ir.
 - Hello.                                                                              --- - Ora viva!
 Who is this?                                                                          --- Quem és tu?
@@ -237,7 +237,7 @@ Come on.                                                                        
 Let's go.                                                                             --- Vá, cantem comigo!
 Come on.                                                                              --- 
 Sing with me.                                                                         --- Vá, cantem comigo!
-There's porifera, coelenterata, hydrozoa, scyphozoa  Anthozoa, ctenophora, bryozoas three --- 
+There's porifera, coelenterata, hydrozoa, scyphozoa Anthozoa, ctenophora, bryozoas three --- 
 Hey, guys, wait up.                                                                   --- Ei, malta, esperem aí!
 Cool.                                                                                 --- Fixe!
 Saved your life!                                                                      --- Salvei-te a vida.
@@ -416,7 +416,8 @@ We've gone through the snacks and I'm starving.                                 
 Right then.                                                                           --- Ora muito bem.
 The meeting has officially come to order.                                             --- A reunião está oficialmente aberta.
 Let us all say the pledge.                                                            --- Vamos à jura solene.
-I am a nice shark, not a mindless eating machine.If I am to change this image, I must first change myself. --- Eu sou um tubarão porreiro.
+I am a nice shark, not a mindless eating machine.                                     --- Eu sou um tubarão porreiro. Não sou uma máquina de comer.
+If I am to change this image, I must first change myself.                             --- Para mudar esta imagem que tenho, primeiro tenho que me mudar a mim.
 Fish are friends, not food.                                                           --- Os peixes são nossos amigos, não são comida.
 Except stinking dolphins.                                                             --- 
 Dolphins!                                                                             --- - Golfinhos!
@@ -428,7 +429,8 @@ Ain't I something? Today's meeting is step five: Bring a Fish Friend.           
 - Got mine.                                                                           --- - Eu tenho o meu.
 - Hey there.                                                                          --- - Ora viva!
 - How about you, Chum?                                                                --- - Chumbo?
-Well, I seem to have misplaced my... friend.It's all right, Chum.I knew this would be difficult. --- Bem me pareceu que este passo seria difícil de dar.
+Well, I seem to have misplaced my... friend.                                          --- Eu... pelos vistos, perdi o meu... amigo.
+It's all right, Chum. I knew this would be difficult.                                 --- Bem me pareceu que este passo seria difícil de dar.
 Take one of my friends.                                                               --- Fica com um dos meus.
 Thanks, mate.                                                                         --- Obrigado, amigão.
 A little chum for Chum.                                                               --- Um amiguinho para o Chumbinho!
@@ -708,7 +710,8 @@ What do we do?                                                                  
 We swim                                                                               --- Nadamos.
 Dory, no singing.                                                                     --- Dóri, chega de cantorias.
 I love to swim                                                                        --- Adoro nadar.
-And when you want to swim you want to... I'm going to get stuck with that song.It's in my head. --- 
+And when you want to swim you want to... I'm going to get stuck with that song.       --- 
+It's in my head.                                                                      --- Desculpa.
 Sorry.                                                                                --- Desculpa.
 - See anything?                                                                       --- - Vês alguma coisa?
 - Something's got me!                                                                 --- - Alguém me agarrou!
@@ -732,7 +735,8 @@ Hey, conscience, am I dead?                                                     
 I see it, too.                                                                        --- - Não, eu também a estou a ver.
 What is it?                                                                           --- O que é?
 It's so pretty.                                                                       --- É tão... bonita.
-I... I'm feeling...happy.                                                             --- 
+I... I'm feeling...                                                                   --- Estou a sentir-me...
+happy.                                                                                --- feliz.
 Which is a big deal for me.                                                           --- O que é um feito... para mim.
 I want to touch it.                                                                   --- O que é um feito...
 Hey, come back. Come on back here.                                                    --- Volta aqui!
@@ -807,7 +811,7 @@ Turn on the Ring of Fire.                                                       
 You said you could do it.                                                             --- Disseste que conseguias.
 The Ring of Fire!                                                                     --- O Anel de Fogo!
 Bubbles.                                                                              --- Bolhas!
-Let me... Isn't there another way?                                                    --- Deixa-me...  Não há outra forma?
+Let me... Isn't there another way?                                                    --- Deixa-me... Não há outra forma?
 He's just a boy.                                                                      --- Ele é um garoto!
 From this moment on, you will now be known as...                                      --- De ora em diante, passas a responder por...
 Sharkbait.                                                                            --- Isco de Tubarão.
@@ -834,7 +838,8 @@ We need you to take a pebble inside there and jam the gears.                    
 You do that and this tank's going to get filthier by the minute.                      --- Se assim for, o aquário enche-se de porcaria.
 Soon the dentist will have to clean the tank.                                         --- E o dentista terá de o limpar.
 When he does, he'll take us out of the tank, put us in individual baggies.            --- Para isso, ele tira-nos daqui e põe-nos em saquinhos individuais.
-We'll roll down the counter, out of the window, off the awning, into the bushes, across the street, into the harbour.It's foolproof. --- Aí nós rolamos pela bancada até à janela, saímos pelo toldo, atravessamos as árvores e a rua e chegamos ao porto! Não pode falhar!
+We'll roll down the counter, out of the window, off the awning, into the bushes, across the street, into the harbour. --- Aí nós rolamos pela bancada até à janela, saímos pelo toldo, atravessamos as árvores e a rua e chegamos ao porto!
+It's foolproof.                                                                       --- Não pode falhar!
 - Who's with me?                                                                      --- - Quem está comigo?
 - I.                                                                                  --- - Eu!
 I think you're nuts.                                                                  --- Eu acho que vocês são é malucos!
@@ -865,7 +870,7 @@ P Sherman, 42 Wallaby Way, Sydney.                                              
 Why do I have to tell you again?                                                      --- 
 - I don't get tired of it.                                                            --- - Não me canso de repetir.
 - All right, here's the thing.                                                        --- E lá vão eles de novo.
-I think it's best if I carry on from here by...                                       --- - O caso é o seguinte: acho que daqui para a frente é melhor eu ir sozinho.
+I think it's best if I carry on from here by...                                       --- - O caso é o seguinte: acho que daqui para a frente é melhor ...eu ir sozinho.
 - By myself.                                                                          --- - Está bem.
 - Okay.                                                                               --- - Está bem.
 You know.                                                                             --- 
@@ -1253,7 +1258,8 @@ He has to blast his way...                                                      
 These fish have been searching the ocean for days on the East Australian Current.     --- A única coisa que vêem... é a luz que vem duma criatura horrível com dentes afiadíssimos.
 He may be on his way here right now. - That puts him in Sydney Harbour...             --- na Corrente Australiana Oriental... o que significa que estarão
 - In a few days.                                                                      --- daqui a uns dias!
-He's going to stop at nothing... stop at nothing until he finds his son.I hope he makes it. --- Este tipo não se detém perante nada... até encontrar o filho. Espero que ele o encontre.
+He's going to stop at nothing... stop at nothing until he finds his son.              --- Este tipo não se detém perante nada... até encontrar o filho.
+I hope he makes it.                                                                   --- Espero que ele o encontre.
 That's one dedicated father, if you ask me.                                           --- Este tipo não se detém perante nada... até encontrar o filho.
 Mine.                                                                                 --- Meu!
 Mine.                                                                                 --- Meu!
@@ -1268,7 +1274,8 @@ Say that again. You said something about Nemo.                                  
 Last I heard, he's heading towards the harbour.                                       --- 
 Brilliant.                                                                            --- - Genial!
 Is he doing okay?                                                                     --- - Ele está bem?
-I don't know, but whatever you do, don't mention D, A, R... It's okay.I know who you're talking about. --- - Não sei, mas não falem da D-A-R...  Eu sei de quem vocês estão a falar.
+I don't know, but whatever you do, don't mention D, A, R... It's okay.                --- 
+I know who you're talking about.                                                      --- Eu sei de quem vocês estão a falar.
 Gill?                                                                                 --- 
 Hey, Sharkbait.                                                                       --- Olá, Isco de Tubarão.
 - I'm sorry I couldn't stop...                                                        --- - Desculpa não ter conseguido...
@@ -1414,11 +1421,12 @@ The speck?                                                                      
 There's nobody here.                                                                  --- Não está aqui ninguém!
 There has to be someone.                                                              --- Não está aqui ninguém!
 It's the ocean. We're not the only two in here.                                       --- Estamos no oceano.
-Let's see...  Okay, no one there.                                                     --- Não somos os únicos aqui.
+Let's see... Okay, no one there.                                                      --- Não somos os únicos aqui.
 Nope.                                                                                 --- Aqui não há ninguém.
 Nada.                                                                                 --- Nada.
 There's somebody.                                                                     --- Está ali alguém.
-Hey, excu... I'm thinking of something mysterious.It's a fish we don't know, and if we ask it directions, it could ingest us. --- Estou a pensar em algo escuro e misterioso: um peixe estranho.
+Hey, excu... I'm thinking of something mysterious.                                    --- Estou a pensar em algo escuro e misterioso: um peixe estranho.
+It's a fish we don't know, and if we ask it directions, it could ingest us.           --- Estou a pensar em algo escuro e misterioso: um peixe estranho.
 What is it with men and asking for directions?                                        --- Mas que aversão a vossa a pedir indicações!
 Don't play the gender card.                                                           --- Não me venhas com feminismos.
 Let's play the "let's not die" card.                                                  --- Vamos mas é falar de sobrevivência.
@@ -1711,7 +1719,7 @@ Darla, sweetie, look out.                                                       
 Hold still. Easy, easy.                                                               --- Calma, calma.
 Hold still!                                                                           --- Fica quieto, quieto.
 It's all right.                                                                       --- 
-Nobody's going to hurt you.                                                           --- Ninguém te vai fazer mal.
+Nobody's going to hurt you.                                                           --- 
 - Oh, my goodness.                                                                    --- - Oh, meu Deus.
 - Gotcha!                                                                             --- - Nemo...
 Daddy?                                                                                --- Papá?
@@ -1763,7 +1771,9 @@ Please?                                                                         
 No one's ever stuck with me for so long before.                                       --- Nunca ninguém ficou comigo tanto tempo.
 And if you leave... I remember things better with you.                                --- 
 Look.                                                                                 --- Olha.
-P Sherman, 42... I remember it.It's there.I know it is.                               --- 
+P Sherman, 42... I remember it.                                                       --- Sherman, nº 42...
+It's there.                                                                           --- Eu lembro-me.
+I know it is.                                                                         --- Palavra.
 Because when I look at you, I can feel it.                                            --- 
 And I look at you and I... I'm home.                                                  --- Olho para ti e... sinto-me em casa.
 Please.                                                                               --- Por favor!

@@ -39,7 +39,7 @@ public class SentenceGroup extends ArrayList<Sentence>{
 		String str = new String();
 		for(Sentence s: this)
 			str += s+" ";
-		return str.replaceAll("\\s+$", "");
+		return str.replaceAll("\\s+", " ").replaceAll("\\s+$", "");
 	}
 
 }

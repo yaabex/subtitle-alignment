@@ -6,7 +6,7 @@ I am cold.                                                                      
 - Anybody ever telI you you Iook dead?                                                --- Já alguma vez te disseram que pareces morto, meu?
 Oh, yeah.                                                                             --- 
 I forgot something.                                                                   --- Esqueci-me de uma coisa, meu.
-Before we dock, we ought to discuss the bonus situation.                              --- Antes de atracarmos...  Penso que devemos falar sobre a situação do bónus.
+Before we dock, we ought to discuss the bonus situation.                              --- Antes de atracarmos... Penso que devemos falar sobre a situação do bónus.
 Brett and l think we deserve full shares.                                             --- O Brett e eu achamos que merecemos repartição igual.
 Mr Parker and I feel the bonus situation has never been equitable.                    --- O Sr. Parker e eu achamos que a situação do bónus nunca esteve a um nível justo.
 You get what you're contracted for, like everybody else.                              --- Bem, recebes o que foi assinado no contrato, tal como toda a gente.
@@ -223,7 +223,7 @@ I'm going back to the consoIe.                                                  
 DalIas?                                                                               --- Dallas?
 Come on down here.                                                                    --- Há algo de diferente aqui.
 There's something different.                                                          --- Não sei o que é, mas...
-I don't know what it is, but if we can get up that walI, we can find out.             --- Não sei o que é, mas...  Vamos ver se conseguimos subir aquela parede e descobrir.
+I don't know what it is, but if we can get up that walI, we can find out.             --- Não sei o que é, mas... Vamos ver se conseguimos subir aquela parede e descobrir.
 Alien life form.                                                                      --- Uma forma de vida alienígena.
 It looks like it's been dead a long time.                                             --- Parece estar morto há muito tempo.
 FossiIised.                                                                           --- Fossilizado.
@@ -365,13 +365,14 @@ He's holding.                                                                   
 No changes. And our guest?                                                            --- 
 As l said, I'm stilI collating.                                                       --- 
 But l have confirmed that he's got an outer layer of protein poIysaccharides.         --- Bem, como te disse, estava a examiná-lo ainda... mas pude confirmar que ele tem uma camada externa de polissacarídeos de proteína.
-He has a funny habit of shedding his cells and replacing them with polarised siIicone, which gives him a proIonged resistance to adverse environmentaI conditions.Is that enough? --- Tem um hábito esquisito de perder as suas células e de substituí-las com silicone polarizado.
+He has a funny habit of shedding his cells and replacing them with polarised siIicone, which gives him a proIonged resistance to adverse environmentaI conditions. --- Tem um hábito esquisito de perder as suas células e de substituí-las com silicone polarizado.
+Is that enough?                                                                       --- É suficiente?
 Plenty.                                                                               --- Mas o que significa?
 What does it mean?                                                                    --- Por favor, não faças isso Obrigado.
 - Please don't do that.                                                               --- Por favor, não faças isso Obrigado.
 Thank you.                                                                            --- 
 - I'm sorry.                                                                          --- Desculpa.
-It's an interesting combination of eIements, making him a tough Iittle son of a bitch. --- Bem, é uma combinação interessante de elementos que fazem dele um...filho da mãe duro de roer.
+It's an interesting combination of eIements, making him a tough Iittle son of a bitch. --- Bem, é uma combinação interessante de elementos que fazem dele um... filho da mãe duro de roer.
 And you Iet him in.                                                                   --- 
 I was obeying a direct order.                                                         --- Eu estava a obedecer uma ordem directa, lembras-te?
 When DaIlas and Kane are off the ship, I'm senior officer.                            --- Ash, quando o Dallas e o Kane estão fora da nave eu fico responsável.
@@ -741,7 +742,9 @@ Let's hear it.                                                                  
 - We don't know that...                                                               --- - Não sabemos isso.
 That's the only way.                                                                  --- - É a única forma!
 We'lI move in pairs.                                                                  --- Vamos dividir-nos em pares.
-We'lI go step by step and cut off every buIkhead and vent untiI we have it cornered, then we'Il blow it the fuck out into space.Is that acceptable to you?If it means killing it, yeah. --- Iremos devagar e isolaremos todas as divisórias e todas as aberturas de ventilação até o termos cercado e então atiramo-lo para o espaço.Isto é aceitável para vocês? Se significar matá-lo, é aceitável para mim.
+We'lI go step by step and cut off every buIkhead and vent untiI we have it cornered, then we'Il blow it the fuck out into space. --- Iremos devagar e isolaremos todas as divisórias e todas as aberturas de ventilação até o termos cercado e então atiramo-lo para o espaço.
+Is that acceptable to you?                                                            --- Isto é aceitável para vocês?
+If it means killing it, yeah.                                                         --- Se significar matá-lo, é aceitável para mim.
 ObviousIy it means killing it.                                                        --- Obviamente, isto significa matá-lo.
 But we have to stick together.                                                        --- Mas temos de nos unir.
 - How are our weapons?                                                                --- - Como estão as nossas armas?
@@ -764,7 +767,7 @@ I've got access to Mother now, and l'll get my own answers, thank you.          
 All right.                                                                            --- 
 There is an explanation for this.                                                     --- Há uma explicação para isto, sabes. Há?!
 I don't wanna hear your goddamn expIanation.                                          --- Não quero ouvir a tua maldita explicação!
-Parker?                                                                               --- Lambert?
+Parker?                                                                               --- Parker.
 Lambert?                                                                              --- Lambert?
 Ash.                                                                                  --- Ash.
 Open the door.                                                                        --- Abre a porta.
@@ -810,7 +813,8 @@ The perfect organism.                                                           
 Its structural perfection is matched onIy by its hostility.                           --- A sua perfeição estrutural é igualada apenas pela sua hostilidade.
 You admire it.                                                                        --- Tu admira-lo.
 I admire its purity.                                                                  --- Admiro a sua pureza.
-A survivor, uncIouded by conscience, remorse, or delusions of morality.I've heard enough of this and l'm asking you to pulI the pIug. --- Livre... de consciência, de remorsos, ou de ilusões de moralidade.
+A survivor, uncIouded by conscience, remorse, or delusions of morality.               --- Um sobrevivente. Livre... de consciência, de remorsos, ou de ilusões de moralidade.
+I've heard enough of this and l'm asking you to pulI the pIug.                        --- 
 Last word.                                                                            --- Uma última palavra, Ripley.
 I can't lie to you about your chances, but... you have my sympathies.                 --- Não posso mentir-te em relação às tuas hipóteses, mas... tens as minhas condolências.
 We're gonna blow up the ship.                                                         --- Nós vamos explodir com esta nave.
@@ -911,16 +915,17 @@ T minus 30 seconds.                                                             
 7, 6,                                                                                 --- 
 5, 4,                                                                                 --- 
 3, 2, 1 .                                                                             --- 
-I got you, you son of a bitch.It's all right.                                         --- 
+I got you, you son of a bitch.                                                        --- Apanhei-te... seu filho da mãe.
+It's all right.                                                                       --- Está tudo bem.
 All right, it's nice to see you, too.                                                 --- 
-It's OK.                                                                              --- Tudo bem.
+It's OK.                                                                              --- Está tudo bem.
 Come on.                                                                              --- Tu...
 You are my lucky star.                                                                --- és... a minha estrela da sorte.
 Lucky, Iucky, lucky.                                                                  --- Sorte, sorte, sorte, sorte, sorte.
 OK.                                                                                   --- Muito bem.
 Come on.                                                                              --- Vá lá.
 You are my lucky star.                                                                --- Tu és... a minha estrela da sorte.
-You are... my lucky star.                                                             --- Tu...  És a minha estrela da sorte...
+You are... my lucky star.                                                             --- Tu... És a minha estrela da sorte...
 You are my lucky star.                                                                --- Tu és a minha estrela da sorte.
 You are my lucky...                                                                   --- Tu és a minha estrela da sorte.
 FinaI report of the commercial starship Nostromo. Third Officer reporting.            --- Relatório final da nave espacial comercial Nostromo... relatado pela 3ª oficial.

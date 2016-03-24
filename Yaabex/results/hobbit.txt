@@ -31,7 +31,7 @@ Slowly the days turned sour... and the watchful nights closed in.               
 Thror's love of gold had grown too fierce.                                            --- O amor de Thrór pelo ouro tornou-se demasiado feroz.
 A sickness had begun to grow within him.                                              --- Uma doença tinha começado a crescer dentro dele.
 lt was a sickness of the mind.                                                        --- Era uma doença da mente.
-And where sickness thrives... bad things will follow.                                 --- E onde uma doença prospera...  coisas más segui-la-ão.
+And where sickness thrives... bad things will follow.                                 --- E onde uma doença prospera... coisas más segui-la-ão.
 The first they heard was a noise like a hurricane... coming down from the North.      --- O primeiro que ouviram foi um barulho parecido com um furacão vindo do norte.
 The pines on the mountain creaked and cracked in the hot, dry wind.                   --- Os pinheiros da montanha rangeram e racharam com o vento quente e seco.
 Balin, sound the alarm.                                                               --- Balin, soa o alarme!
@@ -125,7 +125,7 @@ He doesn't approve of being late.                                               
 Oh, no. Not that I ever was.                                                          --- Não te queiras atrasar.
 In those days, I was always on time.                                                  --- Nesses dias eu chegava sempre a tempo.
 I was entirely respectable.                                                           --- Era completamente respeitável.
-And nothing unexpected... ever happened.                                              --- E nada de inesperado...  acontecia.
+And nothing unexpected... ever happened.                                              --- E nada de inesperado... acontecia.
 -Good morning.                                                                        --- 
  What do you mean?                                                                    --- O que queres dizer?
 Do you wish me a good morning... or do you mean that it is a good morning whether I want it or not? --- Desejas-me um bom dia ou queres dizer que está um bom dia independentemente de eu o querer ou não?
@@ -163,7 +163,7 @@ Where else--?                                                                   
 Ahem.                                                                                 --- 
 Well, I'm pleased to find you remember something about me... even if it's only my fireworks. --- Folgo em saber que te lembras de algo a meu respeito. Mesmo que seja apenas dos meus fogos-de-artifício.
 Yes. Well, that's decided.                                                            --- Bem, está decidido.
-It'll be very good for you... and most amusing for me.                                --- Irá ser muito bom para ti...  e muito divertido para mim.
+It'll be very good for you... and most amusing for me.                                --- Irá ser muito bom para ti... e muito divertido para mim.
 I shall inform the others.                                                            --- Vou informar os outros.
 Inform the who?                                                                       --- Vou informar os outros.
 What?                                                                                 --- Não...
@@ -195,7 +195,7 @@ Oh, yes, yes.                                                                   
 Ah.                                                                                   --- 
 Help yourself.                                                                        --- Sirva-se.
 Hmm.                                                                                  --- 
-It's just that, um, I wasn't expecting company.                                       --- É só que...  não esperava companhia.
+It's just that, um, I wasn't expecting company.                                       --- É só que... não esperava companhia.
 That'll be the door.                                                                  --- É a porta.
 Balin, at your service.                                                               --- Balin, às suas ordens.
 -Good evening.                                                                        --- - Sim, está mesmo.
@@ -260,7 +260,7 @@ Where do you want this?                                                         
 No. There's nobody home!                                                              --- Não está ninguém em casa!
 Go away and bother somebody else.                                                     --- Vão-se embora e incomodem outra pessoa!
 There's far too many Dwarves in my dining room as it is.                              --- Já tenho anões suficientes na minha sala de jantar neste momento!
-If this is some clot-head's idea of a joke... I can only say it is in very poor taste. --- E se isto for algum tipo de piada...  apenas posso dizer que ela é de muito mau gosto!
+If this is some clot-head's idea of a joke... I can only say it is in very poor taste. --- E se isto for algum tipo de piada... apenas posso dizer que ela é de muito mau gosto!
 Get off, you big lump!                                                                --- 
 Gandalf.                                                                              --- Gandalf...
 Those are my pri--!                                                                   --- Desculpe, o meu vinho não!
@@ -290,7 +290,7 @@ Ah.                                                                             
 Uh, Fili, Kili.                                                                       --- Fili, Kili...
 Uh....                                                                                --- 
 Oin, Gloin.                                                                           --- Óin, Glóin...
-Dwalin, Balin, Bifur, Bofur, Bombur...                                                --- Dwalin, Balin...  Bifur, Bofur, Bombur...
+Dwalin, Balin, Bifur, Bofur, Bombur...                                                --- Dwalin, Balin... Bifur, Bofur, Bombur...
 -...Dori, Nori.                                                                       --- - Dori, Nori...
 Ori!                                                                                  --- - Ori!
 -No. Not my prizewinners, thank you.                                                  --- - Os meus tomates secos, não!
@@ -373,7 +373,7 @@ There is a mark.                                                                
 I put it there myself.                                                                --- Fui eu mesmo que a coloquei lá.
 Bilbo Baggins, allow me to introduce the leader of our company:                       --- Bilbo Baggins, permite-me que te apresente o líder da nossa companhia.
 Thorin Oakenshield.                                                                   --- Thorin Escudo de Carvalho.
-So... this is the Hobbit.                                                             --- Então...  este é o hobbit.
+So... this is the Hobbit.                                                             --- Então... este é o hobbit.
 Tell me, Mr. Baggins, have you done much fighting?                                    --- Diga-me, Sr. Baggins, já combateu muitas vezes?
 -Pardon me?                                                                           --- 
  Ax or sword?                                                                         --- - Machado ou espada?
@@ -544,8 +544,8 @@ Not for me.                                                                     
 Then we are with you, laddie.                                                         --- Então estamos contigo, rapaz.
 We will see it done.                                                                  --- Fá-lo-emos.
 Far over the misty mountains cold                                                     --- Muito além do frio                            Das montanhas nebulosas              
-To dungeons deep  And caverns old                                                     --- Para masmorras profundas             E cavernas antigas                         
-We must away  'Ere break of day                                                       --- 
+To dungeons deep And caverns old                                                      --- Para masmorras profundas             E cavernas antigas                         
+We must away 'Ere break of day                                                        --- 
 To find our long-forgotten gold                                                       --- Para encontrarmos                          O nosso há muito esquecido ouro   
 The pines were roaring on the height                                                  --- 
 The winds were moaning in the night                                                   --- 
@@ -642,7 +642,7 @@ Our forces rallied... and drove the Orcs back.                                  
 And our enemy... had been defeated.                                                   --- O nosso inimigo tinha sido derrotado.
 But there was no feast... nor song that night... for our dead were beyond the count of grief. --- Mas não houve festejos nem canções nessa noite. Pois os nossos mortos estavam além de qualquer luto.
 We few had survived.                                                                  --- Apenas uns poucos tinham sobrevivido.
-And I thought to myself then... there is one who I could follow.                      --- E eu pensei para mim mesmo nessa altura:  Existe um que eu poderia seguir.
+And I thought to myself then... there is one who I could follow.                      --- E eu pensei para mim mesmo nessa altura: Existe um que eu poderia seguir.
 There is one... I could call king.                                                    --- a quem eu poderia chamar rei.
 And the pale Orc?                                                                     --- E o orc branco?
 What happened to him?                                                                 --- O que lhe aconteceu a ele?
@@ -660,7 +660,7 @@ Do you know, I've quite forgotten their names.                                  
 And who is the fifth?                                                                 --- E quem é o quinto?
 Well, that would be Radagast the Brown.                                               --- Esse é Radagast, o Castanho.
 ls he a great Wizard? Or is he more like you?                                         --- Ele é um grande feiticeiro ou é...
-I think he's a very great Wizard, in his own way.                                     --- Acho que é um grandioso feiticeiro,  à sua própria maneira.
+I think he's a very great Wizard, in his own way.                                     --- Acho que é um grandioso feiticeiro, à sua própria maneira.
 He's a gentle soul who prefers the company of animals to others.                      --- É uma alma gentil que prefere a companhia dos animais a outros.
 He keeps a watchful eye over the vast forest lands... to the east.                    --- Mantém um olho atento sobre as vastas terras de floresta a leste.
 And a good thing too. For always evil will look to find a foothold in this world.     --- O que é uma coisa boa, pois todo o mal pretende deixar uma pegada neste mundo.
@@ -679,7 +679,7 @@ I don't understand why it's not working.                                        
 It's not as if it's witchcraft.                                                       --- Até parece que é bruxaria.
 Witchcraft.                                                                           --- Bruxaria...
 Oh, but it is.                                                                        --- Mas é mesmo.
-A dark and powerful magic.                                                            --- Uma negra e poderosa...  magia...
+A dark and powerful magic.                                                            --- Uma negra e poderosa... magia...
 [RADAGAST CHANTING                                                                    --- 
 Where on this good earth did those foul creatures come from?                          --- De onde poderão ter vindo aquelas criaturas obscenas?
 The old fortress?                                                                     --- Da velha fortaleza?
@@ -874,7 +874,7 @@ Come on.                                                                        
 Tell us the secret.                                                                   --- - Vamos lá.
 -It's, uh....                                                                         --- 
 Yes, I'm telling you.                                                                 --- - Sim.
-The secret is... to skin them first.                                                  --- O segredo é...  esfolá-los primeiro!
+The secret is... to skin them first.                                                  --- O segredo é... esfolá-los primeiro!
 What?                                                                                 --- Diz-nos o segredo.
 Skin us? Tom, get me filleting knife.                                                 --- 
 I'll skin you, you little--!                                                          --- 
@@ -890,7 +890,7 @@ Oh, not that one.                                                               
 He's infected.                                                                        --- Ele está infectado!
 -Huh?                                                                                 --- - Ele o quê?
 -You what?                                                                            --- - Ele o quê?
-Yeah, he's got worms in his tubes.                                                    --- - Sim, tem vermes na sua...  canalização.
+Yeah, he's got worms in his tubes.                                                    --- - Sim, tem vermes na sua... canalização.
 Eww!                                                                                  --- Todos têm.
  Aah!                                                                                 --- Todos têm.
 ln fact, they all have. They're infested with parasites.                              --- - Sim, tem vermes na sua...
@@ -985,7 +985,7 @@ Oh.                                                                             
 I had a thought and now I've lost it.                                                 --- Eu tinha um pensamento e agora perdi-o.
 lt was right there on the tip of my tongue.                                           --- Estava mesmo ali, na ponta da minha língua.
 Oh. It's not a thought at all.                                                        --- 
-It's a silly old... stick insect.                                                     --- é apenas um pequeno...  insecto-pau.
+It's a silly old... stick insect.                                                     --- é apenas um pequeno... insecto-pau.
 The Greenwood is sick, Gandalf.                                                       --- A Floresta Verde está doente, Gandalf.
 A darkness has fallen over it.                                                        --- Uma escuridão caiu sobre ela.
 Nothing grows anymore.                                                                --- Já nada cresce.
@@ -1130,7 +1130,7 @@ Well, you never are.                                                            
 This is Orcrist, the Goblin-cleaver.                                                  --- Esta é a Orcrist, a Rachadora de Goblins.
 A famous blade... forged by the High Elves of the West, my kin.                       --- Esta é a Orcrist, a Rachadora de Goblins.
 May it serve you well.                                                                --- Que o sirva bem.
-And this is Glamdring... the Foehammer.                                               --- E esta é a Glamdring...  o Martelo dos Inimigos.
+And this is Glamdring... the Foehammer.                                               --- E esta é a Glamdring... o Martelo dos Inimigos.
 Sword of the King of Gondolin.                                                        --- A espada do rei de Gondolin.
 These were made for the Goblin Wars of the First Age.                                 --- Estas espadas foram feitas para a Guerra dos Goblins...
 I wouldn't bother, laddie.                                                            --- 
@@ -1161,11 +1161,11 @@ An easy thing to miss.                                                          
 Well, in this case, that is true.                                                     --- Bem, neste caso isso é verdade.
 Moon runes can only be read by the light of a moon... of the same shape and season as the day on which they were written. --- As Runas da Lua apenas podem ser lidas à luz de uma lua com a mesma forma e estação que no dia em que foram escritas.
 Can you read them?                                                                    --- Pode lê-las?
-These runes were written on a Midsummer's Eve... by the light of a crescent moon nearly 200 years ago. --- Estas runas foram escritas numa véspera de Solstício de Verão,  à luz de uma lua crescente há quase 200 anos.
+These runes were written on a Midsummer's Eve... by the light of a crescent moon nearly 200 years ago. --- Estas runas foram escritas numa véspera de Solstício de Verão, à luz de uma lua crescente há quase 200 anos.
 lt would seem you were meant to come to Rivendell.                                    --- Parece que estavam destinados a vir a Rivendell.
 Fate is with you, Thorin Oakenshield.                                                 --- O destino está consigo, Thorin Escudo de Carvalho.
 The same moon shines upon us tonight.                                                 --- A mesma lua brilha sobre nós esta noite.
-"Stand by the gray stone when the thrush knocks... and the setting sun with the last light of Durin's Day...  -...will shine upon the keyhole." -Durin's Day? --- "Fica ao lado da pedra cinzenta quando o tordo bater "e o sol poente com a última luz do Dia de Durin brilhará sobre a fechadura."
+"Stand by the gray stone when the thrush knocks... and the setting sun with the last light of Durin's Day... -...will shine upon the keyhole." -Durin's Day? --- "Fica ao lado da pedra cinzenta quando o tordo bater "e o sol poente com a última luz do Dia de Durin brilhará sobre a fechadura."
 lt is the start of the Dwarves' new year, when the last moon of autumn... and the first sun of winter appear in the sky together. --- - É o início de ano novo dos Anões quando a última lua de Outono e o primeiro sol de Inverno aparecem juntos no céu.
 This is ill news.                                                                     --- Isto são más notícias.
 Summer is passing.                                                                    --- O Verão está a terminar.
@@ -1174,7 +1174,7 @@ We still have time.                                                             
 -Time?                                                                                --- 
 For what? -To find the entrance.                                                      --- Para encontrar a entrada.
 We have to be standing in exactly the right spot at exactly the right time.           --- Teremos de estar no lugar exacto à altura exacta.
-Then, and only then, can the door be opened.                                          --- Nessa momento e apenas nesse momento...  poderá a porta ser aberta.
+Then, and only then, can the door be opened.                                          --- Nessa momento e apenas nesse momento... poderá a porta ser aberta.
 So this is your purpose, to enter the mountain?                                       --- Então é este o vosso objectivo?
 What of it?                                                                           --- O que tem?
 There are some who would not deem it wise.                                            --- Há quem não o considere sensato.
@@ -1203,7 +1203,7 @@ No. I'm simply doing what I feel to be right.                                   
 The dragon has long been on your mind.                                                --- Mas se ele se aliar ao inimigo...
 That is true, my lady.                                                                --- É verdade, minha senhora.
 Smaug owes allegiance to no one.                                                      --- O Smaug não deve lealdade a ninguém.
-But if he should side with the enemy... a dragon could be used to terrible effect.    --- Mas se ele se aliar ao inimigo...  um dragão poderá ser usado com resultados terríveis.
+But if he should side with the enemy... a dragon could be used to terrible effect.    --- Mas se ele se aliar ao inimigo... um dragão poderá ser usado com resultados terríveis.
 What enemy?                                                                           --- Que inimigo?
 Gandalf, the enemy is defeated.                                                       --- Gandalf, o inimigo foi derrotado.
 Sauron is vanquished.                                                                 --- Sauron foi vencido.
@@ -1230,7 +1230,7 @@ No such power exists in this world.                                             
 This Necromancer is nothing more than a mortal man.                                   --- Esse Necromante não é mais do que um homem mortal.
 A conjurer dabbling in black magic.                                                   --- Um mago a experimentar magia negra.
 And so I thought too.                                                                 --- 
--But Radagast has seen--  Radagast?                                                   --- o Radagast viu...
+-But Radagast has seen-- Radagast?                                                    --- o Radagast viu...
 Do not speak to me of Radagast the Brown.                                             --- Não me fales de Radagast, o Castanho.
 He's a foolish fellow.                                                                --- É um sujeito tolo.
 Well, he's odd, I grant you.                                                          --- É estranho, concedo-lhe isso.
@@ -1252,7 +1252,7 @@ A Morgul Blade.                                                                 
 Made for the Witchking of Angmar.                                                     --- Feita para o Rei dos Bruxos de Angmar e...
 And buried with him.                                                                  --- enterrada com ele.
 When Angmar fell... the Men of the North took his body and all that he possessed... and sealed it within the High Fells of Rhudaur. --- Quando Angmar caiu... os Homens do Norte levaram o seu corpo e tudo o que ele possuía e selaram-no no interior das altas montanhas de Rhudaur.
-Deep within the rock they buried him... in a tomb so dark... it would never come to light. --- Enterraram-no nas profundezas da rocha, num túmulo tão escuro...  que nunca virá a luz do dia.
+Deep within the rock they buried him... in a tomb so dark... it would never come to light. --- Enterraram-no nas profundezas da rocha, num túmulo tão escuro... que nunca virá a luz do dia.
 This is not possible.                                                                 --- Isto não é possível.
 A powerful spell lies upon those tombs.                                               --- Um poderoso feitiço jaz sobre esses túmulos.
 They cannot be opened.                                                                --- Não podem ser abertos.
@@ -1294,15 +1294,15 @@ Why the Halfling?                                                               
 I do not know.                                                                        --- Não sei.
 Saruman believes that it is only great power... that can hold evil in check.          --- Saruman crê que apenas um grande poder pode manter o mal afastado.
 But that is not what I have found.                                                    --- Mas não foi isso que eu descobri.
-I have found it is the small things... everyday deeds of ordinary folk... that keeps the darkness at bay. --- Descobri que são...  as coisas pequenas, actos quotidianos de pessoas comuns, que impedem a escuridão de se alastrar.
+I have found it is the small things... everyday deeds of ordinary folk... that keeps the darkness at bay. --- Descobri que são... as coisas pequenas, actos quotidianos de pessoas comuns, que impedem a escuridão de se alastrar.
 Simple acts of kindness and love.                                                     --- Gestos simples de bondade e amor.
 Why Bilbo Baggins?                                                                    --- Porquê o Bilbo Baggins?
-Perhaps it is because I'm afraid... and he gives me courage.                          --- Talvez seja por eu estar com medo...  e ele me dar coragem.
+Perhaps it is because I'm afraid... and he gives me courage.                          --- Talvez seja por eu estar com medo... e ele me dar coragem.
 Do not be afraid, Mithrandir.                                                         --- Não tenha medo, Mithrandir.
 You are not alone.                                                                    --- Não está sozinho.
 Hey!                                                                                  --- 
 Hold on!                                                                              --- Aguentem-se!
-Aah!  Bilbo!                                                                          --- Temos de encontrar um abrigo!
+Aah! Bilbo!                                                                           --- Temos de encontrar um abrigo!
 We must find shelter!                                                                 --- Temos de encontrar um abrigo!
 Look out!                                                                             --- 
 Look out, brother!                                                                    --- Abriguem-se!
@@ -1457,7 +1457,7 @@ Start with its head.                                                            
 They gnaws our feet                                                                   --- Elas roem-nos os pés!                      
 The rocks and stones They're like old bones                                           --- As rochas e as pedras                       São como ossos velhos                     
 All bare of meat                                                                      --- Todas despidas de carne!                
-Cold as death Without no breath It's good to eat                                      --- Frias como a morte                            Sem qualquer respiração                    São boas para comer!                      
+Cold as death Without no breath It's good to eat                                      --- Frias como a morte                            Sem qualquer respiração                   São boas para comer!                      
 Bless us and splash us, precious.                                                     --- Abençoados salpicos, precioso.
 That's a meaty mouthful.                                                              --- Que coisa mais carnuda!
 Gollum, gollum!                                                                       --- 
@@ -1518,7 +1518,7 @@ No. I want to play.                                                             
 I do.                                                                                 --- 
 I want to play.                                                                       --- Então por que não...
 I can see... you are very good at this.                                               --- Vejo que és muito bom nisto.
-So why don't we... have a game of riddles?                                            --- Então por que não...  fazemos um jogo de adivinhas?
+So why don't we... have a game of riddles?                                            --- Então por que não... fazemos um jogo de adivinhas?
 Yes? Just you and me.                                                                 --- Apenas tu e eu.
 Yes.                                                                                  --- Sim...
 Yes, just us.                                                                         --- apenas nós.
@@ -1533,7 +1533,7 @@ If Baggins loses, we eats it whole.                                             
 Fair enough.                                                                          --- É justo.
 Well, Baggins first.                                                                  --- O Baggins primeiro.
 Thirty white horses on a red hill                                                     --- Trinta e um cavalos brancos num monte vermelho.
-First they champ, then they stamp  Then they stand still                              --- Primeiro comem, depois pisam, depois ficam quietos.
+First they champ, then they stamp Then they stand still                               --- Primeiro comem, depois pisam, depois ficam quietos.
 Teeth?                                                                                --- 
 Teeth!                                                                                --- 
 Oh, yes, my precious!                                                                 --- Sim, meu precioso.
@@ -1570,7 +1570,7 @@ Eggses!                                                                         
 Wet, crunchy little eggses.                                                           --- Ovinhos molhados e estaladiços, sim.
 Yes. Grandmother taught us to suck them, yes!                                         --- A avó ensinou-nos a chupá-los, sim!
 We have one for you.                                                                  --- Nós temos uma para ti.
-All things it devours  Birds, beasts, trees, flowers                                  --- Todas as coisas devora, pássaros, animais, árvores, flores.
+All things it devours Birds, beasts, trees, flowers                                   --- Todas as coisas devora, pássaros, animais, árvores, flores.
 Gnaws iron, bites steel                                                               --- Rói o ferro, morde o aço,
 Grinds hard stones to meal                                                            --- Tritura pedras duras como refeição.
 Answer us.                                                                            --- - Responde-nos.
@@ -1647,11 +1647,11 @@ What has it got... in its nasty... little pocketses?                            
 He stole it.                                                                          --- Ele roubou-o...
 He stole it!                                                                          --- Ele roubou-o!
 He stole it!                                                                          --- Ele roubou-o!
-Bones will be shattered  Necks will be wrung                                          --- Ossos serão estilhaçados!                     Pescoços serão torcidos!                     
+Bones will be shattered Necks will be wrung                                           --- Ossos serão estilhaçados!                     Pescoços serão torcidos!                     
 You'll be beaten and battered                                                         --- 
 From racks you'll be hung                                                             --- 
 You will die down here And never be found                                             --- Nas profundezas                                    Da cidade dos Goblins!                          
-Down in the deep of Goblin-town I know that sword!                                    --- Nas profundezas                                    Da cidade dos Goblins!                            Eu conheço essa espada!
+Down in the deep of Goblin-town I know that sword!                                    --- Nas profundezas                                    Da cidade dos Goblins!                           Eu conheço essa espada!
 lt is the Goblin-cleaver!                                                             --- É a Rachadora de Goblins!
 The Biter!                                                                            --- A Mordedora!
 The blade that sliced 1 000 necks!                                                    --- A espada que cortou milhares de pescoços!
@@ -1708,7 +1708,7 @@ Wait!                                                                           
 Gollum, gollum!                                                                       --- 
 Quick, quick!                                                                         --- Espera!
 This way.                                                                             --- 
-Come on.  Come on, come on.                                                           --- Espera!
+Come on. Come on, come on.                                                            --- Espera!
 Quickly.                                                                              --- 
 Right, good!                                                                          --- 
 Baggins!                                                                              --- Baggins!
@@ -1768,7 +1768,7 @@ Come on, climb!                                                                 
 Bilbo, climb!                                                                         --- Bilbo, trepa!
 Quickly!                                                                              --- Bilbo, trepa!
 They're coming!                                                                       --- 
-Hang on!  Hold on, brothers!                                                          --- Azog!
+Hang on! Hold on, brothers!                                                           --- Azog!
 Azog.                                                                                 --- Azog!
 lt cannot be.                                                                         --- Não pode ser...
 It's going!                                                                           --- 

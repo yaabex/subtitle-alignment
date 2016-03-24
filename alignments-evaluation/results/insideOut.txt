@@ -13,7 +13,7 @@ Er, for 33 seconds?                                                             
 I'm sadness.                                                                          --- 
 Hello.                                                                                --- 
 I... I'm Joy.                                                                         --- 
-So...  Can I just...                                                                  --- 
+So... Can I just...                                                                   --- 
 if you could... I just want to fix that.                                              --- Podias tirar as mãozinhas?
 Thanks.                                                                               --- Obrigada.
 And that was just the beginning.                                                      --- E este foi só o princípio.
@@ -292,7 +292,7 @@ I just touched it.                                                              
 - No!                                                                                 --- - Não, acho que consigo!
 I guess I can't!                                                                      --- - Não, acho que consigo!
 - Good going, sadness.                                                                --- Muito bem, Tristeza.
-Now when Riley thinks of that moment with dad, she's gonna feel sad.                  --- Quando a Riley se lembrar disto,  - vai sentir-se triste.
+Now when Riley thinks of that moment with dad, she's gonna feel sad.                  --- Quando a Riley se lembrar disto, - vai sentir-se triste.
 Bravo.                                                                                --- Bravo!
 I'm sorry, Joy.                                                                       --- - Desculpa, Alegria.
 I don't really know...                                                                --- Eu não sabia...
@@ -326,11 +326,11 @@ I'm awful.                                                                      
 - And annoying.                                                                       --- - E irritante.
 You know what?                                                                        --- - Bem...
 You can't focus on what's going wrong.                                                --- Queres saber? Não olhes só para o que corre mal!
-There's always a way to turn things around, to find the fun.                          --- Há sempre uma maneira de melhorar,  - descobrir a diversão.
+There's always a way to turn things around, to find the fun.                          --- Há sempre uma maneira de melhorar, - descobrir a diversão.
 Yeah. Find the fun.                                                                   --- 
 I don't know how to do that.                                                          --- - Não sei como fazer isso.
 Okay.                                                                                 --- - Bem...
-Well, try to think of something funny.                                                --- - Bem...  Tenta pensar em qualquer coisa engraçada.
+Well, try to think of something funny.                                                --- - Bem... Tenta pensar em qualquer coisa engraçada.
 Remember the funny movie where the dog dies?                                          --- Lembras-te do filme engraçado em que o cão morre?
 Yeah, that's not...                                                                   --- Sim, claro.
 What about that time with Meg when Riley laughed so hard milk came out of her nose?   --- E daquela vez, com a Meg, que a Riley riu tanto que saiu leite pelo nariz dela?
@@ -397,7 +397,7 @@ I can't believe mom and dad moved us here!                                      
 Look, I get it.                                                                       --- Ouçam, eu percebo.
 You guys have concerns.                                                               --- Têm preocupações.
 But we've been through worse!                                                         --- Mas já estivemos pior.
-Tell you what, let's make a list of all the things  Riley should be happy about.      --- Vamos fazer uma lista das coisas felizes da Riley!
+Tell you what, let's make a list of all the things Riley should be happy about.       --- Vamos fazer uma lista das coisas felizes da Riley!
 Fine.                                                                                 --- Está bem.
 Let's see, this house stinks, our room stinks.                                        --- 
 - Pizza is weird here.                                                                --- - A pizza é má.
@@ -411,7 +411,7 @@ Okay, I admit it, we had a rough start.                                         
 But think of all the good things that...                                              --- - Mas pensem nas coisas boas.
 No, Joy. There's absolutely no reason for Riley to be happy right now.                --- - Não, Alegria.
 Let us handle this.                                                                   --- - Deixa-nos tratar disto.
-I say we skip school tomorrow and lock ourselves in the bedroom.                      --- - Vamos fazer gazeta às aulas amanhã  - e fechar-nos no quarto.
+I say we skip school tomorrow and lock ourselves in the bedroom.                      --- - Vamos fazer gazeta às aulas amanhã - e fechar-nos no quarto.
 We have no clean clothes.                                                             --- - Não temos roupas limpas.
 I mean, no one should see us.                                                         --- - Não temos roupas limpas.
 Yeah, we could cry until we can't breathe.                                            --- Sim, podíamos chorar muito.
@@ -553,7 +553,7 @@ We have a new student in class today.                                           
 Are you kidding me?                                                                   --- Estás a brincar?
 Out of the gate?                                                                      --- Já não se faz isso!
 This is not happening!                                                                --- - Isto não está a acontecer!
-Riley, would you like to tell us something about yourself?                            --- - Riley...  - Queres dizer alguma coisa sobre ti?
+Riley, would you like to tell us something about yourself?                            --- - Riley... - Queres dizer alguma coisa sobre ti?
 No!                                                                                   --- - Não!
 Pretend we can't speak English.                                                       --- - Não! - Finge que não percebemos inglês.
 Don't worry.                                                                          --- - Eu trato disto.
@@ -653,7 +653,7 @@ Joy would know what to do.                                                      
 That's it.                                                                            --- É isso.
 Until she gets back, we just do what Joy would do!                                    --- Até ela voltar, vamos fingir que somos a a Alegria.
 Great idea.                                                                           --- Boa ideia!
-Anger, fear, disgust, how are we supposed to be happy?                                --- Raiva, Raiva, Repulsa...  Como é suposto sermos felizes?
+Anger, fear, disgust, how are we supposed to be happy?                                --- Raiva, Raiva, Repulsa... Como é suposto sermos felizes?
 Hey, Riley. I've got good news!                                                       --- Riley tenho boas notícias.
 I found a junior hockey league right here in San Francisco.                           --- Achei uma liga de hóquei aqui em São Francisco.
 And get this: Try-outs are tomorrow after school.                                     --- E adivinha? Os testes são amanhã depois da escola.
@@ -1154,7 +1154,7 @@ What's wrong?                                                                   
 - You're not going to finish try-outs?                                                --- - Não vais acabar o teste?
 - What's the point?                                                                   --- - Para quê?
 Hey. It'll be all right.                                                              --- - Vai correr tudo bem...
-Let's just go back...  Stop saying everything will be all right!                      --- Bing Bong, temos que ir já.
+Let's just go back... Stop saying everything will be all right!                       --- Bing Bong, temos que ir já.
 Nice hustle, ladies!                                                                  --- - Vai correr tudo bem...
 Hockey?                                                                               --- A Ilha do Hóquei...
 No, no, she loves hockey.                                                             --- Não, ela adora hóquei.
@@ -1270,7 +1270,7 @@ I love that one!                                                                
 Rainbow unicorn! She's right there!                                                   --- O Unicórnio Colorido, ela está ali!
 My friend says you're famous.                                                         --- A minha amiga disse que és famoso.
 She wants your autograph.                                                             --- - Ela quer um autógrafo.
-No, no, sadness, don't bother miss unicorn, okay?                                     --- - Não...  Não incomodes o Sr. Unicórnio.
+No, no, sadness, don't bother miss unicorn, okay?                                     --- - Não... Não incomodes o Sr. Unicórnio.
 Sorry, she's from out of town.                                                        --- Ela é de uma cidade pequena.
 That was so embarrassing, right?                                                      --- Tão constrangedor.
 I loved you in fairy dream adventure part 7.                                          --- Adorei o seu papel em Aventura das Fadas Parte 7.
@@ -1283,7 +1283,7 @@ Today's memories are in!                                                        
 We've got a lot to work with here.                                                    --- 
 Riley dumped her best friend, had a miserable day at school, and quit hockey.         --- 
 The writers have put together a killer script!                                        --- Os guionistas capricharam.
-Just because Joy and sadness are gone, I have to do stupid dream duty.                --- Só porque a Alegria e a Tristeza saíram  é que tenho que tratar deste sonho.
+Just because Joy and sadness are gone, I have to do stupid dream duty.                --- Só porque a Alegria e a Tristeza saíram é que tenho que tratar deste sonho.
 Okay. How are we going to wake her up?                                                --- Como vamos fazê-la acordar?
 Well, she wakes up sometimes when she has a scary dream.                              --- Ela costuma acordar quando tem pesadelos.
 We could scare her.                                                                   --- - Podemos assustá-la?
@@ -1566,7 +1566,7 @@ Since we moved.                                                                 
 Do you remember how she used to stick her tongue out when she was coloring?           --- Lembras-te? Como ela punha a língua de fora quando pintava?
 I could listen to her stories all day.                                                --- Podia ficar a ouvir as histórias dela o dia todo.
 I just wanted Riley to be happy.                                                      --- Só queria que a Riley fosse feliz.
-And now... It was the day the prairie dogs lost the big playoff game.                 --- E agora...  O dia em que as Feras do Gelo perderam a final.
+And now... It was the day the prairie dogs lost the big playoff game.                 --- E agora... O dia em que as Feras do Gelo perderam a final.
 Riley missed the winning shot.                                                        --- A Riley falhou o último remate.
 She felt awful.                                                                       --- Ela ficou horrível.
 She wanted to quit.                                                                   --- Queria desistir.
@@ -1595,7 +1595,7 @@ Come on, Joy.                                                                   
 One more time.                                                                        --- Mais uma vez.
 I got a feeling about this one.                                                       --- Estou optimista sobre esta vez.
 Bing bong, bing bong his rocket makes you yell "hooray!"                              --- No seu foguete a voar!
-Bing bong, bing bong who's the best in every way and wants to sing this song to say who's your friend who likes to play? --- O seu amigo para brincar, Bing Bong, Bing Bong  O meu amigo para brincar...
+Bing bong, bing bong who's the best in every way and wants to sing this song to say who's your friend who likes to play? --- O seu amigo para brincar, Bing Bong, Bing Bong O meu amigo para brincar...
 Bing bong, bing bong louder!                                                          --- Bing Bong, conseguimos!
 Joy, sing louder!                                                                     --- Alegria, canta mais alto.
 To sing this song to say who's your friend who likes to...                            --- Alegria, canta mais alto.
@@ -1676,7 +1676,7 @@ No, I didn't!                                                                   
 don't touch that!                                                                     --- - Não parti!
 Let me do it!                                                                         --- - Não parti!
 Get out of here!                                                                      --- - Não parti!
-Guys, we can't make Riley feel anything.                                              --- Pessoal...  Não conseguimos fazer a Riley sentir nada.
+Guys, we can't make Riley feel anything.                                              --- Pessoal... Não conseguimos fazer a Riley sentir nada.
 What have we done?                                                                    --- O que fizemos?
 Hey!                                                                                  --- 
 Hey, look at me! Did you mean what you said before?                                   --- Falaste a sério aquilo antes?
@@ -1736,9 +1736,9 @@ Honey!                                                                          
 What happened?                                                                        --- É tão tarde.
 Are you all right?                                                                    --- É tão tarde.
 We asked the neighbors, I called the school, we talked to your teacher.               --- 
-I know you don't want me to but... I miss home.                                       --- Sei que esta casa é vossa, mas...  Eu sinto falta da casa.
+I know you don't want me to but... I miss home.                                       --- Sei que esta casa é vossa, mas... Eu sinto falta da casa.
 I miss Minnesota.                                                                     --- A minha casa fica no Minnesota.
-You need me to be happy, but... I want my old friends, and my hockey team.            --- Vocês querem que seja feliz...  Mas quero os meus antigos amigos... a minha equipa de hóquei...
+You need me to be happy, but... I want my old friends, and my hockey team.            --- Vocês querem que seja feliz... Mas quero os meus antigos amigos... a minha equipa de hóquei...
 I want to go home.                                                                    --- Eu quero ir para casa.
 Please don't be mad.                                                                  --- Por favor, não fiquem zangados.
 - Sweetie.                                                                            --- - Não estamos zangados.

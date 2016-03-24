@@ -25,7 +25,7 @@ About the Piece of Resistance.                                                  
 Oh, yes! The supposed missing Piece of Resistance... that can somehow magically disarm the Kragle. --- A suposta Peça da Resistência perdida que pode desarmar magicamente o Kragle.
 Give me a break!                                                                      --- Poupa-me!
 One day, a talented lass or fellow                                                    --- Um dia, uma rapariga ou rapaz talentoso
-A Special One with face of yellow  Will make the Piece of Resistance found            --- Um Escolhido de cara amarela Irá encontrar a Peça da Resistência
+A Special One with face of yellow Will make the Piece of Resistance found             --- Um Escolhido de cara amarela Irá encontrar a Peça da Resistência
 From its hiding refuge underground                                                    --- Escondida no seu refúgio subterrâneo
 And with a noble army at the helm                                                     --- E liderando uma nobre armada
 This MasterBuilder will thwart The Kragle and save the realm                          --- Este Mestre Construtor irá opor-se Ao Kragle e salvar o reino
@@ -113,7 +113,7 @@ Meow.                                                                           
 - Jeff.                                                                               --- Jeff.
 - Meow. Obey all traffic signs and regulations.                                       --- Passo 12: Obedeça aos sinais de trânsito e normas.
 Enjoy popular music.                                                                  --- Passo 13: Desfrute da música pop.
-Top of the charts again...  - ...it's "Everything ls Awesome.                         --- Outra vez no topo das tabelas está "Tudo é Fixe".
+Top of the charts again... - ...it's "Everything ls Awesome.                          --- Outra vez no topo das tabelas está "Tudo é Fixe".
 " - Oh, my gosh, I love this song!                                                    --- Meu Deus, adoro esta canção!
 Everything is awesome                                                                 --- Tudo é fixe
 Everything is cool                                                                    --- Tudo é porreiro
@@ -188,7 +188,7 @@ No, wait, guys!                                                                 
 Wait up!                                                                              --- Esperem aí!
 Okay, I'll meet you there.                                                            --- Pronto, eu vou lá ter convosco.
 Oh. Where did it go?                                                                  --- Para onde foi?
-Oh, there you are.                                                                    --- Aqui estás tu.
+Oh, there you are.                                                                    --- 
 I think I heard a whoosh.                                                             --- Pareceu-me ter ouvido um sopro.
 Hey, pal, I hate to tell you this... but, uh, I don't think you're supposed to be here. --- Amigo, desculpe estar a maçá-lo, mas não pode estar aqui.
 Yeah, the rules specifically state... work site closes at 6, it's a hard-hat area only. --- Sim, as regras dizem claramente que fechamos às 18 horas, o uso de capacete é obrigatório.
@@ -225,7 +225,7 @@ Touch the Piece.                                                                
 Touch the Piece.                                                                      --- Toca na Peça.
 - Touch the Piece. - Uh...                                                            --- Toca na Peça.
 Touch the...                                                                          --- Toca na...
-A Special One with face of yellow  Will make the Piece of Resistance found            --- Um Escolhido de cara amarela Irá encontrar a Peça da Resistência
+A Special One with face of yellow Will make the Piece of Resistance found             --- Um Escolhido de cara amarela Irá encontrar a Peça da Resistência
 From its hiding refuge underground                                                    --- Escondida no seu refúgio subterrâneo
 What's going on down here?                                                            --- O que se passa aqui em baixo?
 This MasterBuilder will thwart The Kragle and save the realm                          --- Este Mestre Construtor irá opor-se Ao Kragle e salvar o reino
@@ -329,7 +329,7 @@ I mean, all he does is say yes... to everything everybody else is doing.        
 You know, he's just sort of a "Hmm!"                                                  --- Sabe, é uma espécie de:
 Little bit of a blank slate, I guess.                                                 --- Creio que não tem personalidade.
 That'll be $42, please.                                                               --- São 42 dólares, por favor.
-We all have something that makes us something and Emmet is... nothing.                --- Todos nós temos alguma coisa que nos define e o Emmet não tem... ...nada.
+We all have something that makes us something and Emmet is... nothing.                --- Todos nós temos alguma coisa que nos define e o Emmet não tem... nada.
 There you go.                                                                         --- Está a ver?
 - I told you I was a nobody.                                                          --- Eu disse que era um zé-ninguém.
 - Oh. It's the perfect cover.                                                         --- É o disfarce perfeito.
@@ -386,7 +386,7 @@ Or whenever you can.                                                            
 10-4, Bad Cop.                                                                        --- Afirmativo, Polícia Mau.
 - Watch out!                                                                          --- -Cuidado!
 - Hold on.                                                                            --- -Segure-se.
-We need to meet up with Vitruvius...  - ...and tell him the Piece has been found.     --- 
+We need to meet up with Vitruvius... - ...and tell him the Piece has been found.      --- 
 Uh-huh. They're up on the monorail.                                                   --- Eles estão no mono carril.
 Release the copper choppers.                                                          --- Soltem os polícia-helicópteros.
 Oh, no!                                                                               --- Não!
@@ -457,7 +457,7 @@ Oh, no!                                                                         
 Darn, darn, darn, darny-darn!                                                         --- Ora bolas, bolas, bolas!
 Wait.                                                                                 --- Espera.
 Where are we?                                                                         --- Onde estamos?
-This is so weir...!                                                                   --- Isto é tão estran...
+This is so weir...!                                                                   --- Tu não és o Escolhido!
 Ow! You're not The Special!                                                           --- Tu não és o Escolhido!
 You lied to me!                                                                       --- Mentiste-me!
 It really kind of depends on...                                                       --- Isto acaba por depender de...
@@ -496,9 +496,9 @@ Wait!                                                                           
 Hey, uh, listen. You think you can explain why I'm dressed like this... and what those big words in the sky were all about? --- Podias explicar-me porque estou a usar isto e que palavras eram aquelas no céu?
 And, like, where we are in time.                                                      --- E em que altura no tempo estamos.
 Your home, Bricksburg, is one of many realms in the universe.                         --- O teu lar, a Aldeia do Tijolo, é um dos reinos do universo.
-There's also this one...  Pirate's Cove, Knight's Club, Viking's Landing, Clown Town... a bunch of others we don't need to mention. --- Também existem estes: a Baía dos Piratas, o Clube dos Cavaleiros, o Cais dos Vikings e uma série de outros que não temos de mencionar.
+There's also this one... Pirate's Cove, Knight's Club, Viking's Landing, Clown Town... a bunch of others we don't need to mention. --- Também existem estes: a Baía dos Piratas, o Clube dos Cavaleiros, o Cais dos Vikings e uma série de outros que não temos de mencionar.
 Mm-hm.                                                                                --- 
-Lord Business, or as you think you know him...  President Business... stole the Kragle, the most powerful object in the universe. --- 
+Lord Business, or as you think you know him... President Business... stole the Kragle, the most powerful object in the universe. --- 
 Blah, blah, blah.                                                                     --- 
 Proper name.                                                                          --- Nome próprio.
 Place name.                                                                           --- Nome do local.
@@ -533,7 +533,7 @@ I knew that was suspicious.                                                     
 There's no time to lose.                                                              --- Não temos tempo a perder.
 We must find Vitruvius and get to the Office Tower before it's too late.              --- Temos de achar o Vitruvius e ir à Torre de Escritórios antes que seja tarde.
 Okay)'-                                                                               --- Está bem.
-Heh. How scary can someone's office be?                                               --- Quão assustador pode ser um escritório?DE NEGÓCIOS
+Heh. How scary can someone's office be?                                               --- Quão assustador pode ser um escritório?
 President Business, we're trying to locate the fugitive... but his face is so generic it matches every other face in our database. --- Presidente de Negócios, estamos a tentar achar o fugitivo, mas tem uma cara tão comum que se confunde na nossa base de dados.
 Diabolical.                                                                           --- Diabólico.
 Okay, have Bad Cop meet me in my office...                                            --- Está bem, pede ao Polícia Mau que vá ao meu gabinete daqui
@@ -563,7 +563,7 @@ Bad Cop is waiting for you in your office.                                      
 Wonderful.                                                                            --- Óptimo.
 Fantastic.                                                                            --- Fantástico.
 Would you cancel my 2:00?                                                             --- Podes cancelar a reunião das 14 horas?
-This next meeting could run a little bit... deadly.                                   --- Esta que vou ter agora pode tornar-se... ...fatal.
+This next meeting could run a little bit... deadly.                                   --- Esta que vou ter agora pode tornar-se... fatal.
 Activate helmet.                                                                      --- Activar capacete.
 Light sequence.                                                                       --- Sequência de luz.
 Flame test.                                                                           --- Teste de chamas.
@@ -600,11 +600,11 @@ People everywhere are always messing with my stuff.                             
 But I have a way to fix that.                                                         --- Mas tenho uma forma de resolver isso.
 A way to keep things exactly the way they are supposed to be.                         --- Uma forma de manter as coisas tal como devem ser.
 Permanently.                                                                          --- Para sempre.
-Behold... the most powerful weapon... of all the relics:                              --- Observa... ...a arma mais poderosa entre todas as relíquias:
+Behold... the most powerful weapon... of all the relics:                              --- Observa... a arma mais poderosa entre todas as relíquias:
 The Kragle!                                                                           --- O Kragle!
 As you can see, they're loading the Kragle in a big machine upstairs.                 --- Como vês, estão a pôr o Kragle numa grande máquina lá em cima.
 I call it... the Tentacle Arm Kragle Outside Sprayer.                                 --- Eu chamo-lhe o Tentáculo para Pulverizar o Kragle no Exterior.
-Or TAKOS.                                                                             --- Ou TAKOS.
+Or TAKOS.                                                                             --- O "S" não se lê.
 The "S" is silent.                                                                    --- O "S" não se lê.
 So on Taco Tuesday... it's going to spray the Kragle over everyone and everything... with a bunch of super-scary nozzles like this one! --- Por isso, na Terça dos Tacos, vai pulverizar o Kragle sobre tudo e todos com uma série de bicos assustadores como este!
 - I'll show you how it works.                                                         --- -Eu mostro-te como funciona.
@@ -645,14 +645,14 @@ All I'm asking for is total perfection.                                         
 Send in a Micro-manager!                                                              --- Chama um Micro-gestor!
 Commencing micro-management.                                                          --- 
 Hold still, you guys.                                                                 --- Não se mexam.
-And then... I just spray them...  With the TAKOS.                                     --- E depois, simplesmente pulverizo-os com o TAKOS.
+And then... I just spray them... With the TAKOS.                                      --- E depois, simplesmente pulverizo-os com o TAKOS.
 Oh, Pa, hold me.                                                                      --- Querido, abraça-me.
 Oh, darling, I can't move me legs.                                                    --- Meu amor, não consigo mexer as pernas.
 - Does that upset you, Bad Cop?                                                       --- Aquilo perturba-te, Polícia Mau?
-- Um...  Surely you feel bad for your parents, and you wanna help them, don't you?    --- Certamente tens pena dos teus pais e queres ajudá-los, não é?
+- Um... Surely you feel bad for your parents, and you wanna help them, don't you?     --- Certamente tens pena dos teus pais e queres ajudá-los, não é?
 We're okay, son.                                                                      --- Nós estamos bem, filho.
 Just a little stuck, is all.                                                          --- Só um pouco presos, mais nada.
-Go ahead... finish the job.                                                           --- Força... ...termina a tarefa.
+Go ahead... finish the job.                                                           --- Força... termina a tarefa.
 Of course, sir.                                                                       --- Com certeza, chefe.
 No, I don't want to.                                                                  --- Não, eu não quero.
 - You have to.                                                                        --- -Tens de fazê-lo.
@@ -730,8 +730,8 @@ Vitruvius, we have found the Piece of Resistance.                               
 Wyldstyle.                                                                            --- SuperCool.
 The prophecy states that... you are The Special.                                      --- A profecia afirma que tu és A Escolhida.
 The embodiment of good, foiler of evil.                                               --- A encarnação do Bem, combatente contra o Mal.
-The most talented, most brilliant... most important person in the universe.           --- Isso seria óptimo... ...mas quem achou a Peça foi o Emmet.
-That would be great... but Emmet is the one who found the Piece.                      --- Isso seria óptimo... ...mas quem achou a Peça foi o Emmet.
+The most talented, most brilliant... most important person in the universe.           --- Isso seria óptimo... mas quem achou a Peça foi o Emmet.
+That would be great... but Emmet is the one who found the Piece.                      --- Isso seria óptimo... mas quem achou a Peça foi o Emmet.
 Oh, okay.                                                                             --- Está bem.
 Emmet!                                                                                --- Emmet!
 The prophecy states that... you are The Special.                                      --- A profecia diz que tu és o Escolhido.
@@ -747,8 +747,8 @@ Watch. Emmet, just given what's around you...                                   
 No. You must create the instructions in your mind, my liege.                          --- Tens de criar as instruções na tua mente, meu senhor.
 Ah.                                                                                   --- Certo.
 Okay. Race car.                                                                       --- Um carro de corrida.
-Um...  Well, there's a lot of really cool stuff here.                                 --- 
-Don't see a wheel...  OI'... three more wheels.                                       --- Não vejo uma roda ou... ...mais três rodas.
+Um... Well, there's a lot of really cool stuff here.                                  --- 
+Don't see a wheel... OI'... three more wheels.                                        --- Não vejo uma roda ou... mais três rodas.
 See?                                                                                  --- 
 He can't do it.                                                                       --- Ele não consegue.
 He will never be a MasterBuilder.                                                     --- Nunca será um Mestre Construtor.
@@ -794,12 +794,12 @@ I could?                                                                        
 The prophecy chose you, Emmet.                                                        --- A profecia escolheu-te, Emmet.
 But I can't do any of the stuff... that the prophecy says I'm supposed to do.         --- Mas eu não sei fazer nenhuma das coisas que a profecia diz que eu sou capaz de fazer.
 All you have to do is to believe.                                                     --- Só tens de acreditar.
-Then... you will see everything.                                                      --- Depois... ...vais ver tudo.
+Then... you will see everything.                                                      --- Depois... vais ver tudo.
 Are you ready, my son?                                                                --- Estás pronto, meu filho?
 Yes, I am.                                                                            --- Sim, estou.
 I think.                                                                              --- Acho eu.
 Then we haven't a moment to lose.                                                     --- Não temos um minuto a perder.
-We must assemble... the MasterBuilders.                                               --- Temos de reunir... ...os Mestres Construtores.
+We must assemble... the MasterBuilders.                                               --- Temos de reunir... os Mestres Construtores.
 Do you think Zeppelins are a bad investment?                                          --- Achas que dirigíveis são um mau investimento?
 Any of you fellas seen this guy?                                                      --- Algum de vocês viu este tipo?
 Wait a minute, partner.                                                               --- Espera aí, parceiro.
@@ -865,7 +865,7 @@ No!                                                                             
 The wheel!                                                                            --- A roda!
 I can't control it much longer!                                                       --- Não consigo controlá-lo durante muito mais tempo.
 Emmet, we need to attach the wheel to something that spins around.                    --- Emmet, temos de pôr a roda em algo que gire.
-Um...  We need to attach the wheel to something that spins around.                    --- Temos de pôr a roda em algo que gire.
+Um... We need to attach the wheel to something that spins around.                     --- Temos de pôr a roda em algo que gire.
 We need to attach the wheel to something that spins around.                           --- Temos de pôr a roda em algo que gire.
 We need to attach the wheel to something that spins around.                           --- Temos de pôr a roda em algo que gire.
 Something that spins around.                                                          --- Algo que gire.
@@ -945,7 +945,7 @@ Listen to them bark!                                                            
 Can you turn that down a little bit?                                                  --- Podias baixar um pouco o volume?
 This is a song I wrote for Wyldstyle.                                                 --- Eu escrevi esta canção para a SuperCool.
 Darkness It's about how I'm an orphan.                                                --- Bom, vocês têm de ver estes novos subwoofers que instalei.
-No parents  This is real music, Emmet.                                                --- Sem pais Isto é música a sério, Emmet.
+No parents This is real music, Emmet.                                                 --- Sem pais Isto é música a sério, Emmet.
 Batman's a true artist.                                                               --- O Batman é um verdadeiro artista.
 Dark, brooding.                                                                       --- Sombrio, melancólico.
 Well, I'm dark and brooding too.                                                      --- Bem, eu também sou sombrio e melancólico.
@@ -987,7 +987,7 @@ Gandalf...                                                                      
 Swamp Creature...                                                                     --- Criatura do Pântano,
 - ...1980-something Space Guy...                                                      --- -Homem Espacial dos anos 80...
 - Hello!                                                                              --- -Viva!
-2002 NBA All-Stars...  - ...and Wonder Woman.                                         --- All-Stars da NBA de 2002 e Mulher-Maravilha.
+2002 NBA All-Stars... - ...and Wonder Woman.                                          --- All-Stars da NBA de 2002 e Mulher-Maravilha.
 - Unh! You have traveled far to be here for a moment of great import.                 --- Vocês vieram de longe para participar num momento importante.
 We have learned... that Lord Business plans to unleash... a fully weaponized Kragle... on Taco Tuesday... to end the world as we know it. --- Descobrimos que o Lorde Negócios pretende usar um Kragle transformado em arma na Terça dos Tacos, para acabar com o mundo.
 Please, calm yourselves.                                                              --- Por favor, tenham calma.
@@ -1045,7 +1045,7 @@ I may not have a lot of experience... fighting or leading or coming up with plan
 Or having ideas in general.                                                           --- Ou ter ideias em geral.
 In fact, I'm not all that smart.                                                      --- Na verdade, não sou assim muito inteligente.
 And I'm not what you'd call a "creative type."                                        --- E não sou o que se chama de "tipo criativo".
-Plus... generally unskilled.                                                          --- Além disso... ...não tenho grandes qualificações.
+Plus... generally unskilled.                                                          --- Além disso... não tenho grandes qualificações.
 Also... scared and cowardly.                                                          --- Também tenho medo e sou cobarde.
 I know what you're thinking: "He is the least qualified person... in the world to lead us." --- Eu sei o que estão a pensar: "Ele é a pessoa menos qualificada no mundo para liderar-nos."
 And you are right.                                                                    --- E têm razão.
@@ -1120,7 +1120,7 @@ Fine.                                                                           
 Fine.                                                                                 --- Pronto.
 Fine.                                                                                 --- Pronto.
 - I need you to have a better attitude.                                               --- -Tens de melhorar a atitude.
-- I have a great...  - ...attitude.                                                   --- -Tenho uma óptima atitude.
+- I have a great... - ...attitude.                                                    --- -Tenho uma óptima atitude.
 - Ouch. The Special's in the northwest quadrant.                                      --- 
 We've got him cornered.                                                               --- Temo-lo encurralado.
 Ouch.                                                                                 --- 
@@ -1303,7 +1303,7 @@ Well said.                                                                      
 Really?                                                                               --- A sério?
 She be a fine speech there, laddie.                                                   --- Fizeste um belo discurso, rapazinho.
 Okay)'-                                                                               --- Está bem.
-Somebody get me some markers... some construction paper... and some glitter glue!     --- Tragam-me marcadores... ...papel para planos de construção... ...e alguma cola de brilho!
+Somebody get me some markers... some construction paper... and some glitter glue!     --- Tragam-me marcadores... papel para planos de construção... e alguma cola de brilho!
 I call this: "Emmet's plan to get inside the Tower... put the Piece of Resistance on the Kragle... and save the world." I've built a hundred just like them back in the city. --- Eu chamo a isto: "O plano do Emmet para entrar dentro da Torre, colocar a Peça da Resistência no Kragle e salvar o mundo."
 If we can just get in, I know where the air ducts and wiring are located.             --- Se entrarmos, eu sei onde ficam as condutas de ar e os circuitos.
 I can get us anywhere.                                                                --- Posso levar-nos até qualquer lado.
@@ -1435,7 +1435,7 @@ Yeah, I want speakers that you can hug with your arms and your legs... and just 
 Listen up! We need new instructions for a speaker system for the TAKOS.               --- Temos novas instruções para um sistema de colunas para o TAKOS.
 We'll never help.                                                                     --- Nós nunca iremos ajudar.
 Whatever you say, boss.                                                               --- Como quiser, chefe.
-Then once the instructions are printed...  Wyldstyle and I will enter the Kragle room... place the thing on the other thing... and save the universe. --- Depois, quando as instruções estiverem impressas, eu e a SuperCool vamos entrar na sala do Kragle, colocamos a coisa no coiso e salvamos o universo.
+Then once the instructions are printed... Wyldstyle and I will enter the Kragle room... place the thing on the other thing... and save the universe. --- Depois, quando as instruções estiverem impressas, eu e a SuperCool vamos entrar na sala do Kragle, colocamos a coisa no coiso e salvamos o universo.
 Whoa, whoa, whoa.                                                                     --- 
 Hey, I didn't draw that.                                                              --- Sou eu a explodir?
 Is that me exploding?                                                                 --- Sou eu a explodir?
@@ -1464,7 +1464,7 @@ Everything is awesome                                                           
 Everything is cool When you're part of a team                                         --- Tudo é porreiro Quando estamos numa equipa
 - Needs great harmonies.                                                              --- -Precisa de uma boa harmonia.
 - I don't want to sing the song.                                                      --- -Não quero cantar.
-I'm not...  Everything is awesome                                                     --- Tudo é fixe
+I'm not... Everything is awesome                                                      --- Tudo é fixe
 Everything is cool When you're part of a team                                         --- Tudo é porreiro Quando estamos numa equipa
 Everything is awesome                                                                 --- Tudo é fixe
 When we're living our dream                                                           --- Quando estamos a viver o nosso sonho
@@ -1485,14 +1485,14 @@ The real you, anyway.                                                           
 Look, Emmet.                                                                          --- Ouve, Emmet.
 I wanted it to be me, okay?                                                           --- Eu queria que fosse eu.
 I wanted to be The Special.                                                           --- Eu queria ser a Escolhida.
-And I know that sounds super mature. It's just... ever since I heard the prophecy, I wanted to be the One. --- E eu sei que isto parece muito maduro, é só que... ...desde que ouvi a profecia, eu quis ser a Especial.
-I was right there in that construction site... right on top of it, and then... it turned out to be you. --- Eu estava no local certo, no estaleiro, mesmo em cima dela e depois... ...acabaste por ser tu.
-That night in the city, when you thought I was The Special... and you said I was talented and important... that was the first time anyone had ever really told me that. --- Naquela noite, quando disseste que eu era o Escolhido... ...e disseste que eu era talentoso e importante... ...foi a primeira vez que me disseram isso.
+And I know that sounds super mature. It's just... ever since I heard the prophecy, I wanted to be the One. --- E eu sei que isto parece muito maduro, é só que... desde que ouvi a profecia, eu quis ser a Especial.
+I was right there in that construction site... right on top of it, and then... it turned out to be you. --- Eu estava no local certo, no estaleiro, mesmo em cima dela e depois... acabaste por ser tu.
+That night in the city, when you thought I was The Special... and you said I was talented and important... that was the first time anyone had ever really told me that. --- Naquela noite, quando disseste que eu era o Escolhido... e disseste que eu era talentoso e importante... foi a primeira vez que me disseram isso.
 And it made me wanna do everything I could... to be the guy you were talking about.   --- E fez-me querer fazer tudo para ser o tipo de que falaste.
 Lucy.                                                                                 --- Lucy.
 What?                                                                                 --- O quê?
 That was my real name.                                                                --- Esse é o meu nome verdadeiro.
-You asked earlier, and it's... ."Lucy.                                                --- Tinhas-me perguntado, e é... ...Lucy.
+You asked earlier, and it's... "Lucy.                                                 --- Tinhas-me perguntado, e é... Lucy.
 I really like that name.                                                              --- Gosto muito desse nome.
 Hey)'-                                                                                --- 
 - What are you two losers talking about?                                              --- 
@@ -1524,7 +1524,7 @@ It's just going great, if somebody would listen to me!                          
 Downloading latest episode of Where Are My Pants?                                     --- A descarregar o último episódio de Onde Estão as Minhas Calças?
 Where are you getting "pants" from?                                                   --- Porque estás a pensar em "calças"?
 You know what I want!                                                                 --- Sabes o que quero!
-The pipes are calling...  Bad Cop.                                                    --- As gaitas estão a chamar...
+The pipes are calling... Bad Cop.                                                     --- As gaitas estão a chamar...
 Hi, this is Lord Business' assistant.                                                 --- Fala a assistente do Lorde Negócios.
 He would like you to come to his office immediately.                                  --- Ele quer que vá agora ao gabinete dele.
 Copy that.                                                                            --- Entendido.
@@ -1553,7 +1553,7 @@ Let me try.                                                                     
 Be ye disabling of yon shield.                                                        --- Desactiva lá o escudo.
 Disabling shield.                                                                     --- 
 What?                                                                                 --- -O quê?
-Okay, in three... two... one.                                                         --- Certo, em três... ...dois... ...um.
+Okay, in three... two... one.                                                         --- Certo, em três... dois... um.
 Let's do this.                                                                        --- Vamos a isto.
 Lucy!                                                                                 --- Lucy!
 Lucy!                                                                                 --- Lucy!
@@ -1599,7 +1599,7 @@ Not so special anymore, huh?                                                    
 Well, guess what.                                                                     --- Bem, adivinha uma coisa.
 No one ever told me I was special.                                                    --- Nunca me disseram que eu era especial.
 I never got a trophy just for showing up!                                             --- Nunca recebi um troféu só por comparecer!
-I'm not some special little snowflake...  “HO.                                        --- Eu não sou alguém que acha que tem direito a tudo, não.
+I'm not some special little snowflake... “HO.                                         --- Eu não sou alguém que acha que tem direito a tudo, não.
 But as unspecial as I am... you are a thousand-billion times... more unspecial than me. --- Eu posso ser pouco especial, mas tu és um milhão de milhões de vezes menos especial do que eu.
 Robots, bring me the Sword of Exact Zero.                                             --- Robôs, tragam-me a Espada do Zero à Esquerda.
 Yes, Lord Business.                                                                   --- Sim, Lorde Negócios.
@@ -1679,13 +1679,13 @@ What? 34 Mississippi...                                                         
 33 Mississippi...                                                                     --- 33 Mississippi,
 32 Mississippi...                                                                     --- 32 Mississippi,
 31 Mississippi...                                                                     --- 31 Mississippi,
-30 Mississippi...  29 Mississippi...                                                  --- 29 Mississippi,
+30 Mississippi... 29 Mississippi...                                                   --- 29 Mississippi,
 28 Mississippi, 27 Mississippi...                                                     --- 28 Mississippi,
 26 Mississippi...                                                                     --- 25 Mississippi,
 25 Mississippi...                                                                     --- 25 Mississippi,
 24 Mississippi...                                                                     --- 24 Mississippi...
 Emmet!                                                                                --- Emmet!
-What are you...? 18 Mississippi...                                                    --- O que estás... ...18 Mississippi,
+What are you...? 18 Mississippi...                                                    --- O que estás... 18 Mississippi,
 - ...17 Mississippi...                                                                --- 17 Mississippi,
 - Oh! - ...16 Mississippi...                                                          --- -16 Mississippi...
 - Lucy!                                                                               --- -Lucy!
@@ -1795,7 +1795,7 @@ This might actually work.                                                       
 'Twas your speech which roused this hearty crew.                                      --- Foi o teu discurso que motivou este corajoso grupo.
 If only Emmet were here to see this.                                                  --- Se o Emmet estivesse aqui para ver isto.
 He'd say something adorable like...                                                   --- Ele diria algo querido do tipo...
-Am I just gonna keep... falling... forever?                                           --- Será que vou continuar a cair... ...para sempre?
+Am I just gonna keep... falling... forever?                                           --- Será que vou continuar a cair... para sempre?
 Is this another vision?                                                               --- Isto é outra visão?
 Where am I?                                                                           --- Onde é que eu estou?
 Is that the Office Tower?                                                             --- Aquela é a Torre de Escritórios?
@@ -1832,7 +1832,7 @@ And everything is thought-out very...                                           
 What did you do down here?                                                            --- O que fizeste aqui em baixo?
 Did you take the top off of the tower?                                                --- Tiraste o topo da torre?
 It was an accident.                                                                   --- Foi um acidente.
-You accidentally... expertly... carefully took the entire top off of that tower?      --- Tu tiraste por acaso... ...habilmente... ...com cuidado toda a parte superior daquela torre?
+You accidentally... expertly... carefully took the entire top off of that tower?      --- Tu tiraste por acaso... habilmente... com cuidado toda a parte superior daquela torre?
 Yes.                                                                                  --- Sim.
 You know the rules.                                                                   --- Tu conheces as regras.
 This isn't a toy.                                                                     --- Isto não é um brinquedo.
@@ -1993,16 +1993,16 @@ What's the Kragle?                                                              
 Um, it's in there.                                                                    --- Está ali dentro.
 In here?                                                                              --- Aqui?
 So President Business is the bad guy?                                                 --- Então, o Presidente de Negócios é o vilão?
-If... If the construction guy... said something to President Business... what would he say? --- Se...  Se o operário... ...dissesse alguma coisa ao Presidente de Negócios... ...o que é que ele diria?
-You... don't have to be... the bad guy.                                               --- Tu... ...não tens de ser... ...o mau da fita.
-You... are the most talented... most interesting... and most extraordinary person in the universe. --- És o mais talentoso... ...o mais interessante... ...e o mais extraordinário homem do universo.
-And you are capable of amazing things... because you are The Special.                 --- E és capaz de coisas incríveis... ...porque és o Escolhido.
+If... If the construction guy... said something to President Business... what would he say? --- Se... Se o operário... dissesse alguma coisa ao Presidente de Negócios... o que é que ele diria?
+You... don't have to be... the bad guy.                                               --- Tu... não tens de ser... o mau da fita.
+You... are the most talented... most interesting... and most extraordinary person in the universe. --- És o mais talentoso... o mais interessante... e o mais extraordinário homem do universo.
+And you are capable of amazing things... because you are The Special.                 --- E és capaz de coisas incríveis... porque és o Escolhido.
 And so am I.                                                                          --- E eu também.
 And so is everyone.                                                                   --- E todas as outras pessoas.
-The prophecy is made-up... but it's also true.                                        --- A profecia é falsa... ...mas também é verdadeira.
+The prophecy is made-up... but it's also true.                                        --- A profecia é falsa... mas também é verdadeira.
 It's about all of us.                                                                 --- É sobre todos nós.
 Right now, it's about you.                                                            --- Neste momento, é sobre ti.
-And you... still... can change everything.                                            --- E tu... ...ainda... ...podes mudar tudo.
+And you... still... can change everything.                                            --- E tu... ainda... podes mudar tudo.
 Oh, we got a hugger.                                                                  --- Ele gosta de abraços.
 Be careful.                                                                           --- Tem cuidado.
 I have been told it might explode.                                                    --- Disseram-me que pode explodir.
@@ -2019,7 +2019,7 @@ We did it.                                                                      
 Oh. Uh, Emmet, wait.                                                                  --- 
 Batman, there's something I need to say to you.                                       --- Batman, há algo que tenho de dizer-te.
 No.                                                                                   --- Não.
-Wyldstyle... I mean... ."Lucy.                                                        --- SuperCool...  Quero dizer... ...Lucy.
+Wyldstyle... I mean... "Lucy.                                                         --- SuperCool... Quero dizer... Lucy.
 He's the hero you deserve.                                                            --- Ele é o herói que tu mereces.
 - Uh... - Thanks, Batman.                                                             --- Obrigada, Batman.
 I liked Emmet before it was cool.                                                     --- Eu gostava do Emmet antes de ele ser fixe.
@@ -2062,7 +2062,7 @@ More darkness.                                                                  
 Get it?                                                                               --- Entenderam?
 The opposite of light                                                                 --- O contrário de luz
 Black hole                                                                            --- Um buraco negro
-Curtains drawn In the basement                                                        --- As cortinas estão fechadas  Na cave
+Curtains drawn In the basement                                                        --- As cortinas estão fechadas Na cave
 Middle of the night                                                                   --- A meio da noite
 Blacked-out windows                                                                   --- As janelas estão tapadas
 Other places that are dark                                                            --- Outros locais escuros
