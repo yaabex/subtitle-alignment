@@ -36,7 +36,7 @@ The first they heard was a noise like a hurricane... coming down from the North.
 The pines on the mountain creaked and cracked in the hot, dry wind.                   --- Os pinheiros da montanha rangeram e racharam com o vento quente e seco.
 Balin, sound the alarm.                                                               --- Balin, soa o alarme!
 Call out the guard.                                                                   --- Chama a guarda!
-Do it now!                                                                            --- 
+Do it now!                                                                            --- Imediatamente!
 What is it?                                                                           --- O que é?
 Dragon.                                                                               --- Um dragão.
 Dragon!                                                                               --- Dragão!
@@ -96,7 +96,7 @@ You know, I caught her making off with the silverware once.                     
 She had all my spoons stuffed in her pocket.                                          --- Tinha todas as minhas colheres metidas no seu bolso.
 Ha! Dreadful woman.                                                                   --- Uma mulher pavorosa.
 Make sure you keep an eye on her after I'm....                                        --- Certifica-te de que ficas de olho nela depois de eu...
-When I'm....                                                                          --- quando...
+When I'm....                                                                          --- Quando eu...
 When I'm....                                                                          --- quando...
 When you're what?                                                                     --- Quando você o quê?
 It's nothing.                                                                         --- Não é nada.
@@ -104,18 +104,19 @@ Nothing.                                                                        
 You know, some people are beginning to wonder about you, Uncle.                       --- Sabe, algumas pessoas têm começado a falar de si, tio.
 -Huh? -They think you're becoming odd.                                                --- Acham que está a ficar estranho.
 Odd?                                                                                  --- Estranho?
-Oh.                                                                                   --- Insociável.
+Oh.                                                                                   --- 
 Hm.                                                                                   --- 
 Unsociable.                                                                           --- Insociável.
 Unsociable, me?                                                                       --- 
 Nonsense.                                                                             --- Disparates!
 Be a good lad and put that on the gate.                                               --- Sê um bom rapaz e coloca isto no portão.
 -Do you think he'll come?                                                             --- Acha que ele vem?
--Who? Gandalf.                                                                        --- O Gandalf.
+-Who?                                                                                 --- Quem?
+Gandalf.                                                                              --- O Gandalf.
 Oh-ho. He wouldn't miss a chance to let off his Whizpoppers.                          --- Ele não perderia uma oportunidade para lançar os seus foguetes.
 He'll give us quite a show, you'll see.                                               --- Vai dar-nos um belo espectáculo.
 Right, then.                                                                          --- 
-I'm off.                                                                              --- - Para onde?
+I'm off.                                                                              --- 
 -Off to where?                                                                        --- - Para onde?
 East-farthing Woods.                                                                  --- 
 I'm going to surprise him.                                                            --- Vou surpreendê-lo.
@@ -126,7 +127,7 @@ Oh, no. Not that I ever was.                                                    
 In those days, I was always on time.                                                  --- Nesses dias eu chegava sempre a tempo.
 I was entirely respectable.                                                           --- Era completamente respeitável.
 And nothing unexpected... ever happened.                                              --- E nada de inesperado... acontecia.
--Good morning.                                                                        --- 
+-Good morning.                                                                        --- Bom dia.
  What do you mean?                                                                    --- O que queres dizer?
 Do you wish me a good morning... or do you mean that it is a good morning whether I want it or not? --- Desejas-me um bom dia ou queres dizer que está um bom dia independentemente de eu o querer ou não?
 Or perhaps you mean to say that you feel good on this particular morning?             --- Ou talvez queiras dizer que te sentes bem neste dia em particular.
@@ -165,7 +166,7 @@ Well, I'm pleased to find you remember something about me... even if it's only m
 Yes. Well, that's decided.                                                            --- Bem, está decidido.
 It'll be very good for you... and most amusing for me.                                --- Irá ser muito bom para ti... e muito divertido para mim.
 I shall inform the others.                                                            --- Vou informar os outros.
-Inform the who?                                                                       --- Vou informar os outros.
+Inform the who?                                                                       --- Informar?
 What?                                                                                 --- Não...
 No.                                                                                   --- Não!
 No.                                                                                   --- Não!
@@ -198,27 +199,27 @@ Hmm.                                                                            
 It's just that, um, I wasn't expecting company.                                       --- É só que... não esperava companhia.
 That'll be the door.                                                                  --- É a porta.
 Balin, at your service.                                                               --- Balin, às suas ordens.
--Good evening.                                                                        --- - Sim, está mesmo.
+-Good evening.                                                                        --- - Boa noite.
 -Yes. Yes, it is.                                                                     --- - Sim, está mesmo.
 -Though I think it might rain later.                                                  --- Apesar de acreditar que é capaz de chover mais logo.
 -Hm? Am I late?                                                                       --- Venho atrasado?
 Late for what?                                                                        --- Atrasado para o quê?
-Oh! Ha, ha!                                                                           --- 
+Oh! Ha, ha!                                                                           --- Atrasado para o quê?
 Evening, brother.                                                                     --- Boa noite, irmão.
 By my beard... you're shorter and wider than last we met.                             --- Pela minha barba. Estás mais baixo e mais largo do que na última vez.
 Wider, not shorter.                                                                   --- Mais largo, não mais baixo.
 Sharp enough for both of us.                                                          --- Mais esperto do que nós os dois juntos.
 Uh, excuse me?                                                                        --- Desculpem.
-Sorry, I hate to interrupt. But the thing is, I'm not entirely sure you're in the right house. --- 
-Have you eaten?                                                                       --- 
-It's not that I don't like visitors.                                                  --- Eu gosto de visitas tanto como qualquer outro hobbit.
+Sorry, I hate to interrupt.                                                           --- 
+But the thing is, I'm not entirely sure you're in the right house. Have you eaten?    --- Odeio interromper, mas o que se passa é que não tenho inteiramente a certeza de que estejam na casa certa.
+It's not that I don't like visitors.                                                  --- - Não é que não goste de visitas.
 I like visitors as much as the next Hobbit.                                           --- Eu gosto de visitas tanto como qualquer outro hobbit.
 But I do like to know them before they come visiting.                                 --- Mas gosto de conhecê-las antes de elas virem visitar.
 -What is this?                                                                        --- - Não sei.
 -I don't know.                                                                        --- Acho que é queijo.
 -I think it's cheese.                                                                 --- - O que se passa é que...
-Gone blue.                                                                            --- - Está cheio de bolor.
- It's riddled with mold.                                                              --- - O que se passa é que...
+Gone blue.                                                                            --- - Ficou azul.
+ It's riddled with mold.                                                              --- - Está cheio de bolor.
 The thing is, I don't know either of you.                                             --- eu não conheço nenhum dos dois.
 Not in the slightest.                                                                 --- eu não conheço nenhum dos dois.
 I don't mean to be blunt, but I had to speak my mind.                                 --- Não pretendo ser rude, mas tinha de dizer o que me vai na mente.
@@ -229,12 +230,12 @@ Apology accepted.                                                               
 -Now, fill it up, brother, don't stint.                                               --- 
 You wanna get stuck in?                                                               --- 
 -I could eat again if you insist, brother.                                            --- Posso voltar a comer, se insistes.
--Fili.                                                                                --- - E Kili.
--And Kili.                                                                            --- - Fili.
+-Fili.                                                                                --- - Fili.
+-And Kili.                                                                            --- - E Kili.
 At your service.                                                                      --- Às suas ordens!
 -You must be Mr. Boggins.                                                             --- Deve ser o Sr. Boggins.
 -Nope!                                                                                --- Não!
-You can't come in.                                                                    --- Não podem entrar.
+You can't come in.                                                                    --- 
 -You've come to the wrong house.                                                      --- 
 -What?                                                                                --- O quê?
 -Has it been canceled?                                                                --- - Foi cancelado?
@@ -263,18 +264,18 @@ There's far too many Dwarves in my dining room as it is.                        
 If this is some clot-head's idea of a joke... I can only say it is in very poor taste. --- E se isto for algum tipo de piada... apenas posso dizer que ela é de muito mau gosto!
 Get off, you big lump!                                                                --- 
 Gandalf.                                                                              --- Gandalf...
-Those are my pri--!                                                                   --- Desculpe, o meu vinho não!
+Those are my pri--!                                                                   --- Esses são os meus pratos!
 Excuse me, not my wine.                                                               --- Desculpe, o meu vinho não!
 Put that back. Put that back.                                                         --- 
 Not the jam, please.                                                                  --- A geleia não, por favor!
-Excuse me.                                                                            --- Desculpe, é um pouco excessivo, não?
+Excuse me.                                                                            --- Desculpe!
 Excuse me. It's a tad excessive, isn't it?                                            --- Desculpe, é um pouco excessivo, não?
 Have you got a cheese knife?                                                          --- - Tem uma faca de queijo?
 -"Cheese knife"?                                                                      --- - Faca de queijo?
 He eats it by the block.                                                              --- Ele come-o inteiro.
  Ugh.                                                                                 --- - Faca de queijo?
 No, that's Grandpa Mungo's chair-- No, so is that.                                    --- Não, essa é a cadeira do avô Mungo.
-Take it back, please.                                                                 --- Leve-a de volta.
+Take it back, please.                                                                 --- Desculpe, leve-a de volta, por favor.
 -I cannot hear what you're saying.                                                    --- 
  It's an antique.                                                                     --- Não é para nos sentarmos.
 Not for sitting on.                                                                   --- Não é para nos sentarmos.
@@ -305,7 +306,7 @@ It's got a fruity bouquet.                                                      
 Oh.                                                                                   --- 
 Cheers.                                                                               --- Saúde.
 Bombur's on his second leg of lamb already.                                           --- 
-Hmm.                                                                                  --- 
+Hmm.                                                                                  --- Saúde.
 No chance. Not from that distance.                                                    --- 
 Wanna bet?                                                                            --- 
 Bombur, catch!                                                                        --- Bombur, apanha!
@@ -316,8 +317,8 @@ There you go.                                                                   
  Over here, brother.                                                                  --- - Aqui, irmão!
 I said have another drink.                                                            --- - Posso beber mais um copo?
 Here you go.                                                                          --- - Aqui tens.
-Ale on the count of three!                                                            --- Um!
-One, two....                                                                          --- Dois!
+Ale on the count of three!                                                            --- Todos a beber assim que contar até três!
+One, two....                                                                          --- Um!
 Up!                                                                                   --- Dois!
 I knew you had it in you!                                                             --- 
 Excuse me, that is a doily, not a dishcloth.                                          --- Desculpe, isso é uma toalha de mesa e não um pano de limpar os pratos.
@@ -326,7 +327,7 @@ It's supposed to look like that.                                                
 It's crochet.                                                                         --- É croché.
 And a wonderful game it is too, if you've got the balls for it.                       --- E também é um jogo maravilhoso. Se tiveres bolas para ele.
 Bebother and confusticate these Dwarves!                                              --- - Que anões insuportáveis!
-My dear Bilbo, what on earth is the matter?                                           --- - Afinal o que se passa?
+My dear Bilbo, what on earth is the matter?                                           --- - Meu caro Bilbo. - Afinal o que se passa?
 What's the matter?                                                                    --- - O que se passa?
 I'm surrounded by Dwarves.                                                            --- Estou rodeado de anões.
 What are they doing here?                                                             --- O que estão eles a fazer aqui?
@@ -375,7 +376,7 @@ Bilbo Baggins, allow me to introduce the leader of our company:                 
 Thorin Oakenshield.                                                                   --- Thorin Escudo de Carvalho.
 So... this is the Hobbit.                                                             --- Então... este é o hobbit.
 Tell me, Mr. Baggins, have you done much fighting?                                    --- Diga-me, Sr. Baggins, já combateu muitas vezes?
--Pardon me?                                                                           --- 
+-Pardon me?                                                                           --- - Desculpe?
  Ax or sword?                                                                         --- - Machado ou espada?
 What's your weapon of choice?                                                         --- Qual é a sua arma de eleição?
 Well, I do have some skill at conkers, if you must know... but I fail to see why that's relevant. --- Bem, tenho algum talento a atirar castanhas-da-índia, se quer mesmo saber. Mas não vejo qual a relevância disso.
@@ -383,7 +384,8 @@ Thought as much.                                                                
 He looks more like a grocer than a burglar.                                           --- Ele parece mais um merceeiro do que um ladrão.
 What news from the meeting in Ered Luin?                                              --- Que novidades trazes do encontro de Ered Luin?
 Did they all come?                                                                    --- - Foram todos?
--Aye. Envoys from all seven kingdoms.                                                 --- Enviados de todos os sete reinos.
+-Aye.                                                                                 --- - Sim.
+Envoys from all seven kingdoms.                                                       --- Enviados de todos os sete reinos.
  All of them! And what did the Dwarves of the lron Hills say?                         --- - Foram todos?
 ls Dain with us?                                                                      --- Dáin está connosco?
 They will not come.                                                                   --- Eles não virão.
@@ -392,7 +394,7 @@ You're going on a quest?                                                        
 Bilbo, my dear fellow, let us have a little more light.                               --- Bilbo, meu caro amigo, dá-nos um pouco mais de luz.
 Far to the east... over ranges and rivers... beyond woodlands and wastelands... lies a single, solitary peak. --- No distante leste através de cordilheiras e rios, além de florestas e terras desertas, existe um único pico solitário...
 "The Lonely Mountain."                                                                --- A Montanha Solitária.
-Aye, Oin has read the portents... and the portents say it is time.                    --- O Óin leu os presságios e os presságios dizem que está na altura.
+Aye, Oin has read the portents... and the portents say it is time.                    --- Sim! O Óin leu os presságios e os presságios dizem que está na altura.
 Ravens have been seen flying back to the mountain, as it was foretold.                --- Corvos têm sido vistos a voar para a montanha.
 "When the birds of yore return to Erebor... the reign of the beast will end."         --- Como foi predito, quando as aves de tempos antigos regressarem a Erebor, o reino da criatura terminará.
 Uh, what beast?                                                                       --- 
@@ -401,20 +403,21 @@ Airborne fire-breather.                                                         
 Teeth like razors, claws like meat hooks.                                             --- Dentes como lâminas, garras como ganchos de carne.
 -Extremely fond of precious metals.                                                   --- - Gosto extremo por metais preciosos.
 -Yes, I know what a dragon is.                                                        --- - Sim, eu sei o que é um dragão.
-I'm not afraid.                                                                       --- Estou preparado.
-I'm up for it. I'll give him a taste of Dwarfish iron right up his jacksie!           --- Fá-lo-ei provar o ferro dos anões pelo seu traseiro acima!
+I'm not afraid.                                                                       --- Eu não tenho medo.
+I'm up for it.                                                                        --- Estou preparado.
+I'll give him a taste of Dwarfish iron right up his jacksie!                          --- Fá-lo-ei provar o ferro dos anões pelo seu traseiro acima!
 Good lad, Ori!                                                                        --- Senta-te!
 -Sit down.                                                                            --- Senta-te!
 The task would be difficult enough with an army behind us... but we number just 1 3.  --- A missão seria suficientemente dura com um exército atrás de nós. Mas somos apenas treze.
 And not 1 3 of the best... nor brightest.                                             --- E nem treze dos melhores. Nem dos mais inteligentes.
-Here, who are you calling dim?                                                        --- A quem é que estás a chamar estúpido?
+Here, who are you calling dim?                                                        --- 
 Sorry, what did he say?                                                               --- 
 We may be few in number... but we're fighters, all of us, to the last Dwarf.          --- 
 And you forget, we have a Wizard in our company.                                      --- E esquecem-se de que temos um feiticeiro connosco.
 Gandalf will have killed hundreds of dragons in his time.                             --- O Gandalf já terá matado centenas de dragões.
-Oh, well, no.                                                                         --- eu não diria...
+Oh, well, no.                                                                         --- - Bem, não...
 I wouldn't say--                                                                      --- eu não diria...
-How many, then?                                                                       --- - Bem, não...
+How many, then?                                                                       --- - Então quantos?
 -What?                                                                                --- - O quê?
 Well, how many dragons have you killed?                                               --- - Quantos dragões matou?
 Go on. Give us a number.                                                              --- Vá lá, dê-nos um número!
@@ -444,13 +447,13 @@ The task I have in mind will require a great deal of stealth... and no small amo
 But if we are careful and clever, I believe that it can be done.                      --- Mas se forem cuidadosos e espertos, creio que poderá ser feito.
 That's why we need a burglar.                                                         --- É por isso que precisamos de um ladrão.
 Hmm.                                                                                  --- 
-And a good one too.                                                                   --- E uma coragem proporcional.
+And a good one too.                                                                   --- E um dos bons.
 An expert, I'd imagine.                                                               --- Um especialista, suponho.
 And are you?                                                                          --- E és?
 Am I what?                                                                            --- Sou o quê?
 He said he's an expert.                                                               --- Ele disse que é um especialista!
 Hey.                                                                                  --- Eu?
-Me?                                                                                   --- 
+Me?                                                                                   --- Eu?
 No.                                                                                   --- Não.
 No, no, no.                                                                           --- Não, não...
 I'm not a burglar.                                                                    --- Não sou um ladrão.
@@ -459,7 +462,8 @@ Well, I'm afraid I have to agree with Mr. Baggins.                              
 He's hardly burglar material.                                                         --- 
 Nope. Aye, the Wild is no place for gentle folk who can neither fight nor fend for themselves. --- Sim, as terras selvagens não são lugar para pessoas pacíficas que não conseguem lutar ou defender-se a si mesmos.
 He's just fine.                                                                       --- 
-Enough! If I say Bilbo Baggins is a burglar, then a burglar he is.                    --- Se eu digo que o Bilbo Baggins é um ladrão então um ladrão ele é.
+Enough!                                                                               --- 
+If I say Bilbo Baggins is a burglar, then a burglar he is.                            --- Se eu digo que o Bilbo Baggins é um ladrão então um ladrão ele é.
 Hobbits are remarkably light on their feet.                                           --- Os hobbits são incrivelmente ligeiros.
 ln fact, they can pass unseen by most, if they choose.                                --- De facto, podem passar despercebidos pela maioria se assim o decidirem.
 And, while the dragon is accustomed to the smell of Dwarf... the scent of a Hobbit is all but unknown to him... which gives us a distinct advantage. --- E apesar do dragão estar acostumado ao cheiro dos anões, o cheiro de hobbit é-lhe completamente desconhecido, o que nos dá uma clara vantagem.
@@ -468,18 +472,19 @@ There's a lot more to him than appearances suggest.                             
 And he's got a great deal more to offer than any of you know.                         --- E ele tem muito mais para oferecer do que qualquer um de vocês sabe.
 Including himself.                                                                    --- Incluindo ele mesmo.
 You must trust me on this.                                                            --- Vais ter de confiar em mim acerca disto.
-Very well.                                                                            --- - Fazemos à sua maneira.
--We will do it your way.                                                              --- 
+Very well.                                                                            --- Muito bem.
+-We will do it your way.                                                              --- - Fazemos à sua maneira.
 -No, no.                                                                              --- - Não, não...
 Give him the contract.                                                                --- - Dá-lhe o contrato.
--We're in.                                                                            --- - Vamos a isto.
-We're off.                                                                            --- 
+-We're in.                                                                            --- - Por favor.
+We're off.                                                                            --- - Vamos a isto.
 It's just the usual. Summary of out-of-pocket expenses... time required, remuneration... funeral arrangements, so forth. --- Não posso garantir a sua segurança.
 Funeral arrangements?                                                                 --- 
 I cannot guarantee his safety.                                                        --- Não posso garantir a sua segurança.
 Understood.                                                                           --- Compreendo.
 Nor will I be responsible for his fate.                                               --- Nem serei responsável pelo que lhe vier a acontecer.
-Agreed. "Terms: Cash on delivery, up to but not exceeding one-fourteenth of total profit, if any." --- 
+Agreed.                                                                               --- Concordo.
+"Terms: Cash on delivery, up to but not exceeding one-fourteenth of total profit, if any." --- "Termos: pagamento após entrega, até, mas sem exceder, um décimo quarto do lucro total, caso exista."
 Hmm.                                                                                  --- 
 Seems fair. "Present company shall not be liable for injuries inflicted by... or sustained as a consequence thereof, including, but not limited to lacerations... evisceration...." Incineration? --- Parece justo... "A presente companhia não se responsabiliza "por ferimentos infligidos ou sofridos como consequência disso, "incluindo, mas não limitado a... "lacerações... evisceração..." Incineração?
 He'll melt the flesh off your bones in the blink of an eye.                           --- Sim, ele derrete-te a pele dos ossos num piscar de olhos.
@@ -558,8 +563,7 @@ Here, Mr. Bilbo, where are you off to?                                          
 -Late for what?                                                                       --- Atrasado para o quê?
 I'm going on an adventure!                                                            --- Vou partir para uma aventura!
 I said it.                                                                            --- 
-Didn't I say it?                                                                      --- 
-Coming here was a waste of time.                                                      --- Esperem!
+Didn't I say it? Coming here was a waste of time.                                     --- Vou partir para uma aventura!
 That's true enough.                                                                   --- Esperem!
 Ridiculous notion.                                                                    --- 
 Use a Hobbit?                                                                         --- Vou partir para uma aventura!
@@ -580,7 +584,7 @@ Even got as far as Frogmorton once.                                             
 Aah!                                                                                  --- 
 Come on, Nori.                                                                        --- Vamos, Dori, paga.
 Pay up.                                                                               --- Vamos, Dori, paga.
-One more.                                                                             --- - Obrigado, rapaz.
+One more.                                                                             --- - Mais um.
  Thanks, lad.                                                                         --- - Obrigado, rapaz.
 What's that about?                                                                    --- O que foi isto?
 Oh, they took wagers on whether or not you'd turn up.                                 --- Eles apostaram se tu aparecerias ou não.
@@ -591,9 +595,10 @@ My dear fellow, I never doubted you for a second.                               
 It's horse hair.                                                                      --- Este pêlo de cavalo...
 Having a reaction.                                                                    --- Estou a ter uma alergia...
 No, wait, wait, stop.                                                                 --- Não, esperem, esperem!
-Stop! We have to turn around.                                                         --- Temos de voltar para trás.
+Stop!                                                                                 --- Parem!
+We have to turn around.                                                               --- Temos de voltar para trás.
 What on earth is the matter?                                                          --- - O que se passa?
--I forgot my handkerchief.                                                            --- Toma!
+-I forgot my handkerchief.                                                            --- - Esqueci-me do meu lenço.
  Here.                                                                                --- 
 Use this.                                                                             --- 
 Move on.                                                                              --- Prossigam!
@@ -618,7 +623,7 @@ Just lots of blood.                                                             
 You think that's funny?                                                               --- 
 You think a night raid by Orcs is a joke?                                             --- Acham que um ataque nocturno feito por orcs é uma anedota?
 We didn't mean anything by it.                                                        --- Não queríamos dizer nada com isso.
-No, you didn't.                                                                       --- Vocês não conhecem nada do mundo.
+No, you didn't.                                                                       --- Pois não.
 You know nothing of the world.                                                        --- Vocês não conhecem nada do mundo.
 Don't mind him, laddie.                                                               --- Não lhe ligues, rapaz.
 Thorin has more cause than most to hate Orcs.                                         --- O Thorin tem mais motivos do que a maioria para odiar orcs.
@@ -651,8 +656,9 @@ That filth died of his wounds long ago.                                         
 Here, Mr. Gandalf, can't you do something about this deluge?                          --- Ouça, Sr. Gandalf, não pode fazer nada acerca deste dilúvio?
 lt is raining, Master Dwarf... and it will continue to rain until the rain is done.   --- E irá continuar a chover até que a chuva tenha terminado.
 If you wish to change the weather of the world, you should find yourself another Wizard. --- Se desejas mudar o clima do mundo vais ter de procurar outro feiticeiro.
--Are there any?                                                                       --- - Do quê?
- What? Other Wizards.                                                                 --- - Outros feiticeiros.
+-Are there any?                                                                       --- - Existem mais?
+ What?                                                                                --- - Do quê?
+Other Wizards.                                                                        --- - Outros feiticeiros.
  There are five of us.                                                                --- - Somos cinco.
 The greatest of our order is Saruman the White.                                       --- O maior da nossa ordem é Saruman, o Branco.
 Then there are the two Blue Wizards....                                               --- Depois existem os dois Feiticeiros Azuis...
@@ -672,10 +678,11 @@ Sebastian.                                                                      
 Good gracious.                                                                        --- Não é nada bom.
 [SEBASTIAN WHIMPERS                                                                   --- 
 Come on.                                                                              --- Afastem-se!
-Move back! Give him some air, for goodness sake.                                      --- Deixem-no respirar, por tudo o que é sagrado!
+Move back!                                                                            --- Afastem-se!
+Give him some air, for goodness sake.                                                 --- Deixem-no respirar, por tudo o que é sagrado!
 There.                                                                                --- Não compreendo.
 There.                                                                                --- Não compreendo.
-I don't understand why it's not working.                                              --- Por que não está a funcionar?
+I don't understand why it's not working.                                              --- Não compreendo. Por que não está a funcionar?
 It's not as if it's witchcraft.                                                       --- Até parece que é bruxaria.
 Witchcraft.                                                                           --- Bruxaria...
 Oh, but it is.                                                                        --- Mas é mesmo.
@@ -691,7 +698,8 @@ A farmer and his family used to live here.                                      
 Oin, Gloin.                                                                           --- - Óin, Glóin.
 Get a fire going.                                                                     --- - Acendam uma fogueira.
  Aye.                                                                                 --- - É para já.
-Right you are. I think it would be wiser to move on.                                  --- 
+Right you are.                                                                        --- - É para já.
+I think it would be wiser to move on.                                                 --- Penso que será mais sensato prosseguirmos.
 We could make for the Hidden Valley.                                                  --- Poderíamos ir para o Vale Escondido.
 I have told you already... I will not go near that place.                             --- 
 Why not?                                                                              --- - Por que não?
@@ -719,18 +727,17 @@ I've had enough of Dwarves for one day.                                         
 Come on, Bombur, we're hungry.                                                        --- Vamos, Bombur, estamos com fome.
 ls he coming back?                                                                    --- Ele vai voltar?
 He's been a long time.                                                                --- - Já partiu há muito tempo.
--Who?                                                                                 --- - O Gandalf.
--Gandalf. He's a Wizard.                                                              --- - É um feiticeiro, faz como quer.
-He does as he chooses. Here, do us a favor.                                           --- Ouve, faz-nos um favor, leva isto aos rapazes.
-Take this to the lads.                                                                --- 
+-Who?                                                                                 --- - Quem?
+-Gandalf.                                                                             --- - O Gandalf.
+He's a Wizard. He does as he chooses.                                                 --- - É um feiticeiro, faz como quer.
+Here, do us a favor. Take this to the lads.                                           --- Ouve, faz-nos um favor, leva isto aos rapazes.
 Stop it. You've had plenty.                                                           --- 
 Aye, it's not a bad stew, Bombur.                                                     --- Pára, já comeste o suficiente.
 I've had worse. Dori could've cooked it.                                              --- 
 Ha-ha-ha. Hilarious.                                                                  --- 
-What's the matter?                                                                    --- É suposto estarmos de olho nos póneis.
+What's the matter?                                                                    --- O que se passa?
 -We're supposed to be looking after the ponies.                                       --- É suposto estarmos de olho nos póneis.
--Only we've encountered a slight problem.                                             --- Tínhamos 16...
-We had 1 6.                                                                           --- Tínhamos 16...
+-Only we've encountered a slight problem. We had 1 6.                                 --- Só que encontrámos um pequeno problema.
 Now there's 14.                                                                       --- Agora temos 14.
 Daisy and Bungo are missing.                                                          --- Faltam a Daisy e o Bungo.
 Well, that's not good.                                                                --- Isso não é bom.
@@ -751,11 +758,11 @@ What is it?                                                                     
 Trolls.                                                                               --- Trolls.
 Oh.                                                                                   --- 
 He's got Myrtle and Minty.                                                            --- Apanharam a Myrtle e a Minty!
-I think they're gonna eat them.                                                       --- Temos de fazer alguma coisa.
-We have to do something.                                                              --- Sim, devias fazer algo.
+I think they're gonna eat them.                                                       --- Acho que as vão comer.
+We have to do something.                                                              --- Temos de fazer alguma coisa.
 Yes, you should.                                                                      --- Sim, devias fazer algo.
 Mountain Trolls are slow and stupid, and you're so small, they'll never see you.      --- Os Trolls da Montanha são lentos e estúpidos e tu és tão pequeno.
-It's perfectly safe.                                                                  --- Estaremos mesmo atrás de ti.
+It's perfectly safe.                                                                  --- É perfeitamente seguro.
 We'll be behind you.                                                                  --- Estaremos mesmo atrás de ti.
 If you run into trouble, hoot twice like a barn owl and once like a brown owl.        --- Se tiveres sarilhos pia duas vezes como uma coruja-das-torres e uma vez como uma coruja-do-mato.
 Twice like a barn owl. No, twice like a brown-- Once like a--                         --- Não, duas como uma do mato e uma como a das...
@@ -764,7 +771,8 @@ Mutton yesterday, mutton today... and, blimey, if it don't look like mutton agai
 Quit your griping.                                                                    --- Pára de reclamar!
 These ain't sheep.                                                                    --- Estes não são ovelhas.
 These is fresh nags.                                                                  --- Estes são corcéis frescos!
-Oh! I don't like horse.                                                               --- Não gosto de cavalo.
+Oh!                                                                                   --- Não!
+I don't like horse.                                                                   --- Não gosto de cavalo.
 I never have.                                                                         --- Nunca gostei.
 Not enough fat on them.                                                               --- Não têm gordura suficiente neles.
 Well, it's better than leathery old farmer.                                           --- É melhor do que aquele velho agricultor seco.
@@ -787,13 +795,12 @@ How come he's the cook?                                                         
 Everything tastes the same.                                                           --- Tem tudo o mesmo sabor.
 Everything tastes like chicken.                                                       --- Sabe tudo a frango.
 Except the chicken.                                                                   --- - Excepto o frango.
-What tastes like fish!                                                                --- Sabe a peixe?
-I'm just saying, a little appreciation would be nice.                                 --- Um pouco de apreciação seria boa.
+What tastes like fish!                                                                --- - O quê?
+I'm just saying, a little appreciation would be nice.                                 --- 
 Oh. "Thank you very much, Bert.                                                       --- 
 Lovely stew, Bert."                                                                   --- Óptimo guisado, Bert.
 -How hard is that?                                                                    --- O que custa dizer isso?
--Shh.                                                                                 --- 
-Shh, shh.                                                                             --- 
+-Shh. Shh, shh.                                                                       --- O que custa dizer isso?
 Shh. Just needs a sprinkle of squirrel dung.                                          --- 
 Here, that's my grog.                                                                 --- Esse é o meu grogue!
 Sorry.                                                                                --- Desculpa.
@@ -824,7 +831,7 @@ He wouldn't make more than a mouthful.                                          
 Not when he's skinned and boned.                                                      --- Não quando for esfolado e desossado!
 Perhaps there's more burglar Hobbits around these parts.                              --- Talvez haja mais ladrahobbits nas redondezas.
 Might be enough for a pie.                                                            --- Poderão chegar para uma tarte!
--Grab him!                                                                            --- 
+-Grab him!                                                                            --- - Agarrem-no!
  He's too quick.                                                                      --- - É rápido de mais!
 Right.                                                                                --- 
 Come here, you little--                                                               --- 
@@ -843,7 +850,7 @@ Stick them in the sacks!                                                        
 Ow!                                                                                   --- - Bilbo!
 Come on!                                                                              --- - Bilbo!
 Get up!                                                                               --- - Bilbo!
--Bilbo!                                                                               --- - Não!
+-Bilbo!                                                                               --- - Bilbo!
 -Don't!                                                                               --- - Não!
 Lay down your arms... or we'll rip his off.                                           --- 
 That's hot, that's hot, that's hot!                                                   --- - Está quente!
@@ -851,23 +858,25 @@ Let's just sit on them and squash them into jelly.                              
 They should be sautéed and grilled with a sprinkle of sage.                           --- Eles têm de ser salteados e grelhados com um borrifo de salva.
 ls this really necessary?                                                             --- Isso soa bastante bem.
 That does sound quite nice.                                                           --- Isso soa bastante bem.
-Untie me, mister.                                                                     --- Não temos a noite toda.
- Eat someone your own size.                                                           --- Esqueçam o tempero.
+Untie me, mister. Eat someone your own size.                                          --- Isso soa bastante bem.
 Never mind the seasoning.                                                             --- Esqueçam o tempero.
 We ain't got all night.                                                               --- Não temos a noite toda.
 Dawn ain't far away.                                                                  --- O amanhecer já não está longe.
 Let's get a move on.                                                                  --- Vamos despachar-nos.
 I don't fancy being turned to stone.                                                  --- Não me apetece virar pedra.
-Wait!                                                                                 --- 
+Wait!                                                                                 --- Esperem!
 You are making a terrible mistake.                                                    --- Estão a cometer um erro terrível.
 You can't reason with them. They're half-wits!                                        --- Não podes argumentar com eles, são uns idiotas!
-Half-wits? What does that make us?                                                    --- Então e o que somos nós?
+Half-wits?                                                                            --- Idiotas?
+What does that make us?                                                               --- Então e o que somos nós?
 I meant with the seasoning.                                                           --- Referia-me... ao tempero.
 What about the seasoning?                                                             --- O que tem o tempero?
 Well, have you smelt them?                                                            --- Já os cheiraram?
 You're gonna need something stronger than sage before you plate this lot up.          --- Vão precisar de algo mais forte do que salva antes de poderem metê-los no prato.
-Traitor! -What do you know about cooking Dwarf?                                       --- - Que sabes acerca de cozinhar anões?
-Shut up. Let the flurgaburburhobbit talk.                                             --- 
+Traitor!                                                                              --- - Traidor!
+-What do you know about cooking Dwarf?                                                --- - Que sabes acerca de cozinhar anões?
+Shut up.                                                                              --- 
+Let the flurgaburburhobbit talk.                                                      --- Deixa o flargaladrahobbit falar.
 The secret to cooking Dwarf is....                                                    --- - O segredo para cozinhar anões é...
 Yes?                                                                                  --- - Sim?
 Come on.                                                                              --- - Sim?
@@ -886,14 +895,15 @@ Scarf them, I say, boots and all.                                               
 He's right.                                                                           --- Ele tem razão.
 Nothing wrong with a bit of raw Dwarf.                                                --- Não há nada de mal com um pouco de anão cru.
 Nice and crunchy.                                                                     --- Saborosos e estaladiços!
-Oh, not that one.                                                                     --- Ele está infectado!
+Oh, not that one.                                                                     --- Esse não!
 He's infected.                                                                        --- Ele está infectado!
 -Huh?                                                                                 --- - Ele o quê?
 -You what?                                                                            --- - Ele o quê?
 Yeah, he's got worms in his tubes.                                                    --- - Sim, tem vermes na sua... canalização.
-Eww!                                                                                  --- Todos têm.
+Eww!                                                                                  --- canalização.
  Aah!                                                                                 --- Todos têm.
-ln fact, they all have. They're infested with parasites.                              --- - Sim, tem vermes na sua...
+ln fact, they all have.                                                               --- Todos têm.
+They're infested with parasites.                                                      --- Estão infestados de parasitas.
 It's a terrible business.                                                             --- É uma coisa horrível.
 I wouldn't risk it.                                                                   --- 
 I really wouldn't.                                                                    --- - Parasitas.
@@ -905,24 +915,27 @@ What are you talking about, laddie?                                             
 I've got parasites as big as my arm.                                                  --- Eu tenho parasitas maiores do que o meu braço.
 Mine are the biggest parasites.                                                       --- Eu tenho os maiores parasitas!
 I've got huge parasites.                                                              --- Tenho parasitas enormes!
-We're riddled.                                                                        --- - Sim, eu também estou cheio!
- Yes, I'm riddled.                                                                    --- - Estamos cheios deles!
+We're riddled.                                                                        --- - Estamos cheios deles!
+ Yes, I'm riddled.                                                                    --- - Sim, eu também estou cheio!
 Yes, we are, badly.                                                                   --- Pois estamos, infestados!
 What would you have us do, then?                                                      --- O que sugeres que façamos então?
 Let them all go?                                                                      --- Deixá-los todos ir embora?
--Well.... -You think I don't know what you're up to?                                  --- Bem...
+-Well....                                                                             --- Bem...
+-You think I don't know what you're up to?                                            --- Pensas que não sei o que estás a tramar?
 This little ferret is taking us for fools.                                            --- Este pequeno furão julga que somos parvos.
--Ferret?                                                                              --- - Parvos?
--Fools? The dawn will take you all.                                                   --- 
--Who's that?                                                                          --- - Não faço ideia.
--No idea. Can we eat him too?                                                         --- Também o podemos comer?
+-Ferret?                                                                              --- - Furão?
+-Fools?                                                                               --- - Parvos?
+The dawn will take you all.                                                           --- O amanhecer irá tomar-vos a todos!
+-Who's that?                                                                          --- - Quem é aquele?
+-No idea.                                                                             --- - Não faço ideia.
+Can we eat him too?                                                                   --- Também o podemos comer?
 Get your foot out of my back.                                                         --- Tira o teu pé das minhas costas!
 Ah.                                                                                   --- 
 Where did you go to, if I may ask?                                                    --- Posso perguntar-lhe onde foi?
 To look ahead.                                                                        --- Ver adiante.
 -What brought you back?                                                               --- O que o trouxe de volta?
 -Looking behind.                                                                      --- Olhar para trás...
-Nasty business.                                                                       --- 
+Nasty business.                                                                       --- Uma coisa terrível.
 Still, they're all in one piece.                                                      --- Ainda assim estão todos inteiros.
 No thanks to your burglar.                                                            --- Não graças ao seu ladrão.
 He had the nous to play for time.                                                     --- Ele teve a argúcia de ganhar tempo.
@@ -956,7 +969,7 @@ Come on, let's go.                                                              
 Bofur, Gloin, Nori.                                                                   --- Bofur, Glóin, Nori.
 Bilbo.                                                                                --- Bilbo.
  Hmm?                                                                                 --- 
-Here.                                                                                 --- 
+Here.                                                                                 --- Toma.
 This is about your size.                                                              --- Esta é do teu tamanho.
 I can't take this.                                                                    --- Não posso aceitá-la.
 The blade is of Elvish make... which means it will glow blue when Orcs or Goblins are nearby. --- A lâmina é de fabrico élfico, o que significa que brilhará azul sempre que orcs ou goblins estejam por perto.
@@ -969,14 +982,14 @@ Something's coming!                                                             
  Stay together!                                                                       --- - Mantenham-se juntos!
 Hurry now!                                                                            --- Despachem-se!
 Arm yourselves!                                                                       --- Armem-se!
-Thieves!                                                                              --- 
+Thieves!                                                                              --- Ladrões!
 Fire! Murder!                                                                         --- Assassínio!
 Radagast.                                                                             --- Radagast!
 It's Radagast the Brown.                                                              --- É Radagast, o Castanho.
 Well....                                                                              --- 
 What on earth are you doing here?                                                     --- O que estás a fazer aqui?
 I was looking for you, Gandalf.                                                       --- Andava à tua procura, Gandalf.
-Something's wrong.                                                                    --- Há algo terrivelmente errado.
+Something's wrong.                                                                    --- Há algo errado.
 Something's terribly wrong.                                                           --- Há algo terrivelmente errado.
 Yes?                                                                                  --- Sim?
 Oh.                                                                                   --- 
@@ -992,7 +1005,8 @@ Nothing grows anymore.                                                          
 At least, nothing good.                                                               --- Pelo menos nada de bom.
 The air is foul with decay.                                                           --- O ar tresanda de podridão.
 But worse are the webs.                                                               --- Mas o pior são as teias.
-Webs? What do you mean?                                                               --- 
+Webs?                                                                                 --- Teias?
+What do you mean?                                                                     --- O que queres dizer?
 Spiders, Gandalf.                                                                     --- Aranhas, Gandalf.
 Giant ones.                                                                           --- Gigantes.
 Some kind of spawn of Ungoliant, or I am not a Wizard.                                --- Algum tipo de desova de Ungoliant, ou eu não sou um feiticeiro.
@@ -1022,23 +1036,26 @@ Are you sure?                                                                   
 That is not... from the world of the living.                                          --- Aquilo não é do mundo dos vivos.
 Was that a wolf?                                                                      --- Foi um lobo?
 Are there wolves out there?                                                           --- Há lobos por ali?
-Wolves? No, that is not a wolf.                                                       --- Não, aquilo não é um lobo.
-Kili! Get your bow!                                                                   --- Abriguem-se!
+Wolves?                                                                               --- Lobos?
+No, that is not a wolf.                                                               --- Não, aquilo não é um lobo.
+Kili!                                                                                 --- Kili!
+Get your bow!                                                                         --- 
 Warg scouts.                                                                          --- Batedores Warg!
 -Which means an Orc pack is not far behind.                                           --- O que significa que uma matilha orc não está longe.
 -Orc pack? Who did you tell about your quest beyond your kin?                         --- - A quem falaste da tua expedição, além do teu povo?
--No one.                                                                              --- 
+-No one.                                                                              --- - A ninguém.
 -Who did you tell?                                                                    --- - A quem contaste?!
 No one, I swear.                                                                      --- - A ninguém, juro.
 What in Durin's name is going on?                                                     --- O que em nome de Durin se está a passar?
 You are being hunted.                                                                 --- - A quem contaste?!
 -We have to get out of here.                                                          --- Temos de sair daqui.
 -We can't.                                                                            --- 
-We have no ponies.                                                                    --- Não temos póneis.
+We have no ponies.                                                                    --- Não podemos!
 They bolted.                                                                          --- Eles fugiram.
-I'll draw them off.                                                                   --- Estes são wargs de Gundabad.
+I'll draw them off.                                                                   --- Eu vou atraí-los para longe.
 These are Gundabad Wargs.                                                             --- Estes são wargs de Gundabad.
-They will outrun you. These are Rhosgobel rabbits.                                    --- Estes são coelhos de Rhosgobel.
+They will outrun you.                                                                 --- Irão alcançar-te.
+These are Rhosgobel rabbits.                                                          --- Estes são coelhos de Rhosgobel.
 I'd like to see them try.                                                             --- Gostaria de os ver tentar.
 Come on! Come on!                                                                     --- Venham apanhar-me!
 Come and get me!                                                                      --- Gostaria de os ver tentar.
@@ -1046,9 +1063,9 @@ Ha, ha!                                                                         
 Come on.                                                                              --- Vamos.
 Stay together.                                                                        --- - Fiquem juntos.
 Move!                                                                                 --- 
-Ori, no!                                                                              --- Volta!
+Ori, no!                                                                              --- Ori, não!
 Get back.                                                                             --- Volta!
-All of you, come on.                                                                  --- Vão, rápido!
+All of you, come on.                                                                  --- Rápido, vamos!
 Quick!                                                                                --- Vão, rápido!
 Where are you leading us?                                                             --- Para onde nos leva?
 Move!                                                                                 --- 
@@ -1060,11 +1077,11 @@ There's more coming!                                                            
 Kili!                                                                                 --- Kili!
 Shoot them!                                                                           --- Atira neles!
 We're surrounded!                                                                     --- Estamos cercados!
-Where's Gandalf?                                                                      --- Abandonou-nos!
+Where's Gandalf?                                                                      --- Onde está o Gandalf?
 He's abandoned us.                                                                    --- Abandonou-nos!
 Hold your ground!                                                                     --- Mantenham a vossa posição!
 This way, you fools! Come on, move!                                                   --- Onde está o Gandalf?
-Quickly!                                                                              --- Todos!
+Quickly!                                                                              --- Rápido!
 All of you!                                                                           --- Todos!
 Come on!                                                                              --- 
 Go, go, go!                                                                           --- 
@@ -1073,7 +1090,7 @@ Kili!                                                                           
 Run!                                                                                  --- Corre!
 Elves.                                                                                --- Elfos...
 I cannot see where the pathway leads.                                                 --- Não consigo ver onde a passagem leva!
-Do we follow it or no?                                                                --- Claro que a seguimos!
+Do we follow it or no?                                                                --- Seguimo-la ou não?
 Follow it, of course.                                                                 --- Claro que a seguimos!
 I think that would be wise.                                                           --- Creio que isso será sensato.
 Come on now, brother.                                                                 --- 
@@ -1086,7 +1103,7 @@ To seek refuge with our enemy.                                                  
 You have no enemies here, Thorin Oakenshield.                                         --- Não tens aqui inimigos, Thorin Escudo de Carvalho.
 The only ill will to be found in this valley is that which you bring yourself.        --- A única animosidade que se encontra neste vale é a que tu mesmo trazes.
 You think the Elves will give our quest their blessing?                               --- Pensa que os Elfos darão a sua bênção à nossa expedição?
-They will try to stop us.                                                             --- Claro que tentarão.
+They will try to stop us.                                                             --- Tentarão impedir-nos.
 Of course they will.                                                                  --- Claro que tentarão.
 But we have questions that need to be answered.                                       --- Mas nós temos questões que precisam de resposta.
 If we are to be successful, this will need to be handled with tact.                   --- Se quisermos ser bem-sucedidos, isto terá de ser lidado com delicadeza.
@@ -1111,11 +1128,11 @@ Welcome, Thorin, son of Thrain.                                                 
 I do not believe we have met.                                                         --- Não creio que nos conheçamos.
 You have your grandfather's bearing.                                                  --- Tem o porte do seu avô.
 I knew Thror when he ruled Under the Mountain.                                        --- Conheci Thrór quando ele governava sob a montanha.
-Indeed?                                                                               --- 
+Indeed?                                                                               --- É mesmo?
 He made no mention of you.                                                            --- Ele nunca o mencionou.
 What is he saying?                                                                    --- O que está ele a dizer?
 Does he offer us insult?                                                              --- Está a insultar-nos?
-No, Master Gloin, he's offering you food.                                             --- Ele está a oferecer-vos comida.
+No, Master Gloin, he's offering you food.                                             --- Não, mestre Glóin.
 Well, in that case, lead on.                                                          --- Bem, nesse caso, faça favor.
 Hey.                                                                                  --- 
 Come on.                                                                              --- 
@@ -1133,9 +1150,9 @@ May it serve you well.                                                          
 And this is Glamdring... the Foehammer.                                               --- E esta é a Glamdring... o Martelo dos Inimigos.
 Sword of the King of Gondolin.                                                        --- A espada do rei de Gondolin.
 These were made for the Goblin Wars of the First Age.                                 --- Estas espadas foram feitas para a Guerra dos Goblins...
-I wouldn't bother, laddie.                                                            --- 
+I wouldn't bother, laddie.                                                            --- Eu não me dava ao trabalho, rapaz.
 Swords are named for the great deeds they do in war.                                  --- As espadas recebem nomes pelos seus grandes feitos na guerra.
-What are you saying, my sword hasn't seen battle?                                     --- Que a minha espada nunca combateu?
+What are you saying, my sword hasn't seen battle?                                     --- Não tenho bem a certeza que seja uma espada.
 I'm not actually sure it is a sword.                                                  --- Não tenho bem a certeza que seja uma espada.
 More of a letter opener, really.                                                      --- Parece mais um abridor de cartas.
 How did you come by these?                                                            --- Como as encontraram?
@@ -1221,7 +1238,8 @@ Something far more powerful.                                                    
 We can remain blind to it, but it will not be ignoring us, that I can promise you.    --- Podemos fechar os olhos, mas ele não nos ignorará a nós. Isso posso assegurar-lhes.
 A sickness lies over the Greenwood.                                                   --- Uma doença paira sobre a Floresta Verde.
 The woodsmen who live there now call it Mirkwood. And they say....                    --- Os homens da floresta que lá vivem agora chamam-lhe Floresta Tenebrosa e eles...
-Well? Don't stop now.                                                                 --- Não pares agora.
+Well?                                                                                 --- Sim?
+Don't stop now.                                                                       --- Não pares agora.
 Tell us what the woodsmen say.                                                        --- Conta-nos o que dizem os homens da floresta.
 They speak of a Necromancer living in Dol Guldur.                                     --- Eles falam de um Necromante que vive em Dol Guldur.
 A sorcerer who can summon the dead.                                                   --- Um feiticeiro que pode invocar os mortos.
@@ -1235,9 +1253,11 @@ Do not speak to me of Radagast the Brown.                                       
 He's a foolish fellow.                                                                --- É um sujeito tolo.
 Well, he's odd, I grant you.                                                          --- É estranho, concedo-lhe isso.
 He lives a solitary life.                                                             --- Vive uma vida solitária.
-It's not that. It's his excessive consumption of mushrooms.                           --- Não é isso.
+It's not that.                                                                        --- Não é isso.
+It's his excessive consumption of mushrooms.                                          --- É o seu consumo excessivo de cogumelos.
 They've addled his brain and yellowed his teeth.                                      --- Apodreceu-lhe o cérebro e amarelou-lhe os dentes.
-I've warned him. lt is unbefitting one of the lstari to be wandering the woods....    --- Ele encontrou-o em Dol Guldur.
+I've warned him.                                                                      --- 
+lt is unbefitting one of the lstari to be wandering the woods....                     --- Não é apropriado que um dos Istari ande pelos bosques...
 You carry something.                                                                  --- Traz algo.
 lt came to you from Radagast.                                                         --- Foi Radagast que lho deu.
 He found it in Dol Guldur.                                                            --- Ele encontrou-o em Dol Guldur.
@@ -1274,11 +1294,12 @@ Yes.                                                                            
 You knew.                                                                             --- Você sabia.
 No, I'm afraid there is nothing else for it.                                          --- Temo que não haja mais nada a discutir.
 My Lord Elrond.                                                                       --- Meu lorde Elrond.
-The Dwarves, they're gone.                                                            --- 
+The Dwarves, they're gone.                                                            --- Os Anões. Eles foram-se embora.
 Be on your guard.                                                                     --- Fiquem atentos.
 We're about to step over the Edge of the Wild.                                        --- Estamos prestes a entrar nos limites das terras selvagens.
 Balin, you know these paths.                                                          --- Balin, tu conheces estas partes.
-Lead on. Aye.                                                                         --- 
+Lead on.                                                                              --- Lidera-nos.
+Aye.                                                                                  --- Está bem.
 Master Baggins... I suggest you keep up.                                              --- Mestre Baggins, sugiro-lhe que nos acompanhe.
 You will follow them.                                                                 --- Irá segui-los?
  Yes.                                                                                 --- Sim.
@@ -1300,7 +1321,7 @@ Why Bilbo Baggins?                                                              
 Perhaps it is because I'm afraid... and he gives me courage.                          --- Talvez seja por eu estar com medo... e ele me dar coragem.
 Do not be afraid, Mithrandir.                                                         --- Não tenha medo, Mithrandir.
 You are not alone.                                                                    --- Não está sozinho.
-Hey!                                                                                  --- 
+Hey!                                                                                  --- Firmes!
 Hold on!                                                                              --- Aguentem-se!
 Aah! Bilbo!                                                                           --- Temos de encontrar um abrigo!
 We must find shelter!                                                                 --- Temos de encontrar um abrigo!
@@ -1316,7 +1337,7 @@ Giants!                                                                         
 Stone-Giants!                                                                         --- Gigantes de Pedra!
 Take cover, you fool!                                                                 --- Abriguem-se ou caem!
 Hold on!                                                                              --- 
-What's happening?                                                                     --- - Kili, agarra a minha mão!
+What's happening?                                                                     --- 
  Grab my hand!                                                                        --- - Kili, agarra a minha mão!
 Go, go, go!                                                                           --- 
  Run!                                                                                 --- Vamos!
@@ -1329,7 +1350,7 @@ Jump!                                                                           
 Come on!                                                                              --- 
 Hold on!                                                                              --- 
 No!                                                                                   --- Não! Não!
-No!                                                                                   --- Kili!
+No!                                                                                   --- Não!
 Kili!                                                                                 --- Kili!
 It's all right!                                                                       --- Estamos bem!
 They're alive!                                                                        --- Estamos vivos!
@@ -1343,23 +1364,23 @@ Aah!                                                                            
 Ori, be careful!                                                                      --- Agarra-a!
  Take it! I've got you, lad.                                                          --- - Apanhei-te, rapaz!
  Grab on!                                                                             --- - Vamos!
-Grab on!                                                                              --- Vamos!
+Grab on!                                                                              --- - Vamos!
 Come on.                                                                              --- Kili!
 Get him.                                                                              --- Kili!
-Come on, lad.                                                                         --- Cá para cima!
+Come on, lad.                                                                         --- Vamos, rapaz.
 Up you get.                                                                           --- Cá para cima!
 I thought we'd lost our burglar.                                                      --- Pensei que tínhamos perdido o nosso ladrão.
 He's been lost ever since he left home.                                               --- Ele tem andado perdido desde que saiu de casa.
 He should never have come.                                                            --- Nunca devia ter vindo.
 He has no place amongst us.                                                           --- Não tem lugar entre nós.
 Dwalin!                                                                               --- Dwalin!
-lt looks safe enough.                                                                 --- Vê no fundo.
- Search to the back.                                                                  --- - Certo, vamos acender a fogueira.
+lt looks safe enough.                                                                 --- Parece suficientemente seguro.
+ Search to the back.                                                                  --- Vê no fundo.
 Caves in the mountain are seldom unoccupied.                                          --- As cavernas na montanha costumam estar ocupadas.
 There's nothing here.                                                                 --- Não está aqui nada!
 Right, then. Let's get a fire started.                                                --- - Certo, vamos acender a fogueira.
 No.                                                                                   --- - Não.
-No fires.                                                                             --- - Não.
+No fires.                                                                             --- Nada de fogueiras.
 Not in this place.                                                                    --- Não neste lugar.
 Get some sleep.                                                                       --- Durmam um pouco.
 We start at first light.                                                              --- Partimos assim que amanhecer.
@@ -1369,7 +1390,7 @@ We were to wait in the mountains until Gandalf joined us.                       
 Bofur, take the first watch.                                                          --- Bofur, faz o primeiro turno de vigia.
 Where do you think you're going?                                                      --- Onde pensas que vais?
 Back to Rivendell.                                                                    --- Voltar para Rivendell.
-No, no, you can't turn back now, eh?                                                  --- Não te podes ir embora.
+No, no, you can't turn back now, eh?                                                  --- Não, não. Não te podes ir embora.
 You're part of the company.                                                           --- És parte da companhia.
 You're one of us.                                                                     --- És um de nós.
 I'm not, though, am I?                                                                --- Mas não sou, pois não?
@@ -1377,9 +1398,9 @@ Thorin said I should never have come and he was right.                          
 I'm not a Took, I'm a Baggins.                                                        --- Não sou um Took, sou um Baggins.
 I don't know what I was thinking.                                                     --- Não sei em que estava a pensar.
 -I should never have run out my door.                                                 --- - Nunca devia ter saído de casa.
--You're homesick.                                                                     --- - Eu compreendo.
-I understand.                                                                         --- Não compreendes.
-No, you don't.                                                                        --- Não compreendes.
+-You're homesick.                                                                     --- - Estás com saudades.
+I understand.                                                                         --- - Eu compreendo.
+No, you don't.                                                                        --- - Não, não compreendes!
 You don't understand.                                                                 --- Não compreendes.
 None of you do.                                                                       --- Nenhum compreende.
 You're Dwarves.                                                                       --- Vocês são anões!
@@ -1397,25 +1418,26 @@ Wake up! Wake up!                                                               
 Whoa!                                                                                 --- 
 Look out!                                                                             --- 
 Look out!                                                                             --- 
-Get away!                                                                             --- 
-Filthy scum!                                                                          --- Afastem-se!
+Get away!                                                                             --- Cuidado!
+Filthy scum!                                                                          --- Não!
 Get back!                                                                             --- 
 You'll pay for this!                                                                  --- Vais pagar por isto!
 Got you.                                                                              --- Vá, vamos!
 All right, all right.                                                                 --- Vá, vamos!
-Don't push.                                                                           --- Larga-me!
-Get off! Get your hands off me!                                                       --- 
+Don't push.                                                                           --- 
+Get off!                                                                              --- Larga-me!
+Get your hands off me!                                                                --- Tira as mãos de mim!
 Get off me!                                                                           --- Tira as mãos de mim!
 Get off me!                                                                           --- Tira as mãos de mim!
 Who would be so bold as to come armed into my kingdom?                                --- Quem será tão ousado ao ponto de vir armado para o meu reino?
-Spies?                                                                                --- Ladrões?
+Spies?                                                                                --- Espiões?
 Thieves?                                                                              --- Ladrões?
 Assassins?                                                                            --- Assassinos?
 Dwarves, Your Malevolence.                                                            --- Anões, Vossa Malevolência.
 Dwarves?                                                                              --- Anões?
 We found them on the Front Porch.                                                     --- Encontrámo-los no alpendre da frente.
 Well, don't just stand there.                                                         --- Bem, não fiquem aí especados!
-Search them.                                                                          --- 
+Search them.                                                                          --- Revistem-nos!
 Every crack.                                                                          --- Cada brecha!
 Every crevice.                                                                        --- Cada fenda!
 What are you doing in these parts?                                                    --- O que estão a fazer por estes lados?
@@ -1462,7 +1484,7 @@ Bless us and splash us, precious.                                               
 That's a meaty mouthful.                                                              --- Que coisa mais carnuda!
 Gollum, gollum!                                                                       --- 
 Aah.                                                                                  --- 
-Back.                                                                                 --- 
+Back.                                                                                 --- Afasta-te.
 Stay back.                                                                            --- Fica afastado.
 I'm warning you, don't come any closer.                                               --- Tem uma lâmina élfica, mas não é um elfs.
 It's got an Elfish blade. But it's not an Elfs.                                       --- Tem uma lâmina élfica, mas não é um elfs.
@@ -1483,14 +1505,17 @@ Aah! I don't want any trouble, do you understand?                               
 Just show me the way to get out of here and I'll be on my way.                        --- Mostra-me apenas a saída deste lugar que eu vou-me embora.
 Why?                                                                                  --- Porquê?
 ls it lost?                                                                           --- Estás perdido?
-Yes. Yes, and I want to get unlost as soon as possible.                               --- Sim e quero deixar de o estar o mais depressa possível.
-Ooh, we knows! We knows safe paths for Hobbitses.                                     --- Nós conhecemos.
+Yes.                                                                                  --- Sim.
+Yes, and I want to get unlost as soon as possible.                                    --- Sim e quero deixar de o estar o mais depressa possível.
+Ooh, we knows!                                                                        --- Nós conhecemos.
+We knows safe paths for Hobbitses.                                                    --- Conhecemos caminhos seguros para hobbitses.
 Safe paths in the dark.                                                               --- Caminhos seguros na escuridão.
 Shut up!                                                                              --- Cala-te!
--I didn't say anything.                                                               --- - Não estava a falar para ti.
+-I didn't say anything.                                                               --- - Eu não disse nada.
 -We wasn't talking to you.                                                            --- - Não estava a falar para ti.
 Oh, yes, we was, precious.                                                            --- Mas nós estávamos, precioso.
-We was. Look, I don't know what your game is, but I--                                 --- Mas nós estávamos, precioso.
+We was.                                                                               --- Estávamos.
+Look, I don't know what your game is, but I--                                         --- Ouve, não sei que jogo é o teu, mas eu...
 Games?!                                                                               --- Jogos?
 Oh, we love games, doesn't we, precious?                                              --- Nós adoramos jogos. Não adoramos, precioso?
 Does it like games?                                                                   --- Ele gosta de jogos?
@@ -1505,27 +1530,29 @@ And yet, never grows                                                            
 -Yes, yes.                                                                            --- - Sim!
 Oh, let's have another one, eh?                                                       --- 
 Yes!                                                                                  --- - Sim!
-Do it again, do it again.                                                             --- Volta a fazê-lo. Pergunta-nos.
-Ask us.                                                                               --- Não!
-No! No more riddles.                                                                  --- Não!
+Do it again, do it again.                                                             --- 
+Ask us.                                                                               --- Pergunta-nos.
+No!                                                                                   --- Não!
+No more riddles.                                                                      --- Já chega de adivinhas!
 Finish him off.                                                                       --- Acaba com ele.
 Finish him now!                                                                       --- Acaba com ele imediatamente!
-Gollum, gollum!                                                                       --- Não, não, não.
+Gollum, gollum!                                                                       --- 
 No!                                                                                   --- Não, não, não.
 No.                                                                                   --- Não, não, não.
 No.                                                                                   --- Não, não, não.
 No. I want to play.                                                                   --- Eu quero jogar.
-I do.                                                                                 --- 
-I want to play.                                                                       --- Então por que não...
+I do.                                                                                 --- Sim.
+I want to play.                                                                       --- Quero jogar.
 I can see... you are very good at this.                                               --- Vejo que és muito bom nisto.
 So why don't we... have a game of riddles?                                            --- Então por que não... fazemos um jogo de adivinhas?
-Yes? Just you and me.                                                                 --- Apenas tu e eu.
+Yes?                                                                                  --- Sim?
+Just you and me.                                                                      --- Apenas tu e eu.
 Yes.                                                                                  --- Sim...
 Yes, just us.                                                                         --- apenas nós.
 Yes.                                                                                  --- Sim.
 Yes. And if I win... you show me the way out.                                         --- Sim, e se eu ganhar tu mostras-me o caminho para sair daqui, sim?
 Yes?                                                                                  --- Sim.
-Yes.                                                                                  --- Sim...
+Yes.                                                                                  --- Sim.
 Yes.                                                                                  --- Sim...
 And if it loses? What then?                                                           --- Então e se ele perder?
 Well, if it loses, precious, then we eats it!                                         --- Bem, se ele perder, precioso, então comemo-lo!
@@ -1537,7 +1564,7 @@ First they champ, then they stamp Then they stand still                         
 Teeth?                                                                                --- 
 Teeth!                                                                                --- 
 Oh, yes, my precious!                                                                 --- Sim, meu precioso.
-But we-- We only have nine.                                                           --- Nós só temos nove.
+But we-- We only have nine.                                                           --- Mas nós... Nós só temos nove.
 Our turn.                                                                             --- É a nossa vez.
 Voiceless, it cries                                                                   --- 
 Wingless flutters                                                                     --- 
@@ -1548,7 +1575,8 @@ Uh....                                                                          
 Oh.                                                                                   --- Nós sabemos!
 Oh!                                                                                   --- Nós sabemos!
 We knows!                                                                             --- Nós sabemos!
-We knows! Shut up!                                                                    --- Nós sabemos!
+We knows!                                                                             --- Nós sabemos!
+Shut up!                                                                              --- Cala-te!
 Wind.                                                                                 --- É o vento!
 It's wind.                                                                            --- É o vento!
 Of course it is.                                                                      --- Claro que é.
@@ -1557,13 +1585,12 @@ Very clever.                                                                    
 Ah-ah-ah. A box without hinges, key or lid                                            --- 
 Yet golden treasure inside is hid                                                     --- Contudo, um tesouro dourado no interior se esconde.
 Box.                                                                                  --- Uma caixa...
-Oh, um....                                                                            --- Uma caixa, sem tampa e sem chave...
+Oh, um....                                                                            --- 
 Box. The lid and a key.                                                               --- Uma caixa, sem tampa e sem chave...
 -Well?                                                                                --- Então?
 -It's nasty.                                                                          --- É difícil!
 -Box.                                                                                 --- Uma caixa...
-Key.                                                                                  --- - Desistes?
--Do you give up?                                                                      --- 
+Key. -Do you give up?                                                                 --- - Caixa, chave...
 Give us a chance, precious!                                                           --- Dá-nos uma hipótese, precioso.
 Give us a chance!                                                                     --- Dá-nos uma hipótese.
 Eggses!                                                                               --- Ovos! Ovos!
@@ -1577,7 +1604,7 @@ Answer us.                                                                      
 Give me a moment, please.                                                             --- - Sim, dá-me um momento, por favor.
 I gave you a good long while.                                                         --- Eu dei-te bastante.
 Birds, beasts....                                                                     --- Pássaros, animais...
-Beasts?                                                                               --- 
+Beasts?                                                                               --- animais?
 Trees, flowers.                                                                       --- Árvores, flores...
 I don't know this one.                                                                --- Não conheço esta.
 ls it tasty?                                                                          --- É saboroso?
@@ -1608,14 +1635,14 @@ Well, that is my question.                                                      
 What have I got in my pocket?                                                         --- O que tenho no meu bolso?
 Three guesses, precious.                                                              --- Três tentativas, precioso.
 lt must give us three!                                                                --- Dá-nos três!
-Three guesses.                                                                        --- Dá-nos três!
+Three guesses.                                                                        --- Três tentativas!
 Very well, guess away.                                                                --- Muito bem, tenta adivinhar.
 Handses!                                                                              --- Mãos!
 Wrong. Guess again.                                                                   --- Errado, volta a tentar.
 Fishbones, Goblins' teeth, wet shells, bats' wings....                                --- Espinhas de peixe, dentes de goblin, conchas molhadas, asas de morcego...
 Knife!                                                                                --- Uma faca!
 Oh, shut up!                                                                          --- 
-Wrong again.                                                                          --- Última tentativa.
+Wrong again.                                                                          --- - Errado outra vez.
 Last guess.                                                                           --- Última tentativa.
 String.                                                                               --- Uma corda!
 Or nothing.                                                                           --- Uma corda!
@@ -1623,7 +1650,8 @@ Two guesses at once.                                                            
 Wrong both times.                                                                     --- Errado em ambas as vezes.
 So....                                                                                --- 
 Come, then.                                                                           --- vamos lá.
-I won the game. You promised to show me the way out.                                  --- Eu ganhei o jogo e tu prometeste-me mostrar a saída.
+I won the game.                                                                       --- vamos lá.
+You promised to show me the way out.                                                  --- Eu ganhei o jogo e tu prometeste-me mostrar a saída.
 Did we say so, precious?                                                              --- Foi o que dissemos, precioso?
 Did we say so?                                                                        --- Foi o que dissemos?
 What has it got in its pocketses?                                                     --- O que tens nos teus bolsos?
@@ -1638,9 +1666,9 @@ No! No!                                                                         
 Lost!                                                                                 --- Perdi-o!
 Curse us and splash us!                                                               --- Abençoados salpicos!
 My precious is lost!                                                                  --- O meu precioso está perdido!
--What have you lost?                                                                  --- - Não nos deves perguntar!
+-What have you lost?                                                                  --- - O que perdeste?
 -Mustn't ask us!                                                                      --- - Não nos deves perguntar!
-Not its business!                                                                     --- - Não nos deves perguntar!
+Not its business!                                                                     --- Não é da tua conta!
 No!                                                                                   --- Não!
 Gollum, gollum!                                                                       --- Não!
 What has it got... in its nasty... little pocketses?                                  --- 
@@ -1650,7 +1678,7 @@ He stole it!                                                                    
 Bones will be shattered Necks will be wrung                                           --- Ossos serão estilhaçados!                     Pescoços serão torcidos!                     
 You'll be beaten and battered                                                         --- 
 From racks you'll be hung                                                             --- 
-You will die down here And never be found                                             --- Nas profundezas                                    Da cidade dos Goblins!                          
+You will die down here And never be found                                             --- Serão sovados e espancados!               Em rochas serão pendurados!               Irão morrer aqui em baixo                      E encontrados vocês nunca serão!       
 Down in the deep of Goblin-town I know that sword!                                    --- Nas profundezas                                    Da cidade dos Goblins!                           Eu conheço essa espada!
 lt is the Goblin-cleaver!                                                             --- É a Rachadora de Goblins!
 The Biter!                                                                            --- A Mordedora!
@@ -1696,15 +1724,14 @@ That'll do it.                                                                  
 Well, that could have been worse.                                                     --- Bem, isto podia ter sido pior.
 Haver! You've got to be joking!                                                       --- 
 Gandalf!                                                                              --- Gandalf!
-There's too many.                                                                     --- Não os podemos combater!
-We can't fight them.                                                                  --- Apenas uma coisa nos salvará!
+There's too many.                                                                     --- São demasiados!
+We can't fight them.                                                                  --- Não os podemos combater!
 Only one thing will save us, daylight!                                                --- Apenas uma coisa nos salvará!
 Come on!                                                                              --- Vamos!
 Here! On your feet.                                                                   --- Vá, de pé!
 Balin.                                                                                --- 
  Come on! Wait!                                                                       --- 
-My precious.                                                                          --- Espera!
-Wait!                                                                                 --- 
+My precious. Wait!                                                                    --- Espera, meu precioso!
 Gollum, gollum!                                                                       --- 
 Quick, quick!                                                                         --- Espera!
 This way.                                                                             --- 
@@ -1717,7 +1744,7 @@ Curse it and crush it!                                                          
 We hates it forever!                                                                  --- Odiamo-lo para sempre!
 Five, six, seven, eight.                                                              --- 
 Bifur.                                                                                --- Bifur, Bofur...
-Bofur.                                                                                --- fazem dez.
+Bofur.                                                                                --- Bifur, Bofur...
 That's 1 0.                                                                           --- fazem dez.
 Fili, Kili! That's 12.                                                                --- Fili, Kili, são doze.
 And Bombur. That makes 1 3.                                                           --- E o Bombur, isso faz treze.
@@ -1730,20 +1757,21 @@ I thought he was with Dori!                                                     
 -Well, where did you last see him?                                                    --- - Onde foi a última vez que o viste?
 I think I saw him slip away when they first collared us.                              --- Acho que o vi escapulir-se quando eles nos apanharam.
 And what happened, exactly?                                                           --- Mas o que aconteceu exactamente?
--Tell me! -I'll tell you what happened.                                               --- Eu digo-lhe o que aconteceu.
+-Tell me!                                                                             --- Diz-me!
+-I'll tell you what happened.                                                         --- Eu digo-lhe o que aconteceu.
 Master Baggins saw his chance and he took it.                                         --- O mestre Baggins viu a sua oportunidade e aproveitou-a!
 He has thought of nothing but his soft bed and his warm hearth... since first he stepped out of his door. --- Não pensou em mais nada além da sua cama macia e da sua lareira quente assim que saiu da sua casa.
 We will not be seeing our Hobbit again.                                               --- Não voltaremos a ver o nosso hobbit.
 He is long gone.                                                                      --- 
 No.                                                                                   --- Não.
-He isn't.                                                                             --- Não partiu.
+He isn't.                                                                             --- Não.
 Bilbo Baggins. I have never been so glad to see anyone in my life.                    --- 
 Bilbo. We'd given you up.                                                             --- Bilbo, já tínhamos desistido de ti.
 How on earth did you get past the Goblins?                                            --- Como raio passaste pelos goblins?
 How, indeed.                                                                          --- Como terá sido mesmo?
 Well, what does it matter?                                                            --- Bem, o que importa isso?
 He's back.                                                                            --- 
-lt matters.                                                                           --- 
+lt matters.                                                                           --- Importa.
 I want to know.                                                                       --- Eu quero saber.
 Why did you come back?                                                                --- 
 Look, I know you doubt me.                                                            --- Eu sei que duvida de mim.
@@ -1755,16 +1783,17 @@ See, that's where I belong.                                                     
 That's home.                                                                          --- É o meu lar.
 And that's why I came back.                                                           --- E foi por isso que eu voltei.
 Because... you don't have one.                                                        --- vocês não têm um.
-A home.                                                                               --- Foi-vos tirado.
+A home.                                                                               --- Um lar.
 lt was taken from you.                                                                --- Foi-vos tirado.
 But I will help you take it back if I can.                                            --- Mas ajudar-vos-ei a recuperá-lo se eu puder.
 Out of the frying pan.                                                                --- Da frigideira...
 And into the fire.                                                                    --- Para o fogo.
-Run. Run!                                                                             --- 
+Run.                                                                                  --- 
+Run!                                                                                  --- Fujam!
 Go!                                                                                   --- 
 Up into the trees!                                                                    --- Subam para as árvores!
-All of you!                                                                           --- Vamos!
-Come on, climb!                                                                       --- Trepem!
+All of you!                                                                           --- Todos!
+Come on, climb!                                                                       --- Vamos!
 Bilbo, climb!                                                                         --- Bilbo, trepa!
 Quickly!                                                                              --- Bilbo, trepa!
 They're coming!                                                                       --- 
@@ -1804,7 +1833,7 @@ Not even a burglar.                                                             
 ls that what I think it is?                                                           --- Aquilo é o que eu penso?
 Erebor... the Lonely Mountain... the last of the great Dwarf kingdoms of Middle-earth. --- O último dos grandes reinos dos Anões da Terra Média.
 Our home.                                                                             --- O nosso lar.
-A raven!                                                                              --- Tomá-lo-emos como um sinal.
+A raven!                                                                              --- Um corvo!
 The birds are returning to the mountain.                                              --- Os pássaros estão a regressar à montanha.
 That, my dear Oin, is a thrush.                                                       --- Aquilo, meu caro Óin, é um tordo.
 But we'll take it as a sign.                                                          --- Tomá-lo-emos como um sinal.

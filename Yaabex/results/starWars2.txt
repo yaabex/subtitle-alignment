@@ -162,7 +162,8 @@ What the--                                                                      
 Jedi poo doo!                                                                         --- Está bem minha senhora?
 - What took you so long?                                                              --- Porque é que demoraste tanto?
 - Oh, you know, Master. - I couldn't find a speeder I liked...                        --- Bem, sabe mestre... não consegui encontrar um speeder do qual gostasse...
-- There he is. with the open cockpit and the right speed capabilities.                --- Ali está ele.
+- There he is.                                                                        --- Ali está ele.
+with the open cockpit and the right speed capabilities.                               --- com um cockpit aberto e as capacidades certas de velocidade.
 If you spent as long practising your sabre techniques as you do your wit... you would rival Master Yoda as a swordsman. --- Se passasses tanto tempo a praticar as tuas técnicas com o sabre, como praticas as tuas habilidades... Rivalizarias com o mestre Yoda como espadachim.
 I thought I already did.                                                              --- Pensava que já o fazia!
 Only in your mind, my very young apprentice.                                          --- Só na tua cabeça, meu muito jovem aprendiz.
@@ -171,22 +172,24 @@ Pull up!                                                                        
 You know I don't like it when you do that.                                            --- Sabes que não gosto quando fazes isso.
 Sorry, Master. I forgot you don't like flying.                                        --- 
 I don't mind flying, but what you're doing is suicide!                                --- Não me importo de voar, mas o que tu estás a fazer é suícidio!
-Anakin! How many times have I told you... stay away from power couplings!             --- Quantas vezes te disse... para te afastares das junções de corrente!
+Anakin!                                                                               --- Anakin!
+How many times have I told you... stay away from power couplings!                     --- Não me importo de voar, mas o que tu estás a fazer é suícidio!
 That was good!                                                                        --- Aquilo foi bom!
-Where are you going?                                                                  --- Ele foi por ali!
+Where are you going?                                                                  --- Onde é que vais?
 He went that way.                                                                     --- Ele foi por ali!
 Master, if we keep this chase going any longer... that creep is gonna end up deep-fried... and, personally, I'd like to find out who he is and who he's working for. --- Mestre, se continuarmos esta perseguição, aquele idiota vai acabar por ficar frito... e pessoalmente, gostaria muito de saber quem ele é e para quem trabalha.
 This is a short cut...                                                                --- Isto é um atalho...penso eu.
 I think.                                                                              --- 
 Well, you've lost him.                                                                --- Bem, perdeste-o.
 I'm deeply sorry, Master.                                                             --- Peço imensa desculpa mestre.
-That was some short cut, Anakin.                                                      --- Ele foi comletamente no sentido oposto.
+That was some short cut, Anakin.                                                      --- Que grande atalho, Anakin.
 He went completely the other way.                                                     --- Ele foi comletamente no sentido oposto.
-- Once again you've proved-- - If you'll excuse me.                                   --- 
+- Once again you've proved-- - If you'll excuse me.                                   --- Mais uma vez provaste...
 I hate it when he does that.                                                          --- Odeio quando ele faz aquilo.
 Anakin!                                                                               --- Anakin!
 - She went into the club, Master.                                                     --- Ela entrou no clube mestre!
-- Patience. - Use the Force.                                                          --- Usa a Força, pensa.
+- Patience.                                                                           --- Tem paciência.
+- Use the Force.                                                                      --- Usa a Força, pensa.
 Think.                                                                                --- Desculpe mestre.
 - Sorry, Master.                                                                      --- Desculpe mestre.
 - He went in there to hide, not to run.                                               --- Ele entrou ali para se esconder, não para fugir.
@@ -203,7 +206,7 @@ I am trying.                                                                    
 Can you see him?                                                                      --- Estás a vê-lo?
 I think he is a she... and I think she is a changeling.                               --- Penso que ele é uma ela... e penso que ela é mutável.
 In that case, be extra careful.                                                       --- Nesse caso, sê extremamente cuidadoso.
-- Go and find her.                                                                    --- 
+- Go and find her.                                                                    --- Vai encontrá-la.
 - Where are you going, Master?                                                        --- Onde é que vai, mestre?
 For a drink.                                                                          --- Tomar uma bebida.
 Thank you.                                                                            --- Obrigado.
@@ -214,7 +217,7 @@ You want to go home and rethink your life.                                      
 I want to go home and rethink my life.                                                --- Quero ir para casa repensar a minha vida.
 Easy.                                                                                 --- Calma!
 Jedi business.                                                                        --- Assuntos de Jedi.
-Go back to your drinks.                                                               --- Voltem para as vossas bebidas.
+Go back to your drinks.                                                               --- Assuntos de Jedi.
 Do you know who it was you were trying to kill?                                       --- 
 It was a senator from Naboo.                                                          --- Era uma senadora de Naboo.
 - And who hired you?                                                                  --- E quem te contratou?
@@ -241,7 +244,7 @@ I will talk with her.                                                           
 Senator Amidala will not refuse an executive order.                                   --- A senadora Amidala não recusará uma ordem executiva.
 I know her well enough to assure you of that.                                         --- Conheço-a bem o suficiente para lhe garantir isso.
 Thank you, Your Excellency.                                                           --- Obrigado, Vossa Excelência.
-And so, they've finally given you an assignment.                                      --- Finalmente deram-te uma missão.
+And so, they've finally given you an assignment.                                      --- 
 Your patience has paid off.                                                           --- A tua paciência deu frutos.
 Your guidance more than my patience.                                                  --- A sua orientação mais do que a minha paciência.
 You don't need guidance, Anakin.                                                      --- Tu não precisas de orientação, Anakin.
@@ -316,11 +319,11 @@ You'll be back here in no time.                                                 
 I'll be most grateful for your speed, Master Jedi.                                    --- Ficarei muito agradecida pela sua rapidez, mestre Jedi.
 - It's time to go.                                                                    --- Está na altura de ir.
 - I know.                                                                             --- Eu sei.
-Anakin, may the Force be with you.                                                    --- Anakin, que a Força esteja contigo.
+Anakin, may the Force be with you.                                                    --- Eu sei. Anakin, que a Força esteja contigo.
 May the Force be with you, Master.                                                    --- Que a Força esteja consigo, mestre.
 Suddenly I'm afraid.                                                                  --- Subitamente estou com medo.
 This is my first assignment on my own.                                                --- Esta é a minha primeira missão sozinho, eu também estou.
-I am too. Don't worry.                                                                --- 
+I am too. Don't worry.                                                                --- Esta é a minha primeira missão sozinho, eu também estou.
 We have R2 with us.                                                                   --- Não se preocupe, temos o R2 connosco.
 I do hope he doesn't try anything foolish.                                            --- Espero seriamente que ele não tente fazer nenhuma loucura.
 I'd be more concerned about her doing something than him.                             --- Eu ficaria mais preocupado em relação a ela fazer alguma coisa, do que ele.
@@ -348,25 +351,28 @@ I should think that you Jedi would have more respect... for the difference betwe
 Well, if droids could think... there'd be none of us here, would there?               --- Bem, se os droids pudessem pensar... nenhum de nós estaria aqui, ou estaria?
 Kamino. I'm not familiar with it.                                                     --- 
 Is it in the Republic?                                                                --- É na República?
-No, no. It's beyond the outer rim.                                                    --- Não, não, é para lá da orla exterior.
+No, no.                                                                               --- É na República?
+It's beyond the outer rim.                                                            --- 
 I'd say about 1 2 parsecs outside the Rishi Maze.                                     --- Eu diria cerca de 12 parsecs ao redor do Rishi Maze.
 Should be easy to find, even for those droids in your archives.                       --- Deve ser fácil de encontrar, mesmo para esses droids no teu arquivo.
 These Kaminoans keep to themselves.                                                   --- Estes Kaminoanos, guardam para eles próprios.
 They're cloners.                                                                      --- São clonadores.
 Damn good ones too.                                                                   --- 
-- Cloners.                                                                            --- São amigáveis?
+- Cloners.                                                                            --- Clonadores!
 Are they friendly?                                                                    --- São amigáveis?
 - Depends. Depends on what, Dex?                                                      --- Depende.
 On how good your manners are... and how big your... pocketbook is.                    --- De quão boas são as tuas maneiras... de quão grande o teu livro de cheques é.
 - Did you call for assistance?                                                        --- Pediu assistência?
-- Yes, I did. Are you having a problem, Master Kenobi?                                --- 
+- Yes, I did.                                                                         --- 
+Are you having a problem, Master Kenobi?                                              --- Está com algum problema, mestre Kenobi?
 Yes, I'm looking for a planetary system called Kamino.                                --- Sim, estou à procura de um sistema solar chamado Kamino.
 It doesn't show up on the archive charts.                                             --- Não aparece nos mapas do arquivo.
 Kamino. It's not a system I'm familiar with.                                          --- Kamino...não estou familiarizada com esse sistema.
 Are you sure you have the right coordinates?                                          --- Tem a certeza que tem as coordenadas correctas?
 According to my information, it should appear in this quadrant here... just south of the Rishi Maze. --- Segundo as informações que tenho, devia aparecer neste quadrante aqui. Mesmo a sul de Rishi Maze.
 I hate to say it, but it looks like the system you're searching for... doesn't exist. --- Detesto dizê-lo, mas parece que o sistema que procura não existe.
-Impossible. Perhaps the archives are incomplete.                                      --- Talvez os arquivos estejam incompletos.
+Impossible.                                                                           --- Impossível.
+Perhaps the archives are incomplete.                                                  --- Talvez os arquivos estejam incompletos.
 If an item does not appear in our records... it does not exist.                       --- Se um item não aparece nos nossos registos, não existe.
 Hey, you!                                                                             --- Hey, tu!
 No droids!                                                                            --- Droids não!
@@ -405,7 +411,8 @@ Gravity's silhouette remains... but the star and all the planets... disappeared 
 How can this be?                                                                      --- Como pode isto ser?
 A thought?                                                                            --- Uma ideia?
 Anyone.                                                                               --- Alguém.
-Master? Because someone erased it from the archive memory.                            --- Porque alguém os apagou da memória do arquivo.
+Master?                                                                               --- Mestre.
+Because someone erased it from the archive memory.                                    --- Porque alguém os apagou da memória do arquivo.
 Truly wonderful the mind of a child is.                                               --- É realmente espantosa a mente de uma criança.
 The Padawan is right.                                                                 --- O Padawan está certo.
 Go to the centre of gravity's pull... and find your planet you will.                  --- Vai ao centro da atracção gravítica... e encontrarás o teu paneta.
@@ -441,15 +448,18 @@ In the meantime, we must consider your own safety.                              
 What is your suggestion, Master Jedi?                                                 --- Qual é a sua sugestão, mestre Jedi?
 Anakin's not a Jedi yet. He's still a Padawan learner.                                --- O Anakin ainda não é um Jedi, ele ainda é um aprendiz Padawan.
 - But I was thinking-- - Hold on a minute.                                            --- Mas eu estava a pensar...
-Excuse me. I was thinking I would stay in the lake country.                           --- Mas eu estava a pensar...
+Excuse me.                                                                            --- Dá-me licença.
+I was thinking I would stay in the lake country.                                      --- Eu estava a pensar que poderia ficar no país dos lagos.
 There are some places up there that are very isolated.                                --- Há lá alguns sítios que são muito isolados.
-Excuse me. I'm in charge of security here, milady.                                    --- Eu sou o responsável pela segurança aqui, minha senhora.
+Excuse me.                                                                            --- Dê-me licença.
+I'm in charge of security here, milady.                                               --- Eu sou o responsável pela segurança aqui, minha senhora.
 And this is my home.                                                                  --- E esta é a minha casa.
 I know it very well.                                                                  --- Conheço-a muito bem.
 That is why we're here.                                                               --- É por isso que aqui estamos.
 I think it would be wise... if you took advantage of my knowledge in this instance.   --- Penso que seria prudente se tirasse partido do meu conhecimento nesta ocasião.
 Sorry, milady.                                                                        --- Desculpe, minha senhora.
-Perfect. It's settled, then.                                                          --- Está decidido então.
+Perfect.                                                                              --- Perfeito!
+It's settled, then.                                                                   --- Está decidido então.
 There it is, R4, right where it should be.                                            --- Ali está ele R4, exactamente onde devia estar.
 Our missing planet Kamino.                                                            --- O nosso planeta desaparecido Kamino.
 Master Jedi.                                                                          --- Mestre Jedi.
@@ -509,7 +519,7 @@ Oh, we keep him here.                                                           
 Apart from his pay, which is considerable...                                          --- À parte do seu pagamento, que é considerável...
 Fett demanded only one thing: an unaltered clone for himself.                         --- Fett exigiu apenas uma coisa. Um clone inalterado para ele.
 - Curious, isn't it?                                                                  --- Curioso!
--"Unaltered''?                                                                        --- Inalterado!?
+-"Unaltered''?                                                                        --- Não é?
 Pure genetic replication.                                                             --- Replicação genética pura.
 No tampering with the structure to make it more docile... and no growth acceleration. --- Nenhum maneamento na estrutura, para o tornar mais dócil... e sem crescimento acelerado.
 I should very much like to meet this Jango Fett.                                      --- Gostaria muito de conhecer esse Jango Fett.
@@ -539,11 +549,11 @@ That's exactly what we do.                                                      
 The trouble is that people don't always agree.                                        --- O problema é que as pessoas nem sempre estão de acordo.
 Well, then they should be made to.                                                    --- Bem, então deviam ser levadas a acordar.
 - By whom?                                                                            --- Por quem?
-Who's gonna make them?                                                                --- Quem as fará acordar?
-- I don't know.                                                                       --- Alguém.
-Someone.                                                                              --- Tu?
+Who's gonna make them?                                                                --- 
+- I don't know.                                                                       --- Não sei.
+Someone.                                                                              --- Alguém.
 - You?                                                                                --- Tu?
-- Of course not me.                                                                   --- Claro que não.
+- Of course not me.                                                                   --- Soa-me muito a uma ditadura.
 - But someone.                                                                        --- Mas alguém?
 - Someone wise.                                                                       --- Alguém sábio.
 Sounds an awful lot like a dictatorship to me.                                        --- Soa-me muito a uma ditadura.
@@ -563,8 +573,7 @@ Fairly.                                                                         
 This is Jedi Master Obi-Wan Kenobi.                                                   --- Este é o mestre Jedi, Obi-Wan Kenobi.
 He's come to check on our progress.                                                   --- Ele veio verificar o nosso progresso.
 Your clones are very impressive.                                                      --- Os seus clones são muito impressionantes, deve estar muito orgulhoso.
-You must be very proud.                                                               --- Os seus clones são muito impressionantes, deve estar muito orgulhoso.
-I'm just a simple man trying to make my way in the universe.                          --- Sou apenas um homem simples, tentando fazer o meu caminho no universo.
+You must be very proud. I'm just a simple man trying to make my way in the universe.  --- Os seus clones são muito impressionantes, deve estar muito orgulhoso.
 Ever made your way as far into the interior as Coruscant?                             --- Alguma vez o seu caminho foi tão longe ao interior, como Coruscant?
 - Once or twice.                                                                      --- Uma vez ou duas.
 - Recently?                                                                           --- Recentemente?
@@ -589,7 +598,8 @@ Pack your things.                                                               
 We're leaving.                                                                        --- Vamo-nos embora.
 And when I got to them, we went into aggressive negotiations.                         --- E quando cheguei ao pé deles, entrámos em negociações agressivas.
 " Aggressive negotiations''?                                                          --- Negociações agressivas!?
-What's that? Well, negotiations with a lightsabre.                                    --- Bem, negociações com um sabre de luz.
+What's that?                                                                          --- O que é isso?
+Well, negotiations with a lightsabre.                                                 --- Bem, negociações com um sabre de luz.
 If Master Obi-Wan caught me doing this, he'd be very grumpy.                          --- Se o mestre Obi-Wan me apanhasse a fazer isto, ficaria muito rabugento.
 From the moment I met you... all those years ago... not a day has gone by when I haven't thought of you. --- à todos esses anos atrás... nem um só dia passou, em que eu não penssasse em ti.
 And now that I'm with you again... I'm in agony.                                      --- E agora que estou contigo outra vez... estou em agonia.
@@ -645,7 +655,8 @@ Yes, Master.                                                                    
 They say Master Sifo-Dyas placed an order for a clone army... at the request of the senate almost ten years ago. --- Eles dizem que o mestre Sifo-Dyas encomendou um exército de clones... requesitado pelo senado, à quase dez anos.
 I was under the impression he was killed before that.                                 --- Tinha a impressão que ele tinha sido morto antes disso.
 Did the council ever authorize the creation of a clone army?                          --- Alguma vez o concelho autorizou a criação de um exército de clones?
-No. Whoever placed that order... did not have the authorization of the Jedi Council.  --- Seja quem fôr que tenha feito essa encomenda, não tinha autorização do concelho Jedi.
+No.                                                                                   --- Não!
+Whoever placed that order... did not have the authorization of the Jedi Council.      --- Seja quem fôr que tenha feito essa encomenda, não tinha autorização do concelho Jedi.
 Bring him here.                                                                       --- Trá-lo aqui.
 Question him we will.                                                                 --- Nós interroga-lo-emos.
 Yes, Master.                                                                          --- Sim, mestre.
@@ -690,7 +701,7 @@ You are Ani!                                                                    
 It is you!                                                                            --- És mesmo tu!
 You sure sprouted, huh?                                                               --- Cresceste mesmo, hã?
 AJedi!                                                                                --- Um Jedi!
-Whattaya know!                                                                        --- Quem diria.
+Whattaya know!                                                                        --- Um Jedi!
 Maybe you could help with some deadbeats who owe me a lot of money.                   --- Talvez me possas ajudar com uns deadbeats, que me devem muito dinheiro.
 My mother.                                                                            --- A minha mãe?
 Oh, yeah.                                                                             --- Oh, sim.
@@ -712,7 +723,7 @@ Sure.                                                                           
 Absolutely!                                                                           --- Absolutamente!
 Let's go look at my records, huh?                                                     --- Vamos dar uma olhada nos meus registos.
 Dad!                                                                                  --- Pai!
-I think we're being tracked!                                                          --- Acho que estamos a ser seguidos.
+I think we're being tracked!                                                          --- Pai! Acho que estamos a ser seguidos.
 He must have put a homing device on our hull.                                         --- Ele deve ter posto um localizador no nosso casco.
 Hang on, son. We'll move into the asteroid field... and we'll have a couple of surprises for him. --- Segura-te filho, vamos entrar no campo de asteróides... e vamos ter algumas surpresas para ele.
 Seismic charges!                                                                      --- Cargas sísmicas!
@@ -722,7 +733,7 @@ Watch out!                                                                      
 Get him, Dad!                                                                         --- Apanha-o pai, apanha-o!
 Fire!                                                                                 --- 
 Blast!                                                                                --- Raios!
-This is why I hate flying!                                                            --- É por isto que detesto voar!
+This is why I hate flying!                                                            --- Raios! É por isto que detesto voar!
 We got him!                                                                           --- Apanhámo-lo!
 We'll just have to finish him.                                                        --- Vamos ter de acabar com ele.
 R4, prepare to jettison the spare part canisters.                                     --- R4, prepara-te para libertar as caixas de peças suplentes.
@@ -733,12 +744,12 @@ There's an unusual concentration of Federation ships over there, R4.            
 Stay with the ship, R2.                                                               --- Fica com a nave, R2.
 Hello.                                                                                --- Olá!
 How might I be of service?                                                            --- Em que posso servi-los?
-I am C--                                                                              --- 3PO?
+I am C--                                                                              --- Eu sou o C...
 3PO?                                                                                  --- 3PO?
 The maker!                                                                            --- O criador!
 Master Ani! I knew you would return.                                                  --- Mestre Ani, eu sabia que iria regressar, eu sabia!
 I knew it!                                                                            --- 
-And Miss Padmé.                                                                       --- Oh, meu...
+And Miss Padmé.                                                                       --- E senhora Padmé.
 Oh, my.                                                                               --- Oh, meu...
 Hello, 3PO.                                                                           --- Olá, 3PO.
 Bless my circuits!                                                                    --- Abençoados sejam os meus circuitos.
@@ -772,7 +783,7 @@ To find my mother.                                                              
 Your mother's dead, son. Accept it.                                                   --- A tua mãe está morta filho, aceita-o.
 You're gonna have to stay here.                                                       --- Vais ter de ficar aqui.
 These are good people, Padmé.                                                         --- Esta gente é boa Padmé, ficarás segura.
-You'll be safe.                                                                       --- Anakin.
+You'll be safe.                                                                       --- Esta gente é boa Padmé, ficarás segura.
 I won't be long.                                                                      --- Não me vou demorar.
 We must persuade the Commerce Guild... and the Corporate Alliance to sign the treaty. --- Temos de persuadir a associação do comércio... e a aliança associada a assinar o tratado.
 What about the senator from Naboo?                                                    --- E a senadora de Naboo?
@@ -825,7 +836,7 @@ That's Anakin's tracking signal, all right... but it's coming from Tatooine.    
 What in the blazes is he doing there?                                                 --- Que raio está ele a fazer lá?
 I told him to stay on Naboo.                                                          --- Disse-lhe para ficar em Naboo.
 We haven't got much time.                                                             --- Não temos muito tempo.
-Anakin, do you copy?                                                                  --- Anakin, estás a ouvir?
+Anakin, do you copy?                                                                  --- Anakin? Anakin, estás a ouvir?
 This is Obi-Wan Kenobi.                                                               --- É o Obi-Wan Kenobi.
 Retransmit this message--                                                             --- É o Obi-Wan Kenobi.
 Anakin, do you copy?                                                                  --- Anakin, estás a ouvir?
@@ -990,7 +1001,7 @@ Shut me down!                                                                   
 Machines making machines.                                                             --- Máquinas a fazer máquinas.
 How perverse!                                                                         --- Que perverso.
 Calm down, R2!                                                                        --- Acalma-te R2.
-I almost fell.                                                                        --- Quase caía.
+I almost fell.                                                                        --- Acalma-te R2.
 You'll get your chance-- I'm scrap.                                                   --- Terás a tua opurtunidade... Estou feito em bocados.
 It's a nightmare!                                                                     --- É um pesadelo!
 I want to go home!                                                                    --- Quero ir para casa.
@@ -1022,7 +1033,7 @@ Settle down.                                                                    
 Let the executions begin.                                                             --- Que comecem as execuções.
 I've got a bad feeling about this.                                                    --- Tenho um mau pressentimento em relação a isto.
 -Just relax.                                                                          --- Relaxa, concentra-te.
-Concentrate.                                                                          --- E a Padmé?
+Concentrate.                                                                          --- Relaxa, concentra-te.
 - What about Padmé?                                                                   --- E a Padmé?
 She seems to be on top of things.                                                     --- Ela parece estar em cima da situação.
 She can't do that!                                                                    --- Ela não pode fazer aquilo!
@@ -1033,7 +1044,7 @@ This isn't how it's supposed to be!                                             
 Jango!                                                                                --- Jango!
 Finish her off!                                                                       --- Acaba com ela!
 Patience, Viceroy, patience.                                                          --- Paciência, Vice-Rei.
-She will die.                                                                         --- Ela irá morrer.
+She will die.                                                                         --- Paciência.
 Master Windu.                                                                         --- Mestre Windu.
 How pleasant of you to join us.                                                       --- Que agradável da sua parte, juntar-se a nós.
 This party's over.                                                                    --- Esta festa acabou.
@@ -1118,7 +1129,8 @@ Put the ship down!                                                              
 Don't let your personal feelings get in the way! Follow that speeder!                 --- Anakin, não deixes os teus sentimentos pessoais interferirem!
 - Lower the ship!                                                                     --- Baixem a nave!
 - I can't take Dooku alone!                                                           --- Não posso enfrentar o Dooku sozinho!
-I need you! If we catch him, we can end this war right now!                           --- Se o apanharmos, podemos acabar com esta guerra agora mesmo!
+I need you!                                                                           --- Preciso de ti!
+If we catch him, we can end this war right now!                                       --- Se o apanharmos, podemos acabar com esta guerra agora mesmo!
 - We have a job to do!                                                                --- Temos uma missão para desempenhar!
 - I don't care!                                                                       --- Não me importa!
 Put the ship down!                                                                    --- Pousem a nave!
@@ -1142,13 +1154,13 @@ Master Kenobi, you disappoint me.                                               
 Yoda holds you in such high esteem.                                                   --- O mestre Yoda, tem-te em tão alta conta.
 Surely you can do better.                                                             --- De certeza que consegues fazer melhor.
 Are you all right?                                                                    --- 
-Uh-huh.                                                                               --- É melhor voltar-mos para o centro de comando avançado.
+Uh-huh.                                                                               --- 
 We'd better get back to the forward command centre.                                   --- É melhor voltar-mos para o centro de comando avançado.
 No.                                                                                   --- Não!
 Gather what troops you can.                                                           --- Reúna todas as tropas que conseguir.
 We've got to get to that hangar.                                                      --- Temos de alcançar aquele hangar.
 Get a transport.                                                                      --- Arranje um transporte.
-Hurry!                                                                                --- 
+Hurry!                                                                                --- Despache-se!
 Right away.                                                                           --- É para já.
 Brave of you, boy.                                                                    --- É corajoso da tua parte, rapaz.
 But I would have thought you had learned your lesson.                                 --- Mas pensava que tinhas aprendido a tua lição.

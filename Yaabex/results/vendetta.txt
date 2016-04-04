@@ -100,7 +100,7 @@ I won't do it again, I swear!                                                   
 Please!                                                                               --- Por favor!
 - What do you think, lads?                                                            --- - Que acham, rapazes?
 - Spare the rod, spoil the child.                                                     --- - Guarda a varinha e estragas a criancinha.
-Help me!                                                                              --- Por favor!
+Help me!                                                                              --- Socorro!
 Someone help!                                                                         --- Socorro!
 The multiplying villainies of nature do swarm upon him.                               --- As múltiplas vilanias da natureza enxameiam sobre ele.
 - What the hell?!                                                                     --- - Que raio!?
@@ -182,7 +182,7 @@ The Bailey area is quarantined.                                                 
 All significant witnesses have been detained.                                         --- Todas as testemunhas significativas foram detidas.
 Good.                                                                                 --- Óptimo.
 Mr.                                                                                   --- Sr.
-Etheridge?                                                                            --- Etheridge?
+Etheridge?                                                                            --- Sr.
 A recording device was found wired into the central emergency-broadcast system.       --- Encontrámos um gravador ligado ao sistema central de emissão de emergência.
 The DCD was Tchaikovsky's 1812 Overture.                                              --- O sistema emitiu a Abertura 1812 de Tchaikovsky.
 Add it to the blacklist.                                                              --- Junte isso à lista negra.
@@ -574,7 +574,7 @@ Oh, my God!                                                                     
 How did you get in here?                                                              --- Como entrou aqui?
 Don't worry, I've made sure our reunion won't be disturbed by... any pesky late-night phone calls, commander. --- Não se preocupe. Certifiquei-me que a nossa reunião não será perturbada por nenhum telefonema tardio e inoportuno, Comandante.
 Stop.                                                                                 --- Pare com isso.
-Why do you keep calling me that?                                                      --- Por que me chama isso?
+Why do you keep calling me that?                                                      --- 
 That was your title, remember?                                                        --- Era esse o seu título, recorda-se?
 When we first met, all those years ago.                                               --- Quando nos encontrámos pela primeira vez, há uma série de anos.
 You wore a uniform in those days.                                                     --- Nessa altura, você usava um uniforme.
@@ -592,7 +592,7 @@ Perhaps a stroke?                                                               
 No, no, it's too horrific.                                                            --- Não, isso é demasiado horrível.
 A quiet, dignified death in his sleep.                                                --- Uma morte silenciosa e digna, no sono.
 - We got any eyes or ears on this?                                                    --- Temos olhos ou ouvidos disso?
-- No, camcos were cut.                                                                --- Câmaras e gravadores foram desligados.
+- No, camcos were cut.                                                                --- Não, isso é demasiado horrível.
 It's the same m.o.                                                                    --- O mesmo método de antes.
 As before. But we got an elevator log ID.                                             --- 
 - Let me guess.                                                                       --- - Deixa-me adivinhar.
@@ -637,7 +637,7 @@ May we come up?                                                                 
 - But it made me feel sorry for Mercedes.                                             --- - Mas tive pena de Mercedes.
 - Why?                                                                                --- - Porquê?
 Because he cared more about revenge than he did about her.                            --- Porque ele queria mais a vingança, do que a queria a ela.
-- nationwide were devastated as news of the most popular...                           --- em todo o país ficaram devastadas com a notícia de que o mais popular...
+- nationwide were devastated as news of the most popular...                           --- ... em todo o país ficaram devastadas com a notícia de que o mais popular...
 Wait.                                                                                 --- Espere.
 What's this?                                                                          --- O que é isto?
 - most awarded stars in the history of the BTN... a man known to the entire nation as "The voice of London"... passed away late last night from apparent heart failure. --- um homem conhecido em todo o país como "A Voz de Londres"... faleceu ontem à noite de aparente falha cardíaca.
@@ -836,7 +836,7 @@ I want the whereabouts of all of them.                                          
 - Yes, sir.                                                                           --- 
 Pucker up, here comes the Finger.                                                     --- Verifica todos os nomes desse ficheiro.
 Yeah.                                                                                 --- 
-Get going.                                                                            --- 
+Get going.                                                                            --- Vai andando.
 I'll handle him.                                                                      --- Eu trato dele.
 Creedy.                                                                               --- Creedy.
 What are you doing here?                                                              --- Que faz aqui?
@@ -1129,13 +1129,13 @@ Soldiers! That man is the terrorist!                                            
 - Liar!                                                                               --- - Aldrabão!
 - Faker!                                                                              --- - Fraude!
 - Fraud!                                                                              --- - Aprontar!
-- Ready!                                                                              --- - Apontar!
+- Ready!                                                                              --- - Aprontar!
 - Aim!                                                                                --- - Fogo!
 - Fire!                                                                               --- - Fogo!
 - Fire!                                                                               --- - Fogo!
-What are they gonna do, fine us?                                                      --- Multar-nos? Grande coisa.
+What are they gonna do, fine us?                                                      --- Tenho o programa com mais audiência de todos.
 Big deal. We've got the most-watched show on air.                                     --- Grande coisa.
-Well, you're my agent, that's what I pay you for.                                     --- É para isso que lhe pago. Proteja-me.
+Well, you're my agent, that's what I pay you for.                                     --- Você é o meu agente. É para isso que lhe pago.
 Protect me.                                                                           --- Proteja-me.
 I should've hired him to be my mother.                                                --- Devia tê-lo contratado há anos como minha mãe.
 - You're mad. - Either that or I wasn't breast-fed.                                   --- - Você é louco.
@@ -1270,7 +1270,7 @@ You could have ended it.                                                        
 You could have given in, but you didn't.                                              --- Podia ter cedido, mas não cedeu.
 - Why?                                                                                --- - Porquê?
 - Leave me alone!                                                                     --- - Deixe-me em paz!
-I hate you!                                                                           --- É isso!
+I hate you!                                                                           --- Odeio-o!
 That's it! See, at first, I thought it was hate too.                                  --- É isso!
 Hate was all I knew. It built my world, imprisoned me... taught me how to eat, how to drink, how to breathe. --- Era o que eu conhecia.
 I thought I'd die with all the hate in my veins.                                      --- Pensei que morria com todo o ódio nas minhas veias.
@@ -1345,7 +1345,7 @@ Thank you.                                                                      
 Goodbye.                                                                              --- Adeus.
 Evey... may I ask you for something?                                                  --- Evey... Posso pedir-lhe uma coisa?
 If I had one wish, I would wish to see you again, if only once... before the 5th.     --- Se eu pudesse ter um desejo, desejava vê-la de novo, mesmo que só uma vez, antes do dia 5.
-- All right.                                                                          --- - Obrigado.
+- All right.                                                                          --- - Está bem.
 - Thank you.                                                                          --- - Obrigado.
 Chancellor, I know no one seems to want to discuss this... but if we're to be prepared for any eventuality... then it can't be ignored any longer. --- Chanceler, sei que ninguém parece desejar discutir isto, mas se queremos estar preparados para qualquer eventualidade, isto não pode continuar a ser ignorado.
 The red report in front of you has been vetted by several demolition specialists.     --- O relatório vermelho que tem na sua frente foi cuidadosamente examinado por vários especialistas em demolições.
@@ -1384,9 +1384,9 @@ How do I know that name?                                                        
 Shit. He must have had a hidden trip on his file at the Finger.                       --- Ele deve ter programado este e- mail automático para quem o procurasse.
 But how'd he know it was you?                                                         --- Mas como podia ele saber que era o senhor?
 What do we do?                                                                        --- Como respondemos?
-I'm a cop.                                                                            --- Tenho de saber.
+I'm a cop.                                                                            --- Sou polícia.
 I have to know.                                                                       --- Tenho de saber.
-I came when they opened it.                                                           --- Fiquei com dores de estômago.
+I came when they opened it.                                                           --- Vim à inauguração.
 It gave me the collywobbles.                                                          --- Fiquei com dores de estômago.
 Still does.                                                                           --- Ainda fico.
 That's close enough, inspector.                                                       --- Já chega, Inspector.
@@ -1452,7 +1452,8 @@ A man as smart as you has probably considered this.                             
 A man as smart as you probably has a plan.                                            --- Um homem tão esperto como o senhor já deve ter um plano.
 That plan is the reason Sutler no longer trusts you.                                  --- É por causa desse plano que Sutler já não pode confiar em si.
 It's the reason why you're being watched right now... why there are eyes and ears in every room of this house... and a tap on every phone. --- É por isso que você está sob vigilância neste momento, e há olhos e ouvidos em todas as salas desta casa... e escutas em todos os telefones.
-- Bollocks. Oh, a man as smart as you, I think, knows otherwise.                      --- - Tretas.
+- Bollocks.                                                                           --- - Tretas.
+Oh, a man as smart as you, I think, knows otherwise.                                  --- Um homem tão esperto como o senhor sabe que não é assim.
 - What do you want?                                                                   --- - O que quer?
 - Sutler.                                                                             --- - Sutler.
 Come, now, Mr. Creedy, you knew this was coming.                                      --- Ora, Sr. Creedy, o senhor sabia que isto ia acontecer.
@@ -1477,15 +1478,15 @@ Yeah? Inspector, it's for you.                                                  
 - We found him.                                                                       --- - Encontraram quem?
 - Found who? William Rookwood, the one you're looking for.                            --- - Encontraram quem?
 I saw your report a couple weeks back, thought I'd run it through our John Does.      --- Vi o seu relatório de Pessoas Desaparecidas há umas semanas e pensei em verificar os nossos mortos não identificados.
-I hooked him.                                                                         --- Os dentes condizem perfeitamente.
+I hooked him.                                                                         --- Um que condizia.
 Perfect dental match.                                                                 --- Os dentes condizem perfeitamente.
 A floater. Fishermen picked him up.                                                   --- Foi encontrado a boiar por uns pescadores.
 No ID, never solved.                                                                  --- 
 Till now, that is.                                                                    --- 
 - William Rookwood is dead?                                                           --- - William Rookwood está morto?
-- I'd say so.                                                                         --- Há vinte anos.
+- I'd say so.                                                                         --- - É o que parece.
 Twenty years now.                                                                     --- Há vinte anos.
-Goddamn it!                                                                           --- 
+Goddamn it!                                                                           --- Raios!
 That son of a bitch sat there... and spoon-fed me that bullshit, and I ate it up!     --- Aquele sacana esteve ali... a passar-me aldrabices, e eu engoli-as!
 So, what do we do now, inspector?                                                     --- Que fazemos agora, Inspector?
 We do what we should have been doing.                                                 --- Fazemos o que devíamos ter feito.
@@ -1505,9 +1506,9 @@ So far we count eight boxcars.                                                  
 - Several hundred thousand, at least.                                                 --- Várias centenas de milhar, pelo menos.
 - Christ.                                                                             --- 
 I want anyone caught with one of those masks arrested!                                --- Quero que prendam todos os que forem apanhados com esta máscara!
-Give me the money!                                                                    --- Dê-me a bosta do dinheiro!
+Give me the money!                                                                    --- Dê-me o dinheiro!
 Give me the fucking money!                                                            --- Dê-me a bosta do dinheiro!
-We're under siege here.                                                               --- Toda a cidade endoideceu.
+We're under siege here.                                                               --- Estamos a ficar cercados.
 The whole city's gone mad.                                                            --- Toda a cidade endoideceu.
 - This is exactly what he wants.                                                      --- - É exactamente isso que ele quer.
 - What? - Anarchy in the UK!                                                          --- - Anarquia no Reino Unido!
@@ -1593,9 +1594,9 @@ Pull over here.                                                                 
 We've searched these tunnels for weeks.                                               --- Há semanas que revistámos esses túneis.
 You think you're gonna find him now?                                                  --- Julga mesmo que o vai encontrar agora?
 Inspector. It's all gone wrong, hasn't it?                                            --- Inspector... isto está a dar tudo para o torto, não está?
-The Underground?                                                                      --- 
+The Underground?                                                                      --- O metropolitano?
 I thought they closed this all down.                                                  --- Pensei que tinham encerrado tudo isto.
-They did.                                                                             --- 
+They did.                                                                             --- E encerraram.
 It took nearly 10 years to clear the tracks and lay a bit of my own.                  --- Levei quase dez anos a limpar a linha e a reconstruir nova.
 Let me show you.                                                                      --- Deixe-me mostrar-lhe.
 These tracks lead to Parliament.                                                      --- Estas linhas dirigem-se para o Parlamento.
@@ -1614,7 +1615,7 @@ And tomorrow, a different world will begin... that different people will shape, 
 Where are you going?                                                                  --- Onde vai?
 The time has come for me to meet my maker... and to repay him in kind for all that he's done. --- Chegou a altura de ir ter com o meu criador... e devolver-lhe, em géneros, tudo o que ele me fez.
 V, wait! Please, you don't have to do this.                                           --- V, espere!
-You could let it go.                                                                  --- Podíamos sair daqui juntos.
+You could let it go.                                                                  --- Podia esquecer o assunto.
 We could leave here together.                                                         --- Podíamos sair daqui juntos.
 No. You were right about what I am.                                                   --- Não.
 I have no tree waiting for me.                                                        --- Eu não tenho nenhuma árvore à minha espera.
@@ -1624,12 +1625,13 @@ I can't.                                                                        
 My fellow Englishmen... tonight, our country... that which we stand for... and all that we hold dear... faces a grave and terrible threat. --- 
 The area's clean, sir.                                                                --- A área está livre.
 This violent and unparalleled assault to our security... will not go undefended.      --- Este ataque violento e sem paralelo à nossa segurança... não nos apanhará indefesos.
-Where is he?                                                                          --- Nem ficará sem castigo.
-Or unpunished.                                                                        --- 
+Where is he?                                                                          --- Onde está ele?
+Or unpunished.                                                                        --- Nem ficará sem castigo.
 Penny for the Guy.                                                                    --- O que estaria o Guy a pensar?
 Our enemy is an insidious one, seeking to divide us... and destroy the very foundation of our great nation. --- O nosso inimigo é insidioso, pretende dividir-nos... e destruir a própria fundação da nossa grande nação.
 I have kept my side of the bargain, but have you kept yours?                          --- Eu cumpri a minha parte do acordo, e você cumpriu a sua?
-Bring him down. Tonight we must remain steadfast.                                     --- 
+Bring him down.                                                                       --- Tragam-no cá.
+Tonight we must remain steadfast.                                                     --- Esta noite, temos de nos manter firmes...
 We must remain determined.                                                            --- e determinados...
 But most of all, we must remain united.                                               --- mas acima de tudo, temos de nos manter unidos.
 Those caught tonight in violation of curfew... will be considered in league with our enemy... and prosecuted as a terrorist without leniency or exception. --- Os que esta noite forem apanhados a violar o recolher obrigatório serão considerados cúmplices do nosso inimigo e perseguidos como terroristas sem excepção nem misericórdia.
@@ -1648,14 +1650,14 @@ No.                                                                             
 Defiant to the end, huh?                                                              --- Continua desafiador até ao fim?
 You won't cry like him, will you?                                                     --- Mas não choramingará como ele, pois não?
 You're not afraid of death.                                                           --- Você não tem medo de morrer.
-You're like me.                                                                       --- Tire a máscara.
+You're like me.                                                                       --- É como eu.
 The only thing you and I have in common, Mr. Creedy, is we're both about to die.      --- A única coisa que temos em comum, Sr. Creedy, é que ambos não tardaremos a morrer.
 How do you imagine that's gonna happen?                                               --- E como imagina que isso irá acontecer?
 With my hands around your neck.                                                       --- Com as minhas mãos à volta do seu pescoço.
 Bollocks.                                                                             --- Tretas!
 What are you gonna do, huh?                                                           --- Que vai fazer?
-We've swept this place.                                                               --- Você não tem nada.
-You've got nothing.                                                                   --- 
+We've swept this place.                                                               --- Nós temos este sítio controlado.
+You've got nothing.                                                                   --- Você não tem nada.
 Nothing but your bloody knives and your fancy karate gimmicks.                        --- A não ser as suas facas e os seus truques de karate.
 We have guns.                                                                         --- Nós temos armas.
 No, you have bullets and the hope that when your guns are empty... I'm no longer standing, because if I am... you'll all be dead before you've reloaded. --- O que você tem são balas e a esperança que quando esvaziar as suas armas eu já não esteja de pé, porque se estiver... vocês estarão todos mortos antes que elas sejam de novo carregadas.
@@ -1669,7 +1671,7 @@ Why won't you die?                                                              
 Beneath this mask there is more than flesh.                                           --- Por detrás desta máscara, há mais do que carne.
 Beneath this mask there is an idea, Mr. Creedy.                                       --- Por detrás desta máscara, há uma ideia, Sr. Creedy.
 And ideas are bulletproof.                                                            --- E as ideias são à prova de bala.
-This is perimeter one.                                                                --- Whitehall está segura.
+This is perimeter one.                                                                --- Fala Perímetro Um.
 Whitehall is secure.                                                                  --- Whitehall está segura.
 Over.                                                                                 --- 
 This is General Ackroyd.                                                              --- Fala o general Ackroyd.
@@ -1700,7 +1702,7 @@ Almost.                                                                         
 Stop. Get your hand off that lever.                                                   --- Tire a mão dessa alavanca.
 No.                                                                                   --- 
 Enemy is approaching fast.                                                            --- O inimigo aproxima-se rapidamente.
-Requesting orders.                                                                    --- - General, que havemos de fazer?
+Requesting orders.                                                                    --- Solicito ordens.
 - What shall we do?                                                                   --- - General, que havemos de fazer?
 - No response from Command.                                                           --- - Não há resposta do Comando... ou do chefe de Partido, Creedy... ou do Alto Chanceler.
 Or from Party Leader Creedy.                                                          --- Por que está a fazer isto?
@@ -1710,7 +1712,7 @@ Why are you doing this?                                                         
 - About what?                                                                         --- - Sobre o quê?
 That this country needs more than a building right now.                               --- Este país precisa de mais que um edifício neste momento.
 It needs hope.                                                                        --- Precisa de esperança.
-Bloody hell, stand down!                                                              --- 
+Bloody hell, stand down!                                                              --- Baixem as armas!
 Stand down!                                                                           --- Baixem as armas!
 Jesus bloody Christ.                                                                  --- Jesus Cristo!
 It's time.                                                                            --- É altura.

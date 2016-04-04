@@ -17,7 +17,8 @@ Name.                                                                           
 Motherchud, name!                                                                     --- Motherchud, nome?
 Jamal Malik.                                                                          --- Jamal Malik.
 You have a name.                                                                      --- Tens um nome.
-Good. Stop crying.                                                                    --- Para de chorar.
+Good.                                                                                 --- Boa.
+Stop crying.                                                                          --- Para de chorar.
 Thank you.                                                                            --- Obrigado.
 Thank you.                                                                            --- Obrigado.
 Thank you very much.                                                                  --- Muito obrigado.
@@ -432,7 +433,8 @@ You decide.                                                                     
 Oh god he's looking at the camera.                                                    --- Oh, meu Deus ele está a olhar para a câmara.
 He hasn't got a clue.                                                                 --- Ele não faz ideia.
 This is gonna be a walk away.                                                         --- 
-Stand by. No, he's gonna play with him first.                                         --- 
+Stand by.                                                                             --- 
+No, he's gonna play with him first.                                                   --- Não, ele vai gozar com ele primeiro.
 Jamal?                                                                                --- Jamal?
 Get a lot of 100 dollar bills in your in your line of work?                           --- Recebe muitas notas de 100 dólares no seu trabalho?
 A minimum tip for my services.                                                        --- Uma gorjeta mínima pelos meus serviços.
@@ -713,7 +715,7 @@ Search complete.                                                                
 15 results found.                                                                     --- 15
 Yes?                                                                                  --- Sim?
 Salim?                                                                                --- Salim?
-Who is this?                                                                          --- Sabe que horas são?
+Who is this?                                                                          --- Quem fala? Sabe que horas são?
 Do you know what time is this?                                                        --- 
 Hello?                                                                                --- 
 Who is this?                                                                          --- Quem é?
@@ -828,7 +830,7 @@ Javed?                                                                          
 You are with him?                                                                     --- Estás com ele?
 First, you want a dishwasher, now you want this fucking cook, huh?                    --- Primeiro, queres uma máquina de lavar loiça, agora queres um raio de um cozinheiro?
 He's just...                                                                          --- - Ele só...
-- Shut up!                                                                            --- - Cala-te!
+- Shut up!                                                                            --- - Ele só...
 The cricket is on and why you watch this shit tv?                                     --- Vai dar o críquete. E porque vês esta merda na TV?
 At least I am a millionaire.                                                          --- Pelo menos sou um milionário.
 Come on, I am hungry.                                                                 --- Vá, estou com fome.
@@ -972,7 +974,7 @@ I fed him the wrong answer, and he never should call it right.                  
 You gave him an answer?                                                               --- Deste-lhe uma resposta?
 Not exactly.                                                                          --- Não foi bem isso.
 Well that doesn't matter.                                                             --- Bem, não interessa. É o meu concurso!
-That's my show!                                                                       --- O raio do meu concurso!
+That's my show!                                                                       --- É o meu concurso!
 My fucking show!                                                                      --- O raio do meu concurso!
 It is a bizarrely plausible, and yet...                                               --- É bizarramente plausível, no entanto...
 Because I'm a slumdog, a chaiwalla, I'm a liar right?                                 --- Porque sou um slumdog, um chaiwalla, sou um mentiroso, certo?

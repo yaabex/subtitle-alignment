@@ -431,7 +431,8 @@ I seek Master Thomas Kent.
 - Who asks for him?
 - Will Shakespeare.
 Poet, playwright of the Rose.
-Master Kent... is my nephew.I will wait.
+Master Kent... is my nephew.
+I will wait.
 Much good may it do you.
 "Romeo Montague, a Young Man of Verona." 
 Verona again?
@@ -462,7 +463,8 @@ I have an ancient name which will bring you preferment... when your grandson is 
 - If she do not, send her back.
 - Is she obedient?
 As any mule in Christendom.
-But if you are the man to ride her, there are rubies in the saddlebag.I like her.
+But if you are the man to ride her, there are rubies in the saddlebag.
+I like her.
 By all the stars in heaven.
 Who is she?
 Viola De Lesseps?
@@ -649,7 +651,8 @@ I'll leave the scene in your safekeeping, Ned.
 I have a sonnet to write.
 Sonnet?
 You mean a play!
-For Lady Viola De Lesseps, by the hand of Thomas Kent."Shall I compare thee to a summer's day?
+For Lady Viola De Lesseps, by the hand of Thomas Kent.
+"Shall I compare thee to a summer's day?
 Thou art more lovely and more temperate.
 Rough winds do shake the darling buds of May--" 
 Two hours at prayer!
@@ -694,7 +697,10 @@ Will you defy your father and your queen?
 The queen has consented?
 She wants to inspect you.
 At Greenwich, come Sunday.
-Be submissive, modest, grateful... and brief.I will do my duty, my lord."Master Will, poet dearest to my heart, I beseech you banish me from yours.I am to marry Lord Wessex.
+Be submissive, modest, grateful... and brief.
+I will do my duty, my lord.
+"Master Will, poet dearest to my heart, I beseech you banish me from yours.
+I am to marry Lord Wessex.
 A daughter's duty... and the queen's command." 
 Gentlemen upstage Ladies downstage 
 Gentlemen upstage Ladies downstage 
@@ -760,7 +766,8 @@ She has a natural ear.
 And her bosom.
 Did I mention her bosom?
 What of her bosom?
-Oh, Thomas, a pair of pippins... as round and rare as golden apples.I think milady is wise to keep your love at a distance.
+Oh, Thomas, a pair of pippins... as round and rare as golden apples.
+I think milady is wise to keep your love at a distance.
 For what lady could live up to it close to... when her eyes and lips and voice may be no more beautiful than mine.
 Besides, can a-- can a lady of wealth and noble marriage... Iove happily with a bankside poet and player?
 Yes, by God!
@@ -854,7 +861,9 @@ Now the nurse.
 Where is Ralph?
 Madam, your mother craves a word with you.
 - What is her mother?
-- Marry, bachelor, her mother is the lady of the house, and a good lady... and a wise and virtuous.I nursed her daughter that you talked withal.I tell you, he that can lay hold of her... shall have the chinks.
+- Marry, bachelor, her mother is the lady of the house, and a good lady... and a wise and virtuous.
+I nursed her daughter that you talked withal.
+I tell you, he that can lay hold of her... shall have the chinks.
 - Is she a Capulet?
 - Mmm.
 Oh, dear account!
@@ -902,7 +911,8 @@ Shall I hear more, or shall I speak at this?
 By a name I know not how to tell thee who I am.
 My name, dear saint, is hateful to myself, because it is an enemy to thee.
 Had I it written I would tear the word.
-"The orchard walls are high and hard to climb... and the place death, considering who thou art, if any of my kinsmen find thee here.If they do see thee, they will murder thee." 
+"The orchard walls are high and hard to climb... and the place death, considering who thou art, if any of my kinsmen find thee here.
+If they do see thee, they will murder thee." 
 Alack, there lies more peril in thine eye than 20 of their swords.
 Look thou but sweet, and I am proof against their enmity.
 Would not for the world they saw thee here.
@@ -1014,7 +1024,8 @@ Wessex will kill you.
 - I know how to fight.
 Stage fighting.
 Oh, Will.
-As Thomas Kent, my heart belongs to you, but as Viola, the river divides us, and I must marry Wessex a week from Saturday.I'll drag her down by the queen's command!
+As Thomas Kent, my heart belongs to you, but as Viola, the river divides us, and I must marry Wessex a week from Saturday.
+I'll drag her down by the queen's command!
 Good morning, my Lord.
 My lady.
 The tide waits for no man, but I swear it would wait for you.
@@ -1081,7 +1092,8 @@ I thought you were here because you had none.
 Fifty pounds?
 A very worthy sum on a very worthy question.
 Can a play show us the very truth and nature of love?
-I bear witness to the wager... and will be the judge of it as occasion arises.I have seen nothing to settle it yet.
+I bear witness to the wager... and will be the judge of it as occasion arises.
+I have seen nothing to settle it yet.
 Are there no more fireworks?
 They would be soothing after the excitements of Lady Viola's audience.
 Have her, then, but you are a lordly fool.
@@ -1257,10 +1269,12 @@ You needed no wife come from Stratford to tell you that, and yet, you let me com
 Calf-love.
 I loved the writer and gave up the prize for a sonnet.
 I was the more deceived.
-Yes, you were deceived, for I did not know how much I loved you.I love you, Will, beyond poetry.
+Yes, you were deceived, for I did not know how much I loved you.
+I love you, Will, beyond poetry.
 Oh, my love.
 - You ran from me before.
-- When I thought you dead, I did not care... about all the plays that would never come, only that I would never see your face.I saw our end, and it will come.
+- When I thought you dead, I did not care... about all the plays that would never come, only that I would never see your face.
+I saw our end, and it will come.
 - You cannot marry Wessex.
 - If not you, why not Wessex?
 If not Wessex, the queen will know the cause, 
@@ -1296,7 +1310,8 @@ Just so.
 Yes, it will serve.
 But there's a scene missing.
 Between marriage and death?
-The play... all written out for you.I had the clerk at Bridewell do it.
+The play... all written out for you.
+I had the clerk at Bridewell do it.
 He has a good fist for lettering.
 There is a new scene.
 - Will you read in for me?
@@ -1306,9 +1321,12 @@ It was the nightingale, and not the lark, that pierced the fearful hollow of thi
 Nightly she sings on yon pomegranate tree.
 Believe me, love, it was the nightingale." "lt was the lark, the herald of the morn; no nightingale.
 Look, love, what envious streaks... do lace the severing clouds in yonder east.
-Night's candles are burnt out, and jocund day stands tiptoe... on the misty mountaintops.I must be gone and live, or stay and die." "Yon light is not daylight; I know it, l.It is some meteor that the sun exhales... to be to thee this night a torchbearer... to light thee on thy way to Mantua.
+Night's candles are burnt out, and jocund day stands tiptoe... on the misty mountaintops.
+I must be gone and live, or stay and die." "Yon light is not daylight; I know it, l.
+It is some meteor that the sun exhales... to be to thee this night a torchbearer... to light thee on thy way to Mantua.
 Therefore, stay yet.
-Thou needst not to be gone." "Let me be ta'en, Iet me be put to death; I am content, so thou wilt have it so.I have more care to stay... than will to go.
+Thou needst not to be gone." "Let me be ta'en, Iet me be put to death; I am content, so thou wilt have it so.
+I have more care to stay... than will to go.
 Come, death, and welcome.
 Juliet wills it so." 
 You will go far, I fear.
@@ -1443,7 +1461,8 @@ T-T-- T-- T-T--
 T-- T-- 
 Two households, both alike in dignity, in fair Verona, where we lay our scene.
 From ancient grudge break to new mutiny, where civil blood makes civil hands unclean.
-From forth the fatal loins of these two foes... a pair of star-crossed lovers take their life... whose misadventured, piteous overthrows... doth with their death bury their parents' strife....the which of you with patient ears attend, what here shall miss, our toil shall strive to mend.
+From forth the fatal loins of these two foes... a pair of star-crossed lovers take their life... whose misadventured, piteous overthrows... doth with their death bury their parents' strife.
+...the which of you with patient ears attend, what here shall miss, our toil shall strive to mend.
 - Wonderful.
 - Was it... good?
 Gregory, on my word we'll not carry coals.
@@ -1520,7 +1539,8 @@ Thou knowest my daughter's of a pretty age.
 - She's not 14.
 Oh, I'll lay 14 of my teeth.
 And yet my teen be it spoken, I have but four-- 
-Tell me, daughter Juliet, how stands your dispositions to be married?It is an honor that I dream not of.
+Tell me, daughter Juliet, how stands your dispositions to be married?
+It is an honor that I dream not of.
 Hold, Tybalt!
 Good Mercutio!
 I-- I'm sped.
@@ -1548,7 +1568,8 @@ Where are the vile beginners of this fray?
 "Oh, I am Fortune's fool." 
 You are married?
 "lf you be married, my grave is like to be my wedding bed." 
-Art thou gone so, Iove, lord, aye, husband, friend?I must hear from thee every day in the hour, for in a minute there are many days.
+Art thou gone so, Iove, lord, aye, husband, friend?
+I must hear from thee every day in the hour, for in a minute there are many days.
 Oh, by this count I shall be much in years ere again... I behold my Romeo.
 Farewell.
 Oh, think'st thou we shall ever meet again?
@@ -1627,7 +1648,8 @@ That is enough from you, Master Kent.
 If only Lord Wessex were here.
 He is, ma'am.
 Y-Your Majesty.
-There was a wager I remember... as to whether a play could show the very truth and nature of love.I think you lost it today.
+There was a wager I remember... as to whether a play could show the very truth and nature of love.
+I think you lost it today.
 You are an eager boy.
 Did you like the play?
 I liked it when she stabbed herself, Your Majesty.
@@ -1653,7 +1675,8 @@ Tell Master Shakespeare something more cheerful next time... for Twelfth Night.
 Too late.
 My Lady Wessex.
 A hired player no longer.
-Fifty pounds, Will, for the poet of true love.I'm done with theater.
+Fifty pounds, Will, for the poet of true love.
+I'm done with theater.
 The playhouse is for dreamers.
 Look what the dream brought us.
 It was we ourselves did that.
@@ -1693,6 +1716,7 @@ A shipwreck.
 The wild waters roar and heave.
 The brave vessel is dashed all to pieces, and all the helpless souls within her... drowned.
 All save one: a lady... whose soul is greater than the ocean, and her spirit, stronger than the sea's embrace.
-Not for her a watery end, but a new life beginning on a stranger shore.It will be a love story, for she will be my heroine for all time.
+Not for her a watery end, but a new life beginning on a stranger shore.
+It will be a love story, for she will be my heroine for all time.
 And her name will be Viola.
 

@@ -5,8 +5,8 @@ I got the pyramid in my hand.                                                   
 Justin, you get back here right now!                                                  --- Justin, anda cá, imediatamente!
 No, stop!                                                                             --- Não, pára!
 - No, no!                                                                             --- - Não, não!
-Stop him!                                                                             --- Detém-no!
-- Go back!                                                                            --- - Volta!
+Stop him!                                                                             --- - Não, não!
+- Go back!                                                                            --- Detém-no!
 Don't climb!                                                                          --- Não subas!
 Wait, wait.                                                                           --- Espera, espera!
 Hold on.                                                                              --- Espera.
@@ -63,15 +63,15 @@ Goodbye, recorded message.                                                      
 Agnes, come on.                                                                       --- Agnes, anda.
 Kyle!                                                                                 --- Kyle!
 Bad dog!                                                                              --- Cão mau!
-No! No, no.                                                                           --- Não, não, senta.
-Sit.                                                                                  --- Não, não, senta.
-My muffin.                                                                            --- O meu muffin!
+No!                                                                                   --- Não!
+No, no.                                                                               --- Não, não, senta.
+Sit. My muffin.                                                                       --- Não, não, senta.
 Gru!                                                                                  --- Gru!
 Dr Nefario.                                                                           --- Dr. Nefario.
 I know how you must be feelíng.                                                       --- Sei como te deves estar a sentir.
 I, too, have encountered great disappointment, but in my eyes, you will always be one of the greats. --- Eu também me sinto muito desiludido, mas, para mim, serás sempre um dos melhores.
 What?                                                                                 --- O quê?
-What happened?                                                                        --- Que aconteceu?
+What happened?                                                                        --- O quê?
 It's all over the news!                                                               --- Está em todos os noticiários!
 Some fella just stole a pyramid.                                                      --- Alguém roubou uma pirâmide.
 They're saying he makes all other villains look lame.                                 --- Dizem que faz todos os outros vilões parecerem amadores.
@@ -83,7 +83,7 @@ Hey!                                                                            
 Looking good, Kevin!                                                                  --- Estás com bom aspecto, Kevin!
 How is the family?                                                                    --- Como vai a família?
 Good?                                                                                 --- Bem?
-All right.                                                                            --- Muito bem.
+All right.                                                                            --- Bem? Muito bem.
 That's my Billy boy!                                                                  --- Olha o meu Billy Boy!
 What up, Larry?                                                                       --- Que tal, Larry?
 Hello, everybody!                                                                     --- Olá a todos!
@@ -107,7 +107,8 @@ Yeah, you all like watching football on that, huh?                              
 But that's not all.                                                                   --- Mas não é tudo.
 We stole the Statue of Liberty, the small one from Las Vegas.                         --- Roubámos a Estátua da Liberdade. A pequena, de Las Vegas.
 And I won't even mention the Eiffel Tower!                                            --- E nem vou falar na Torre Eiffel!
-Also Vegas. Okay, I wasn't going to tell you about this yet, but I have been working on something very big! --- Também de Las Vegas.
+Also Vegas.                                                                           --- Também de Las Vegas.
+Okay, I wasn't going to tell you about this yet, but I have been working on something very big! --- Ora bem, não vos ia falar já disto, mas tenho andado a trabalhar em algo muito grande.
 Something that will blow this pyramid thing out of the water!                         --- Algo que vai fazer isto da pirâmide parecer uma brincadeira.
 And thanks to the efforts of my good friend Dr Nefario...                             --- E, graças ao esforço do meu bom amigo, o Dr. Nefario...
 Thank you!                                                                            --- Obrigado!
@@ -125,7 +126,7 @@ And I will be the greatest villain of all time!                                 
 That's what I'm talking about.                                                        --- Era disto que eu estava a falar!
 Yes?                                                                                  --- Sim?
 Hello, Gru?                                                                           --- Estou?
-I've been crunching some numbers, and I really don't see how we can afford this.      --- Estive a bater uns números e não estou a ver como é que vamos pagar isto.
+I've been crunching some numbers, and I really don't see how we can afford this.      --- Gru? Estive a bater uns números e não estou a ver como é que vamos pagar isto.
 It can't be done.                                                                     --- É impossível.
 I'm not a miracle worker.                                                             --- Eu não faço milagres.
 Hey, chillax.                                                                         --- Relaxa.
@@ -133,9 +134,9 @@ I'll iust get another loan from the bank.                                       
 They love me!                                                                         --- Eles adoram-me.
 Edith, stop it!                                                                       --- Edith, pára!
 What?                                                                                 --- Que é?
-I'm just walking.                                                                     --- Estou só a andar.
+I'm just walking.                                                                     --- Estou só a andar.Menina Hattie
 - Hi, Miss Hattie.                                                                    --- Olá, Menina Hattie.
-We're back.                                                                           --- Voltámos.
+We're back.                                                                           --- 
 - Hi, Miss Hattie.                                                                    --- Voltámos.
 We're back.                                                                           --- Voltámos.
 Hello, girls!                                                                         --- Olá, meninas.
@@ -163,7 +164,7 @@ Yeah.                                                                           
 We wouldn't want to spend the weekend in the Box of Shame, would we?                  --- Não queremos passar o fim-de-semana na caixa da vergonha, pois não?
 No.                                                                                   --- Não.
 - No, Miss Hattie.                                                                    --- Não, Menina Hattie.
-- No, Miss Hattie.                                                                    --- Óptimo.
+- No, Miss Hattie.                                                                    --- Não, Menina Hattie.
 Okay, good.                                                                           --- Óptimo.
 Off you go.                                                                           --- Podem ir.
 Go clean something of mine.                                                           --- Vão limpar algo meu.
@@ -199,7 +200,7 @@ No, you haven't.                                                                
 I invented it.                                                                        --- Não, inventei-a eu.
 Do you want a demonstration?                                                          --- Queres uma demonstração?
 Shoot!                                                                                --- Bolas!
-So difficult, sometimes, to get the piranha back inside of my...                      --- Às vezes, é tão difícil meter a piranha outra vez dentro da...
+So difficult, sometimes, to get the piranha back inside of my...                      --- Bolas! Às vezes, é tão difícil meter a piranha outra vez dentro da...
 Mr Gru, Mr Perkins will see you now.                                                  --- Sr. Gru, o Sr. Perkins vai recebê-lo.
 So, all I need is money from the bank to build a rocket.                              --- Por isso, só preciso de dinheiro do banco, para fazer um foguetão.
 - And then, the moon is ours.                                                         --- E então, a Lua é nossa.
@@ -237,7 +238,7 @@ You!                                                                            
 Now, maybe you'll think twice before you freeze someone's head!                       --- Agora, talvez penses duas vezes antes de congelar a cabeça de alguém!
 So long, Gru!                                                                         --- Adeus, Gru!
 Quick!                                                                                --- Depressa!
-We can't let him get away!                                                            --- Não podemos deixá-lo fugir!
+We can't let him get away!                                                            --- 
 Up ahead!                                                                             --- Lá à frente!
 Up ahead!                                                                             --- Lá à frente!
 Fire!                                                                                 --- Dispara!
@@ -276,19 +277,19 @@ What the...                                                                     
 Good luck, little girls!                                                              --- Boa sorte, meninas!
 Whoa! Cool.                                                                           --- Fixe!
 Hi!                                                                                   --- Olá!
-We're orphans from Miss Hattie's Home for Girls.                                      --- Somos órfãs, do Lar para Raparigas da Menina Hattie.
+We're orphans from Miss Hattie's Home for Girls.                                      --- Olá! Somos órfãs, do Lar para Raparigas da Menina Hattie.
 - I don't care.                                                                       --- - Não quero saber, saiam!
-Beat it!                                                                              --- - Vá lá!
+Beat it!                                                                              --- 
 - Come on!                                                                            --- - Vá lá!
 We're selling cookies so, you know, we can have a better future.                      --- Andamos a vender bolinhos, para podermos ter um futuro melhor.
 - Wait, wait!                                                                         --- - Esperem, esperem!
-Do you have coco-nutties?                                                             --- Têm coco-nutties?
+Do you have coco-nutties?                                                             --- - Esperem, esperem!
 - Yeah.                                                                               --- - Sim.
 Light bulb.                                                                           --- Fez-se luz.
 Dr Nefario!                                                                           --- Dr. Nefario!
 I'm going to need a dozen tiny robots disguised as cookies!                           --- Vou precisar de uma dúzia de robôs disfarçados de bolachas.
 - What?                                                                               --- - O quê?
-- Cookie robots!                                                                      --- - Robôs bolacha!
+- Cookie robots!                                                                      --- - O quê?
 - Who is this?                                                                        --- - Quem fala?
 - Oh, forget it.                                                                      --- - Esquece.
 Well, it appears you have cleared our background check,                               --- Bem, parece que o seu cadastro está limpo.
@@ -345,11 +346,11 @@ And that's Agnes.                                                               
 I got your leg, I got your leg!                                                       --- Apanhei-te a perna, apanhei-te a perna.
 Okay, that is enough, little girl.                                                    --- Pronto, já chega, menina.
 - Let go of my leg.                                                                   --- Larga-me a perna, tu consegues.
-Come on.                                                                              --- Mais alto!
+Come on.                                                                              --- 
 You can do it.                                                                        --- Mais alto!
 - Higher!                                                                             --- Mais alto!
 - Higher!                                                                             --- - Mais alto!
-- Just release your grip.                                                             --- - Solta-te de mim!
+- Just release your grip.                                                             --- - Mais alto!
 Wow! How do you remove them?                                                          --- 
 Is there a command?                                                                   --- Há algum comando?
 Some nonstick spray?                                                                  --- Um spray antiaderente?
@@ -391,7 +392,8 @@ I don't know.                                                                   
 Do you really think that this is an appropriate place for little kids?                --- Achas mesmo que este local é apropriado para crianças pequenas?
 'Cause it's not.                                                                      --- É que não é.
 No!                                                                                   --- Não!
-No! Stay away from there!                                                             --- Afasta-te disso!
+No!                                                                                   --- Não!
+Stay away from there!                                                                 --- Afasta-te disso!
 It's fragile.                                                                         --- É frágil.
 Well, I suppose the plan will work with two.                                          --- Bem, imagino que o plano funcione só com duas.
 Hey!                                                                                  --- Ei!
@@ -451,7 +453,7 @@ I meant to close that.                                                          
 He'll be all right, I'm sure.                                                         --- Ele fica bem. Tenho a certeza.
 - Do the effects wear off?                                                            --- - Os efeitos desaparecem?
 - So far no.                                                                          --- - Até agora...
-No, they don't.                                                                       --- Não, não desaparecem.
+No, they don't.                                                                       --- Não. Não, não desaparecem.
 And here, of course, is the new weapon you ordered.                                   --- E aqui, claro, está a nova arma que tu pediste.
 No, no.                                                                               --- Não, não, não.
 I said "dart gun," not...                                                             --- Eu disse "arma de setas", não era...
@@ -485,7 +487,7 @@ Hey!                                                                            
 My unicorn!                                                                           --- O meu unicórnio!
 You have to fix it.                                                                   --- Tens de arranjá-lo.
 Fix it?                                                                               --- Arranjá-lo?
-Look, it has been disintegrated.                                                      --- Olha, foi desintegrado.
+Look, it has been disintegrated.                                                      --- Arranjá-lo? Olha, foi desintegrado.
 By definition, it cannot be fixed.                                                    --- Não pode ser arranjado, por definição.
 That's freaking me out.                                                               --- Isto está a afligir-me.
 What is she doing?                                                                    --- Que está ela a fazer?
@@ -494,7 +496,7 @@ It is just a toy. Now stop it!                                                  
 Okay, okay!                                                                           --- Está bem, está bem!
 I'll fix it!                                                                          --- Eu arranjo!
 Tim!                                                                                  --- Tim!
-Mark!                                                                                 --- Mark!
+Mark!                                                                                 --- Tim!
 Phil!                                                                                 --- Phil!
 This is very important.                                                               --- Isto é muito importante.
 You have to get the little girl a new unicorn toy.                                    --- Têm de arranjar um novo unicórnio de brincar para a menina.
@@ -533,7 +535,7 @@ It's beautiful.                                                                 
 Girls, let's go.                                                                      --- Meninas, vamos.
 Time to deliver the cookies!                                                          --- Está na hora de entregar as bolachas.
 Okay.                                                                                 --- Está bem.
-But first, we're going to dance class.                                                --- Mas primeiro, vamos à aula de dança.
+But first, we're going to dance class.                                                --- Está bem. Mas primeiro, vamos à aula de dança.
 Actually, we're going to have to skip the dance class today.                          --- Na verdade, hoje vamos faltar à aula de dança.
 Actually, we can't skip the dance class today.                                        --- Na verdade, não podemos faltar à aula de dança.
 We have a big recital coming up.                                                      --- Vamos ter um grande recital.
@@ -580,7 +582,7 @@ You know, we're supposed to start with the A's.                                 
 Then we go to the B's.                                                                --- Depois passamos aos Bs.
 Then we...                                                                            --- Depois vamos aos...
 Yes, yes!                                                                             --- Sim, sim!
-I went to kindergarten.                                                               --- Eu andei na creche.
+I went to kindergarten.                                                               --- 
 I know how the alphabet works!                                                        --- Sei a ordem alfabética!
 I was just thinking that it might be nice to deliver Mr Vector's first.               --- Eu só pensei que podia ser simpático entregar os do Sr. Vector primeiro.
 That is all.                                                                          --- Mais nada.
@@ -627,8 +629,8 @@ But we've never been.                                                           
 And it's the funnest place on earth!                                                  --- E é o sítio mais divertido do mundo!
 Don't care.                                                                           --- Não me interessa.
 - Please?                                                                             --- - Por favor!
-- Please?                                                                             --- - Por favor?
-We'll never ask for anything else, ever again!                                        --- Nunca mais pedimos nada, nunca!
+- Please?                                                                             --- - Por favor!
+We'll never ask for anything else, ever again!                                        --- 
 - Pretty please?                                                                      --- - Por favor, muito, muito?
 - Please?                                                                             --- - Por favor?
 - Come on!                                                                            --- - Vamos!
@@ -652,7 +654,7 @@ It's easy!                                                                      
 Yay!                                                                                  --- 
 Again!                                                                                --- Outra vez!
 - Wait!                                                                               --- - Espera!
-- Come on.                                                                            --- - Acertei-lhe, acertei-lhe!
+- Come on.                                                                            --- - Espera!
 One more time!                                                                        --- Só mais uma.
 Just one more.                                                                        --- Só mais uma.
 I accidentally closed my eyes.                                                        --- Fechei os olhos, sem querer.
@@ -706,7 +708,8 @@ Just... Fine, fine, fine, whatever.                                             
 Just get back in there!                                                               --- Mas voltem para além!
 Can we get stuffed crust?                                                             --- Pode ser com massa recheada?
 - Stuffed crust!                                                                      --- 
-- Stuffed crust! I'll stuff you all in the crust!                                     --- 
+- Stuffed crust!                                                                      --- 
+I'll stuff you all in the crust!                                                      --- Eu recheio-vos a massa!
 You're funny!                                                                         --- És engraçado!
 Just don't come out of that room again!                                               --- Não voltem a sair daí!
 All right.                                                                            --- Ora bem.
@@ -724,9 +727,9 @@ Believe me, I am completely focused.                                            
 - What?                                                                               --- - O quê?
 That guy is huge!                                                                     --- Aquele tipo é enorme!
 - Are we on TV?                                                                       --- O que é isso?
-- What are those?                                                                     --- Crianças?
+- What are those?                                                                     --- O que é isso?
 Children?                                                                             --- Crianças?
-What are you doing?                                                                   --- Que estão a fazer?
+What are you doing?                                                                   --- - O quê?
 I told you to stay out of here!                                                       --- Disse-vos para não entrarem aqui!
 No, no, no!                                                                           --- Não, não, não!
 Freeze ray!                                                                           --- Raio de congelar!
@@ -771,7 +774,7 @@ Who needs the bank?                                                             
 Let's go.                                                                             --- 
 Let's go!                                                                             --- 
 Mom!                                                                                  --- Mãe!
-What are you doing here?                                                              --- Que fazes aqui?
+What are you doing here?                                                              --- Mãe! Que fazes aqui?
 And here he is in the bathtub.                                                        --- E aqui está ele na banheira.
 Look at his little buns.                                                              --- Olhem para este rabiosque!
 Mom.                                                                                  --- Mãe.
@@ -782,7 +785,7 @@ Yes, he does.                                                                   
 An ugly girl!                                                                         --- Uma menina feia!
 You're funny!                                                                         --- És engraçado!
 Yes!                                                                                  --- Boa!
-Mine's shaped like a dead guy!                                                        --- A minha parece um morto!
+Mine's shaped like a dead guy!                                                        --- Boa! A minha parece um morto!
 Mr Perkins, your son is here.                                                         --- Sr. Perkins, está aqui o seu filho.
 Send him in.                                                                          --- Mande-o entrar.
 Hey, Dad.                                                                             --- Olá, pai.
@@ -842,11 +845,11 @@ Okay, let's get this over with.                                                 
 "Three little kittens loved to play, they had fun in the sun all day.                 --- "Três gatinhos adoravam brincar. Divertiam-se todo o dia, com o Sol a brilhar.
 "Then their mother came out and said, 'Time for kittens to go to bed."'               --- "Então, a mamã apareceu a chamar, os gatinhos tinham de ir descansar."
 Wow!                                                                                  --- Uau!
-This is garbage.                                                                      --- Isto não presta!
+This is garbage.                                                                      --- 
 You actually like this?                                                               --- Gostam mesmo disto?
 Keep reading!                                                                         --- Continua a ler!
 - Come on!                                                                            --- - Vá lá!
-- All right, all right, all right.                                                    --- - Está bem, está bem!
+- All right, all right, all right.                                                    --- - Vá lá! - Está bem, está bem!
 "Three little kittens started to bawl, "'Mommy, we're not tired at all# "Their mother smiled and said with a purr, "'Fine, but at least you should brush your fur."' --- 
 Now you brush the fur.                                                                --- Agora escova-os.
 This is literature?                                                                   --- Isto é literatura?
@@ -867,7 +870,7 @@ Okay, good night.                                                               
 - What?                                                                               --- - Que é?
 What about good night kisses?                                                         --- E os beijinhos de boa noite?
 No, no.                                                                               --- Não, não.
-There will be no kissing or hugging or kissing.                                       --- Nada de beijos nem abraços, nem beijos.
+There will be no kissing or hugging or kissing.                                       --- 
 He is not gonna kiss us good night, Agnes.                                            --- Ele não nos vai dar um beijo de boa noite, Agnes.
 I like him.                                                                           --- Gosto dele.
 He's nice.                                                                            --- É simpático.
@@ -876,7 +879,7 @@ Like Santa!                                                                     
 Only 48 hours till the launch, and all systems are go.                                --- Só faltam quarenta e oito horas para o lançamento e está tudo pronto.
 About that, I was thinking that maybe we could move the date of the heist.            --- Acerca disso... Estava a pensar que, se calhar, podíamos mudar a data do roubo.
 Please tell me this is not as a result of the girls' dance recital, is it?            --- Por favor, diz-me que isto não tem nada a ver com o recital de dança das miúdas.
-No, no, no!                                                                           --- Não, não, não!
+No, no, no!                                                                           --- Tem? Não, não, não!
 The recital?                                                                          --- O recital?
 Don't...                                                                              --- Não...
 That's stupid!                                                                        --- Que estupidez!
@@ -896,13 +899,13 @@ Butt.                                                                           
 All right.                                                                            --- 
 Now, when we put our cups together, we will make the "clink" sound with our mouths.   --- Agora, quando batemos com as chávenas, fazemos aquele clink com a boca.
 Ready?                                                                                --- Pronta?
-Edith?                                                                                --- Edith?
+Edith?                                                                                --- Pronta?
 - Clink.                                                                              --- Edith?
 - Clink.                                                                              --- Aí está.
 There we go.                                                                          --- Aí está.
 And now we drink.                                                                     --- Agora bebemos.
 And Agnes?                                                                            --- E Agnes?
-- Clink.                                                                              --- 
+- Clink.                                                                              --- E Agnes?
 - Clink.                                                                              --- 
 Very good!                                                                            --- Muito bem!
 Excuse me, girls.                                                                     --- Com licença, meninas.
@@ -959,7 +962,7 @@ All right.                                                                      
 But just a few more minutes.                                                          --- Mas só mais uns minutos.
 He's not coming, guys.                                                                --- Ele não vem, malta.
 Gru!                                                                                  --- Gru!
-Gru, can you hear me?                                                                 --- Gru, estás a ouvir-me?
+Gru, can you hear me?                                                                 --- Gru! Gru, estás a ouvir-me?
 Quick, we have to warn him, and fast!                                                 --- Rápido, temos de avisá-lo. E depressa!
 Okay, okay. There's the library.                                                      --- Ora bem, ora bem, ali está a biblioteca.
 That's Third Street. The dance studio...                                              --- Aquela é a Rua Três, vai para o estúdio de dança.
@@ -983,7 +986,7 @@ When I get in there, you are in for a world of pain!                            
 I'm really scared!                                                                    --- Estou cheio de medo!
 He is gonna kick your butt.                                                           --- Ele vai dar-te uma tareia.
 What?                                                                                 --- O quê?
-He punched my shark!                                                                  --- Ele bateu ao meu tubarão!
+He punched my shark!                                                                  --- O quê? Ele bateu ao meu tubarão!
 There he is!                                                                          --- Lá está ele!
 Hang on, Gru.                                                                         --- Aguenta-te, Gru!
 Oh, no!                                                                               --- Ó, não!
@@ -1000,9 +1003,10 @@ Oh, no!                                                                         
 Did you see that?                                                                     --- Viram isto?
 - Vector!                                                                             --- - Vector!
 Help!                                                                                 --- Socorro!
-- Vector!                                                                             --- - Vector!
+- Vector!                                                                             --- Socorro!
 - Over here!                                                                          --- Aqui!
-- Hey! What are you girls doing back there?                                           --- O que estão vocês a fazer, aí atrás?
+- Hey!                                                                                --- - Vector!
+What are you girls doing back there?                                                  --- O que estão vocês a fazer, aí atrás?
 The moon!                                                                             --- A Lua!
 Watch out!                                                                            --- Cuidado!
 Get as close in as you can.                                                           --- Aproxima-te o mais que puderes.
@@ -1013,7 +1017,7 @@ Okay, girls!                                                                    
 Girls!                                                                                --- Meninas!
 - You're going to have to iump.                                                       --- - Vocês vão ter de saltar.
 - Jump?                                                                               --- - Saltar?
-Are you insane?                                                                       --- Estás maluco?
+Are you insane?                                                                       --- - Saltar? Estás maluco?
 Don't worry, I will catch you.                                                        --- Não se preocupem, eu apanho-vos.
 You gave us back!                                                                     --- Tu devolveste-nos!
 I know, I know.                                                                       --- Eu sei, eu sei.
@@ -1026,7 +1030,7 @@ Margo, I will catch you.                                                        
 And I will never let you go again.                                                    --- E nunca mais te volto a largar!
 - Not so fast!                                                                        --- - Mais devagar!
 - No!                                                                                 --- - Não!
-Let me go!                                                                            --- Larga-me!
+Let me go!                                                                            --- 
 Margo!                                                                                --- Margo!
 I'm coming, Margo.                                                                    --- Vou já, Margo.
 Hang on!                                                                              --- Aguenta-te!
@@ -1037,19 +1041,19 @@ This time, good triumphs, and the moon has been returned to its rightful place i
 But once again, law enforcement is baffled, leaving everyone to wonder, who is this mysterious hero? --- Mas, mais uma vez, as forças da lei estão confusas, deixando no ar a pergunta, quem é este herói misterioso?
 And what will he do next?                                                             --- E que fará ele, a seguir?
 Okay, girls.                                                                          --- 
-Time for bed.                                                                         --- - Vá lá!
+Time for bed.                                                                         --- 
 - Come on!                                                                            --- - Vá lá!
 We want a story.                                                                      --- Queremos uma história!
 - Three sleepy kittens!                                                               --- - Três Gatinhos Ensonados!
 Oh, no!                                                                               --- Ó, não!
-Sorry.                                                                                --- Desculpem.
+Sorry.                                                                                --- Ó, não!
 That book was accidentally destroyed maliciously.                                     --- Esse livro foi acidentalmente destruído, por maldade.
 Tonight we are going to read a new book.                                              --- Esta noite, vamos ler um livro novo.
 This one is called                                                                    --- Este chama-se:
 One Big Unicorn by...                                                                 --- Um Grande Unicórnio, de...
 Who wrote this?                                                                       --- Quem escreveu isto?
 Me!                                                                                   --- Eu!
-I wrote it.                                                                           --- Fui eu que escrevi!
+I wrote it.                                                                           --- Quem escreveu isto?
 Look, it's a puppet book!                                                             --- É um livro de fantoches!
 Here, watch this.                                                                     --- Olhem para isto.
 That's the horn!                                                                      --- É o chifre!
@@ -1088,12 +1092,12 @@ No, no, no.                                                                     
 Me, me, me.                                                                           --- Eu, eu, eu.
 John?                                                                                 --- John?
 No, no.                                                                               --- Não, não.
-Me, me, me.                                                                           --- Eu, eu, eu.
+Me, me, me.                                                                           --- Não, não.
 Oh, poop.                                                                             --- Bolas.
 Oh, no!                                                                               --- Ó, não!
 Stop!                                                                                 --- Parem!
 Stop!                                                                                 --- Parem!
 Hello, I am Gru.                                                                      --- Olá, eu sou o Gru.
 Back to work, back to work!                                                           --- Toca a trabalhar! Toca a trabalhar!
-Back to...                                                                            --- Toca a...
+Back to...                                                                            --- Toca a trabalhar!
 

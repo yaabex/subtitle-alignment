@@ -261,7 +261,7 @@ A state-police detective.                                                       
 And are you a married state-police detective?                                         --- É casado?
 No.                                                                                   --- Não.
 Because this is kind of a...                                                          --- É que esta casa é para o grandote...
-Sort of a big place and... I have a co-signer.                                        --- Tenho um fiador. Porreiro...
+Sort of a big place and... I have a co-signer.                                        --- 
 Oh, cool.                                                                             --- Porreiro...
 Yeah, you intend to have a houseguest.                                                --- É que esta casa é para o grandote...
 That's cool.                                                                          --- Estupendo...
@@ -270,7 +270,8 @@ Good. - Yeah, it's got...                                                       
 Sure.                                                                                 --- Claro...
 Eternal rest grant unto her, O Lord, and let perpetual light shine upon her.          --- Proporciona-lhe descanso eterno, ó Senhor, e deixa que a luz eterna brilhe sobre ela.
 - Amen. - May she rest in peace.                                                      --- Que ela descanse em paz.
-Amen. May her soul and the souls of all the faithful departed... through the mercy of God rest in peace. --- Ámen.
+Amen.                                                                                 --- Ámen.
+May her soul and the souls of all the faithful departed... through the mercy of God rest in peace. --- Que a alma dela, e a de todos os fiéis defuntos, pela misericórdia do Senhor, descanse em paz.
 Amen.                                                                                 --- Ámen.
 So what do I do?                                                                      --- O que querem que eu faça?
 There's money behind this operation.                                                  --- A operação tem financiamento.
@@ -406,7 +407,7 @@ Unfortunately, this shithole has more leaks than the Iraqi navy.                
 - I'm tired from fucking your wife.                                                   --- - Estou farto da tua mulher.
 - How's your mother?                                                                  --- - Como está a tua mãe?
 - Tired from fucking my father.                                                       --- - Bem, farta de foder o meu pai.
-Good.                                                                                 --- Meninas...
+Good.                                                                                 --- Ora bem.
 Today, girls... what I have is microprocessors.                                       --- Meninas... Vou falar-vos de microprocessadores.
 Somebody, as you may already know, stole 20 microprocessors... from the Mass Processor Company out on Route 128. --- Como já devem saber, alguém roubou 20 microprocessadores da Mass Processor, na Route 128.
 These are the kind they put into computers... that could put a cruise missile up the ass of a camel... from a couple hundred miles away. --- São daqueles processadores capazes de meter um míssil no cu dum camelo a centenas de quilómetros de distância.
@@ -418,9 +419,9 @@ Southie projects.                                                               
 - Myles Kennefick.                                                                    --- - Myles Kennefick.
 Got the job with a forged UMass transcript.                                           --- Arranjou o emprego com um certificado de habilitações falso da UMass Boston,
 UMass, Boston...                                                                      --- - que por acaso é...
-- ...                                                                                 --- - Myles Kennefick.
+- ...                                                                                 --- - que por acaso é...
 which happens to...                                                                   --- - No bairro Southie, em Boston?
-- South Boston?                                                                       --- Mas que génio!
+- South Boston?                                                                       --- - No bairro Southie, em Boston?
 Oh, you're a fucking genius.                                                          --- Mas que génio!
 Who forged your transcript, dickhead?                                                 --- Quem te falsificou a candidatura, cretino?
 His old man runs the Hibernian Liquor Mart.                                           --- O velho dele tinha uma loja de bebidas, a Kennefick's.
@@ -472,7 +473,8 @@ They're all frigging crazy on that floor.                                       
 - Oh, fancy policeman.                                                                --- - No piso dos "bonzões".
 - Yeah, that's right, fancy.                                                          --- - Exacto, sou um dos "bonzões".
 - Are you a statie?                                                                   --- - É da Estatal?
-Yeah, I am. I'm actually going to law school also.                                    --- Mas também ando a tirar Direito.
+Yeah, I am.                                                                           --- Sou.
+I'm actually going to law school also.                                                --- Mas também ando a tirar Direito.
 Suffolk, nights?                                                                      --- Em Suffolk, à noite?
 Yeah, they don't run Harvard at night, last time I checked.                           --- Tanto quanto sei, Harvard não tem cursos nocturnos.
 - When's the last time you checked?                                                   --- - Quando se informou?
@@ -500,7 +502,8 @@ Bye-bye.                                                                        
 Jerk-ass!                                                                             --- Sua besta!
 Come on, Babu.                                                                        --- Vá lá, Babu!
 I can't do anymore.                                                                   --- Não posso esperar mais.
-I cannot hold off. Don't let me go back empty-handed.                                 --- Não posso voltar de mãos vazias, não faças isto.
+I cannot hold off.                                                                    --- Não posso esperar mais.
+Don't let me go back empty-handed.                                                    --- Não posso voltar de mãos vazias, não faças isto.
 Don't do this.                                                                        --- Quero ajudar-te.
 I wanna help you.                                                                     --- Quero ajudar-te.
 Come to my store next Friday.                                                         --- Aparece na sexta.
@@ -536,7 +539,7 @@ Fuck!                                                                           
 What's wrong with this fucking country?                                               --- O que se passa neste país?
 Everybody hates everybody!                                                            --- Tanto ódio!
 Get out of here.                                                                      --- Sai daqui!
-Get out of here!                                                                      --- Fora!
+Get out of here!                                                                      --- Põe-te a mexer!
 - Now, you also do probation work, right?                                             --- - Tratas gente em liberdade condicional?
 - That's right, I see violent offenders.                                              --- - Também vejo criminosos violentos.
 - Oh, bad guys.                                                                       --- - Mauzões...
@@ -577,7 +580,7 @@ If they don't do their jobs, you don't have one.                                
 I'll always have a job.                                                               --- Eu terei sempre trabalho.
 I'll just arrest innocent people.                                                     --- Posso prender inocentes...
 - Wait.                                                                               --- 
-You are trouble.                                                                      --- 
+You are trouble.                                                                      --- - Tu não és de confiança!
 - You don't know the half of it.                                                      --- - Nem tu sabes da missa a metade!
 I'll arrest you right now.                                                            --- Vou prender-te já.
 My word against yours.                                                                --- É a minha palavra contra a tua.
@@ -748,7 +751,7 @@ But you, you definitely need to have fucking one.                               
 If you're not being run by us, you're being run by someone else.                      --- Se não trabalhas para nós, trabalhas para outro qualquer.
 That means you're bringing undesirable elements... into Mr. Costello's area.          --- E isso quer dizer que estás a atrair indesejados à zona do Mr. Costello.
 I was going for my fucking cigarettes!                                                --- Ia tirar um cigarro, porra!
-Hey.                                                                                  --- Esse é o Jimmy Bags!
+Hey.                                                                                  --- 
 That's Jimmy Bags.                                                                    --- Esse é o Jimmy Bags!
 - He was rea...                                                                       --- - Ele ia...
 I don't know. - What the fuck you doing?                                              --- - Mas que merda foi essa?!
@@ -770,7 +773,7 @@ This crazy fuck...                                                              
 - ... knocked Jimmy Bags' teeth out.                                                  --- - partiu os dentes ao Jimmy Bags!
 - So?                                                                                 --- - E, então?
 - He was...                                                                           --- - Ele ia sacar do...
-- He was reaching for his cigarettes.                                                 --- - Ia sacar dos cigarros!
+- He was reaching for his cigarettes.                                                 --- - Ele ia sacar do...
 You're gonna give me shit?                                                            --- Está a ver se me entala?
 It wasn't for no reason, Frank. He reached into his coat.                             --- Não foi à toa, o gajo ia ao bolso!
 I don't know if he's a bookie or what he's doing.                                     --- Sabia lá que ele era corretor ou o caraças!
@@ -837,8 +840,8 @@ He's one of Costello's.                                                         
 We're getting a warrant.                                                              --- Vamos arranjar um mandato.
 Can't get an address off him.                                                         --- Não lhe arrancamos a morada.
 He paged his lawyer but the lawyer hasn't called back yet.                            --- Mandou uma mensagem ao advogado, mas ele ainda não telefonou.
-- Who's the lawyer?                                                                   --- - Ele não sabe o nome.
-- Didn't know the name.                                                               --- Tinha o número num cartão.
+- Who's the lawyer?                                                                   --- - Quem é o advogado?
+- Didn't know the name.                                                               --- - Ele não sabe o nome.
 Just a number.                                                                        --- Tinha o número num cartão.
 Beeper number.                                                                        --- É dum beeper.
 - And the guy didn't show up?                                                         --- E o tipo não apareceu?
@@ -959,7 +962,8 @@ I'm going nuts.                                                                 
 I can't be someone else every day.                                                    --- Não posso ser uma pessoa diferente todos os dias!
 It's been a year.                                                                     --- Já lá vai um ano disto!
 I've had enough!                                                                      --- Estou farto desta merda!
-Calm down. Most people do it every day.                                               --- A maior parte das pessoas faz isto todos os dias.
+Calm down.                                                                            --- Acalma-te.
+Most people do it every day.                                                          --- A maior parte das pessoas faz isto todos os dias.
 What's the big deal?                                                                  --- Qual é a tua?!
 - Well, I'm not them.                                                                 --- Eu não sou essas pessoas.
 I'm not them, okay?                                                                   --- Não sou elas, porra!
@@ -1037,7 +1041,7 @@ What do you do?                                                                 
 You send him off on the street to score smack? Is that what you do?                   --- Manda-o de volta às ruas, à procura de produto?!
 You're fucking ridiculous.                                                            --- Você é mesmo patética!
 Two pills?                                                                            --- Dois comprimidos?
-Why don't you just give me a bottle of Scotch... and a handgun to blow my fucking head off? --- Mais vale dar-me uma garrafa de whisky e uma arma para eu rebentar a merda dos miolos!
+Why don't you just give me a bottle of Scotch... and a handgun to blow my fucking head off? --- Porreiro... Mais vale dar-me uma garrafa de whisky e uma arma para eu rebentar a merda dos miolos!
 - Are we done with this psychiatry bullshit?                                          --- - Esta treta psiquiátrica já acabou?
 - You can leave!                                                                      --- Vá-se embora!
 What did I just put myself through?                                                   --- Em que merda me meti eu?!
@@ -1090,7 +1094,8 @@ All right, you guys find out what we're doing and get on it.                    
 Sorry to get you last-minute, but things leak.                                        --- Desculpa surpreender-te, mas há muitas fugas.
 This lead came from Queenan's undercover guy.                                         --- Soubemos pela "toupeira" do capitão Queenan.
 I'm gonna smoke.                                                                      --- Vou fumar.
-You don't smoke? One of those fitness freaks, huh?                                    --- Não fumas, pois não?
+You don't smoke?                                                                      --- Não fumas, pois não?
+One of those fitness freaks, huh?                                                     --- Andas armado em saudável, é?
 Go fuck yourself.                                                                     --- Vai à merda.
 - Hi, Dad?                                                                            --- Olá, pai.
 - Yes. Yeah, something big came up at work.                                           --- - Que pena...
@@ -1103,7 +1108,8 @@ So we'll just...                                                                
 I'll just see you for lunch instead tomorrow.                                         --- Almoçamos antes amanhã.
 Your mother will be proud.                                                            --- A tua mãe orgulhar-se-ia de ti.
 All right, thanks, Pop.                                                               --- Obrigado, pai.
-Bye. The readiness is all.                                                            --- 
+Bye.                                                                                  --- Adeus.
+The readiness is all.                                                                 --- A preparação é fundamental.
 You know the players.                                                                 --- Sabes quem são os "jogadores".
 Call the game.                                                                        --- Avançamos quando mandares.
 Thank you.                                                                            --- Obrigado.
@@ -1111,7 +1117,7 @@ Thank you.                                                                      
 - Is your highness... gonna drop me off at confession before work, or fuck me, or what? --- - Vossa Alteza vai largar-me no confessionário antes do trabalho ou vai saltar-me em cima?
 What have you got to confess to that anointed pederast?                               --- O que tens tu para confessar àquele pedófilo encartado?
 A confessional seal, these days... I'm not so sure.                                   --- O segredo confessional hoje em dia... Olha que não tenho bem a certeza.
-He'll operate the cameras.                                                            --- Ele mexe nas câmaras.
+He'll operate the cameras.                                                            --- É canja. Ele mexe nas câmaras.
 You ID the guys and log them.                                                         --- Vocês identificam os tipos e registam.
 All cellphone signals are under surveillance... through the courtesy of our federal friends over there. --- Os telemóveis estão todos vigiados, graças aqui ao FBI.
 Patriot Act, Patriot Act.                                                             --- É o Patriot Act.
@@ -1232,12 +1238,13 @@ You know, to keep things on an even keel, right?                                
 Right? We talked about that.                                                          --- Já conversámos sobre isso.
 - Morning. - Good morning.                                                            --- Bom dia.
 Want a French doughnut?                                                               --- Queres um croissant?
-Yeah.                                                                                 --- Posso ver?
+Yeah.                                                                                 --- 
 - Hey, can I lookit?                                                                  --- Posso ver?
 - Yeah.                                                                               --- - O quê?!
 Sure.                                                                                 --- Claro.
 - All right, we're not having this out.                                               --- - Isto nem sai da caixa.
-- What? You don't see any pictures of where I came from.                              --- - O quê?!
+- What?                                                                               --- - O quê?!
+You don't see any pictures of where I came from.                                      --- Também não vês fotografias minhas.
 Look, I respect who you are... just, you know, not in the living room.                --- Eu respeito quem tu és... mas não na sala de estar.
 We might have company.                                                                --- Podemos ter de receber alguém.
 - Company?                                                                            --- - Alguém?
@@ -1245,7 +1252,7 @@ We might have company.                                                          
 - Hey, now, why do you work for the state?                                            --- - Por que trabalhas para o Estado?
 - Why not?                                                                            --- Tu também trabalhas.
 You do. No, what you do.                                                              --- 
-The degrees and all, everything you got.                                              --- És uma profissional de sucesso.
+The degrees and all, everything you got.                                              --- Isso que tu fazes, tantos diplomas...
 You're hot shit.                                                                      --- 
 Yeah?                                                                                 --- 
 So why do you make as much as a guidance counselor?                                   --- Porquê ganhar o mesmo que uma orientadora profissional?
@@ -1258,7 +1265,7 @@ Don't...                                                                        
 Ah, fuck with the fucking phone!                                                      --- 
 Stop it!                                                                              --- 
 - The phone. - Forget the phone.                                                      --- Esquece o telefone.
-Get it.                                                                               --- Atende!
+Get it.                                                                               --- Atende.
 Answer it.                                                                            --- Atende!
 Answer it. This is your first phone call in the new house.                            --- 
 You live here now.                                                                    --- És residente!
@@ -1292,13 +1299,14 @@ Inside.                                                                         
 Have you seen anything?                                                               --- Viste alguma coisa?
 I got no access to Queenan's undercover files.                                        --- Não tenho acesso aos ficheiros do Queenan.
 He and Dignam run the snitches.                                                       --- Ele e o Dignam é que gerem os infiltrados.
-- Doing my best.                                                                      --- - O que podes?!
-- Your best? What do you think we're in, the fucking haberdashery business?           --- - O que podes?!
+- Doing my best.                                                                      --- - Eu faço o que posso, mas...
+- Your best?                                                                          --- - O que podes?!
+What do you think we're in, the fucking haberdashery business?                        --- Isto é alguma retrosaria?!
 Look, Frank, if you don't relax... If you don't relax, I can't relax.                 --- Frank, se não te acalmas... Se não tens calma, eu enervo-me.
 All right?                                                                            --- - O que podes?!
 Now, what I need you to do... get me information on the people with you last night.   --- 
 Your crew. Get me social-security numbers, get me...                                  --- 
-Get you?                                                                              --- 
+Get you?                                                                              --- Queres?!
 Give you? Who the fuck do you work for?                                               --- Mas afinal para quem trabalhas tu, porra?!
 All right, all right.                                                                 --- 
 Frank, Frank, Frank.                                                                  --- 
@@ -1315,7 +1323,7 @@ How are you, Francis?                                                           
 - I know she did.                                                                     --- - Eu sei que chamava.
 And your father called you the tumor.                                                 --- E o seu pai chamava-lhe tumor.
 And what did your father call you, Charlie?                                           --- E como lhe chamava o seu pai, Charlie?
-Oh, yeah, I forgot.                                                                   --- 
+Oh, yeah, I forgot.                                                                   --- Pois é... Já me esquecia.
 He wasn't around.                                                                     --- Pôs-se ao fresco.
 You have a boss that has a laryngectomy?                                              --- O teu chefe fez uma laringectomia?
 No, no, no. That was a guy who works for me.                                          --- Era um tipo que trabalha para mim.
@@ -1324,7 +1332,8 @@ Not exactly.                                                                    
 What did you do with the real microprocessors, Frank?                                 --- O que fez aos verdadeiros microprocessadores, Frank?
 Microprocessors.                                                                      --- Os microprocessadores?
 Oh, yeah.                                                                             --- Já me constou!
-I heard the story. You arrested some Chinese government guys... at the border carrying some light sockets or something. --- 
+I heard the story.                                                                    --- Já me constou!
+You arrested some Chinese government guys... at the border carrying some light sockets or something. --- Prenderam uns dignitários chineses na fronteira com um carregamento de casquilhos de lâmpadas!
 I can't wait to wipe that fucking smirk off of your face.                             --- Estou mortinho por te arrancar esse sorrisinho da tromba!
 Wouldn't you rather wipe my ass for me?                                               --- Não preferias lamber-me o cu?
 There are certain parts of my job that I'm not gonna be able to talk to you about.    --- Há certos aspectos do meu trabalho de que não vamos poder conversar.
@@ -1352,14 +1361,15 @@ What the fuck, you pay guineas in Providence?                                   
 - What the fuck do you do?                                                            --- - Para que foi essa merda?
 I gotta pay Costello for him to trade me to the FBI?                                  --- Querias que pagasse ao Costello para ele depois me vender ao FBI?!
 Because that's what he does.                                                          --- É isso que ele faz!
-FBI? What the fuck you talking about, FBI?                                            --- Ao FBI?!
+FBI?                                                                                  --- Ao FBI?!
+What the fuck you talking about, FBI?                                                 --- Que raio de conversa é essa?!
 My God, is that French out there?                                                     --- Meu Deus, o French está aí?
 What the fuck did you just say about the FBI?                                         --- O que disseste do FBI?!
-Forget what I said.                                                                   --- Estou pedrado.
+Forget what I said.                                                                   --- Esquece.
 I'm fucking high.                                                                     --- Estou pedrado.
 Whatever may be going on in that very fucking poor... very limited brain of yours, I am not gonna hurt you, all right? --- Não sei o que te vai nesse limitadíssimo e enfezado cérebro, eu não te faço mal, está bem?
 - Just tell me what you fucking said.                                                 --- - Só quero que repitas o que disseste!
-- Forget it.                                                                          --- Estou pedrado!
+- Forget it.                                                                          --- - Esquece!
 I'm high.                                                                             --- Estou pedrado!
 I'm fucking high.                                                                     --- Só posso estar pedrado.
 I must be high.                                                                       --- 
@@ -1391,7 +1401,7 @@ My wife's asleep but she left some supper out.                                  
 You want something to eat?                                                            --- Quer comer?
 No. No, thanks.                                                                       --- Não, obrigado.
 Yeah, come on, man.                                                                   --- 
-You have some supper.                                                                 --- Falamos na cozinha.
+You have some supper.                                                                 --- Coma qualquer coisa.
 We'll talk in the kitchen.                                                            --- Falamos na cozinha.
 Come on.                                                                              --- Venha!
 You want some coke?                                                                   --- Queres coca?
@@ -1439,17 +1449,19 @@ Yeah, I know.                                                                   
 No. You have to choose.                                                               --- 
 - You have to make a...                                                               --- - É preciso tomar uma...
 - A decision.                                                                         --- - Decisão.
-A decision. And, you know, you have to stick by what you choose.                      --- - Decisão.
-- You have to...                                                                      --- - Ir viver com o namorado?
+A decision.                                                                           --- Isso, e...
+And, you know, you have to stick by what you choose.                                  --- depois há que aguentar aquilo que se escolheu.
+- You have to...                                                                      --- - Há que...
 - Move in with your boyfriend?                                                        --- - Ir viver com o namorado?
-Yes. Otherwise it's...                                                                --- Caso contrário, é...
+Yes.                                                                                  --- Sim.
+Otherwise it's...                                                                     --- Caso contrário, é...
 Oh, I know, I know.                                                                   --- 
 I know.                                                                               --- 
 I have to say your vulnerability is really freaking me out right now.                 --- Devo confessar que esse teu ar desamparado está a perturbar-me imenso.
 Is it real?                                                                           --- É real?
 I think so.                                                                           --- Acho que sim.
 You don't have any cats.                                                              --- Não tens gatos.
-No.                                                                                   --- Agrada-me.
+No.                                                                                   --- Não tens gatos.
 I like that.                                                                          --- Agrada-me.
 I don't get it.                                                                       --- Não entendo.
 We are all convinced that Costello has at least... one mole inside the Special Investigations Unit. --- Acreditamos que o Costello tem, pelo menos, uma "toupeira" na Unidade de Investigações Especiais.
@@ -1480,7 +1492,8 @@ The fuck is wrong with you?                                                     
 - See anything you like, Col?                                                         --- - Agrada-te o que vês, Col?
 - I almost fucking shot you.                                                          --- - Por pouco, dava-te um tiro!
 - You're not indulging in self-abuse, are you?                                        --- - Não estavas a bater uma, ou estavas?
-- Sit down. I hope you're not turning into one of them sob sisters wants to get caught. --- - Senta-te.
+- Sit down.                                                                           --- - Senta-te.
+I hope you're not turning into one of them sob sisters wants to get caught.           --- Oxalá não estejas a transformar-te num daqueles lamechas que querem ser apanhados.
 You're not cracking up, are you?                                                      --- Não te estás a passar, pois não?
 - I don't crack up.                                                                   --- - Eu não me passo.
 - Pick a place like this... where any cop could see you.                              --- - Escolher um sítio destes onde qualquer chui te pode ver...
@@ -1508,7 +1521,8 @@ What good am I if you don't listen?                                             
 Queenan is compartmentalizing.                                                        --- O Queenan está a compartimentalizar.
 He's splitting everything up.                                                         --- Está a dividir tudo.
 He's fucking smart.                                                                   --- O pulha é espertalhão!
-You know this. I can get the rat.                                                     --- Eu consigo encontrar o chibo!
+You know this.                                                                        --- Sabes isso muito bem!
+I can get the rat.                                                                    --- Eu consigo encontrar o chibo!
 You just gotta let me do it my way, Frank.                                            --- Eu seria bom no que faço, se não soubesse já isso, porra?!
 Okay.                                                                                 --- 
 But Colin, I hope I won't have to remind you... that if you don't find that cheese-eating rat bastard in your department... most likely, it won't be me who suffers for it. --- Mas espero não ter de te lembrar que se não encontrares essa ratazana comilona no teu departamento, o mais certo, é não ser eu a sofrê-las.
@@ -1551,7 +1565,7 @@ Stupid, huh?                                                                    
 Well, I guess that leaves me out.                                                     --- Isso exclui-me.
 You know, past days, situation like this, I kill everybody.                           --- Noutros tempos, perante esta situação, despachava toda a gente.
 Everybody who works for me.                                                           --- Todos os meus homens.
-Right.                                                                                --- 
+Right.                                                                                --- Claro.
 You know, Frank... I look around at your other guys... I mean, they're all murderers, right? --- Sabe, Frank... quando olho para os seus homens... Eles são todos assassinos, não é?
 Right?                                                                                --- 
 And I think, "Could I do murder?"                                                     --- Ponho-me a pensar: "Seria eu capaz de matar?"
@@ -1563,7 +1577,7 @@ You accuse me twice... I quit.                                                  
 You pressure me to fear for my life and I will put a fucking bullet in your head... as if you were anybody else. --- Faz-me recear pela minha vida, e eu espeto-lhe uma bala nos cornos como se fosse outra pessoa qualquer!
 Okay?                                                                                 --- 
 You got something you wanna ask me?                                                   --- Queres perguntar-me alguma coisa?
-Look, you're 70 years old, Frank.                                                     --- Você tem 70 anos, Frank.
+Look, you're 70 years old, Frank.                                                     --- Repare. Você tem 70 anos, Frank.
 I'm just saying, okay?                                                                --- 
 One of your guys is gonna pop you.                                                    --- Quanto a passar droga, mas que merda é esta?
 - One of your guys is gonna pop you.                                                  --- Quanto a passar droga, mas que merda é esta?
@@ -1582,13 +1596,14 @@ Social-security numbers.                                                        
 Is there something that you just wanna go ahead and ask me?                           --- Quer perguntar-me alguma coisa?
 Because I'll give you the fucking answer, all right?                                  --- É que eu posso responder-lhe já!
 Frank, look at me.                                                                    --- Olhe para mim, Frank!
-Look at me. I'm not the fucking rat.                                                  --- Eu não sou a ratazana, está bem?
+Look at me.                                                                           --- Olhe para mim!
+I'm not the fucking rat.                                                              --- Eu não sou a ratazana, está bem?
 Okay?                                                                                 --- 
 I'm not the fucking rat.                                                              --- Eu não sou a merda da ratazana!
 Start with you agree there is a rat.                                                  --- Então, concordas que há uma ratazana.
 You said there is one, all right?                                                     --- Você é que disse que havia!
 I base most of what I do on the idea that you're pretty good at what you do.          --- A maior parte do que faço assenta na ideia que você é bom no que faz!
-Sure.                                                                                 --- 
+Sure.                                                                                 --- Claro.
 Sure, Will.                                                                           --- Claro, mas...
 You, William.                                                                         --- E tu, William?
 What would you do?                                                                    --- O que farias?
@@ -1606,18 +1621,20 @@ I don't wanna be you.                                                           
 "Heavy lies the crown" sort of thing.                                                 --- "Pesada é a coroa..." Essa treta toda.
 Yeah.                                                                                 --- 
 - Francis.                                                                            --- - Vou-me embora.
-- I'm out of here.                                                                    --- Depois ligue o alarme...
+- I'm out of here.                                                                    --- - Vou-me embora.
 You'll set the alarm...                                                               --- Depois ligue o alarme...
 - Yeah, all right. I'll see you at Christmas.                                         --- - Vemo-nos no Natal.
 - All right.                                                                          --- - Boa noite.
 Good night.                                                                           --- - Boa noite.
 You know what I like about restaurants?                                               --- Sabes do que gosto nos restaurantes?
 The fucking food?                                                                     --- Da merda da comida?
-I don't know.                                                                         --- Do quê?
-What? You learn a lot watching things eat.                                            --- Do quê?
+I don't know.                                                                         --- Sei lá!
+What?                                                                                 --- Do quê?
+You learn a lot watching things eat.                                                  --- Aprende-se muito a ver as pessoas comer.
 There's a boat coming up Gloucester.                                                  --- Vem aí um barco de Gloucester.
 French will give you all the details.                                                 --- O French dá-te os pormenores.
-Don't forget. Eat something, for Christ's sake.                                       --- Não te esqueças.
+Don't forget.                                                                         --- Não te esqueças.
+Eat something, for Christ's sake.                                                     --- Come qualquer coisa, por amor de Deus!
 In the future, I tell you to do a thing, you fucking do it.                           --- Doravante, quando eu te mandar fazer uma coisa, tu obedeces.
 You got that?                                                                         --- Percebeste?
 I got it.                                                                             --- Percebi.
@@ -1652,7 +1669,8 @@ Like I said, two days ago, my guy damn near found out who Costello's rat is.    
 - Really?                                                                             --- - A sério?
 - Well, did he get a look at the guy?                                                 --- E viu-o bem?
 - No.                                                                                 --- Nada?
-I mean, nothing? Like, I mean, anything that could help us.                           --- Nada que possa ajudar-nos?
+I mean, nothing?                                                                      --- Nada?
+Like, I mean, anything that could help us.                                            --- Nada que possa ajudar-nos?
 No.                                                                                   --- 
 So you got any advice for me?                                                         --- Tem algum conselho a dar-me?
 Just, I mean, generally.                                                              --- Genericamente, claro...
@@ -1674,10 +1692,11 @@ I'm fucking Irish.                                                              
 I'll deal with something being wrong for the rest of my life.                         --- Aguento a minha cruz até ao fim dos meus dias.
 It might not be a bad idea, you know, another city.                                   --- É capaz de não ser má ideia, sabes? Outra cidade...
 - Of course I know how to spot a cop.                                                 --- - Claro que topo os chuis!
-- How's that? If he's not paying attention to us, he's a cop.                         --- - Como?
+- How's that?                                                                         --- - Como?
+If he's not paying attention to us, he's a cop.                                       --- Se alguém nos ignorar, conclui-se que é chui.
 Lookit. You see that guy over there?                                                  --- - Estás a ver aquele tipo ali?
 Right over there.                                                                     --- Ali?
-Yeah.                                                                                 --- 
+Yeah.                                                                                 --- Ali?
 Not paying attention to us.                                                           --- Finge que não nos vê.
 He's a cop.                                                                           --- É chui.
 - Okay.                                                                               --- - Onde?
@@ -1713,7 +1732,7 @@ No, no, I can't tell you what or where.                                         
 It's probably disinformation.                                                         --- Deve ser desinformação.
 Just keep following him, all right?                                                   --- É melhor segui-lo.
 Listen, I need to see you today.                                                      --- Preciso de o ver hoje.
-- Tomorrow.                                                                           --- - Não, hoje!
+- Tomorrow.                                                                           --- - Amanhã.
 - No, no, no.                                                                         --- - Não, hoje!
 Today. - You heard nothing about drugs?                                               --- Não ouviste dizer nada sobre droga?
 - No. Nothing about new guys?                                                         --- Nada sobre a minha malta nova?
@@ -1725,7 +1744,7 @@ No way, he says.                                                                
 Follow Costello. You'll find his rat.                                                 --- Segue o Costello e darás com a ratazana.
 Yeah, this is Sergeant Sullivan.                                                      --- Fala o Sargento Sullivan.
 I want constant surveillance on Captain Queenan, starting right now.                  --- Quero o capitão Queenan sempre vigiado, a partir de agora.
-Good.                                                                                 --- Obrigado.
+Good.                                                                                 --- Óptimo.
 Thank you.                                                                            --- Obrigado.
 Can I ask a question, sarge? Why the fuck are we following Captain Queenan?           --- Posso saber por que diabo seguimos o capitão?
 To find out about the good Catholic life?                                             --- Para confirmar que segue à risca os bons ensinamentos católicos?
@@ -1742,12 +1761,12 @@ Look down the car.                                                              
 - You got me?                                                                         --- - Já me viu?
 - Yeah, I gotcha.                                                                     --- - Já me viu?
 Is there a reason you would have a tail?                                              --- Há alguma razão para o estarem a seguir?
-No.                                                                                   --- 
+No.                                                                                   --- Há alguma razão para o estarem a seguir?
 - Because I think... - Billy, I don't have a tail.                                    --- Billy, ninguém me está a seguir.
 Get off at the next stop, all right?                                                  --- Saia na próxima paragem, está bem?
 South Station.                                                                        --- Na Estação Sul.
 You wait there 10 minutes.                                                            --- Aguarde dez minutos.
-South Station.                                                                        --- Aguardo dez minutos.
+South Station.                                                                        --- Estação Sul.
 Wait 10 minutes.                                                                      --- Aguardo dez minutos.
 He just went into a building down the waterfront.                                     --- Ele entrou num edifício à beira-rio.
 344 Wash.                                                                             --- Wash, 344.
@@ -1769,27 +1788,28 @@ Sooner or later he's gonna find out who I am and he's gonna fucking kill me.    
 - All right!                                                                          --- Ouviu?!
 I think we got him.                                                                   --- Acho que já o apanhámos.
 I think Queenan's meeting with him right now.                                         --- O Queenan foi encontrar-se com ele.
-All right, all right.                                                                 --- Ouça lá...
-Listen to me. I'm really sorry for your trouble.                                      --- Juro por Deus que lamento imenso tudo isto.
-I swear to God I am.                                                                  --- Eu safo-o.
-I'll get you out of this. I can't do it overnight but I'll get you out.               --- 
+All right, all right.                                                                 --- Está bem, pronto.
+Listen to me.                                                                         --- Ouça lá...
+I'm really sorry for your trouble. I swear to God I am.                               --- Juro por Deus que lamento imenso tudo isto.
+I'll get you out of this.                                                             --- 
+I can't do it overnight but I'll get you out.                                         --- Não pode ser dum dia para o outro, mas vou fazê-lo.
 Yeah?                                                                                 --- Vai buscar a carrinha.
 Hey, get the van.                                                                     --- Vai buscar a carrinha.
-We're moving.                                                                         --- Trabalho da pesada.
-Heavy work.                                                                           --- - E o FBI?
-- What about the FBI?                                                                 --- - Estão comprometidos.
+We're moving.                                                                         --- Vamos embora.
+Heavy work.                                                                           --- Trabalho da pesada.
+- What about the FBI?                                                                 --- - E o FBI?
 - They're compromised.                                                                --- - Estão comprometidos.
-- They're what?                                                                       --- - Não são de confiança!
+- They're what?                                                                       --- - Estão o quê?
 - They're fucked.                                                                     --- - Não são de confiança!
 - Yeah.                                                                               --- - Estão comprometidos.
-- Where are you?                                                                      --- - Estão o quê?
+- Where are you?                                                                      --- Billy, onde raio te meteste?
 We've been trying to reach you.                                                       --- Temos andado à tua procura!
 We found the rat.                                                                     --- Encontrámos a ratazana!
 Listen, we're gonna take him out.                                                     --- Vamos abatê-lo agora.
 Lookit: The address is 314 Washington Street.                                         --- 
-You got it?                                                                           --- 
+You got it?                                                                           --- Anotaste bem?
 All right, we'll see you there.                                                       --- Vai lá ter.
-- What?                                                                               --- - Foi seguido.
+- What?                                                                               --- - O que é?
 - You were followed.                                                                  --- - Foi seguido.
 - By who?                                                                             --- - Por quem?
 - By Costello's people.                                                               --- - Pela gente do Costello.
@@ -1798,7 +1818,7 @@ Come on.                                                                        
 Come on.                                                                              --- Vamos!
 Come on!                                                                              --- Vamos!
 What the fuck is going on?                                                            --- Mas que merda é esta?!
-Fucking shit.                                                                         --- 
+Fucking shit.                                                                         --- Com um caraças!
 Looks like Queenan's meeting with all of them.                                        --- O Queenan marcou uma reunião!
 Yeah, he must be our guy.                                                             --- Deve ser mesmo o nosso homem.
 Sarge, we gotta get him out of here.                                                  --- Sargento, temos de o tirar dali.
@@ -1808,7 +1828,8 @@ Ah, Christ, it's too late. Let's go back up.                                    
 - You got to get out of here!                                                         --- - Tem de sair daqui.
 - Take the fire escape.                                                               --- - Vá pela escada de incêndio.
 - What about you?                                                                     --- - E você?
-I'll be fine. But if you get made I can't protect you.                                --- Se eles o descobrirem, não poderei protegê-lo!
+I'll be fine.                                                                         --- Eu fico bem.
+But if you get made I can't protect you.                                              --- Se eles o descobrirem, não poderei protegê-lo!
 Now, go!                                                                              --- Vá!
 - One of you mugs got a light?                                                        --- - Têm lume, bandidos?
 - Where's your boy?                                                                   --- - O seu rapaz?
@@ -1823,25 +1844,25 @@ Sarge, something just came off the building.                                    
 What the fuck?                                                                        --- Mas que merda?
 Fuck.                                                                                 --- Qualquer coisa, como?
 What do you mean, off the building?                                                   --- - Caiu qualquer coisa, não sei o que é!
-- Something came off the fucking roof.                                                --- - Caiu qualquer coisa, não sei o que é!
+- Something came off the fucking roof.                                                --- - É um corpo, porra!
 - It's a fucking body.                                                                --- - É um corpo, porra!
 We can't get a visual.                                                                --- - É um corpo, porra!
 Want us to get out?                                                                   --- Quer que vamos lá ver?
 We gotta get on foot if you want me to get up on this thing.                          --- 
 - Where were you?                                                                     --- - Onde te enfiaste?
-- What happened?                                                                      --- Estás atrasado, porra!
-You're fucking late!                                                                  --- Já para a carrinha!
+- What happened?                                                                      --- - Que merda é esta?!
+You're fucking late!                                                                  --- Estás atrasado, porra!
 Get in the van!                                                                       --- Já para a carrinha!
 What do you mean, off the roof?                                                       --- Caiu qualquer coisa, como?
 What's going on?                                                                      --- Vim ter convosco!
 I came to meet you.                                                                   --- - Onde diabo te meteste?
 - What the fuck...?                                                                   --- - Mas que merda é esta?
-- Get in the van!                                                                     --- - Onde diabo te meteste?
+- Get in the van!                                                                     --- - Entra na carrinha!
 I got four armed men right out front.                                                 --- Não sei, somos quatro.
 You want us to pursue?                                                                --- Queres que avancemos?
 No, do not pursue. Stay in the car.                                                   --- Não avancem, fiquem no carro.
 - Fuck.                                                                               --- - Porra!
-No fucking pursuit.                                                                   --- - Preciso de informação.
+No fucking pursuit.                                                                   --- Não podemos avançar!
 - I need information.                                                                 --- - Preciso de informação.
 What came off the roof?                                                               --- O que caiu do telhado?
 - No pursuit.                                                                         --- Não avançamos...
@@ -1849,7 +1870,7 @@ What came off the roof?                                                         
 Fuck this.                                                                            --- Que se lixe!
 Fitzy! Get in the van!                                                                --- Entra na carrinha!
 Get in the fucking van!                                                               --- Entra na merda da carrinha!
-Let's go!                                                                             --- Mexe-te!
+Let's go!                                                                             --- Vamos!
 Move!                                                                                 --- Mexe-te!
 All right.                                                                            --- Mexe-te!
 I got him.                                                                            --- Mexe-te!
@@ -1863,11 +1884,12 @@ So do you know why Queenan went into that building?                             
 - No.                                                                                 --- - Porquê?
 - Well, a better question... is why the fuck were your guys following him?            --- 
 I told Internal Investigations to follow Captain Queenan.                             --- Mandei a Comissão de Inquérito seguir o capitão Queenan.
-- Why? - That's Internal Investigations' business.                                    --- - Porquê?
+- Why?                                                                                --- - Porquê?
+- That's Internal Investigations' business.                                           --- - Isso é assunto da Comissão de Inquérito.
 Fucking piece of shit!                                                                --- Merdoso dum raio!
 - All right.                                                                          --- - Cabra de merda!
 - Hey, hey!                                                                           --- - Cabra de merda!
-- Fucking bitch!                                                                      --- - Porquê?
+- Fucking bitch!                                                                      --- - Cabra de merda!
 - Let him go!                                                                         --- - Cabra de merda!
 Cocksucker!                                                                           --- 
 I don't have to fucking explain anything to anybody!                                  --- Não tenho de explicar nada a ninguém!
@@ -1878,9 +1900,10 @@ That's a fucking lie.                                                           
 He has fucking information in a locked file, as did Captain Queenan.                  --- Ele tem um ficheiro protegido, tal como o capitão Queenan.
 I need access to those files.                                                         --- Preciso desses ficheiros!
 I forgot the password but if you come with me I'll give it to you.                    --- Esqueci-me da password, mas posso dar-ta na garagem.
-- That's a fucking lie.                                                               --- - Ninguém me chama mentiroso!
+- That's a fucking lie.                                                               --- - Isso é mentira!
 - Nobody calls me a liar!                                                             --- - Ninguém me chama mentiroso!
-Shut up! Work with the tech guys to unlock those files.                               --- 
+Shut up!                                                                              --- Calem-se!
+Work with the tech guys to unlock those files.                                        --- Os técnicos que te dêem acesso.
 - Dignam, take a leave of absence.                                                    --- - Dignam, mete uma baixa.
 - Take a leave of what?                                                               --- - Meto o quê?!
 Queenan is dead.                                                                      --- O Queenan morreu.
@@ -1890,7 +1913,7 @@ I'd rather hand in my papers first.                                             
 World needs plenty of bartenders.                                                     --- O mundo tem falta de empregados de bar.
 Two weeks with pay.                                                                   --- Duas semanas com ordenado.
 Good.                                                                                 --- Óptimo.
-- Piece of shit.                                                                      --- - Vai-te foder!
+- Piece of shit.                                                                      --- - Merdoso dum cabrão!
 - Fuck off.                                                                           --- - Vai-te foder!
 - I need those codes.                                                                 --- - Preciso dos códigos.
 - No. You want those codes.                                                           --- - Não.
@@ -1924,18 +1947,19 @@ I'm going home.                                                                 
 - Your guys should not have done that.                                                --- - Não deviam ter feito aquilo.
 - One of us had to die.                                                               --- - Um de nós tinha de morrer.
 With me it tends to be the other guy.                                                 --- Comigo costuma ser o outro.
-But Queenan.                                                                          --- Fiquei sem acesso!
+But Queenan.                                                                          --- Mas o Queenan!
 Now I got no access.                                                                  --- Fiquei sem acesso!
 You killed the guy who had the info.                                                  --- - Estou-me a cagar para o Dignam.
 Dignam's gone.                                                                        --- Esquece-o!
 Forget about him.                                                                     --- Esquece-o!
-- He resigned. - I don't give a fuck about Dignam.                                    --- Ele demitiu-se, Frank.
+- He resigned.                                                                        --- - Demitiu-se!
+- I don't give a fuck about Dignam.                                                   --- - Estou-me a cagar para o Dignam.
 He put in his papers, Frank.                                                          --- Ele demitiu-se, Frank.
 - He left. I don't know where he is.                                                  --- - Desapareceu, não sei dele.
 - Don't get your balls in an uproar, Collie.                                          --- - Não apertes muito os tomates, Collie.
 That Irish pissant... he's so hot for me, we give him a whiff of my ass, he'll crawl right in it. --- Aquele bandalho irlandês deseja-me tanto, que basta-lhe farejar o meu cu, para ele se enfiar lá dentro.
 Let's give him a whiff.                                                               --- Dá-lhe uma snifadela.
-- I will.                                                                             --- - Não te preocupes.
+- I will.                                                                             --- - Eu dou.
 - Don't worry.                                                                        --- - Não te preocupes.
 I'll take care of it.                                                                 --- Eu trato disso.
 Sweetheart.                                                                           --- Querida...
@@ -2001,16 +2025,16 @@ Get rid of the fucking tail!                                                    
 All right.                                                                            --- Está bem.
 Fucking rats.                                                                         --- Ratazanas de merda!
 It's wearing me thin.                                                                 --- Estou a ficar farto disto!
-Francis, it's a nation of fucking rats.                                               --- Este é um país de chibos.
+Francis, it's a nation of fucking rats.                                               --- Francis... Este é um país de chibos.
 Stop, stop. Pull them off Costello.                                                   --- Parem, parem, mandem-nos retirar.
 There's no need to surveil him.                                                       --- Não é preciso vigiá-lo.
 - What are you saying?                                                                --- - Mas que merda é essa?
 - I got it from an undercover. He knows he's being followed.                          --- - Um infiltrado disse-me que ele sabe que é vigiado.
 So let the UC take him in.                                                            --- Deixemos que ele o prenda.
-- Undercover?                                                                         --- - O homem do Queenan.
-- Queenan's guy.                                                                      --- - Que infiltrado?
+- Undercover?                                                                         --- - Que infiltrado?
+- Queenan's guy.                                                                      --- - O homem do Queenan.
 He called when he found out Queenan died.                                             --- Telefonou-me quando soube que ele tinha morrido.
-I'm running him.                                                                      --- - Contigo?!
+I'm running him.                                                                      --- Está a trabalhar comigo.
 - You give him to me.                                                                 --- Passa-me o contacto dele.
 - No, I can give you Costello's destination.                                          --- - Posso dar-lhe o destino do Costello.
 - You know where he's going?                                                          --- - Sabes para onde é que ele vai?
@@ -2032,7 +2056,8 @@ Load.                                                                           
 Go, go!                                                                               --- Por que esperas?
 Come on, what are you waiting for?                                                    --- Por que esperas?
 Frank wants me to check the back.                                                     --- O Frank mandou-me revistar as traseiras.
-You go ahead. - Watch your fucking back.                                              --- - Atenção à retaguarda.
+You go ahead.                                                                         --- Vão andando.
+- Watch your fucking back.                                                            --- - Atenção à retaguarda.
 - Move out!                                                                           --- - Arranquem!
 Go on!                                                                                --- 
 Cocksuckers.                                                                          --- Cabrões!
@@ -2113,14 +2138,15 @@ What are you gonna do about Costello's rat in this building?                    
 - I'm gonna find the prick.                                                           --- Vou encontrar o cabrão.
 - Yeah.                                                                               --- - Óptimo.
 I'm gonna find him, I'm gonna arrest him.                                             --- Vou encontrá-lo e depois vou prendê-lo.
-- Good. - Anything you can do to help me...                                           --- - Óptimo.
+- Good.                                                                               --- - Óptimo.
+- Anything you can do to help me...                                                   --- - E se puder ajudar-me...
 You know, I mean, did Frank ever mention a name...? You know, anything.               --- O Frank alguma vez mencionou um nome, alguma coisa?
 Someone he was in contact with. Anything you can give me.                             --- Alguém com quem estivesse em contacto?
 I'm all done being a cop, all right?                                                  --- Já não quero ser polícia.
 I just want my money and I wanna go home.                                             --- Quero o meu dinheiro e quero ir para casa.
 All right. That'll be the best thing for everybody.                                   --- Acho que é o melhor para todos.
 Fair enough.                                                                          --- É justo.
-I just, I can't get into your file unless I have your password.                       --- Não consigo entrar no seu processo sem a sua password.
+I just, I can't get into your file unless I have your password.                       --- Só que... Não consigo entrar no seu processo sem a sua password.
 It's my name.                                                                         --- É o meu nome.
 William Costigan Jr.                                                                  --- William Costigan, Júnior.
 They gave it to me in case I had to explain myself to someone like you.               --- Deram-ma para o caso de ter de me explicar a alguém como você.
@@ -2135,7 +2161,8 @@ I know.                                                                         
 I know.                                                                               --- 
 I'm not... I'm not here for that, okay?                                               --- Não foi por isso que vim.
 I'm not.                                                                              --- A sério.
-Listen. I've gotta give you something.                                                --- 
+Listen.                                                                               --- Ouve.
+I've gotta give you something.                                                        --- Preciso de te dar uma coisa.
 Something I need you to keep.                                                         --- Preciso que a guardes.
 For me.                                                                               --- Fá-lo por mim.
 Okay?                                                                                 --- Está bem?
@@ -2145,7 +2172,7 @@ Only you.                                                                       
 You open this if something happens to me or if I call you and I tell you to open it.  --- Abre-o se me acontecer alguma coisa ou se eu te ligar a dizer que abras.
 You're the only person I can trust, all right?                                        --- És a única pessoa em quem posso confiar.
 Please.                                                                               --- Por favor.
-- All right.                                                                          --- - Desculpa ter sequer...
+- All right.                                                                          --- - Está bem.
 - Look, I'm sorry to even... I'm sorry to even show up here like this, you know?      --- 
 I...                                                                                  --- Sabes, eu...
 There's just no one else I could give it to. There's no one else.                     --- Desculpa aparecer assim, mas não tinha mais ninguém a quem o dar.
@@ -2187,7 +2214,8 @@ Inside.                                                                         
 - Frank.                                                                              --- - Estou a...
 I got no access to Queenan's undercover files.                                        --- Não tenho acesso aos processos do Queenan.
 He and Dignam run the snitches.                                                       --- Ele e o Dignam é que gerem os infiltrados.
-- I'm doing my... - You know what, I thought I was the liar.                          --- - Estou a...
+- I'm doing my...                                                                     --- - Estou a...
+- You know what, I thought I was the liar.                                            --- - E eu que julgava que a mentirosa era eu...
 Hey, I can explain that!                                                              --- Eu posso explicar isto!
 Costello recorded everything.                                                         --- O Costello gravou tudo.
 He put all the tapes in a box and kept them with his lawyer. That was his insurance.  --- Entregou a caixa das cassetes ao advogado para se proteger.
@@ -2196,8 +2224,9 @@ Imagine that, you rat fuck.                                                     
 Costello trusted me more than anyone.                                                 --- Foi em mim que o Costello confiou!
 Sound quality good enough?                                                            --- O som está bom?
 Because I was a little worried.                                                       --- Estava um bocado preocupado.
-- What do you want? - I told you I want my identity back... you two-faced faggot.     --- Foi em mim que o Costello confiou!
-- All right, where are you?                                                           --- - Às três horas.
+- What do you want?                                                                   --- - O que queres?
+- I told you I want my identity back... you two-faced faggot.                         --- - Quero a minha identidade, seu panasca traidor!
+- All right, where are you?                                                           --- - Onde estás?
 - Three o'clock.                                                                      --- - Às três horas.
 Where Queenan died.                                                                   --- Onde o Queenan morreu.
 You keep your cell on.                                                                --- Não desligues o telemóvel.
@@ -2205,12 +2234,12 @@ Open the door.                                                                  
 Open...                                                                               --- Abre...
 Didn't we already talk about this?                                                    --- Não falámos já disto?
 This is my job.                                                                       --- Este é o meu trabalho!
-- Freeze!                                                                             --- 
+- Freeze!                                                                             --- Alto!
 Get your fucking hands up!                                                            --- Mãos ao ar!
 - Hey! Put the fucking gun down!                                                      --- Larga a merda da arma!
 Put the gun down, all right?                                                          --- Larga a arma, está bem?
 I came here to talk some sense into you.                                              --- Vim para conversar.
-- Hands!                                                                              --- - Sê profissional.
+- Hands!                                                                              --- - As mãos.
 - Just act professional.                                                              --- - Sê profissional.
 - I can get you your money.                                                           --- - Eu arranjo-te o dinheiro.
 - What did you say?                                                                   --- - O que disseste?
@@ -2219,17 +2248,20 @@ I came here to talk some sense into you.                                        
 - You came here to get arrested.                                                      --- - vieste para ser preso.
 - You got fucking tapes?                                                              --- - vieste para ser preso.
 Of what? Costello was my informant.                                                   --- 
-I was a rat?                                                                          --- Vai-te foder.
-Fuck you!                                                                             --- Prova-o!
-Prove it. He was working for me.                                                      --- Ele trabalhava para mim, era meu informador.
+I was a rat?                                                                          --- Chamas-me ratazana?
+Fuck you!                                                                             --- Vai-te foder.
+Prove it.                                                                             --- Prova-o!
+He was working for me.                                                                --- Ele trabalhava para mim, era meu informador.
 He was my informant.                                                                  --- Cala-me essa boca de merda!
 Shut your fucking mouth.                                                              --- Cala-me essa boca de merda!
-Come on, get up!                                                                      --- 
+Come on, get up!                                                                      --- Vá, levanta-te!
 What is this, a citizen's arrest?                                                     --- Vais dar-me voz de prisão?
-Blow me, all right? Only one of us is a cop here, Bill.                               --- Só um de nós é polícia, Bill.
+Blow me, all right?                                                                   --- Vai à merda!
+Only one of us is a cop here, Bill.                                                   --- Só um de nós é polícia, Bill.
 You understand that, Bill?                                                            --- 
-- No one knows you.                                                                   --- - Cala-me essa boca!
-- Shut the fuck up! I'm a sergeant in the Massachusetts State Police.                 --- Sou sargento da Polícia Estatal de Massachusetts.
+- No one knows you.                                                                   --- - Ninguém sabe quem és!
+- Shut the fuck up!                                                                   --- - Cala-me essa boca!
+I'm a sergeant in the Massachusetts State Police.                                     --- Sou sargento da Polícia Estatal de Massachusetts.
 Who the fuck are you?                                                                 --- - Ninguém sabe quem és!
 - I erased you!                                                                       --- - Eu apaguei-te!
 - You erased me, huh?                                                                 --- - Apagaste-me?
@@ -2252,7 +2284,7 @@ You specifically.                                                               
 Look: You know who I am.                                                              --- Sabes quem eu sou, não vou disparar.
 I'm not gonna shoot.                                                                  --- 
 I told you to meet me downstairs.                                                     --- Disse para esperares lá em baixo.
-Put your weapon on the deck and step away from Sergeant Sullivan!                     --- - Pousa a arma e afasta-te do sargento!
+Put your weapon on the deck and step away from Sergeant Sullivan!                     --- - Ajuda-me, ajuda-me! - Pousa a arma e afasta-te do sargento!
 Where's Dignam?                                                                       --- O Dignam?
 I told you to bring Dignam!                                                           --- Disse-te para o trazeres!
 Shoot this motherfucker!                                                              --- Mata mas é o cabrão!
@@ -2266,7 +2298,7 @@ Maybe you do.                                                                   
 But right now I need you to drop the weapon!                                          --- Mas agora vais pousar a arma!
 I have evidence cold-linking this prick to Costello, all right?                       --- Já te disse que tenho provas irrefutáveis que ligam este cabrão ao Costello!
 - Would you shoot this fucking prick!                                                 --- - Despacha-me este cabrão!
-- You know who I am.                                                                  --- Sabes quem eu sou, vou levá-lo lá para baixo!
+- You know who I am.                                                                  --- - Tu conheces-me!
 - You know who I am.                                                                  --- Sabes quem eu sou, vou levá-lo lá para baixo!
 - Shoot this fucking prick.                                                           --- - Despacha-me este cabrão!
 I'm taking him downstairs now.                                                        --- 
@@ -2293,7 +2325,8 @@ I'm recommending William Costigan for the Medal of Merit.                       
 - Ready?                                                                              --- 
 - And let perpetual light shine upon him.                                             --- Que descanse em paz.
 - Fold. May he rest in peace.                                                         --- 
-Amen. May his soul and the souls... of all the faithful departed, through the mercy of God, rest in peace. --- Ámen.
+Amen.                                                                                 --- Ámen.
+May his soul and the souls... of all the faithful departed, through the mercy of God, rest in peace. --- Que a alma dele e a de todos os fiéis defuntos, pela misericórdia do Senhor, descanse em paz.
 Amen.                                                                                 --- Ámen.
 Detail. Half left.                                                                    --- 
 Face.                                                                                 --- Preparar para disparar!

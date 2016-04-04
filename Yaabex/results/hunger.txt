@@ -14,7 +14,7 @@ You're okay.                                                                    
 You're okay.                                                                          --- Estás bem.
 You're safe.                                                                          --- 
 You're safe. It's okay.                                                               --- 
-You're here with me.                                                                  --- Estás a salvo.
+You're here with me.                                                                  --- Está tudo bem, estás comigo.
 You're with me.                                                                       --- Estás a salvo.
 Okay, okay.                                                                           --- Está tudo bem.
 I'm sorry.                                                                            --- Desculpa.
@@ -55,9 +55,10 @@ Which is in an hour, so take a bath, Haymitch.                                  
 I just did.                                                                           --- 
 Did you have a good walk, dear?                                                       --- Fizeste uma boa caminhada, querida?
 - Walk?                                                                               --- - Caminhada?
-I was just out...                                                                     --- Eu estava...
-- We have visitors.                                                                   --- - Temos visitas.
-Miss Everdeen. This way, please.                                                      --- Everdeen, por aqui, por favor.
+I was just out...                                                                     --- - Caminhada?
+- We have visitors.                                                                   --- Eu estava...
+Miss Everdeen.                                                                        --- 
+This way, please.                                                                     --- Everdeen, por aqui, por favor.
 Such bravery.                                                                         --- 
 Such spirit.                                                                          --- Que espírito.
 Such...                                                                               --- 
@@ -130,7 +131,7 @@ History was made here.                                                          
 Oh. You'll get used to the smell.                                                     --- 
 - Hmm.                                                                                --- Olá!
 Hello!                                                                                --- Olá!
-Oh!                                                                                   --- Aqui está ela.
+Oh!                                                                                   --- Olá!
 There she is.                                                                         --- Aqui está ela.
 My greatest triumph!                                                                  --- O meu maior triunfo.
 Our little superstar.                                                                 --- A nossa estrelinha.
@@ -152,7 +153,8 @@ Katniss, is this your sister?                                                   
 Oh, sweetie!                                                                          --- Querida!
 Are you okay?                                                                         --- Estás bem?
 Oh, just adorable!                                                                    --- Que adorável!
-- Yeah. - Ready to work?                                                              --- - Pronta para trabalhar?
+- Yeah.                                                                               --- - Sim.
+- Ready to work?                                                                      --- - Pronta para trabalhar?
 - Yeah.                                                                               --- - Sim.
 - All right.                                                                          --- - Muito bem.
 Good.                                                                                 --- 
@@ -166,8 +168,8 @@ She's done, she's lovely.                                                       
 We must feed the monster.                                                             --- Temos de alimentar o monstro.
 All right now.                                                                        --- Muito bem...
 Let's go to District 12 and find our star-crossed lovers!                             --- Vamos em directo para o Distrito 12, ter com os nossos pombinhos.
-You're excited.                                                                       --- Estás apaixonada.
-You're in love.                                                                       --- 
+You're excited.                                                                       --- Estás animada.
+You're in love.                                                                       --- Estás apaixonada.
 Big smiles for the camera in three, two, one.                                         --- Um grande sorriso para a câmara em três...
 There she is!                                                                         --- 
 Katniss Everdeen!                                                                     --- 
@@ -276,8 +278,9 @@ We're honored to be here with you today.                                        
 And to be with the families of your fallen Tributes.                                  --- E por estar com as famílias dos Tributos derrubados.
 He put down the cards.                                                                --- Ele guardou o discurso.
 - Though they fought...                                                               --- Embora tenham lutado...
-- ...and lived with honor...                                                          --- - Porque me incomodo?
-- Why do I bother? And dignity until the end, both Thresh and Rue were so young.      --- com dignidade, até ao fim, tanto o Thresh como a Rue... eram muito jovens.
+- ...and lived with honor...                                                          --- - e vivido com honra...
+- Why do I bother?                                                                    --- - Porque me incomodo?
+And dignity until the end, both Thresh and Rue were so young.                         --- com dignidade, até ao fim, tanto o Thresh como a Rue... eram muito jovens.
 But our lives aren't just measured in years. They're measured in the lives of people we touch around us. --- Mas as nossas vidas não se medem apenas em anos, mas também pelas vidas das pessoas que tocamos em nosso redor.
 For myself, for Katniss, we know that without Rue and without Thresh, we wouldn't be standing here today. --- Sabemos que sem a Rue, e sem o Thresh, não estaríamos aqui hoje.
 So in recognition of that, knowing that it in no way can make up for your loss, we'd like to donate one month of our winnings to the families of the Tributes, every year, for the rest of our lives. --- Em reconhecimento a isso, sabendo que ninguém poderá compensar a vossa perda, gostaríamos de doar um mês dos nossos ganhos, às famílias dos Tributos, todos os anos, pelo resto das nossas vidas.
@@ -301,16 +304,17 @@ No!                                                                             
 No!                                                                                   --- Não!
 Wait!                                                                                 --- Esperem!
 Wait!                                                                                 --- Esperem!
-Leave him alone!                                                                      --- Soltem-no!
+Leave him alone!                                                                      --- Não!
 No!                                                                                   --- Não!
 Let me go!                                                                            --- Larga-me!
 Please leave him alone!                                                               --- Por favor, soltem-no!
 No!                                                                                   --- Não!
-You! No, no, no!                                                                      --- Não, não, não!
+You!                                                                                  --- Tu!
+No, no, no!                                                                           --- Não, não, não!
 - Come here!                                                                          --- Anda cá!
 Stop it!                                                                              --- Pára!
 Stop it!                                                                              --- Pára.
-Stop!                                                                                 --- 
+Stop!                                                                                 --- Pára!
 - What did I do?                                                                      --- Que fui eu fazer?
 Come on.                                                                              --- Anda.
 Shut up.                                                                              --- Cala-te.
@@ -324,7 +328,8 @@ He came to see me.                                                              
 He's worried about rebellion in the districts.                                        --- Está preocupado com a revolta nos Distritos.
 He thinks that they don't believe our love story.                                     --- Acha que não acreditam na nossa história.
 So he wants you to make them believe it?                                              --- Então quer que os faças acreditar?
-- To calm things down. - You know, Katniss, you should told me that before I went out there, and tried to give these people the money. --- - Para acalmar as coisas.
+- To calm things down.                                                                --- - Para acalmar as coisas.
+- You know, Katniss, you should told me that before I went out there, and tried to give these people the money. --- - Sabes, Katniss, devias ter-me contado isso antes de eu tentar dar-lhes o nosso dinheiro.
 I'm sorry. I didn't know what to do.                                                  --- Desculpa, não sabia o que fazer.
 He threatened to kill my family.                                                      --- Ele ameaçou matar a minha família.
 Well, I have family, too.                                                             --- Eu também tenho família!
@@ -348,7 +353,7 @@ From now on, your job is to be a distraction. So people forget what the real pro
 You're gonna read the cards that Effie gives you.                                     --- Vão ler os discursos que a Effie escrever.
 And you're gonna live happily ever after.                                             --- E vão viver felizes para sempre.
 Think you can do that?                                                                --- Acham que conseguem fazer isso?
-Huh?                                                                                  --- Conseguem?
+Huh?                                                                                  --- 
 Yeah?                                                                                 --- Conseguem?
 Come here.                                                                            --- Anda cá.
 You're gonna be okay.                                                                 --- Vai correr tudo bem.
@@ -374,8 +379,8 @@ Yeah.                                                                           
 Always.                                                                               --- Sempre.
 We are all of us united, both victors and vanquished, in serving a common purpose.    --- Estamos todos unidos, vencedores e vencidos, vencedores e vencidos, ao serviço de um ideal comum.
 The power and glory                                                                   --- O poder e a glória
-- of The Capitol.                                                                     --- - Larguem os discursos!
-- Put down the cards!                                                                 --- O poder e a glória
+- of The Capitol.                                                                     --- - do Capitólio.
+- Put down the cards!                                                                 --- - Larguem os discursos!
 Tell us what you really think!                                                        --- Digam-nos o que realmente pensam!
 Panem today.                                                                          --- 
 Panem tomorrow.                                                                       --- 
@@ -439,7 +444,7 @@ No, I can't eat another thing.                                                  
 - What's this?                                                                        --- - O que é?
 It's for when you're full.                                                            --- É para quando ficas cheio.
 It makes you sick.                                                                    --- Faz-te vomitar.
-So you can go on eating.                                                              --- De que outra forma poderias provar tudo?
+So you can go on eating.                                                              --- Para continuares a comer.
 How else could you taste everything?                                                  --- De que outra forma poderias provar tudo?
 I think it's time for a dance.                                                        --- Acho que é hora de dançar.
 Katniss?                                                                              --- Katniss?
@@ -520,7 +525,8 @@ Make everything about that.                                                     
 What kinda dress is she gonna wear?                                                   --- Que vestido ela usará?
 Floggings.                                                                            --- Açoitamentos.
 What's the cake gonna look like?                                                      --- Como será o bolo?
-Executions. Who's gonna be there?                                                     --- Execuções.
+Executions.                                                                           --- Execuções.
+Who's gonna be there?                                                                 --- Quem vai estar presente?
 Fear.                                                                                 --- Medo.
 Blanket coverage.                                                                     --- Encobrimento total.
 Shove it in their faces.                                                              --- Esfregar-lhes na cara.
@@ -585,8 +591,8 @@ You do what you want.                                                           
 I'm staying here.                                                                     --- Vou ficar aqui.
 Commander Thread, welcome to District 1 2.                                            --- Comandante Thread. Bem-vindo ao Distrito 12.
 Let's get to work.                                                                    --- Toca a trabalhar.
-- Let's go!                                                                           --- A mexer!
-Keep moving!                                                                          --- - Não te afastes!
+- Let's go!                                                                           --- - Vamos!
+Keep moving!                                                                          --- A mexer!
 - Stay close!                                                                         --- - Não te afastes!
 Find and clear.                                                                       --- Encontrem e destruam.
 Burn all contraband.                                                                  --- Queimem todo o contrabando.
@@ -603,7 +609,7 @@ Here.                                                                           
 - Yeah, hold that on there.                                                           --- Segura assim.
 No!                                                                                   --- Não!
 No!                                                                                   --- Não!
-No!                                                                                   --- Par...
+No!                                                                                   --- Não!
 Stop!                                                                                 --- Par...
 Katniss!                                                                              --- Katniss!
 It's okay.                                                                            --- Está tudo bem.
@@ -612,7 +618,7 @@ lt's okay.                                                                      
 Move.                                                                                 --- Afasta-te.
 You want another?                                                                     --- Queres outra?
 Go ahead.                                                                             --- Força.
-- Whoa, whoa, whoa!                                                                   --- - Sai da frente.
+- Whoa, whoa, whoa!                                                                   --- - Espere.
 - Get out of my way!                                                                  --- - Sai da frente.
 No, you don't want to shoot her.                                                      --- - Não vai querer disparar contra ela.
 How about I shoot both of you?                                                        --- - Que tal disparar contra vocês dois?
@@ -659,7 +665,7 @@ Peeta, get the snow.                                                            
 l'll grind the herbs.                                                                 --- Trago as ervas.
 What is that?                                                                         --- - O que é isso?
 That's hurting him.                                                                   --- Está a magoá-lo.
-He needs morphling.                                                                   --- - É morphling.
+He needs morphling.                                                                   --- Está a magoá-lo.
 It's okay.                                                                            --- Está tudo bem.
 Mom.                                                                                  --- Mãe, não.
 No. l'll do it.                                                                       --- Deixa-me tratar disso.
@@ -773,7 +779,7 @@ Oh, no. But, but, but...                                                        
 Katniss!                                                                              --- Katniss!
 - I get to say goodbye.                                                               --- - Tenho direito a despedir-me.
 - Katniss!                                                                            --- - Katniss!
-New plan.                                                                             --- 
+New plan.                                                                             --- - Nova ordem.
 Straight to the train.                                                                --- Vais directa para o comboio.
 No, I have to say goodbye.                                                            --- - Não, tenho que me despedir.
 Katniss!                                                                              --- Katniss!
@@ -786,7 +792,8 @@ Katniss has her gold Mocking-jay pin.                                           
 I have my hair.                                                                       --- Eu tenho o meu cabelo.
 I'm going to get you two boys something gold.                                         --- Vou arranjar-vos algo dourado.
 Uh...                                                                                 --- 
-Why is that? A token.                                                                 --- 
+Why is that?                                                                          --- - Para quê?
+A token.                                                                              --- - Como um símbolo.
 Show them we are a team.                                                              --- Para mostrar que somos uma equipa.
 And they can't just...                                                                --- E eles não podem simplesmente...
 Thank you.                                                                            --- Obrigada.
@@ -796,7 +803,7 @@ Everything will be different, because it's a Quarter Quell.                     
 The Capitol has spared no expense.                                                    --- O Capitólio não olhou a despesas.
 A new training center.                                                                --- 
 New Tribute living quarters.                                                          --- 
-And of course, a very special arena.                                                  --- Mas este ano irão enfrentar outros Vencedores, os favoritos do Capitólio.
+And of course, a very special arena.                                                  --- Um novo Centro de Treinos, alojamento para os Tributos, e, claro, uma arena muito especial.
 But this year you'll be facing other Victors. Capitol favorites.                      --- Mas este ano irão enfrentar outros Vencedores, os favoritos do Capitólio.
 Smart, cunning, skilled.                                                              --- Inteligentes, astutos e habilidosos.
 And they all know one another.                                                        --- E conhecem-se todos.
@@ -804,7 +811,8 @@ You two are the outsiders.                                                      
 I want you guys to forget everything you think you know about The Games.              --- Esqueçam tudo o que acham que sabem sobre os Jogos.
 Last year was child's play.                                                           --- O ano passado foi brincadeiras de criança.
 This year, you're dealing with all experienced killers.                               --- Este ano, irão lidar com assassinos experientes.
-All right. What does that mean for us?                                                --- O que isso significa para nós?
+All right.                                                                            --- Muito bem.
+What does that mean for us?                                                           --- O que isso significa para nós?
 That means you're gonna have to have some allies.                                     --- Significa que têm de arranjar aliados.
 Okay. I think that if...                                                              --- - Acho que...
 Whoop. You're not the problem.                                                        --- 
@@ -828,11 +836,11 @@ Brutus and Enobaria.                                                            
 What's with her teeth?                                                                --- Que dentes são aqueles?
 She had them filed into fangs so she could rip people's throats out.                  --- Ela mandou afiar como presas para rasgar a garganta das pessoas.
 She's committed.                                                                      --- 
-l'll give her that.                                                                   --- - O Wiress e a Beetee.
+l'll give her that.                                                                   --- Que dentes são aqueles?
 Wiress and Beetee.                                                                    --- - O Wiress e a Beetee.
 Not fighters, but brilliant.                                                          --- Mas são brilhantes.
 And weird.                                                                            --- E estranhos.
-Real tech-savvy.                                                                      --- Venceram os Jogos ao electrocutar
+Real tech-savvy.                                                                      --- Verdadeiros nerds.
 He won his Games by electrocuting six Tributes at once.                               --- 6 Tributos de uma vez só.
 The Morphlings.                                                                       --- Os Morphlings.
 Masters of camouflage.                                                                --- Mestres da camuflagem.
@@ -840,8 +848,8 @@ Basically, won their Games by hiding until everyone else was dead.              
 Self-medicating ever since.                                                           --- Consumem remédios desde então.
 Which I applaud. Not a threat.                                                        --- Que não minha opinião, não são uma ameaça.
 Finnick Odair, right?                                                                 --- Finnick Odair, certo?
-Yes. He won his Games at 14.                                                          --- Sim.
-Youngest ever.                                                                        --- - Extremamente humilde.
+Yes.                                                                                  --- Sim.
+He won his Games at 14. Youngest ever.                                                --- Foi o mais jovem a ganhar os Jogos, com 14 anos.
 - Extremely humble.                                                                   --- - Extremamente humilde.
 - You're kidding.                                                                     --- - Estás a brincar?
 Yes, l'm kidding.                                                                     --- Estou a brincar.
@@ -851,7 +859,8 @@ But he's The Capitol darling. They love him here.                               
 Charming, smart, and very skilled at combat. Especially in water.                     --- É charmoso, inteligente, e muito habilidoso em combate, especialmente na água.
 What about weaknesses?                                                                --- Há alguma fraqueza?
 One.                                                                                  --- 
-Mags. She volunteered for Annie.                                                      --- Uma: A Mags.
+Mags.                                                                                 --- Uma: A Mags.
+She volunteered for Annie.                                                            --- Voluntariou-se pela Annie.
 Mags was his mentor and basically raised him.                                         --- A Mags foi a sua mentora e criou-o, basicamente.
 If he's trying to protect her in any way, it exposes him.                             --- Se ele tentar protegê-la, irá expor-se.
 A guy like that has to know she's not gonna make it.                                  --- Ele deve saber que ela não se vai safar.
@@ -904,7 +913,7 @@ Our favorites.                                                                  
 - Well...                                                                             --- - Bem...
 - Or my favorite.                                                                     --- - Ou os meus favoritos.
 There it is!                                                                          --- Aí está!
-- Oh.                                                                                 --- - Bem...
+- Oh.                                                                                 --- Aí está!
 Fire in the house!                                                                    --- Estão em chamas!
 Katniss!                                                                              --- Katniss!
 Katniss!                                                                              --- Katniss!
@@ -972,7 +981,8 @@ Is it... ls it obvious or something?                                            
 They might as well have a sign.                                                       --- Mas valia colocarem uma tableta.
 Look around you.                                                                      --- Olha à tua volta.
 All the holograms, the lights, every now and then they flicker.                       --- Os hologramas e as luzes que por vezes piscam.
-Why? Because the force field is taking up too much energy.                            --- Porque o campo de força consome muita energia.
+Why?                                                                                  --- Porquê?
+Because the force field is taking up too much energy.                                 --- Porque o campo de força consome muita energia.
 There's always a flaw in the system.                                                  --- Existe sempre uma falha no sistema.
 That's beautiful.                                                                     --- É lindo.
 I saw you volunteer for that young girl.                                              --- Vi a voluntariar-se por aquela miúda.
@@ -989,7 +999,7 @@ Well, sweetheart, you got your pick of the litter.                              
 I want Wiress and Beetee.                                                             --- Quero o Wiress e a Beetee.
 Johanna calls them "Nuts" and "Volts."                                                --- A Johanna chama-os de Choques e a Maluquinha.
 Well, okay, good.                                                                     --- Pronto.
-Now, who else?                                                                        --- A Mags.
+Now, who else?                                                                        --- Quem mais queres?
 Mags.                                                                                 --- A Mags.
 All right, fine, then no one.                                                         --- Está bem, então ninguém.
 I'll tell them you're still making up your mind.                                      --- Vou dizer-lhes que ainda estás a decidir.
@@ -1000,8 +1010,8 @@ Peeta, how are we gonna kill these people?                                      
 District 12.                                                                          --- Distrito 12.
 Katniss Everdeen.                                                                     --- Katniss Everdeen.
 Report for individual assessment.                                                     --- Apresentação individual.
-Miss Everdeen.                                                                        --- Everdeen?
-Miss Everdeen!                                                                        --- Everdeen!
+Miss Everdeen.                                                                        --- Katniss Everdeen.
+Miss Everdeen!                                                                        --- Katniss Everdeen.
 You have 1 0 minutes to present your chosen skill.                                    --- Tem 10 minutos para apresentar a habilidade escolhida.
 Thank you!                                                                            --- Obrigado!
 Thank you!                                                                            --- Obrigado!
@@ -1025,7 +1035,7 @@ You are our family.                                                             
 And I don't see how anyone can love us better.                                        --- E não sei como alguém poderia amar-nos mais.
 So sweet. So sweet.                                                                   --- Tão doce.
 - Are you all right, dear?                                                            --- Estás bem, querida?
-- l'm sorry.                                                                          --- - Não faz mal.
+- l'm sorry.                                                                          --- - Desculpe.
 - That's all right.                                                                   --- - Não faz mal.
 I just can't stop crying.                                                             --- Não consigo parar de chorar.
 God!                                                                                  --- Meu Deus.
@@ -1073,33 +1083,33 @@ Let's go show them what real beauty looks like.                                 
 It has to go more up.                                                                 --- Tem que subir um bocado.
 Oh, pretty, pretty, Katniss, they're going to adore you.                              --- Linda, linda. Vão todos adorar-te.
 And there are a lot of sponsors in the audience, so of course, just be your usual self. --- 
-Actually, be your happier self.                                                       --- 
-Really?                                                                               --- A sério?
+Actually, be your happier self. Really?                                               --- 
 A wedding dress?                                                                      --- Um vestido de casamento?
 Snow made me wear it.                                                                 --- O Presidente Snow obrigou-me.
 Ladies and gentlemen, please welcome...                                               --- Senhoras e senhores, por favor, recebam com entusiasmo...
 - You know her...                                                                     --- - Conhecem-na por: - Fá-lo pagar.
-- Make him pay for it.                                                                --- Rapariga em Chamas!
+- Make him pay for it.                                                                --- - Conhecem-na por: - Fá-lo pagar.
 As the Girl on Fire.                                                                  --- Rapariga em Chamas!
 The Victor of last year's Hunger Games.                                               --- A vencedora dos últimos Jogos da Fome,
 Katniss Everdeen!                                                                     --- Katniss Everdeen!
 Katniss Everdeen, you look fabulous.                                                  --- Katniss Everdeen, Estás fabulosa!
 Doesn't she?                                                                          --- Não está?
 My, my!                                                                               --- Meu Deus!
-Whoo, whoo, whoo.                                                                     --- 
+Whoo, whoo, whoo.                                                                     --- Meu Deus!
 Now, Katniss, this is a very big and very emotional night for all of us.              --- Katniss, a noite de hoje é, muito importante, e muito emotiva. Para todos nós.
 Wouldn't you say?                                                                     --- Não achas?
 Oh, don't go crying on me now, Caesar.                                                --- Não comece a chorar, Caesar.
 I can't make any promises.                                                            --- Não prometo nada!
-You know me. You know I wouldn't believe you, even if you did.                        --- Não comece a chorar, Caesar.
+You know me.                                                                          --- Já me conheces!
+You know I wouldn't believe you, even if you did.                                     --- Mesmo que chorasse, não acreditaria em si.
 I love her!                                                                           --- Adoro-a!
 The Girl on Fire is so cheeky.                                                        --- A Rapariga em Chamas é tão matreira!
 But, Katniss, on a more serious note.                                                 --- Agora mais a sério, Katniss.
 I think we're all here a little disappointed, more than a little disappointed, that a certain wedding did not take place. --- Creio que cada um dos presentes estará um pouco decepcionado, porque um certo casamento não se irá realizar.
 Aren't we, folks?                                                                     --- Não estamos?
-Aw...                                                                                 --- 
+Aw...                                                                                 --- Não estamos?
 Alas. But am I correct in assuming that this is the gown that you would have worn on that day, yes or no? --- Corrige-me se estiver errado, mas acredito que esse seria o vestido que irias usar no grande dia, sim ou não?
-Yes, President Snow thought everyone would want to see it.                            --- O Presidente Snow pensou que as pessoas o quisessem ver.
+Yes, President Snow thought everyone would want to see it.                            --- Sim. O Presidente Snow pensou que as pessoas o quisessem ver.
 President Snow, as usual, was right.                                                  --- O Presidente Snow, para não variar, estava certo.
 Was he not, folks?                                                                    --- Não estava, pessoal?
 I love it! I love it!                                                                 --- Adorei!
@@ -1131,7 +1141,7 @@ We... We want our love to be eternal.                                           
 - Of course.                                                                          --- Claro.
 You know, Katniss and I, we've been luckier than most.                                --- Felizmente eu e a Katniss, tivemos muita sorte.
 And I wouldn't have any regrets at all if it weren't... If... If it weren't for what? --- 
-What?                                                                                 --- Se não fosse o bebé.
+What?                                                                                 --- Se não fosse o quê?
 If it weren't for the baby.                                                           --- Se não fosse o bebé.
 All right.                                                                            --- Muito bem.
 This is news!                                                                         --- Isto é uma novidade.
@@ -1139,8 +1149,9 @@ Let's find out more.                                                            
 Calm down. This is news to all of us.                                                 --- Tenham calma, isto é novidade para todos.
 Call off The Games!                                                                   --- Cancelem os Jogos!
 All right.                                                                            --- Muito bom.
-- Let's, uh...                                                                        --- - Cancelem os Jogos!
-- Stop The Games! Everybody, calm down.                                               --- Vamos acalmar.
+- Let's, uh...                                                                        --- - Vamos...
+- Stop The Games!                                                                     --- - Cancelem os Jogos!
+Everybody, calm down.                                                                 --- Vamos acalmar.
 It's a great night.                                                                   --- É uma grande noite.
 A great night.                                                                        --- Uma grande noite.
 This is news to all of us.                                                            --- Isto é uma novidade para todos nós.
@@ -1232,8 +1243,7 @@ Where do you think?                                                             
 Duck.                                                                                 --- Abaixa-te.
 Don't trust 1 and 2.                                                                  --- Não confies em ninguém do 1 e do 2.
 I'll take this side.                                                                  --- Cubro este lado, mantém-los afastados.
-You hold them off.                                                                    --- 
-I'll go find Peeta.                                                                   --- Vou à procura do Peeta.
+You hold them off. I'll go find Peeta.                                                --- 
 Katniss, Mags found him. He's over here.                                              --- Katniss, a Mags encontrou-o, está aqui.
 Katniss, Katniss, go, go, go.                                                         --- Katniss, a Mags encontrou-o, está aqui.
 Okay, hold up.                                                                        --- 
@@ -1265,7 +1275,7 @@ Please, wake up.                                                                
 No.                                                                                   --- Não.
 Please, wake up.                                                                      --- Por favor, acorda.
 - Come on.                                                                            --- - Anda lá!
-- Come on!                                                                            --- - Anda lá!
+- Come on!                                                                            --- Anda lá!
 Bring me in closer.                                                                   --- Aproximem-me.
 Cannon ready?                                                                         --- Canhão pronto?
 Come on.                                                                              --- Anda lá.
@@ -1342,7 +1352,7 @@ Peeta, please, stand up.                                                        
 We have to go.                                                                        --- 
 Mags?                                                                                 --- Mags?
 - Mags?                                                                               --- - Mags?
-Mags!                                                                                 --- - Finnick.
+Mags!                                                                                 --- Mags!
 - Finnick.                                                                            --- - Finnick.
 - Mags!                                                                               --- - Mags!
 - Finnick.                                                                            --- - Finnick.
@@ -1375,7 +1385,7 @@ lt's okay.                                                                      
 - lt's okay.                                                                          --- - É uma Morphling.
 Shh!                                                                                  --- 
 Hey, you wanna see something?                                                         --- 
-Look up.                                                                              --- Olha.
+Look up.                                                                              --- Olha para cima.
 Look.                                                                                 --- Olha.
 Look at it. Look at that.                                                             --- Olha para aquilo.
 It's incredible, isn't it?                                                            --- É fantástico, não achas?
@@ -1414,14 +1424,15 @@ Tick tick.                                                                      
 - Tick tock.                                                                          --- - Tique-taque.
 - What's wrong with her?                                                              --- - Que é que ela tem?
 - She's in shock.                                                                     --- - Está em choque.
-- Tick tock. Dehydration isn't helping.                                               --- A desidratação não ajuda.
+- Tick tock.                                                                          --- - Tique-taque.
+Dehydration isn't helping.                                                            --- A desidratação não ajuda.
 Do you have fresh water?                                                              --- Têm água potável?
 - We can get some.                                                                    --- - Podemos arranjar.
-- Just...                                                                             --- - Tique-taque.
+- Just...                                                                             --- - Só...
 Tick tock.                                                                            --- Tique-taque.
 Listen. Stop it!                                                                      --- Basta!
 - Hey!                                                                                --- - Larga-a!
-Ia off her!                                                                           --- - Senta-te!
+Ia off her!                                                                           --- - Larga-a!
 - Just sit down!                                                                      --- - Senta-te!
 Hey! What are you doing?                                                              --- O que estás a fazer?
 - Hey, hey, hey! - I got them out for you!                                            --- Salvei-os para ti!
@@ -1442,7 +1453,7 @@ What does Beetee have there? The coil?                                          
 lt's some kind of wire.                                                               --- - Aquele cilindro electromagnético?
 Did he get it from the Cornucopia?                                                    --- Encontrou aquilo na Cornucópia?
 Took a knife in the back to get it.                                                   --- À conta disso fui esfaqueada nas costas.
-- Tick tick!                                                                          --- Tique-taque.
+- Tick tick!                                                                          --- - Tique-taque.
 Tick tick!                                                                            --- Tique-taque.
 - All right.                                                                          --- - Está bem!
 I can't.                                                                              --- Já não suporto.
@@ -1475,8 +1486,7 @@ The dog barked at the clock.                                                    
 "The clock struck 3:00..."                                                            --- O relógio parou nas 3h.
 And then 1 0:00 to 1 1:00, the wave.                                                  --- Das 10h às 11h, é a onda.
 What about everything else?                                                           --- E o resto, viram mais alguma coisa?
-Did you guys see anything?                                                            --- A história do Tique e o taque.
-"Hickory dickory dock."                                                               --- A história do Tique e o taque.
+Did you guys see anything? "Hickory dickory dock."                                    --- E o resto, viram mais alguma coisa?
 - Nothing but blood.                                                                  --- - Nada à excepção de sangue.
 - It doesn't matter.                                                                  --- - Não faz mal.
 As long as we steer clear of whichever sector is active, we'll be safe.               --- Se ficarmos afastados do dito sector que se encontra activo, ficaremos bem.
@@ -1500,7 +1510,7 @@ We hunt 'em down?                                                               
 Katniss, help me!                                                                     --- Katniss, ajuda-me!
 Prim!                                                                                 --- Prim!
 - Prim!                                                                               --- -Prim!
-Prim!                                                                                 --- - Não!
+Prim!                                                                                 --- Prim!
 - No!                                                                                 --- - Não!
 Katniss!                                                                              --- Katniss!
 Katniss, wait!                                                                        --- Katniss, espera!
@@ -1515,7 +1525,7 @@ You okay?                                                                       
 Finnick!                                                                              --- Finnick!
 Finnick!                                                                              --- Finnick!
 - No!                                                                                 --- - Annie!
-lt's not her.                                                                         --- - Annie!
+lt's not her.                                                                         --- - Não é ela!
 - Annie!                                                                              --- - Annie!
 Annie!                                                                                --- Annie!
 - Annie!                                                                              --- - Annie!
@@ -1523,7 +1533,7 @@ Annie!                                                                          
 - Finnick!                                                                            --- -Finnick!
 lt's not her.                                                                         --- Não é ela!
 It's just a jabber-jay.                                                               --- Não é ela.
-lt's not her.                                                                         --- Não é ela!
+lt's not her.                                                                         --- É um Mimo-gaio.
 Well, how do you think they got that sound?                                           --- E onde é que eles ouviram isto?
 Jabber-jays copy.                                                                     --- Os Mimo-gaios repetem aquilo que ouvem!
 Katniss!                                                                              --- Katniss!
@@ -1537,11 +1547,11 @@ They're just mutts!                                                             
 It's not real!                                                                        --- Não é real.
 It's over.                                                                            --- 
 lt's okay.                                                                            --- Já se foram.
-They're gone.                                                                         --- 
+They're gone.                                                                         --- Já se foram.
 The hour's gone.                                                                      --- Encontra a Prim!
 The hour's up.                                                                        --- Encontra a Prim!
-It's all right.                                                                       --- - Prim!
-- Prim!                                                                               --- Encontra a Prim!
+It's all right.                                                                       --- A hora acabou, está tudo bem.
+- Prim!                                                                               --- - Prim!
 Find Prim!                                                                            --- Encontra a Prim!
 - No, no.                                                                             --- - Não, não.
 Prim's okay.                                                                          --- A Prim está bem.

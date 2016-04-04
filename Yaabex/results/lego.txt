@@ -18,11 +18,12 @@ Now my evil power will be unlimited!                                            
 Can you feel me?                                                                      --- Sentem-no?
 I can feel you.                                                                       --- Eu sinto-o.
 Whoo! Nothing's gonna stop me now.                                                    --- Nada me vai parar.
-Wait.                                                                                 --- 
+Wait.                                                                                 --- Espera.
 There was a prophecy.                                                                 --- Existe uma profecia.
 Oh, now there's a prophecy.                                                           --- Agora é que dizes isso.
 About the Piece of Resistance.                                                        --- Sobre a Peça da Resistência.
-Oh, yes! The supposed missing Piece of Resistance... that can somehow magically disarm the Kragle. --- A suposta Peça da Resistência perdida que pode desarmar magicamente o Kragle.
+Oh, yes!                                                                              --- Pois é!
+The supposed missing Piece of Resistance... that can somehow magically disarm the Kragle. --- A suposta Peça da Resistência perdida que pode desarmar magicamente o Kragle.
 Give me a break!                                                                      --- Poupa-me!
 One day, a talented lass or fellow                                                    --- Um dia, uma rapariga ou rapaz talentoso
 A Special One with face of yellow Will make the Piece of Resistance found             --- Um Escolhido de cara amarela Irá encontrar a Peça da Resistência
@@ -75,9 +76,10 @@ Oop! I almost forgot that one!                                                  
 No.                                                                                   --- Não.
 No.                                                                                   --- Não.
 Uh-uh.                                                                                --- Não.
-No.                                                                                   --- Esta não.
-Not that.                                                                             --- Não pode ser.
-Wrong. And that's it.                                                                 --- E já está tudo.
+No.                                                                                   --- Não.
+Not that.                                                                             --- Esta não.
+Wrong.                                                                                --- Não pode ser.
+And that's it.                                                                        --- 
 Check. Eat a complete breakfast... with all the special people in your life.          --- Passo nove: Tome um pequeno-almoço completo com todas as pessoas especiais da sua vida.
 Hey, Plantie, what do you wanna do this morning?                                      --- 
 Watch TV?                                                                             --- Ver televisão?
@@ -101,7 +103,8 @@ Greet your neighbors."                                                          
 Whoa! Hey, Surfer Dave.                                                               --- -Olá, Surfista Dave.
 Hey, brah.                                                                            --- -Olá, mano.
 - Oh, good morning, Sherrie.                                                          --- -Bom dia, Sherrie.
-- Hey, fella. - Oh, hey, Jasmine, Dexter.                                             --- Olá, Jasmine, Dexter.
+- Hey, fella.                                                                         --- -Olá, rapaz.
+- Oh, hey, Jasmine, Dexter.                                                           --- Olá, Jasmine, Dexter.
 - Meow.                                                                               --- 
 Meow. - Angie, Loki, Bad Leroy.                                                       --- 
 - Meow.                                                                               --- 
@@ -123,7 +126,8 @@ When we're living our                                                           
 Dream                                                                                 --- Sonho
 Always use a turn signal.                                                             --- Usar sempre o pisca-pisca.
 Park between the lines.                                                               --- Estacionar em linha.
-Yes! Drop off dry-cleaning before noon.                                               --- Levar a roupa à lavandaria antes do meio-dia.
+Yes!                                                                                  --- Perfeito!
+Drop off dry-cleaning before noon.                                                    --- Levar a roupa à lavandaria antes do meio-dia.
 Read the headlines.                                                                   --- Ler as manchetes.
 Don't forget to smile.                                                                --- Não esquecer de sorrir.
 Always root for the local sports team.                                                --- Apoiar sempre a equipa local.
@@ -132,7 +136,7 @@ Always return a compliment.                                                     
 - Hey, you look nice.                                                                 --- -Estás com bom aspecto.
 - So do you!                                                                          --- -Também tu!
 Drink overpriced coffee.                                                              --- Beber café muito caro.
-Here you go.                                                                          --- 
+Here you go.                                                                          --- Tome.
 That's $37.                                                                           --- São 37 dólares.
 Awesome!                                                                              --- Fixe!
 Everything is awesome                                                                 --- Tudo é fixe
@@ -172,12 +176,13 @@ When you're part of a team!                                                     
 Yeah!                                                                                 --- Boa!
 I'm going to the sports bar after work tonight.                                       --- Vou até ao bar desportivo depois do trabalho.
 Who wants to eat some delicious chicken wings and get crazy?                          --- Quem é que quer comer asas de galinha e divertir-se?
-Chicken wings?                                                                        --- Eu adoro asas de galinha!
+Chicken wings?                                                                        --- Asas de galinha?
 I love chicken wings!                                                                 --- Eu adoro asas de galinha!
 Hey, who wants to share a croissant with this guy?                                    --- Quem quer partilhar um croissant com este tipo?
 Croissants?                                                                           --- Croissants?
 I love croissants.                                                                    --- Eu adoro croissants.
-Oh, yeah! I sure do love giant sausages.                                              --- Eu adoro salsichas grandes.
+Oh, yeah!                                                                             --- Podes crer!
+I sure do love giant sausages.                                                        --- Eu adoro salsichas grandes.
 Giant sausages?                                                                       --- Salsichas grandes?
 No way!                                                                               --- A sério?
 You know what I love to do?                                                           --- Sabes o que eu adoro fazer?
@@ -248,7 +253,7 @@ Where am I?                                                                     
 What's happening?                                                                     --- O que se passa?
 "What's happening?"                                                                   --- "O que se passa?"
 Playing dumb, MasterBuilder.                                                          --- Estás a fazer-te de parvo, Mestre Construtor?
-No.                                                                                   --- Não...
+No.                                                                                   --- Eu...
 I...                                                                                  --- 
 "MasterBuilder"?                                                                      --- "Mestre Construtor?"
 - Oh. So you've never heard of the prophecy?                                          --- -Nunca ouviste falar da profecia?
@@ -275,8 +280,9 @@ Then why is it permanently stuck to your back?                                  
 Get it off me!                                                                        --- Tirem-ma!
 Get it off me!                                                                        --- Tirem-ma!
 Aah!                                                                                  --- Não sai!
-It won't come off!                                                                    --- Está a perseguir-me!
-It's chasing me! Look, it's not my fault!                                             --- Ouça, eu não tenho culpa!
+It won't come off!                                                                    --- Não sai!
+It's chasing me!                                                                      --- Está a perseguir-me!
+Look, it's not my fault!                                                              --- Ouça, eu não tenho culpa!
 I have no idea how this thing got on my back!                                         --- Não sei como isto veio parar às minhas costas.
 Of course, buddy. I believe you.                                                      --- Claro, eu acredito em ti.
 Great.                                                                                --- Óptimo.
@@ -303,10 +309,12 @@ They'll tell you.                                                               
 Oh, we asked them, all right.                                                         --- Podes crer que lhes perguntámos.
 Boom! That guy's not a criminal mastermind.                                           --- 
 See?                                                                                  --- Estás a ver?
-Yeah. You know, he's kind of an average, normal kind of guy.                          --- Sabe, ele é um tipo comum, igual aos outros.
+Yeah.                                                                                 --- Sim.
+You know, he's kind of an average, normal kind of guy.                                --- Sabe, ele é um tipo comum, igual aos outros.
 Thank you.                                                                            --- Obrigado.
 But, you know, he's not, like... normal like us.                                      --- Mas, sabe, ele não é normal como nós.
-No. He's not that special.                                                            --- Não é assim tão especial.
+No.                                                                                   --- Não.
+He's not that special.                                                                --- Não é assim tão especial.
 Wait, I'm so confused.                                                                --- Espere, estou confusa.
 Who are we talking about?                                                             --- De quem é que estamos a falar?
 Wait, does he work with us?                                                           --- Ele trabalha connosco?
@@ -317,7 +325,7 @@ That's something.                                                               
 Gail is perky.                                                                        --- A Gail é atrevida.
 That's something.                                                                     --- Isso também é alguma coisa.
 And Harry...                                                                          --- E o Harry...
-- ...well...-                                                                         --- -Quando falam no Harry, eu:
+- ...well...-                                                                         --- -Bem...
 When you say the other guy, I go:                                                     --- Quando falam no outro tipo, eu:
 Harry's the best!                                                                     --- O Harry é fantástico!
 - Harry's got personality.                                                            --- -O Harry tem personalidade.
@@ -349,7 +357,7 @@ Yes, we've told him he'll live so he doesn't try to escape, but, um... we're lyi
 Wait, what did he just say?                                                           --- O que foi que ele disse?
 Hold still.                                                                           --- Não te mexas.
 Wait!                                                                                 --- 
-There's obviously been a mix-up here.                                                 --- Isto é um equívoco.
+There's obviously been a mix-up here.                                                 --- 
 You've got the wrong...                                                               --- 
 Ow!                                                                                   --- 
 Ow, ow, ow!                                                                           --- 
@@ -360,7 +368,8 @@ Whoa.                                                                           
 Who are you?                                                                          --- Quem és tu?
 It's you?                                                                             --- És tu?
 Come with me if you wanna not die.                                                    --- Venha comigo se não quiser morrer.
-Hi, everybody! How's the melting goi...?                                              --- Como está a correr a fundi...
+Hi, everybody!                                                                        --- Olá a todos!
+How's the melting goi...?                                                             --- Como está a correr a fundi...
 Hey, hey, he)”                                                                        --- Então, então, então.
 Red alert, red alert.                                                                 --- Alerta vermelho, alerta vermelho.
 Everyone, to go after The Special.                                                    --- Preciso de todos, repito: todos para perseguirem o Escolhido.
@@ -377,7 +386,7 @@ It's cool.                                                                      
 Oh, the act.                                                                          --- Deixar de fingir.
 Whoa.                                                                                 --- Deixar de fingir.
 Whoa!                                                                                 --- Suba.
-Jump on.                                                                              --- 
+Jump on.                                                                              --- Suba.
 Let's go!                                                                             --- 
 Hey, uh, I...                                                                         --- -Ouve, eu...
 Hang on, sir.                                                                         --- -Segure-se.
@@ -400,9 +409,9 @@ And the prophecy states... that you are the most important, most talented... mos
 That's you.                                                                           --- É o Emmet.
 Right?                                                                                --- Certo?
 Uh, yes.                                                                              --- Sim.
-That's me.                                                                            --- Sou eu.
-Great.                                                                                --- Conduza então.
-You drive.                                                                            --- O quê?
+That's me.                                                                            --- Sim.
+Great.                                                                                --- Óptimo.
+You drive.                                                                            --- Conduza então.
 What?                                                                                 --- O quê?
 I wanna go home!                                                                      --- Eu quero ir para casa!
 This is not what I meant!                                                             --- Não era a isto que me referia!
@@ -421,8 +430,8 @@ I'm, uh... I'm Wyldstyle.                                                       
 - Oh, I'm sorry, what was it?                                                         --- -Desculpa, como?
 - Wyldstyle.                                                                          --- -SuperCool.
 - "Wyldstyle"?                                                                        --- -"SuperCool"?
-- Yep.                                                                                --- -O que fazes?
-- What are you, a DJ?                                                                 --- 
+- Yep.                                                                                --- -Sim.
+- What are you, a DJ?                                                                 --- -O que fazes?
 - No.                                                                                 --- -Não.
 - Oh, that's your name?                                                               --- -É esse o teu nome?
 "Wyldstyle"?                                                                          --- "SuperCool"?
@@ -440,10 +449,10 @@ Uh, these are the city limits.                                                  
 Let's just head for the tunnel.                                                       --- Vamos para o túnel.
 You want me to drive into that weird swirly hole?                                     --- Queres que entre naquele vórtice estranho?
 Are you insane?                                                                       --- Estás doida?
-Don't brake!                                                                          --- Continue!
-Go!                                                                                   --- Não pare!
-Don't stop!                                                                           --- Continue!
-Go!                                                                                   --- Agora!
+Don't brake!                                                                          --- Não trave!
+Go!                                                                                   --- Continue!
+Don't stop!                                                                           --- Não pare!
+Go!                                                                                   --- Continue!
 Now!                                                                                  --- Agora!
 I can't do this!                                                                      --- Não posso fazer isto!
 That is against the instructions!                                                     --- Isto viola as instruções!
@@ -493,7 +502,8 @@ I never have any ideas.                                                         
 Wait!                                                                                 --- Espera!
 - Stick them up.                                                                      --- -Mãos ao alto.
 - Hands where I can see them.                                                         --- -Onde eu possa vê-las.
-Hey, uh, listen. You think you can explain why I'm dressed like this... and what those big words in the sky were all about? --- Podias explicar-me porque estou a usar isto e que palavras eram aquelas no céu?
+Hey, uh, listen.                                                                      --- Ouve.
+You think you can explain why I'm dressed like this... and what those big words in the sky were all about? --- Podias explicar-me porque estou a usar isto e que palavras eram aquelas no céu?
 And, like, where we are in time.                                                      --- E em que altura no tempo estamos.
 Your home, Bricksburg, is one of many realms in the universe.                         --- O teu lar, a Aldeia do Tijolo, é um dos reinos do universo.
 There's also this one... Pirate's Cove, Knight's Club, Viking's Landing, Clown Town... a bunch of others we don't need to mention. --- Também existem estes: a Baía dos Piratas, o Clube dos Cavaleiros, o Cais dos Vikings e uma série de outros que não temos de mencionar.
@@ -522,7 +532,7 @@ And those of us who remained... well, we went into hiding.                      
 Built the tunnels to survive.                                                         --- Construímos túneis para sobreviver.
 And we search for the Piece of Resistance.                                            --- E procurámos a Peça da Resistência.
 The only thing that can stop the Kragle.                                              --- A única coisa que pode impedir o Kragle.
-Kragle.                                                                               --- Já ouvi falar.
+Kragle.                                                                               --- O Kragle.
 I know that.                                                                          --- Já ouvi falar.
 It might have been that cop.                                                          --- Deve ter sido aquele polícia.
 He said something about the Kragle.                                                   --- Ele falou nisso.
@@ -541,7 +551,8 @@ Okay, have Bad Cop meet me in my office...                                      
 Ciao.                                                                                 --- 
 - Will do, sir.                                                                       --- -Sim, senhor.
 Coffee sales are through the roof, sir.                                               --- As vendas de café atingiram o tecto, chefe.
-Glad to hear it. Let's rebuild that roof to be even higher!                           --- Vamos reconstruí-lo para ser ainda mais alto!
+Glad to hear it.                                                                      --- Perfeito.
+Let's rebuild that roof to be even higher!                                            --- Vamos reconstruí-lo para ser ainda mais alto!
 The roof team is on it.                                                               --- A equipa do telhado está a tratar disso.
 Sir, can you approve this poster for Taco Tuesday?                                    --- Chefe, o que acha deste cartaz para a Terça dos Tacos?
 Perfect.                                                                              --- Perfeito.
@@ -555,7 +566,7 @@ Honey, where are my...                                                          
 - ...pants?                                                                           --- 
 Ha-ha-ha!                                                                             --- 
 Cut!                                                                                  --- Corta!
-Ha, ha!                                                                               --- Hilariante.
+Ha, ha!                                                                               --- 
 Hilarious.                                                                            --- Hilariante.
 That never gets old.                                                                  --- Nunca me canso dessa.
 It does not.                                                                          --- Nunca.
@@ -569,7 +580,8 @@ Light sequence.                                                                 
 Flame test.                                                                           --- Teste de chamas.
 - Engage dramatic entrance.                                                           --- Iniciar entrada teatral.
 - Aah! Bad Cop.                                                                       --- Polícia Mau.
-Lord Business. I know The Special got away, but...                                    --- Eu sei que o Escolhido fugiu, mas...
+Lord Business.                                                                        --- Lorde Negócios.
+I know The Special got away, but...                                                   --- Eu sei que o Escolhido fugiu, mas...
 Don't be so serious.                                                                  --- Não estejas tão sério.
 Where's the other guy?                                                                --- Onde está o outro tipo?
 - Hey, friend.                                                                        --- -Viva, amigo.
@@ -577,7 +589,7 @@ Where's the other guy?                                                          
 - I missed you.                                                                       --- 
 - Aw, did you really?                                                                 --- -A sério?
 Have I ever shown you my relic collection?                                            --- Já te mostrei a minha colecção de relíquias?
-Nope.                                                                                 --- 
+Nope.                                                                                 --- Não.
 I don't think you have.                                                               --- Acho que não.
 Nobody knows where this stuff comes from.                                             --- Ninguém sabe de onde vêm estas coisas.
 This one... is the Cloak of Ban Da'ld.                                                --- Já te mostrei a minha colecção de relíquias?
@@ -621,17 +633,18 @@ Daddy. What are you doing here?                                                 
 Okay, Pa.                                                                             --- Pronto, pai.
 I just want you to act naturally.                                                     --- Quero que ajas normalmente.
 - Like you're going about your day.                                                   --- -Como se fosse um dia normal.
-- Gotcha.                                                                             --- Sim.
-Yeah. Keep your hand up like that.                                                    --- Mantém a mão assim.
+- Gotcha.                                                                             --- -Está bem.
+Yeah.                                                                                 --- Sim.
+Keep your hand up like that.                                                          --- Mantém a mão assim.
 Ma, scoot... two steps in to the right.                                               --- Mãe, desvia-te dois passos para a direita.
 - Pa, whenever I talk to Ma...                                                        --- Mãe, desvia-te dois passos para a direita.
 - Uh-huh?                                                                             --- -começas a mexer-te.
 - ...you start to move.                                                               --- -começas a mexer-te.
 - Sorry, sir.                                                                         --- -Desculpe, chefe.
 Get back to where you were!                                                           --- Volta para onde estavas!
-- Here?                                                                               --- -Exacto.
+- Here?                                                                               --- -Aqui?
 - Perfect.                                                                            --- -Exacto.
-That's great.                                                                         --- Não podias ter feito melhor.
+That's great.                                                                         --- Está perfeito.
 You can't do anything better.                                                         --- Não podias ter feito melhor.
 No reason why you should move.                                                        --- -Não saias de onde estás.
 Right.                                                                                --- -Certo.
@@ -658,10 +671,10 @@ No, I don't want to.                                                            
 - You have to.                                                                        --- -Tens de fazê-lo.
 - I don't want to.                                                                    --- -Não quero.
 - Would you please be quiet?                                                          --- -Podias calar-te?
-- I can't.                                                                            --- -Tens de fazê-lo.
-- You must.                                                                           --- Caluda!
-Shut it!                                                                              --- -Mas eles...
-- But they...                                                                         --- -Não é correcto.
+- I can't.                                                                            --- -Não posso.
+- You must.                                                                           --- -Tens de fazê-lo.
+Shut it!                                                                              --- Caluda!
+- But they...                                                                         --- -Mas eles...
 - it's not nice.                                                                      --- -Não é correcto.
 - It's your job, man.                                                                 --- -É a tua função, rapaz.
 I can't do it.                                                                        --- Eu não consigo.
@@ -691,8 +704,8 @@ Zap, pow.                                                                       
 - What are they looking at?                                                           --- -Eles estão a olhar para o quê?
 - I made a mistake.                                                                   --- -Cometi um erro.
 You should just be still.                                                             --- Imagina que és um banco.
-Act like a stool.                                                                     --- -Espera!
-- Wait!                                                                               --- -Viva, malta!
+Act like a stool.                                                                     --- Imagina que és um banco.
+- Wait!                                                                               --- -Espera!
 - Howdy, guys!                                                                        --- -Viva, malta!
 - Quiet.                                                                              --- 
 Nope, stools don't talk.                                                              --- Os bancos não falam.
@@ -711,15 +724,16 @@ I've never heard of that man, whom I am not.                                    
 I am a blind man and cannot see.                                                      --- Sou cego e não consigo ver.
 - It's Wyldstyle.                                                                     --- 
 - Oof. Are you a DJ?                                                                  --- És DJ?
-- What?                                                                               --- Porque é que todos...
+- What?                                                                               --- -O quê?
 Why does everybody...?                                                                --- Porque é que todos...
 - Oh, wait, wait.                                                                     --- -Espera, espera.
 Are you the student I used to have... who was so insecure she kept changing her name? --- És aquela minha aluna tão insegura que estava sempre a mudar de nome?
 No, no, no.                                                                           --- -Não.
-- First Darkstorm, then Geminizzle.                                                   --- 
+- First Darkstorm, then Geminizzle.                                                   --- -Tempestade, Signo do Zodíaco.
 Never.                                                                                --- Nunca.
 Okay.                                                                                 --- 
-All right, yes. Meet me upstairs in 10 seconds.                                       --- 
+All right, yes.                                                                       --- Está bem, sou.
+Meet me upstairs in 10 seconds.                                                       --- Vemo-nos no andar de cima daqui a 10 segundos.
 Oh, man.                                                                              --- Caramba.
 You have a very weirdly...                                                            --- Tem uma casa com
 - ...decorated place.                                                                 --- -uma estranha decoração.
@@ -738,21 +752,25 @@ The prophecy states that... you are The Special.                                
 - The most talented...                                                                --- -O mais talentoso...
 - I'm not sure he's The Special.                                                      --- -Não sei se ele é o Escolhido.
 Because he's not even a MasterBuilder.                                                --- Porque ele nem sequer é um Mestre Construtor.
-Watch. Emmet, just given what's around you...                                         --- 
-- ...build something simple.                                                          --- -Tipo um carro de corrida.
+Watch.                                                                                --- Observa.
+Emmet, just given what's around you... - ...build something simple.                   --- Emmet, usa o que tens à tua volta e constrói algo simples.
 - Okay.                                                                               --- 
 - Like an awesome race car.                                                           --- -Tipo um carro de corrida.
-- Great.                                                                              --- -Força.
-- Go. - Do you have the instructions?                                                 --- -Tens as instruções?
-No. You must create the instructions in your mind, my liege.                          --- Tens de criar as instruções na tua mente, meu senhor.
+- Great.                                                                              --- -Tudo bem.
+- Go.                                                                                 --- -Força.
+- Do you have the instructions?                                                       --- -Tens as instruções?
+No.                                                                                   --- Não.
+You must create the instructions in your mind, my liege.                              --- Tens de criar as instruções na tua mente, meu senhor.
 Ah.                                                                                   --- Certo.
-Okay. Race car.                                                                       --- Um carro de corrida.
+Okay.                                                                                 --- Certo.
+Race car.                                                                             --- Um carro de corrida.
 Um... Well, there's a lot of really cool stuff here.                                  --- 
 Don't see a wheel... OI'... three more wheels.                                        --- Não vejo uma roda ou... mais três rodas.
-See?                                                                                  --- 
+See?                                                                                  --- Estás a ver?
 He can't do it.                                                                       --- Ele não consegue.
 He will never be a MasterBuilder.                                                     --- Nunca será um Mestre Construtor.
-Of course not. Not if you keep telling him he can't.                                  --- Sobretudo se continuares a dizer isso.
+Of course not.                                                                        --- Claro que não.
+Not if you keep telling him he can't.                                                 --- Sobretudo se continuares a dizer isso.
 He needs to see that he can.                                                          --- Ele tem de ver que é capaz.
 What are you doing?                                                                   --- O que está a fazer?
 - We are entering your mind...                                                        --- -Estamos a entrar na tua mente...
@@ -760,7 +778,7 @@ What are you doing?                                                             
 To prove that you have the unlocked potential... to be a MasterBuilder.               --- ...para provar que tens potencial para seres um Mestre Construtor.
 Ujjayi breath.                                                                        --- Respiração Ujjayi.
 Whoa, are we inside my brain right now?                                               --- Estamos dentro da minha mente?
-- It's big.                                                                           --- Eu devo ser inteligente.
+- It's big.                                                                           --- É grande.
 I must be smart.                                                                      --- Eu devo ser inteligente.
 Mm-hm. I'm not hearing a lot of activity here.                                        --- 
 I don't think he's ever had an original thought.                                      --- Acho que ele nunca teve um pensamento próprio
@@ -777,7 +795,8 @@ That idea is just the worst.                                                    
 There must be something around here... that proves his potential.                     --- Tem de haver aqui alguma coisa que prove o potencial dele.
 If The Man Upstairs chose him to be The Special... there must be a reason.            --- Se o Homem Lá de Cima acha que ele é o Escolhido, tem de haver um motivo.
 - Who's The Man Upstairs?                                                             --- -Quem é o Homem Lá de Cima?
-- See? He doesn't even know about The Man Upstairs.                                   --- Ele nem sabe quem é o Homem Lá de Cima.
+- See?                                                                                --- -Estás a ver?
+He doesn't even know about The Man Upstairs.                                          --- Ele nem sabe quem é o Homem Lá de Cima.
 Does he have, like, super-gross hands... that look like they're made out of big pink sausages? --- Ele tem mãos nojentas que parece que são feitas a partir de salsichas?
 Like eagle talons mixed with squid?                                                   --- Tipo garras de águia misturadas com lulas?
 Wait.                                                                                 --- 
@@ -823,7 +842,8 @@ I would not rather he died.                                                     
 Look, everybody, we can do this the easy way, or we can do it...                      --- Ouçam, podemos fazer isto da forma fácil ou podemos...
 Go, run!                                                                              --- Vamos, fujam!
 They took the hard way.                                                               --- Eles escolheram a mais difícil.
-Fire! Fire!                                                                           --- Disparem!
+Fire!                                                                                 --- Disparem!
+Fire!                                                                                 --- Disparem!
 Vitruvius, which way to Cloud Cuckooland?                                             --- Vitruvius, qual é o caminho para a Nuvem da Alucinolândia?
 Head for the big bright thing in the sky.                                             --- Dirige-te àquilo que mais brilha no céu.
 - You mean the sun?                                                                   --- -Estás a falar do Sol?
@@ -831,7 +851,7 @@ Head for the big bright thing in the sky.                                       
 Yeah, that's it.                                                                      --- -É isso mesmo.
 Let's get out of here.                                                                --- -Vamos sair daqui.
 Here, use this.                                                                       --- Toma, usa isto.
-What?                                                                                 --- Espera, o que...
+What?                                                                                 --- -O quê?
 Wait, hey...                                                                          --- Espera, o que...
 - What are you doing?                                                                 --- -O que estás a fazer?
 Aah!                                                                                  --- -Vamos!
@@ -861,7 +881,7 @@ Build something!                                                                
 Build something!                                                                      --- Constrói alguma coisa!
 Aha. Take that!                                                                       --- 
 Unless your instincts are terrible.                                                   --- Excepto se os teus instintos forem maus.
-No!                                                                                   --- A roda!
+No!                                                                                   --- Não!
 The wheel!                                                                            --- A roda!
 I can't control it much longer!                                                       --- Não consigo controlá-lo durante muito mais tempo.
 Emmet, we need to attach the wheel to something that spins around.                    --- Emmet, temos de pôr a roda em algo que gire.
@@ -887,16 +907,16 @@ Run!                                                                            
 Wyldstyle!                                                                            --- SuperCool!
 Owie!                                                                                 --- Ele vem contra nós.
 He's gonna ram us.                                                                    --- Ele vem contra nós.
-Quick, quick, quick!                                                                  --- 
+Quick, quick, quick!                                                                  --- Depressa!
 That piece!                                                                           --- Dá-me aquela peça.
 Give me that piece.                                                                   --- Dá-me aquela peça.
-Huh?                                                                                  --- Constrói uma rampa!
+Huh?                                                                                  --- Dá-me aquela peça.
 Build a ramp!                                                                         --- Constrói uma rampa!
 What the heck?                                                                        --- O que raio?
 Rest in pieces.                                                                       --- Descansem em peças.
 - Uh...                                                                               --- Não.
-- Oh, no.                                                                             --- Espera.
-Wait.                                                                                 --- Não, não.
+- Oh, no.                                                                             --- Não.
+Wait.                                                                                 --- Espera.
 No, no, no.                                                                           --- Não, não.
 Hey)'-                                                                                --- Escuta.
 Thanks for saving my life back there.                                                 --- Obrigada por me salvares a vida há pouco.
@@ -907,7 +927,7 @@ Relax, everybody, I'm here.                                                     
 Batman!                                                                               --- Batman!
 - What's up, babe?                                                                    --- -Tudo bem, querida?
 - Babe!                                                                               --- -Querido!
-- What?                                                                               --- -Desculpa.
+- What?                                                                               --- -O quê?
 - Oh, sorry.                                                                          --- -Desculpa.
 Batman, this is Emmet.                                                                --- Batman, este é o Emmet.
 Emmet, this is my boyfriend, Batman.                                                  --- Emmet, este é o meu namorado, o Batman.
@@ -957,7 +977,8 @@ Friends, welcome to Cloud Cuckooland.                                           
 Now... I just need to give the secret knock.                                          --- Só tenho de dar a pancada secreta.
 Okay)'- I'm just gonna come right out.                                                --- Até o torna melhor ...e estacionar o carro.
 I have no idea what's going on, or what this place is at all.                         --- Não sei o que se passa ou que local é este.
-Hi! I am Princess Unikitty... and I welcome you all to Cloud Cuckooland.              --- Sou a Princesa Unigata e dou-vos as boas-vindas à Nuvem da Alucinolândia.
+Hi!                                                                                   --- Olá!
+I am Princess Unikitty... and I welcome you all to Cloud Cuckooland.                  --- Sou a Princesa Unigata e dou-vos as boas-vindas à Nuvem da Alucinolândia.
 There's no signs or anything.                                                         --- Não existem sinais nem nada parecido.
 How does anyone know what not to do?                                                  --- Como é que as pessoas sabem o que não podem fazer?
 Here in Cloud Cuckooland... there are no rules.                                       --- Na Nuvem da Alucinolândia não existem regras.
@@ -987,12 +1008,13 @@ Gandalf...                                                                      
 Swamp Creature...                                                                     --- Criatura do Pântano,
 - ...1980-something Space Guy...                                                      --- -Homem Espacial dos anos 80...
 - Hello!                                                                              --- -Viva!
-2002 NBA All-Stars... - ...and Wonder Woman.                                          --- All-Stars da NBA de 2002 e Mulher-Maravilha.
+2002 NBA All-Stars...                                                                 --- Robin dos Bosques, Sereia,
+- ...and Wonder Woman.                                                                --- 
 - Unh! You have traveled far to be here for a moment of great import.                 --- Vocês vieram de longe para participar num momento importante.
 We have learned... that Lord Business plans to unleash... a fully weaponized Kragle... on Taco Tuesday... to end the world as we know it. --- Descobrimos que o Lorde Negócios pretende usar um Kragle transformado em arma na Terça dos Tacos, para acabar com o mundo.
 Please, calm yourselves.                                                              --- Por favor, tenham calma.
-Green Ninja...                                                                        --- Milhouse,
-Milhouse...                                                                           --- Vampiro Simpático,
+Green Ninja...                                                                        --- Ninja Verde,
+Milhouse...                                                                           --- Milhouse,
 Nice Vampire...                                                                       --- Vampiro Simpático,
 Michelangelo, Michelangelo... and Cleopatra.                                          --- Miguel Ângelo, Michelangelo e Cleópatra.
 There is yet one hope.                                                                --- Ainda temos uma esperança.
@@ -1002,7 +1024,7 @@ As you wish, Dubbledore.                                                        
 I'm Gandalf!                                                                          --- -Eu sou o Gandalf!
 - It's pronounced "Dumbledore." - Dubbadore?                                          --- -Como quiser, Dubbledore.
 No, "Dumbledore."                                                                     --- -Não, "Dumbledore".
-Thought you said "Dubbadore."                                                         --- Vitruvius!
+Thought you said "Dubbadore."                                                         --- -Pensei que tinha dito "Dubbadore".
 Vitruvius!                                                                            --- Vitruvius!
 You gotta write that down.                                                            --- Tem de escrever isso.
 I'm not gonna remember any of it.                                                     --- Não me vou lembrar de nada.
@@ -1011,7 +1033,8 @@ The Special will now give an eloquent speech.                                   
 Go ahead, man.                                                                        --- Força, rapaz.
 You got this.                                                                         --- Tu consegues.
 Okay)'-                                                                               --- Está bem.
-Hello. I'm Emmet.                                                                     --- Eu sou o Emmet.
+Hello.                                                                                --- Olá.
+I'm Emmet.                                                                            --- Eu sou o Emmet.
 Oh, and this is the Piece of Resistance.                                              --- E esta é a Peça da Resistência.
 Thank you.                                                                            --- Obrigado.
 Well, uh, I know that I, for one... am very excited to work with you guys... to get into the Octan Tower, find the Kragle... and put this thing on the thing. --- Bem, eu sei que, no meu caso, estou muito animado por trabalhar convosco para entrar na Torre Octan, achar o Kragle e por esta coisa na cena.
@@ -1035,7 +1058,7 @@ Special... what idea have ye that be better... than the ideas of 100... of our f
 Well, uh...                                                                           --- Bem...
 Well, technically I'm not exactly a MasterBuilder yet.                                --- Na verdade, eu ainda não sou um Mestre Construtor.
 What?                                                                                 --- O quê?
-Please!                                                                               --- Senhores!
+Please!                                                                               --- Por favor!
 Everyone!                                                                             --- Senhores!
 Please!                                                                               --- Por favor!
 Rubbish!                                                                              --- Tretas!
@@ -1074,8 +1097,8 @@ Ruh-roh.                                                                        
 It's the bad guys.                                                                    --- São os maus da fita.
 Whoa.                                                                                 --- 
 How did he...?                                                                        --- Como é que...
-Go!                                                                                   --- Fujam!
-Run!                                                                                  --- 
+Go!                                                                                   --- Vamos!
+Run!                                                                                  --- Fujam!
 Come on, everyone!                                                                    --- Vamos, pessoal!
 Protect The Special.                                                                  --- Protejam o Escolhido.
 What's that on his ankle?                                                             --- O que é que ele tem no tornozelo?
@@ -1095,7 +1118,8 @@ Shaq, do you know what time...                                                  
 - ...it is?                                                                           --- -é que são?
 - It's game time.                                                                     --- -É hora do jogo.
 Y'all ready for this?                                                                 --- Estão prontos para isto?
-Oh, no! They were ready for that.                                                     --- Eles já estavam à espera.
+Oh, no!                                                                               --- Não!
+They were ready for that.                                                             --- Eles já estavam à espera.
 It didn't break!                                                                      --- Não se partiu!
 Because it's Kragled.                                                                 --- Porque está colado.
 Machine gum!                                                                          --- Máquina de pastilha elástica!
@@ -1106,9 +1130,10 @@ I can't move!                                                                   
 Don't worry, Superman.                                                                --- Não te preocupes, Super-Homem.
 - I'll get you out of there.                                                          --- -Eu tiro-te daí.
 - No!                                                                                 --- Não...
-Don't!                                                                                --- Credo.
+Don't!                                                                                --- Não...
 Aah!                                                                                  --- Credo.
-Oh, my gosh. My hands are stuck.                                                      --- Tenho as mãos presas.
+Oh, my gosh.                                                                          --- Credo.
+My hands are stuck.                                                                   --- 
 My legs are stuck as well.                                                            --- As pernas também.
 I super hate you.                                                                     --- Eu super odeio-te.
 - Ow! You're pulling my torso off.                                                    --- -Estão a tirar-me o torso.
@@ -1135,11 +1160,13 @@ We need to get Emmet out of here.                                               
 I'm Ben.                                                                              --- Sou o Ben.
 But you can call me Benny.                                                            --- Mas chamem-me Benny.
 I can build a spaceship.                                                              --- Posso construir uma nave espacial.
-Watch. Spaceship, spaceship, spaceship Spaceship, spaceship                           --- Nave espacial, espacial, espacial Nave espacial, espacial
-No!                                                                                   --- Não podes.
+Watch.                                                                                --- Vejam.
+Spaceship, spaceship, spaceship Spaceship, spaceship                                  --- Nave espacial, espacial, espacial Nave espacial, espacial
+No!                                                                                   --- Não!
 You can't.                                                                            --- Não podes.
 The skies are surrounded.                                                             --- Os céus estão cercados.
-That's okay. I didn't really wanna build... a spaceship anyway.                       --- 
+That's okay.                                                                          --- Tudo bem.
+I didn't really wanna build... a spaceship anyway.                                    --- Também não queria construir uma nave espacial.
 That's cool.                                                                          --- Não faz mal.
 Where can we go where we can't be found?                                              --- Para onde podemos ir onde não nos encontrem?
 Maybe we could go underwater?                                                         --- Podíamos ir para debaixo de água.
@@ -1154,7 +1181,7 @@ With rainbows!                                                                  
 And dream catchers, in case we take a nap.                                            --- E apanhadores de sonhos, se fizermos uma soneca.
 Like an underwater spaceship!                                                         --- Como uma nave espacial subaquática!
 But you can't build all of them at once.                                              --- Mas não podem construir tudo de uma vez.
-Ready?                                                                                --- Vamos a isto.
+Ready?                                                                                --- Prontos?
 Break.                                                                                --- Vamos a isto.
 Okay)'-                                                                               --- Está bem.
 Blue razzleberry and sour apple!                                                      --- Preciso destas cores: azul frutos silvestres e maçã amarga.
@@ -1249,7 +1276,8 @@ The only remnant of The Special was a double-decker couch.                      
 Wait, hold on.                                                                        --- Espera aí.
 A double-decker couch?                                                                --- Um sofá de dois andares?
 Yes, sir.                                                                             --- Sim, senhor.
-Really? So it's like a bunk-bed couch?                                                --- Tipo um sofá e um beliche?
+Really?                                                                               --- A sério?
+So it's like a bunk-bed couch?                                                        --- Tipo um sofá e um beliche?
 Is that what it's like?                                                               --- É assim que ele é?
 That's weird.                                                                         --- Que estranho.
 If you're sitting in the top middle... how are you gonna get down without climbing over someone? --- Se estiveres sentado em cima, no meio, como é que vais descer sem passar por cima de alguém?
@@ -1258,7 +1286,8 @@ Who's gonna want to sit on the bottom?                                          
 It is literally... the most useless idea I have ever heard.                           --- É, sem dúvida, a ideia mais inútil que eu já ouvi.
 - Well, we're still alive.                                                            --- -Bem, ainda estamos vivos.
 - Yeah!                                                                               --- -Boa!
-Heh. The double-decker couch.                                                         --- 
+Heh.                                                                                  --- -Boa!
+The double-decker couch.                                                              --- O sofá de dois andares.
 It wasn't totally pointless after all.                                                --- Afinal não era assim tão inútil.
 It's the one thing that stayed together.                                              --- Foi a única coisa que não se desmontou.
 I always believed in you, Emmet.                                                      --- Eu sempre acreditei em ti, Emmet.
@@ -1286,8 +1315,9 @@ Kill a chicken?                                                                 
 Marry a marshmallow.                                                                  --- -Casar com um marshmallow.
 Why, this:                                                                            --- -Então e isto?
 How you gonna keep 'em down on the farm?                                              --- Como é que os vais manter Lá na quinta?
-No! It's follow the instructions.                                                     --- É seguir as instruções.
-- Don't like that.                                                                    --- -É estranho.
+No!                                                                                   --- Não!
+It's follow the instructions.                                                         --- É seguir as instruções.
+- Don't like that.                                                                    --- -Não me parece bem.
 - Sounds weird.                                                                       --- -É estranho.
 Now, listen.                                                                          --- Agora, escutem.
 Wait, listen.                                                                         --- Esperem, escutem.
@@ -1311,13 +1341,13 @@ How will we get inside?                                                         
 In a spaceship.                                                                       --- Numa nave espacial.
 - Spaceship!                                                                          --- -Uma nave espacial!
 Ha, ha!                                                                               --- -Óptima ideia.
-- Great idea.                                                                         --- Uma Bat-Nave Espacial.
+- Great idea.                                                                         --- -Óptima ideia.
 A Bat-Spaceship.                                                                      --- Uma Bat-Nave Espacial.
 No, they're expecting us to show up... in a Bat-Spaceship, or a pirate spaceship or a rainbow-sparkle spaceship. --- Não, eles estão à espera que venhamos numa Bat-Nave Espacial, numa nave espacial pirata, ou numa nave espacial tipo arco-íris.
 One of those sounds awesome to me.                                                    --- Uma dessas opções parece-me fixe.
 My idea is to build a spaceship... that's exactly like all the other Octan delivery spaceships. --- A minha ideia é construir uma nave espacial igual às outras naves de entrega da Octan.
 So not the special spaceship that I'm building for all of you right now?              --- E não a nave espacial especial que estou a construir para vocês agora?
-Sorry, Benny.                                                                         --- Talvez para a próxima.
+Sorry, Benny.                                                                         --- Desculpa, Benny.
 Maybe next time.                                                                      --- Talvez para a próxima.
 Ooh, you're really letting the oxygen out of my tank here.                            --- Estás mesmo a tirar-me o oxigénio da minha reserva.
 Yeah, but according to your precious instructions... this ship needs a hyperdrive.    --- Sim, mas segundo as tuas queridas instruções, esta nave precisa de um hiper-propulsor.
@@ -1337,12 +1367,14 @@ Now hold on, Han.                                                               
 This might be the right galaxy after all.                                             --- Afinal de contas, esta pode ser a galáxia certa.
 Because I see a heavenly body.                                                        --- Porque estou a ver um corpo celeste.
 Ooh, whoa, I have a boyfriend.                                                        --- Eu tenho namorado e é uma relação séria.
-And it is super serious.                                                              --- Certo, querido?
+And it is super serious.                                                              --- Eu tenho namorado e é uma relação séria.
 Right, babe?                                                                          --- Certo, querido?
 - Of course it's serious.                                                             --- -Claro que é.
-- Yeah! - Got room for just one dude?                                                 --- -Têm lugar para um tipo?
+- Yeah!                                                                               --- -Sim!
+- Got room for just one dude?                                                         --- -Têm lugar para um tipo?
 - Whoa!                                                                               --- -Querido!
-Babe! If he's a cool dude like you.                                                   --- Se for fixe como tu.
+Babe!                                                                                 --- -Querido!
+If he's a cool dude like you.                                                         --- Se for fixe como tu.
 You're trying to bail on us!                                                          --- -Estás a tentar fugir!
 I'm not trying to bail!                                                               --- -Não estou a fugir!
 You asked them if you could go with them on their party ship!                         --- Perguntaste-lhes se podias ir com eles na nave da festa!
@@ -1362,7 +1394,7 @@ And I'm gonna tell you something:                                               
 Batman is the worst person I've ever met.                                             --- O Batman é a pior pessoa que eu já conheci.
 - Need a hyperdrive?                                                                  --- -Precisas de um hiper-propulsor?
 - No way.                                                                             --- -Não pode ser.
-- Babe!                                                                               --- -Eu sabia!
+- Babe!                                                                               --- -Querido!
 - I knew it!                                                                          --- -Eu sabia!
 I knew that.                                                                          --- Eu sabia.
 You really had me there!                                                              --- Por um instante, enganaste-me!
@@ -1404,7 +1436,8 @@ Metal Beard, that was awesome!                                                  
 First law of the sea... never place your rear end on a pirate's face.                 --- Nunca ponhas o rabo na cara de um pirata.
 Once inside, they'll use their technical know-how... to disable the Kragle shield.    --- Quando entrarem, eles vão usar os conhecimentos científicos para desarmar o escudo do Kragle.
 I am the computer.                                                                    --- Eu sou o computador.
-Cool! Talking computer.                                                               --- Um computador que fala.
+Cool!                                                                                 --- Fixe!
+Talking computer.                                                                     --- Um computador que fala.
 Please disable the shield systems.                                                    --- Por favor desactiva os sistemas de protecção.
 Of course.                                                                            --- Claro.
 There are no movies in your area with that title.                                     --- Não existem filmes na sua zona com esse título.
@@ -1422,22 +1455,24 @@ We'd like to invest in your company.                                            
 Your weapon to control the universe sounds super sweet...                             --- A sua arma para controlar o universo parece-me incrível,
 - ...I must say.                                                                      --- -devo admitir.
 - It is, indeed, super sweet.                                                         --- -É realmente incrível.
-Cool. What kind of sound system does it have?                                         --- Que tipo de sistema de som é que tem?
+Cool.                                                                                 --- Porreiro.
+What kind of sound system does it have?                                               --- Que tipo de sistema de som é que tem?
 Uh, sound system?                                                                     --- Sistema de som?
 Well, I mean, we have an iPod Shuffle.                                                --- Temos um iPod shuffle.
 Wait a second.                                                                        --- Espere aí.
 You're telling me you have a machine to control the universe... and you can't listen to tunes in surround sound? --- Tem uma máquina que controla o universo e não ouve a música em som surround?
 Embarrassing.                                                                         --- Que vergonha...
 Well, I mean... we need to get that done.                                             --- 
-I want eight-foot speakers.                                                           --- Óptima decisão.
+I want eight-foot speakers.                                                           --- 
 Great call.                                                                           --- Óptima decisão.
 Yeah, I want speakers that you can hug with your arms and your legs... and just feel the beat. --- Quero colunas imponentes, que possamos abraçar com o corpo e sentir o ritmo.
-Listen up! We need new instructions for a speaker system for the TAKOS.               --- Temos novas instruções para um sistema de colunas para o TAKOS.
+Listen up!                                                                            --- Ouçam!
+We need new instructions for a speaker system for the TAKOS.                          --- Temos novas instruções para um sistema de colunas para o TAKOS.
 We'll never help.                                                                     --- Nós nunca iremos ajudar.
 Whatever you say, boss.                                                               --- Como quiser, chefe.
 Then once the instructions are printed... Wyldstyle and I will enter the Kragle room... place the thing on the other thing... and save the universe. --- Depois, quando as instruções estiverem impressas, eu e a SuperCool vamos entrar na sala do Kragle, colocamos a coisa no coiso e salvamos o universo.
 Whoa, whoa, whoa.                                                                     --- 
-Hey, I didn't draw that.                                                              --- Sou eu a explodir?
+Hey, I didn't draw that.                                                              --- Eu não desenhei aquilo.
 Is that me exploding?                                                                 --- Sou eu a explodir?
 Uh, I didn't mention that earlier?                                                    --- Não falei nisso antes?
 When you reunite the Piece with the Kragle, it might explode?                         --- Quando colocares a Peça no Kragle, ela pode explodir?
@@ -1449,7 +1484,7 @@ Incoming speaker delivery!                                                      
 Ow!                                                                                   --- Quem são vocês os dois?
 Who are you two?                                                                      --- Quem são vocês os dois?
 We are transfers from downstairs.                                                     --- Fomos transferidos do andar de baixo.
-- What?                                                                               --- -Perdão?
+- What?                                                                               --- -O quê?
 - Excuse me?                                                                          --- -Perdão?
 Your robot voice sounds an awful lot like a human voice.                              --- A tua voz de robô é parecida com a dos humanos.
 Give me a break. I've never been a robot before.                                      --- Poupa-me, nunca fiz de robô antes.
@@ -1464,7 +1499,8 @@ Everything is awesome                                                           
 Everything is cool When you're part of a team                                         --- Tudo é porreiro Quando estamos numa equipa
 - Needs great harmonies.                                                              --- -Precisa de uma boa harmonia.
 - I don't want to sing the song.                                                      --- -Não quero cantar.
-I'm not... Everything is awesome                                                      --- Tudo é fixe
+I'm not...                                                                            --- Não sou...
+Everything is awesome                                                                 --- Tudo é fixe
 Everything is cool When you're part of a team                                         --- Tudo é porreiro Quando estamos numa equipa
 Everything is awesome                                                                 --- Tudo é fixe
 When we're living our dream                                                           --- Quando estamos a viver o nosso sonho
@@ -1474,7 +1510,7 @@ Hmm, I thought you didn't like that song.                                       
 I don't.                                                                              --- E não gosto.
 Mm-hm.                                                                                --- E não gosto.
 I know you put on this tough act... but I don't think you're as mean as you're trying to seem. --- Eu sei que tens ar de dura, mas acho que não és tão má quanto tentas parecer.
-I'm not mean.                                                                         --- Estás a falar do quê?
+I'm not mean.                                                                         --- Eu não sou má.
 What are you talking about?                                                           --- Estás a falar do quê?
 I'm just saying, you were all, "He's not The Special, Vitruvius.                      --- É só que tu disseste: "Ele não é o Escolhido, Vitruvius.
 He can't possibly be The Special.                                                     --- Não pode ser.
@@ -1496,7 +1532,7 @@ You asked earlier, and it's... "Lucy.                                           
 I really like that name.                                                              --- Gosto muito desse nome.
 Hey)'-                                                                                --- 
 - What are you two losers talking about?                                              --- 
-- Huh?                                                                                --- Nada.
+- Huh?                                                                                --- O quê?
 Oh, nothing.                                                                          --- Nada.
 Left the weird cat thing to stall.                                                    --- Deixei a gata a empatá-los.
 Business, business, business.                                                         --- Negócios, negócios, negócios.
@@ -1506,7 +1542,8 @@ Numbers.                                                                        
 Yay!                                                                                  --- 
 There's Bad Cop.                                                                      --- Está ali o Polícia Mau.
 Oh, Danny boy, the pipes...                                                           --- Danny, meu rapaz, as gaitas...
-Okay. Wait for my signal.                                                             --- Espera pelo meu sinal.
+Okay.                                                                                 --- Pronto.
+Wait for my signal.                                                                   --- Espera pelo meu sinal.
 Good luck, Emmet.                                                                     --- Boa sorte, Emmet.
 Lucy.                                                                                 --- Lucy.
 I guess this might be goodbye.                                                        --- É a hora da despedida.
@@ -1536,9 +1573,10 @@ We'll wing it.                                                                  
 That's a bat pun.                                                                     --- É uma piada de morcego.
 Shh. Benny... disable the shield.                                                     --- Benny, desactiva o escudo.
 - Disable the shield.                                                                 --- -Desactiva o escudo.
-- Now. Disable the shield.                                                            --- Desactiva o escudo.
+- Now.                                                                                --- -Agora.
+Disable the shield.                                                                   --- Desactiva o escudo.
 - Searching for Albanian restaurants.                                                 --- -Procurar restaurantes albaneses.
-- What?                                                                               --- Não!
+- What?                                                                               --- -O quê?
 - No!                                                                                 --- Não!
 I never once said anything...!                                                        --- Eu disse nada...
 - I don't understand what you mean.                                                   --- Não percebo o que está a dizer.
@@ -1571,7 +1609,7 @@ Acceptable work, Bad Cop.                                                       
 Thank you, sir.                                                                       --- -Obrigado, chefe.
 Robots, destroy this old man at once.                                                 --- Robôs, eliminem imediatamente este velhote.
 Did you just call me "old"?                                                           --- Chamaste-me "velho"?
-Yeah.                                                                                 --- E depois?
+Yeah.                                                                                 --- Sim.
 So what?                                                                              --- E depois?
 Well, Junebug, I really prefer the word... "experienced"!                             --- Bem, Carrapato, por acaso, prefiro antes a palavra "experiente"!
 Aha.                                                                                  --- Estás a ver, Emmet?
@@ -1613,7 +1651,7 @@ No!                                                                             
 Bye-bye forever!                                                                      --- Até nunca mais!
 Well, I guess there's only one thing left to do!                                      --- Bem, creio que só resta fazer uma coisa!
 Release the Kragle!                                                                   --- Soltem o Kragle!
-- Computer!                                                                           --- -Sim, senhor.
+- Computer!                                                                           --- -Computador!
 - Yes, sir.                                                                           --- -Sim, senhor.
 Set the electric shocker to 100 Mississippi.                                          --- Coloca os choques eléctricos para os 100 Mississippi.
 No problem.                                                                           --- Muito bem.
@@ -1623,8 +1661,8 @@ Emmet, that should give you enough time... to witness the first location to be K
 - Your hometown.                                                                      --- -A tua terra natal.
 - No!                                                                                 --- -Não!
 Bad Cop, unfortunately, I'm gonna have to leave you here to die.                      --- Mau Polícia, tenho de deixar-te aqui para morreres.
-What?                                                                                 --- Chefe.
-Sir.                                                                                  --- 
+What?                                                                                 --- O quê?
+Sir.                                                                                  --- Chefe.
 It's not personal. It's just business.                                                --- Não é pessoal, são apenas negócios.
 Lord Business.                                                                        --- Lorde Negócios.
 Ciao.                                                                                 --- 
@@ -1633,7 +1671,8 @@ Beginning zapping termination... in 99 Mississippi...                           
 97 Mississippi... and so on.                                                          --- 97 Mississippi e por aí adiante.
 Attention, everyone.                                                                  --- Atenção a todos.
 This is President Business.                                                           --- Fala o Presidente de Negócios.
-Hello. - Hi, welcome to Taco Tuesday!                                                 --- Bem-vindos à Terça dos Tacos!
+Hello.                                                                                --- Olá.
+- Hi, welcome to Taco Tuesday!                                                        --- Bem-vindos à Terça dos Tacos!
 - Whoa. Don't worry about this big black... monolith thing that's blocking out the sun. --- 
 What you need to worry about... is this question that I'm about to ask you:           --- Não se preocupem com este monólito grande e preto que está a tapar o Sol.
 Who wants a taco?                                                                     --- Quem quer um taco?
@@ -1649,7 +1688,7 @@ Now, everybody say "Freeze!"                                                    
 So I guess running around and screaming is normal.                                    --- Por isso, creio que andar a correr e gritar é normal.
 Micro-managers, commence micro-management.                                            --- Micro-gestores, iniciem a micro-gestão.
 Commencing micro-management.                                                          --- A iniciar a micro-gestão.
-What's going on?                                                                      --- Não me consigo mexer!
+What's going on?                                                                      --- O que se passa?
 I can't move!                                                                         --- Não me consigo mexer!
 Please, please!                                                                       --- Por favor, por favor!
 Won't somebody help us?                                                               --- Alguém nos pode ajudar?
@@ -1663,7 +1702,7 @@ And to think for a moment I thought I might be.                                 
 - Who said that?                                                                      --- -Quem é que falou?
 I did.                                                                                --- Eu.
 I am Ghost Vitruvius.                                                                 --- Sou o Fantasma do Vitruvius.
-Woo!                                                                                  --- Emmet, não me deixaste acabar de falar.
+Woo!                                                                                  --- Sou o Fantasma do Vitruvius.
 Emmet, you didn't let me finish earlier.                                              --- Emmet, não me deixaste acabar de falar.
 Because I died.                                                                       --- Porque eu morri.
 The reason I made up the prophecy... was because I knew that whoever found the Piece... could become The Special. --- Eu inventei a profecia porque sabia que quem encontrasse a Peça podia tornar-se no Escolhido.
@@ -1675,13 +1714,15 @@ But how can I just decide to believe that I'm special... when I'm not?          
 Because the world depends on it.                                                      --- Porque o mundo depende disso.
 Woo!                                                                                  --- Eliminação por choque em 35 Mississippi...
 Zapping termination in 35 Mississippi...                                              --- Eliminação por choque em 35 Mississippi...
-What? 34 Mississippi...                                                               --- ...34 Mississippi,
+What?                                                                                 --- O quê?
+34 Mississippi...                                                                     --- ...34 Mississippi,
 33 Mississippi...                                                                     --- 33 Mississippi,
 32 Mississippi...                                                                     --- 32 Mississippi,
 31 Mississippi...                                                                     --- 31 Mississippi,
-30 Mississippi... 29 Mississippi...                                                   --- 29 Mississippi,
+30 Mississippi...                                                                     --- 30 Mississippi,
+29 Mississippi...                                                                     --- 29 Mississippi,
 28 Mississippi, 27 Mississippi...                                                     --- 28 Mississippi,
-26 Mississippi...                                                                     --- 25 Mississippi,
+26 Mississippi...                                                                     --- 26 Mississippi,
 25 Mississippi...                                                                     --- 25 Mississippi,
 24 Mississippi...                                                                     --- 24 Mississippi...
 Emmet!                                                                                --- Emmet!
@@ -1691,7 +1732,8 @@ What are you...? 18 Mississippi...                                              
 - Lucy!                                                                               --- -Lucy!
 - ...15 Mississippi...                                                                --- -...15 Mississippi...
 - Wait!                                                                               --- O que vais...
-What are you...? Now it's your turn to be the hero.                                   --- Agora cabe-te a ti ser a heroína.
+What are you...?                                                                      --- O que vais...
+Now it's your turn to be the hero.                                                    --- Agora cabe-te a ti ser a heroína.
 - 13 Mississippi...                                                                   --- -...13 Mississippi...
 - No!                                                                                 --- -Não!
 12 Mississippi...                                                                     --- ...12 Mississippi...
@@ -1720,7 +1762,7 @@ Arr, if only there were more people in the world like he.                       
 Maybe there are.                                                                      --- Talvez haja.
 Meet me downstairs in 10 seconds.                                                     --- Venham ter comigo lá abaixo daqui a 10 segundos.
 Honey, where are my... pant“?                                                         --- Querida, onde estão as minhas cal...
-- Hi!                                                                                 --- 
+- Hi!                                                                                 --- -Olá!
 - Hey, guess what.                                                                    --- -Adivinha lá?
 Found your pants.                                                                     --- Achei as tuas calças.
 Series is over.                                                                       --- Acabou-se a série.
@@ -1768,8 +1810,8 @@ You're not gonna say no?                                                        
 Build away, whatever your name is.                                                    --- Constrói o que quiseres, não-sei-quantos.
 - Whoa!                                                                               --- 
 Yay!                                                                                  --- 
-- Ha-ha-ha!                                                                           --- Está bem.
-Okay.                                                                                 --- Nave espacial!
+- Ha-ha-ha!                                                                           --- Constrói o que quiseres, não-sei-quantos.
+Okay.                                                                                 --- Está bem.
 Spaceship!                                                                            --- Nave espacial!
 Spaceship!                                                                            --- Nave espacial!
 Spaceship!                                                                            --- Nave espacial!
@@ -1808,7 +1850,8 @@ Spaceship, spaceship, spaceship!                                                
 It's adorable.                                                                        --- É querido.
 Uh-oh.                                                                                --- 
 No.                                                                                   --- Não.
-No. Whoa, no, no, no.                                                                 --- Então, não, não.
+No.                                                                                   --- Não.
+Whoa, no, no, no.                                                                     --- Então, não, não.
 Hey, don't eat me.                                                                    --- Não me comas.
 Don't eat me.                                                                         --- Não me comas.
 Do not eat me.                                                                        --- Não me comas.
@@ -1821,7 +1864,7 @@ The Man Upstairs?                                                               
 What happened?                                                                        --- O que é que aconteceu?
 No, no, no, this is a disaster.                                                       --- Não, não, não, isto é um desastre.
 Why...?                                                                               --- Porquê?
-Why...?                                                                               --- O quê?
+Why...?                                                                               --- Porquê?
 What?                                                                                 --- O quê?
 What?                                                                                 --- O quê?
 What?                                                                                 --- O quê?
@@ -1840,7 +1883,8 @@ This isn't a toy.                                                               
 - No.                                                                                 --- -Não.
 Actually, it's a highly sophisticated interlocking brick system.                      --- Por acaso, é um sistema sofisticado de colocação de tijolos.
 - But we bought it at the toy store.                                                  --- Mas comprámo-lo na loja de brinquedos.
-- We did. But the way I'm using it makes it an adult thing.                           --- Mas a forma como o utilizo torna-o numa coisa de adultos.
+- We did.                                                                             --- Sim.
+But the way I'm using it makes it an adult thing.                                     --- Mas a forma como o utilizo torna-o numa coisa de adultos.
 The box for this one said ages 8 to 14.                                               --- A caixa deste diz que é para dos 8 aos 14 anos.
 That's a suggestion.                                                                  --- É apenas uma sugestão.
 They have to put that on there.                                                       --- Eles têm de colocar isso lá.
@@ -1875,18 +1919,19 @@ Arr, there be too many Micro-managers!                                          
 What am I holding here?                                                               --- O que é isto?
 - It's a battleship.                                                                  --- -É um navio de guerra.
 - No, it's a hodgepodge.                                                              --- -Não, é uma salgalhada, isso sim.
-That's what it is. What's Batman doing on it?                                         --- O que faz ali o Batman?
+That's what it is. What's Batman doing on it?                                         --- -Não, é uma salgalhada, isso sim.
 What is this, a robot pirate?                                                         --- O que é isto, um robô pirata?
 Dang it.                                                                              --- Bolas.
 Stop!                                                                                 --- Pára!
-Stop it!                                                                              --- Não!
+Stop it!                                                                              --- Pára!
 Stop it!                                                                              --- Pára!
 You got glue all over that construction worker.                                       --- Encheste esse operário de cola.
 Here. Give that to me.                                                                --- Dá-me cá isso.
 Stop it!                                                                              --- Pára!
 Stop it!                                                                              --- Pára!
 Stop it! All of those are my friends!                                                 --- Todos eles são meus amigos!
-No, stop it! Ye were a hearty crew.                                                   --- Vocês foram um grupo corajoso.
+No, stop it!                                                                          --- Não, pára!
+Ye were a hearty crew.                                                                --- Vocês foram um grupo corajoso.
 But it be... It be over.                                                              --- 
 No!                                                                                   --- Não!
 The Piece of Resistance!                                                              --- A Peça da Resistência!
@@ -1937,8 +1982,8 @@ Come here!                                                                      
 We'll help you out, kid.                                                              --- Nós ajudamos-te, miúdo.
 Here's how we do it pirate-style!                                                     --- É assim que os piratas fazem!
 Yes!                                                                                  --- Sim!
-Emmet!                                                                                --- Emmet!
-That's it!                                                                            --- É isso!
+Emmet!                                                                                --- Sim!
+That's it!                                                                            --- Emmet!
 Take him down, boys!                                                                  --- 
 Emmet!                                                                                --- Emmet!
 Stay positive.                                                                        --- Mantém-te optimista.
@@ -1948,7 +1993,7 @@ Come on!                                                                        
 Oh, forget it!                                                                        --- Esquece lá isso!
 You all need to be more friendly!                                                     --- Vocês têm de ser mais simpáticos!
 Emmet, go!                                                                            --- Emmet, vai!
-Go!                                                                                   --- 
+Go!                                                                                   --- Vai!
 Now's your...                                                                         --- Agora é a tua
 - ...chance!                                                                          --- -oportunidade!
 - She's right!                                                                        --- -Ela tem razão!
@@ -1965,9 +2010,10 @@ I can't move!                                                                   
 You see, your friends... oh, they're finished!                                        --- O meu mundo está quase acabado.
 My world is almost finished.                                                          --- O meu mundo está quase acabado.
 The last thing I need to do is finish...                                              --- A última coisa que preciso de fazer, é acabar
-- ...you.                                                                             --- -Pára!
+- ...you.                                                                             --- -contigo.
 - No, stop!                                                                           --- -Pára!
-Please! If you do one more thing, I'm gonna unleash my secret weapon.                 --- Se fizeres mais alguma coisa, libertarei a minha arma secreta.
+Please!                                                                               --- Por favor!
+If you do one more thing, I'm gonna unleash my secret weapon.                         --- Se fizeres mais alguma coisa, libertarei a minha arma secreta.
 Your secret weapon?                                                                   --- A tua arma secreta?
 Yes, it's called:                                                                     --- Sim, chama-se:
 The Power of The Special.                                                             --- O Poder do Escolhido.
@@ -1983,7 +2029,8 @@ You want me to take your hand off?                                              
 No, I want you to join me.                                                            --- Não, quero que te juntes a mim.
 Look at all of these things that people built.                                        --- Olha para todas aquelas coisas que as pessoas construíram.
 You might see a mess...                                                               --- Podes ver uma desordem
-Exactly. And a bunch of weird, dorky stuff... that ruined my perfectly good stuff!    --- E um monte de coisas idiotas e esquisitas que estragaram as minhas construções perfeitas!
+Exactly.                                                                              --- Exacto.
+And a bunch of weird, dorky stuff... that ruined my perfectly good stuff!             --- E um monte de coisas idiotas e esquisitas que estragaram as minhas construções perfeitas!
 Okay.                                                                                 --- Muito bem.
 What I see... are people inspired by each other... and by you.                        --- O que eu vejo são pessoas inspiradas umas pelas outras e por ti.
 People taking what you made... and making something new out of it.                    --- Pessoas que usaram o que fizeste e construíram algo novo a partir disso.
@@ -2026,11 +2073,11 @@ I liked Emmet before it was cool.                                               
 Whoops, I have the antidote for the Kragle.                                           --- Eu tenho o antídoto para o Kragle.
 How did that happen?                                                                  --- Como é que isto aconteceu?
 Yay!                                                                                  --- 
-- De-Kragler.                                                                         --- -Observa!
+- De-Kragler.                                                                         --- -O De-Kragler.
 - Watch this.                                                                         --- -Observa!
 - Yay! - Oh, Mommy, Daddy.                                                            --- Mãe, pai.
 You're okay!                                                                          --- Vocês estão bem!
-- Oh, son!                                                                            --- -Olá, mãe.
+- Oh, son!                                                                            --- -Filho!
 - Hi, Mom.                                                                            --- -Olá, mãe.
 Hi, Dad.                                                                              --- Olá, pai.
 We're okay, son.                                                                      --- Nós estamos bem, filho.
@@ -2039,7 +2086,7 @@ Guys, time to come up for dinner.                                               
 It's Taco Tuesday, your favorite.                                                     --- É a Terça dos Tacos, a vossa favorita.
 - Okay, honey.                                                                        --- 
 We'll be up in a sec.                                                                 --- Subimos já.
-- Yeah, we'll be up in a sec!                                                         --- -Sim, vamos já!
+- Yeah, we'll be up in a sec!                                                         --- 
 - I gotta tell you something.                                                         --- -Vou contar-te uma coisa.
 - What?                                                                               --- -O quê?
 Now that I'm letting you come down here and play... guess who else gets to come down here and play'? --- Agora que te deixo vires cá abaixo e brincar, adivinha quem é que também vem?

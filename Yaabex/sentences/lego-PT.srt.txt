@@ -37,7 +37,7 @@ Porque rima
 Essa foi uma lenda fantástica e inspiradora que inventaste.
 Um "Escolhido"?
 Que grande patranha.
-8  
+8 ANOS E MEIO MAIS TARDE 
 Bom dia, apartamento!
 Bom dia, porta!
 Bom dia, parede.
@@ -164,7 +164,7 @@ Tudo é fixe
 Quando vivemos o nosso sonho 
 Sinto-me tão bem agora!
 Podia cantar isto durante horas!
-5  
+5 HORAS MAIS TARDE 
 Tudo é fixe 
 Quando vivemos o nosso sonho 
 Quando estamos numa equipa!
@@ -187,10 +187,13 @@ Não, esperem, malta!
 Esperem aí!
 Pronto, eu vou lá ter convosco.
 Para onde foi?
+ INTEGRAR-SE!
 Aqui estás tu.
 Pareceu-me ter ouvido um sopro.
 Amigo, desculpe estar a maçá-lo, mas não pode estar aqui.
-Sim, as regras dizem claramente que fechamos às 18 horas, o uso de capacete é obrigatório.Isso não é o cor-de-laranja de segurança oficial."Se observar algo estranho, comunicar imediatamente." 
+Sim, as regras dizem claramente que fechamos às 18 horas, o uso de capacete é obrigatório.
+Isso não é o cor-de-laranja de segurança oficial.
+"Se observar algo estranho, comunicar imediatamente." 
 Bem, calculo que vou ter de comunicar a sua presença.
 Aonde vai?
 Menina!
@@ -208,6 +211,7 @@ Toca na Peça.
 Sinto que devia tocar naquilo.
 É tão interessante.
 Toca na Peça.
+NÃO TOCAR 
 É tão interessante.
 Toca na Peça.
 Toca na Peça.
@@ -436,7 +440,7 @@ Não!
 Ora bolas, bolas, bolas!
 Espera.
 Onde estamos?
-Isto é tão estran... 
+VELHO OESTE Isto é tão estran... 
 Tu não és o Escolhido!
 Mentiste-me!
 Isto acaba por depender de... 
@@ -496,7 +500,8 @@ Por isso, ergueu muros entre os mundos e tornou-se obcecado com a ordem e a perf
 E roubou a misteriosa 
 -super arma chamada...
 -Kragle!
-...e contratou o Polícia Mau para perseguir todos os Mestres Construtores que estavam sempre a mudar tudo.INTEGRAR! É MUITO BOM!
+...e contratou o Polícia Mau para perseguir todos os Mestres Construtores que estavam sempre a mudar tudo.
+É MUITO BOM!
 E aqueles de nós que resistiram... 
 Bem, escondemo-nos.
 Construímos túneis para sobreviver.
@@ -513,8 +518,9 @@ Eu estava desconfiada.
 Não temos tempo a perder.
 Temos de achar o Vitruvius e ir à Torre de Escritórios antes que seja tarde.
 Está bem.
-Quão assustador pode ser um escritório?DE NEGÓCIOS 
-Presidente de Negócios, estamos a tentar achar o fugitivo, mas tem uma cara tão comum que se confunde na nossa base de dados.PROCURA-SE!
+Quão assustador pode ser um escritório?
+DE NEGÓCIOS 
+Presidente de Negócios, estamos a tentar achar o fugitivo, mas tem uma cara tão comum que se confunde na nossa base de dados.
 Diabólico.
 Está bem, pede ao Polícia Mau que vá ao meu gabinete daqui 
 -a 23 segundos.
@@ -583,7 +589,6 @@ Observa... a arma mais poderosa entre todas as relíquias:
 O Kragle!
 Como vês, estão a pôr o Kragle numa grande máquina lá em cima.
 Eu chamo-lhe o Tentáculo para Pulverizar o Kragle no Exterior.
-Ou TAKOS.
 O "S" não se lê.
 Por isso, na Terça dos Tacos, vai pulverizar o Kragle sobre tudo e todos com uma série de bicos assustadores como este!
 -Eu mostro-te como funciona.
@@ -695,7 +700,7 @@ Nunca.
 Depois Sisuda, Anormal, À Moda.
 Está bem, sou.
 Vemo-nos no andar de cima daqui a 10 segundos.
-"10"  
+"10" SEGUNDOS MAIS TARDE 
 Caramba.
 Tem uma casa com 
 -uma estranha decoração.
@@ -784,7 +789,6 @@ Achas que dirigíveis são um mau investimento?
 Algum de vocês viu este tipo?
 Espera aí, parceiro.
 Desenha um chapéu de cowboy nele.
-PROCURA-SE!
 Estes pássaros mecânicos vão passar a nossa mensagem.
 Eles vão a um cibercafé enviar um e-mail aos restantes Mestres Construtores, que virão ter connosco ao reino da Nuvem da Alucinolândia.
 Alucinolândia?
@@ -922,8 +926,8 @@ Sombrio, melancólico.
 Bem, eu também sou sombrio e melancólico.
 Pessoal, vejam, um arco-íris.
 Tens de subir a parte encurvada... 
-Riquíssimo levá-lo até ao topo... 
-Até o torna melhor e estacionar o carro.
+Riquíssimo ...levá-lo até ao topo... 
+Até o torna melhor ...e estacionar o carro.
 Amigos, bem-vindos à Nuvem da Alucinolândia.
 Agora... 
 Só tenho de dar a pancada secreta.
@@ -1074,8 +1078,8 @@ Não!
 Eles já estavam à espera.
 Não se partiu!
 Porque está colado.
-Máquina de pastilha elástica!MASCAR 
 Máquina de pastilha elástica!
+MASCAR 
 Disparar!
 Não!
 Não me consigo mexer!
@@ -1358,7 +1362,8 @@ O que é que eu...
 Não consigo... 
 Boa!
 Passo dois: 
-Pilotamos a nave até à entrada de serviço, para podermos passar pelo perigoso, mas também porreiro, portão a laser.Identificação Espacial.
+Pilotamos a nave até à entrada de serviço, para podermos passar pelo perigoso, mas também porreiro, portão a laser.
+Identificação Espacial.
 Tenho ordens para seguir.
 Com quem veio falar?
 Vim falar com o Seu Asno.
@@ -1491,7 +1496,8 @@ Não gosto de despedidas.
 Por isso, digamos antes: "Hasta la vista, artista." "Hasta la vista, artista"?
 Daqui a um tempo, seu jumento.
 Quem é a Lucy?
-Batman, quando entrarmos na sala, estarão sensores de áudio por todo o lado.estarão sensores de áudio por todo o lado.CHIU!
+Batman, quando entrarmos na sala, estarão sensores de áudio por todo o lado.
+NEM UM PIO CHIU!
 Temos de ser muito silenciosos.
 Calma, "pai", eu li as instruções.
 Não grites comigo.
@@ -1701,7 +1707,7 @@ O Emmet tinha ideias.
 Se houvesse mais pessoas no mundo como ele.
 Talvez haja.
 Venham ter comigo lá abaixo daqui a 10 segundos.
-10  
+10 SEGUNDOS MAIS TARDE 
 Querida, onde estão as minhas cal... 
 -Olá!
 -Adivinha lá?
@@ -1718,7 +1724,8 @@ Este é o Emmet.
 E ele era igual a vocês.
 Alguém no meio da multidão, que seguia as mesmas instruções que vocês.
 Ele era tão bom a integrar-se que não repararam nele.
-E tenho de pedir-vos desculpas, porque costumava desprezar pessoas assim."Eu pensava que eles eram apenas seguidores, sem ideias ou imaginação." 
+E tenho de pedir-vos desculpas, porque costumava desprezar pessoas assim.
+"Eu pensava que eles eram apenas seguidores, sem ideias ou imaginação." 
 Porque afinal o Emmet teve óptimas ideias.
 Apesar de parecerem estranhas e algo inúteis, estiveram mais próximo que as de qualquer outro de salvar o universo.
 Agora, temos de terminar o que ele começou, ao construir a coisa mais estranha que nos venha à cabeça.
@@ -1772,7 +1779,8 @@ Parem de uma vez!
 Foi o teu discurso que motivou este corajoso grupo.
 Se o Emmet estivesse aqui para ver isto.
 Ele diria algo querido do tipo... 
-Será que vou continuar a cair... para sempre?Isto é outra visão?
+Será que vou continuar a cair... para sempre?
+Isto é outra visão?
 Onde é que eu estou?
 Aquela é a Torre de Escritórios?
 TORRE Octan 
@@ -1830,6 +1838,7 @@ Chama-se: "Vamos Voltar a Colocar Tudo Como Encontrámos."
 Mas, pai, não estás a entender.
 Para que eu possa fazer as coisas como devem ser.
 Para sempre.
+SUPER COLA 
 Mais Kragles?
 Esta revolta acaba imediatamente.
 A iniciar micro-gestão.
@@ -1892,7 +1901,6 @@ Acho que vi o x-acto ali, junto à Meia Zelândia.
 Obrigado.
 Não tens de quê.
 Agora é contigo, Emmet.
-ACREDITA!
 Acredita.
 Eu sei que parece um daqueles cartazes com gatos, mas é verdade.
 Portal Mágico 
@@ -1971,6 +1979,8 @@ As pessoas estão a tentar impedir o Presidente de Negócios de usar o Kragle.
 O que é o Kragle?
 Está ali dentro.
 Aqui?
+NÃO TOCAR 
+NÃO MEXER 
 Então, o Presidente de Negócios é o vilão?
 Se... 
 Se o operário... dissesse alguma coisa ao Presidente de Negócios... o que é que ele diria?

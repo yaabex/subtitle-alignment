@@ -9,8 +9,8 @@ Twelve pounds, one schilling and fourpence, Mr. Fennyman, including interest.   
 - Aaah!                                                                               --- - Quando?
 I can pay you!                                                                        --- - Posso pagar-lhe!
 - When?                                                                               --- - Quando?
-Two weeks!                                                                            --- Duas semanas!
-Three weeks at the most!                                                              --- Três, no máximo!
+Two weeks!                                                                            --- - Quando?
+Three weeks at the most!                                                              --- Duas semanas!
 Oh, for pity's sake!                                                                  --- Tenha dó de mim!
 Take them out.                                                                        --- Tirem-lhas!
 Where will you find... Sixteen pounds, five schillings and ninepence.                 --- Onde vai arranjar, dezasseis libras, cinco xelins e nove pence.
@@ -22,12 +22,12 @@ Including interest, in three weeks?                                             
 It's a new comedy by William Shakespeare.                                             --- É uma nova comédia do William Shakespeare.
 - And his ears.                                                                       --- - E as orelhas.
 - And a share!                                                                        --- - E lucros!
-We will be partners, Mr. Fennyman!                                                    --- Seremos sócios, Sr. Fennyman!
+We will be partners, Mr. Fennyman!                                                    --- - E lucros! Seremos sócios, Sr. Fennyman!
 Partners?                                                                             --- 
 It's a crowd-tickler.                                                                 --- O público vai adorar. Identidades trocadas.
 Mistaken identities.                                                                  --- Identidades trocadas.
 Shipwreck.                                                                            --- Naufrágio.
-Pirate king.                                                                          --- Rei pirata.
+Pirate king.                                                                          --- Naufrágio.
 - A bit with a dog, and love triumphant.                                              --- - Entra um cão e o amor triunfa.
 - I think I've seen it.                                                               --- - Acho que já a vi.
 I didn't like it.                                                                     --- E não gostei.
@@ -74,8 +74,9 @@ I am a dead man, and buggered to boot.                                          
 My theater is closed by the plague these twelve weeks.                                --- O teatro fechado há doze semanas por causa da peste.
 My actors are forced to tour the inn yards of England... while Mr. Burbage and the Chamberlain's Men are invited to court... and receive ten pounds to play your piece, written for my theater, by my writer, at my risk... when you were green and grateful. --- Os actores forçados a actuar nos bares de Inglaterra, enquanto o Sr. Burbage e o Grupo do Camareiro estão na corte, e recebem dez libras para fazer a tua peça, escrita para o meu teatro, por ti, às minhas custas, quando eras jovem e grato.
 - What piece?                                                                         --- - Qual?
-Richard Crookback?                                                                    --- - Não!
-- No! It's comedy they want.                                                          --- Eles querem comédia.
+Richard Crookback?                                                                    --- Ricardo Quebra-Costas?
+- No!                                                                                 --- - Não!
+It's comedy they want.                                                                --- Eles querem comédia.
 Like Romeo and Ethel.                                                                 --- Como o Romeu e Ethel.
 - Who wrote that?                                                                     --- - Quem a escreveu?
 - Nobody.                                                                             --- - Ninguém.
@@ -90,7 +91,8 @@ When the plague lifts, Burbage will have a new play by Christopher Marlowe for t
 - Mr. Henslowe.                                                                       --- - Sr. Henslowe.
 - Will you lend me 50 pounds?                                                         --- - Empresta-me 50 libras?
 - Fifty pounds?                                                                       --- - Cinquenta?
-- What for? - Burbage offers me a partnership in the Chamberlain's Men.               --- O Burbage ofereceu-me sociedade no Grupo do Camareiro.
+- What for?                                                                           --- - Cinquenta?
+- Burbage offers me a partnership in the Chamberlain's Men.                           --- 
 For 50 pounds, my days as a hired player are over.                                    --- Por 50 libras, acabam-se os meus dias de escravo.
 Oh, cut out my heart.                                                                 --- Corta-me o coração.
 Throw my liver to the dogs.                                                           --- Atira-me aos cães.
@@ -107,7 +109,7 @@ I could make love out of words as a potter makes cups of clay.                  
 Love that overthrows empires.                                                         --- Amor que derrota impérios.
 Love that binds two hearts together, come hellfire and brimstone.                     --- Amor que une dois corações, aconteça o que acontecer.
 For sixpence a line, I could cause a riot in a nunnery.                               --- Por seis pence a deixa, fazia uma revolução num convento.
--But now-- -And yet you tell me you lie with women.                                   --- - Mas dizes que te deitas com mulheres.
+-But now-- -And yet you tell me you lie with women.                                   --- - Mas agora... - Mas dizes que te deitas com mulheres.
 Black Sue, Fat Phoebe, Rosaline, Burbage's seamstress, Aphrodite, who does it behind-- --- A Sue Preta, a Phoebe Gorda, a Roseline, costureira do Burbage, a Afrodite, que se vende atrás...
 Yes, now and again.                                                                   --- Sim, às vezes.
 What of it?                                                                           --- E então?
@@ -123,7 +125,7 @@ Tell me, are you lately humbled in the act of love?                             
 How long has it been?                                                                 --- Há quanto tempo não o fazes?
 A goodly length in times past, but lately--                                           --- Há muito tempo, mas ultimamente...
 No, no.                                                                               --- Não, não.
-You have a wife, children?                                                            --- Tens mulher, filhos?
+You have a wife, children?                                                            --- Era um jovem de 18 anos.
 Aye.                                                                                  --- 
 I was a lad of 18.                                                                    --- Era um jovem de 18 anos.
 Anne Hathaway was a woman half as old again.                                          --- Anne Hathaway tinha mais nove que eu.
@@ -169,7 +171,7 @@ Where were my seamstress' eyes?                                                 
 All but done.                                                                         --- Quase terminada.
 A pirate comedy.                                                                      --- Uma comédia de piratas.
 - Wonderful.                                                                          --- - Maravilhoso.
-- Bring it tomorrow.                                                                  --- - Trá-la amanhã.
+- Bring it tomorrow.                                                                  --- - Maravilhoso.
 - It's for Henslowe.                                                                  --- - É para o Henslowe.
 He paid me.                                                                           --- 
 Ten pounds.                                                                           --- 
@@ -195,7 +197,7 @@ Come to look for it again.                                                      
 Are you to be my muse, Rosaline?                                                      --- Serás a minha musa, Roseline?
 Burbage has my keeping, but you have my heart.                                        --- O Burbage sustenta-me, mas tu tens o meu amor.
 You see?                                                                              --- Vês?
-The consumptives plot against me.                                                     --- Os tuberculosos perseguem-me.
+The consumptives plot against me.                                                     --- Serás a minha musa, Roseline?
 Will Shakespeare has a play.                                                          --- O Shakespeare tem uma peça.
 Let's go and cough through it.                                                        --- 
 My father weeping; my mother wailing; our maid howling; our cat wringing her hands.   --- O meu pai a chorar, a minha mãe a gritar; a criada a berrar; o gato a arranhar-lhe as mãos.
@@ -224,8 +226,9 @@ Stage love will never be true love... while the law of the land has our heroines
 - Oh, when can we see another?                                                        --- - Quando podemos ver outra?
 - When the queen commands it.                                                         --- - Quando a rainha encomendar.
 No, but at the playhouse.                                                             --- Não, no teatro.
-Nurse!                                                                                --- Quieta.
-Be still. Playhouses are not for wellborn ladies.                                     --- Os teatros não são para meninas de bem.
+Nurse!                                                                                --- Aia!
+Be still.                                                                             --- Quieta.
+Playhouses are not for wellborn ladies.                                               --- Os teatros não são para meninas de bem.
 Oh! I'm not so wellborn.                                                              --- Não sou muito de bem.
 Well-monied is the same as wellborn, and well-married is more so.                     --- Rica é o mesmo que de bem, e bem casada ainda mais.
 Lord Wessex was looking at you tonight.                                               --- Hoje o Lorde Wessex olhou para si.
@@ -265,7 +268,7 @@ Mr. Fennyman.                                                                   
 Mr. Tilney has reopened the playhouses.                                               --- O Sr. Tilney reabriu os teatros.
 If you wouldn't mind.                                                                 --- Se não se importa.
 Where's the play?                                                                     --- 
-Oh, it's coming.                                                                      --- Está quase.
+Oh, it's coming.                                                                      --- 
 It's coming.                                                                          --- 
 It's coming.                                                                          --- 
 Will!                                                                                 --- Will, tenho óptimas notícias.
@@ -321,13 +324,12 @@ My Doctor Faustus.                                                              
 Ah. I love your early work.                                                           --- Gosto das tuas peças antigas.
 "Was this the face that launched a thousand ships... and burnt the topless towers of llium?" I have a new one nearly finished, and better. --- "Foi esta a face que lançou mil navios... "...e queimou as altas torres de Ílion?" Tenho uma nova melhor e quase acabada.
 The Massacre at Paris.                                                                --- O Massacre de Paris.
-- Whew.                                                                               --- - Bom título.
-Good title.                                                                           --- - Bom título.
+- Whew. Good title.                                                                   --- - Bom título.
 - Mmm.                                                                                --- - E o teu?
-Yours?                                                                                --- 
+Yours?                                                                                --- - E o teu?
 Romeo and Ethel, the Pirate's Daughter.                                               --- Romeu e Ethel, a filha do Pirata.
 Yes, I know.                                                                          --- Sim, eu sei.
-I know.                                                                               --- Eu sei.
+I know.                                                                               --- Sim, eu sei.
 What is the story?                                                                    --- Como é a história?
 Well, there's this pirate-- In truth, I have not written a word.                      --- Bem, há um pirata... Na verdade não escrevi nada.
 Romeo.                                                                                --- 
@@ -335,14 +337,14 @@ Romeo is ltalian, always in and out of love.                                    
 Yes, that's good.                                                                     --- Sim, é boa.
 Until he meets--                                                                      --- Até que encontra...
 - Ethel.                                                                              --- - A Ethel.
-- Do you think?                                                                       --- - Achas?
+- Do you think?                                                                       --- - A Ethel.
 - The daughter of his enemy.                                                          --- A filha do seu inimigo.
 - The daughter of his enemy.                                                          --- A filha do seu inimigo.
 His best friend is killed in a duel... by Ethel's brother, or something-- His name is Mercutio. --- O seu melhor amigo é morto em duelo, pelo irmão de Ethel, ou isso... Chama-se Mercúcio.
 Mercutio.                                                                             --- Mercúcio.
 Good name.                                                                            --- Bom nome.
 - Will!                                                                               --- - Will!
-They're waiting for you!                                                              --- Estão à tua espera!
+They're waiting for you!                                                              --- 
 - Yes, I'm coming.                                                                    --- - Sim, já vou.
 Good luck with yours, Kit.                                                            --- Boa sorte para a tua peça, Kit.
 - I thought your play was for Burbage.                                                --- - Pensei que a tua era para o Burbage.
@@ -381,7 +383,7 @@ She is my essence, and I leave to be if I be not--                              
 - My hat?                                                                             --- - O chapéu?
 Where'd you learn how to do that?                                                     --- Onde aprendeste a fazer isso?
 - I-- - Let me see you.                                                               --- - Eu...
-Take off your hat.                                                                    --- Tira o chapéu.
+Take off your hat.                                                                    --- - Deixa-me ver-te.
 - Are you M-Master Shakespeare?                                                       --- - É o Mestre Shakespeare?
 - Wait there.                                                                         --- - Espera aí.
 Wait there!                                                                           --- 
@@ -395,9 +397,9 @@ All away!                                                                       
 - Follow that boat!                                                                   --- - Siga aquele barco!
 - Right you are, governor.                                                            --- - O senhor manda, governador.
 I know your face.                                                                     --- Já o tinha visto.
-Are you an actor?                                                                     --- - Siga aquele barco!
+Are you an actor?                                                                     --- Já o tinha visto.
 - Yes.                                                                                --- - Sim.
-- Yes, I think I've seen you in something.                                            --- - Sim, acho que já o vi actuar.
+- Yes, I think I've seen you in something.                                            --- - Sim. - Sim, acho que já o vi actuar.
 - That one about a king.                                                              --- - Naquela peça de um rei.
 - Really?                                                                             --- - Ah sim?
 I had that Christopher Marlowe in my boat once.                                       --- Já levei aquele Christopher Marlowe no meu barco.
@@ -413,7 +415,7 @@ God save you, Mother.                                                           
 Hot water, Nurse.                                                                     --- Água quente, Aia.
 I seek Master Thomas Kent.                                                            --- Procuro o Sr. Thomas Kent.
 - Who, sir?                                                                           --- - Quem, senhor?
-- The actor.                                                                          --- - O actor.
+- The actor.                                                                          --- - Quem, senhor?
 - Who asks for him?                                                                   --- - Quem devo anunciar?
 - Will Shakespeare.                                                                   --- - Will Shakespeare.
 Poet, playwright of the Rose.                                                         --- Poeta e dramaturgo do Rose.
@@ -433,7 +435,7 @@ My lady, when your parents return, I will tell.                                 
 You will not tell.                                                                    --- Não contarás.
 As I love you and you love me, you will bind my breast and buy me a boy's wig.        --- Como eu gosto de ti e tu de mim, vais atar-me o peito e comprar-me uma peruca.
 Master Plum.                                                                          --- Senhor Plum.
-What business here?                                                                   --- Que o traz aqui?
+What business here?                                                                   --- Senhor Plum.
 The five schilling business, Will.                                                    --- Os cinco xelins, Will.
 We play for the dancing.                                                              --- Tocamos para que dancem.
 Hyah! Hyah, hyah!                                                                     --- Tocamos para que dancem.
@@ -444,8 +446,8 @@ She's a beauty, my lord, as would take a king to church for the dowry of a nutme
 My plantations in Virginia are not mortgaged for a nutmeg.                            --- A hipoteca das minhas plantações não são dez tostões.
 I have an ancient name which will bring you preferment... when your grandson is a Wessex. --- Tenho um apelido antigo, que lhe trará prestígio, quando o seu neto for um Wessex.
 - Is she fertile?                                                                     --- - Ela é fértil?
-- Oh, she will breed.                                                                 --- - Sim, procriará.
-- If she do not, send her back.                                                       --- Mas se tiver pulso para ela, encontrará rubis nos alforges.
+- Oh, she will breed.                                                                 --- - Ela é fértil?
+- If she do not, send her back.                                                       --- - Se não, devolva-a.
 - Is she obedient?                                                                    --- - Ela é obediente?
 As any mule in Christendom.                                                           --- Tanto quanto uma mula.
 But if you are the man to ride her, there are rubies in the saddlebag.                --- Mas se tiver pulso para ela, encontrará rubis nos alforges.
@@ -478,7 +480,7 @@ A comedy by William Shakespeare.                                                
 - Who is there?                                                                       --- - Quem está aí?
 - Will Shakespeare.                                                                   --- - Will Shakespeare.
 - Madam!                                                                              --- - Senhora!
-Anon, good nurse, anon.                                                               --- Já vou, aia, já vou.
+Anon, good nurse, anon.                                                               --- - Senhora! Já vou, aia, já vou.
 - Oh, Master Shakespeare.                                                             --- - Oh, Mestre Shakespeare.
 - The same, alas.                                                                     --- - O próprio, ai de mim.
 But why "alas"?                                                                       --- Porquê "ai de mim"?
@@ -488,7 +490,7 @@ For I thought you the highest poet of my esteem... and a writer of plays that ca
 - Oh, I am him too.                                                                   --- - Mas também sou esse.
 - Madam!                                                                              --- - Senhora!
 Anon!                                                                                 --- Já vou!
-I will come again.                                                                    --- 
+I will come again.                                                                    --- Já vou! Voltarei.
 Oh, I am fortune's fool.                                                              --- Oh, sou prisioneiro da sorte.
 I will be punished for this.                                                          --- Serei castigado por isto.
 Oh, my lady, my love!                                                                 --- Oh, minha senhora, meu amor!
@@ -500,8 +502,8 @@ If they find you here, they will kill you.                                      
 Draw, if you be men!                                                                  --- "À espada, se sois homens!
 Gregory, remember thy swashing blow!                                                  --- "Gregório, lembra-te de tua estocada!
 Part, fools!                                                                          --- "Separai-vos, loucos!
-Put up your swords.                                                                   --- Guardai as espadas.
-You know not what you do.                                                             --- Não sabeis o que fazeis."
+Put up your swords.                                                                   --- "Separai-vos, loucos!
+You know not what you do.                                                             --- Guardai as espadas.
 It starts well, then it's all long-faced about some Rosaline.                         --- Começa bem e depois são só histórias sobre uma Roseline.
 Where's the comedy, Will?                                                             --- A comédia, Will?
 Where's the dog?                                                                      --- Onde está o cão?
@@ -521,8 +523,8 @@ Your attention, please!                                                         
 - You are welcome.                                                                    --- - De nada.
 - Who's that?                                                                         --- - Quem é aquele?
 - Nobody.                                                                             --- - Ninguém.
-He's the author.                                                                      --- É o autor.
-We are about to embark on a great voyage.                                             --- Vamos embarcar numa grande viagem.
+He's the author.                                                                      --- - Ninguém.
+We are about to embark on a great voyage.                                             --- É costume fazer um pequeno discurso no primeiro dia.
 It is customary to make a little speech on the first day.                             --- É costume fazer um pequeno discurso no primeiro dia.
 It does no harm. Authors like it.                                                     --- Não faz mal e os autores gostam.
 You want to know what parts you are to receive.                                       --- Querem saber os papéis que lhes cabem.
@@ -536,7 +538,7 @@ Henslowe!                                                                       
 Earl!                                                                                 --- 
 Good to see you.                                                                      --- Henslowe!
 Who is this?                                                                          --- Quem é?
-Silence, you dog!                                                                     --- Silêncio, cão!
+Silence, you dog!                                                                     --- Quem é? Silêncio, cão!
 I am Hieronimo.                                                                       --- Sou Jerónimo.
 I am Tamburlaine.                                                                     --- Sou Tamburlaine.
 I am Faustus.                                                                         --- Sou Fausto.
@@ -545,7 +547,7 @@ Oh, yes, Master Will.                                                           
 I am Henry the Sixth.                                                                 --- Sou Henrique Vl.
 What is the play, and what is my part?                                                --- Qual é a peça e qual o meu papel?
 - Uh, one moment, sir-- - Who are you?                                                --- - Um momento, senhor... - Quem és tu?
-I'm, um-- I'm the money.                                                              --- Sou o dinheiro.
+I'm, um-- I'm the money.                                                              --- - Quem és tu?
 Then you may remain, so long as you remain silent.                                    --- Então podes ficar, mas ficas em silêncio.
 Pay attention.                                                                        --- Tenham atenção.
 You will see how genius creates a legend.                                             --- Verão como o génio cria uma lenda.
@@ -554,10 +556,10 @@ You will see how genius creates a legend.                                       
 A young nobleman of Verona.                                                           --- Um jovem nobre de Verona.
 - And the title of this piece?                                                        --- - E o título da peça?
 - Mercutio.                                                                           --- - Mercúcio.
-Is it?                                                                                --- Ai é?
+Is it?                                                                                --- - Mercúcio. Ai é?
 I will play him.                                                                      --- Vou interpretá-lo.
 Mr. Pope.                                                                             --- Sr. Pope.
-Mr.                                                                                   --- Philips.
+Mr.                                                                                   --- Sr.
 Philips.                                                                              --- Philips.
 Welcome.                                                                              --- Bem vindos.
 George Bryan.                                                                         --- George Bryan.
@@ -566,10 +568,10 @@ Sam, my pretty one!                                                             
 - Are you ready to fall in love again?                                                --- - Estás pronto para te apaixonares?
 - I am, Master Shakespeare.                                                           --- - Sim, Mestre Shakespeare.
 Your voice.                                                                           --- A tua voz.
-Have they dropped?                                                                    --- Caiu-te?
+Have they dropped?                                                                    --- A tua voz.
 No!                                                                                   --- Não!
-No.                                                                                   --- Não.
-A touch of cold only.                                                                 --- É só uma constipação.
+No.                                                                                   --- Não!
+A touch of cold only.                                                                 --- Não. É só uma constipação.
 Master Henslowe, you have your actors...                                              --- Senhor Henslowe, tem os seus actores...
 except Thomas Kent.                                                                   --- só falta Thomas Kent.
 I, uh, I saw his Tamburlaine, you know.                                               --- Eu vi o seu Tamburlaine, sabe.
@@ -595,9 +597,9 @@ I'll know his grievance, or be much denied.                                     
 I would thou wert so happy by thy stay to hear true shrift.                           --- Oxalá, a sós, oiças sua confissão sincera.
 Come, madam.                                                                          --- 
 - Cut around him for now.                                                             --- - Esqueçam-no agora.
-- What?                                                                               --- Quem?
-Who?                                                                                  --- Quem?
-- Romeo.                                                                              --- - O Romeu.
+- What?                                                                               --- - O quê?
+Who?                                                                                  --- - O quê?
+- Romeo.                                                                              --- Quem?
 - The one who came with your letter.                                                  --- - O que veio com a tua carta.
 - What?                                                                               --- - O quê?
 - Good morrow, cousin.                                                                --- - Bom dia, primo.
@@ -618,8 +620,8 @@ Yes, sir.                                                                       
 You're speaking about a baggage we never even meet.                                   --- Estás a falar de alguém que ainda nem sequer vimos.
 What will be left in his purse when he meets his Juliet?                              --- Que lhe sobrará para dizer quando conhecer a sua Julieta?
 - Juliet?                                                                             --- - Julieta?
-You mean Ethel.                                                                       --- Era Ethel.
-- God's teeth!                                                                        --- - Por Deus!
+You mean Ethel.                                                                       --- - Julieta?
+- God's teeth!                                                                        --- Era Ethel.
 Am I to suffer this constant stream of interruption?                                  --- Terei de sofrer interrupções constantes?
 What will he do in Act Two, when he meets the love of his life?                       --- Que fará no Segundo Acto, quando conhecer o amor da sua vida?
 I-l'm very sorry, sir.                                                                --- Desculpe, senhor.
@@ -643,7 +645,7 @@ Piety is for Sunday!                                                            
 And two hours of prayer is not piety, it is self-importance.                          --- E duas horas de oração não é piedade, é exagero.
 It would be better that you return tomorrow, my lord.                                 --- Seria melhor voltar amanhã, senhor.
 It would be better if you'd tell her to get off her knees and show some civility... to her six-day lord and master! --- Seria melhor dizer-lhe que mostre algum respeito, pelo seu amo e senhor!
-Mmmph!                                                                                --- Senhora Viola.
+Mmmph!                                                                                --- 
 My lady Viola.                                                                        --- Senhora Viola.
 Lord Wessex.                                                                          --- Lorde Wessex.
 You've been waiting.                                                                  --- Fi-lo esperar.
@@ -651,7 +653,7 @@ I am aware of it.                                                               
 But it is beauty's privilege.                                                         --- É o privilégio da beleza.
 You flatter, my lord.                                                                 --- Lisonjeia-me, senhor.
 No.                                                                                   --- Não.
-I have spoken to the queen.                                                           --- Falei com a rainha.
+I have spoken to the queen.                                                           --- Não. Falei com a rainha.
 Her Majesty's consent is requisite when a Wessex takes a wife, and once given, her consent is her command. --- É preciso o acordo de Sua Majestade quando um Wessex se casa, e depois de dado, equivale a uma ordem.
 Do you intend to marry, my lord?                                                      --- Tenciona casar, senhor?
 Your father should keep you better informed.                                          --- Seu pai devia informá-la melhor.
@@ -672,7 +674,7 @@ I need 4,000 pounds to fit out a ship and put my investments to work.           
 I fancy tobacco has a future.                                                         --- Penso que o tabaco tem futuro.
 We will not stay there long.                                                          --- Não ficaremos muito tempo.
 Three or four years.                                                                  --- Três ou quatro anos.
-But why me?                                                                           --- Porquê eu? Foram os olhos.
+But why me?                                                                           --- Três ou quatro anos.
 It was your eyes.                                                                     --- Foram os olhos.
 No, your lips.                                                                        --- Não, os lábios.
 Will you defy your father and your queen?                                             --- Desafiais vosso pai e a rainha?
@@ -694,7 +696,7 @@ No, the speech is excellent.                                                    
 Excellent, and a good length.                                                         --- Excelente, boa duração.
 But then he disappears for the length of a bible.                                     --- Mas depois desaparece eternamente.
 There.                                                                                --- Aqui.
-You have this duel.                                                                   --- Tens o duelo.
+You have this duel.                                                                   --- Aqui. Tens o duelo.
 A skirmish of words and swords such as I never wrote, nor anyone.                     --- Uma luta de palavras e espadas, como nunca eu escrevi, nem ninguém.
 He dies with such passion and poetry as you ever heard.                               --- Morre com paixão e poesia nunca antes vistas.
 "A plague on both your houses!"                                                       --- "A peste leve as vossas duas casas!
@@ -722,7 +724,7 @@ And yet she does where the ink has run with tears.                              
 - Uh--                                                                                --- - Não.
 - Her letter came to me by the nurse.                                                 --- - A carta foi-me dada pela aia.
 - Your aunt.                                                                          --- - A tua tia.
-Yes, my aunt.                                                                         --- Sim, a minha tia.
+Yes, my aunt.                                                                         --- - A tua tia. Sim, a minha tia.
 But perhaps she wept a little.                                                        --- Talvez tenha chorado um pouco.
 Tell me how you love her, Will.                                                       --- Diz-me como a amas, Will.
 Like a sickness and its cure together.                                                --- Como uma doença e a sua cura.
@@ -738,7 +740,7 @@ Her lips?                                                                       
 The early morning rose would whither on the branch if it could feel envy.             --- A rosa da manhã murcharia no ramo se pudesse sentir inveja.
 And her voice, like lark's song?                                                      --- E a sua voz, como o canto da cotovia?
 Deeper, softer.                                                                       --- 
-None of your twittering larks.                                                        --- 
+None of your twittering larks.                                                        --- Mais profunda, mais suave.
 I would banish nightingales from her garden before they interrupt her song.           --- Afastaria os rouxinóis do seu jardim se interrompessem o seu canto.
 - Ah, she sings too?                                                                  --- - Também canta?
 - Constantly.                                                                         --- - Constantemente.
@@ -763,7 +765,7 @@ Oh, Will.                                                                       
 Thank you, my lady.                                                                   --- Obrigado, senhora.
 Lady?                                                                                 --- Senhora?
 Viola De Lesseps.                                                                     --- Viola De Lesseps.
-Known her since she was this high.                                                    --- Conheço-a desde criança.
+Known her since she was this high.                                                    --- 
 Wouldn't deceive a child.                                                             --- Não enganaria um bebé.
 Strangely enough, I'm a bit of a writer meself.                                       --- 
 It wouldn't take you long to read it.                                                 --- Não demorava muito a ler.
@@ -825,15 +827,15 @@ Then move not... while my prayer's effect I take.                               
 Thus from my lips, by thine my sin is purged.                                         --- Assim, vossos lábios purificam os meus.
 Then have my lips the sin that they have took.                                        --- Assim passou para meus lábios o pecado dos vossos.
 Sin from my lips?                                                                     --- Pecado de meus lábios?
-Oh, trespass sweetly urged.                                                           --- Oh, doce culpa.
-Give me my sin again.                                                                 --- Assim passou para meus lábios o pecado dos vossos.
+Oh, trespass sweetly urged.                                                           --- Pecado de meus lábios?
+Give me my sin again.                                                                 --- Oh, doce culpa.
 Yes, yes!                                                                             --- Sim, sim!
-Um, not quite right.                                                                  --- Está quase.
+Um, not quite right.                                                                  --- 
 It is more-- Let me.                                                                  --- 
 Then have my lips the sin that they have took.                                        --- Assim passou para meus lábios o pecado dos vossos.
 Sin from my lips?                                                                     --- Pecado de meus lábios?
-Oh, trespass sweetly urged.                                                           --- Oh, doce culpa.
-Give me my sin again.                                                                 --- Assim passou para meus lábios o pecado dos vossos.
+Oh, trespass sweetly urged.                                                           --- Pecado de meus lábios?
+Give me my sin again.                                                                 --- Oh, doce culpa.
 - You kiss by the book.                                                               --- - Sabes como beijar.
 - Well, Will!                                                                         --- - Bem, Will!
 It was lucky you were here.                                                           --- Foi uma sorte estares aqui.
@@ -851,8 +853,8 @@ I tell you, he that can lay hold of her... shall have the chinks.               
 Oh, dear account!                                                                     --- Oh, criador!
 My life is my foe's debt.                                                             --- Minha vida está nas mãos do inimigo.
 Away.                                                                                 --- Então.
-Be gone.                                                                              --- Vamo-nos.
-The sport is at the best.                                                             --- O baile está no fim.
+Be gone.                                                                              --- Então.
+The sport is at the best.                                                             --- E maior é meu desassossego.
 Aye, so I fear.                                                                       --- Sim, temo-o.
 The more is my unrest.                                                                --- E maior é meu desassossego.
 Come hither, nurse.                                                                   --- Vem cá, aia.
@@ -915,7 +917,7 @@ Madam?                                                                          
 Dear love, adieu.                                                                     --- Meu amor, adeus.
 - Juliet!                                                                             --- 
 - "Anon, good nurse." - Anon, good nurse.                                             --- - "Vou já, boa aia".
-Sweet Montague, be true.                                                              --- Montecchio, sê fiel.
+Sweet Montague, be true.                                                              --- - Vou já, boa aia.
 "Stay but a little.                                                                   --- "Esperai um pouco.
 I will come again."                                                                   --- Voltarei."
 Stay but a little.                                                                    --- Esperai um pouco.
@@ -927,14 +929,14 @@ To cease thy strife and leave me to my grief.                                   
 A thousand times, good night.                                                         --- Mil vezes, boa noite.
 A thousand times the worse to want thy light.                                         --- Noite mil vezes pior, se lhe faltar tua luz.
 I cannot move in this dress. It makes me look like a pig.                             --- Não consigo mexer-me neste vestido.
-I have no neck in this pig dress.                                                     --- Fico porcino, sem pescoço.
+I have no neck in this pig dress.                                                     --- Não consigo mexer-me neste vestido.
 - How is it?                                                                          --- - O que achas?
 - It's all right.                                                                     --- - Está bom.
 Ned, I know, I know.                                                                  --- Ned, eu sei, eu sei.
 - It's good.                                                                          --- Está bom.
 - Oh?                                                                                 --- - Está bom.
 The title won't do.                                                                   --- O título não serve.
-Ah.                                                                                   --- Romeu e Julieta.
+Ah.                                                                                   --- 
 Romeo and Juliet.                                                                     --- Romeu e Julieta.
 Just a suggestion.                                                                    --- É só uma sugestão.
 Thank you, Ned.                                                                       --- Obrigado, Ned.
@@ -960,7 +962,7 @@ A thousand apologies.                                                           
 Please.                                                                               --- Por favor.
 And with a silken thread plucks it back again, so loving-jealous of his liberty.      --- ...e com um fio de seda puxa de novo a ave até si, por amor e ciúme de sua liberdade.
 - I would I were thy bird.                                                            --- - Quisera eu ser essa ave.
-- Sweet, so would l; yet I should kill thee with much cherishing.                     --- - E eu, mas matar-te-ia de tanto amor.
+- Sweet, so would l; yet I should kill thee with much cherishing.                     --- - Quisera eu ser essa ave.
 Good night.                                                                           --- Boa noite.
 Good night.                                                                           --- Boa noite.
 Parting is such sweet sorrow, that I shall say good night till it be morrow.          --- A despedida é tão doce tristeza, que direi boa noite até que amanheça.
@@ -974,7 +976,7 @@ It is not a comedy I'm writing now.                                             
 A broad river divides my lovers.                                                      --- Um largo rio separa os amantes.
 Family, duty, fate.                                                                   --- Família, dever, destino.
 As unchangeable as nature.                                                            --- Imutável como a natureza.
-Yes.                                                                                  --- Isto não é vida.
+Yes.                                                                                  --- Imutável como a natureza.
 This is not life, Will.                                                               --- Isto não é vida.
 It is a stolen season.                                                                --- É uma estação roubada.
 - Be patient, my lord.                                                                --- - Paciência, senhor.
@@ -998,8 +1000,8 @@ You follow your desire freely enough in the night.                              
 - So, if that is all, to Greenwich I go.                                              --- - Se é tudo, vou para Greenwich.
 - Then I'll go with you.                                                              --- - Então acompanho-te.
 - You cannot.                                                                         --- - Não podes.
-Wessex will kill you.                                                                 --- O Wessex mata-te.
-- I know how to fight.                                                                --- - Sei lutar.
+Wessex will kill you.                                                                 --- - Não podes.
+- I know how to fight.                                                                --- O Wessex mata-te.
 Stage fighting.                                                                       --- - Sei lutar.
 Oh, Will.                                                                             --- Lutas de palco.
 As Thomas Kent, my heart belongs to you, but as Viola, the river divides us, and I must marry Wessex a week from Saturday. --- Como Thomas Kent, o meu coração é teu, mas como Viola, o rio separa-nos, e casarei com o Wessex de sábado a uma semana.
@@ -1061,7 +1063,8 @@ I mean, Your Majesty, they-- they do not, they have... not, but I believe there 
 My Lady Viola is young in the world.                                                  --- A senhora Lady Viola é jovem.
 Your Majesty is wise in it.                                                           --- Sua Majestade é sábia.
 Nature and truth are the very enemies of playacting.                                  --- Natureza e verdade são inimigas do teatro.
-I'll wager my fortune. I thought you were here because you had none.                  --- Aposto a fortuna.
+I'll wager my fortune.                                                                --- Aposto a fortuna.
+I thought you were here because you had none.                                         --- Pensei que estavas aqui por não a teres.
 - Well, no one will take your wager, it seems.                                        --- - Parece que ninguém aceita a aposta.
 - Fifty pounds.                                                                       --- - Cinquenta libras.
 Fifty pounds?                                                                         --- Cinquenta libras?
@@ -1113,7 +1116,7 @@ Are you going to do it like that?                                               
 Positions.                                                                            --- 
 - By my head, here comes the Capulets.                                                --- - Por minha cabeça, aí vêm os Capuletos.
 - By my heel, I care not.                                                             --- - Por meus pés, não me importo.
-Follow me close.                                                                      --- Eu falarei com eles.
+Follow me close.                                                                      --- Segue-me.
 I will speak to them.                                                                 --- Eu falarei com eles.
 Gentlemen, good-den!                                                                  --- Cavalheiros, boa tarde!
 A word with one of you.                                                               --- Uma palavra a um de vós.
@@ -1128,9 +1131,10 @@ And a dog.                                                                      
 No!                                                                                   --- Rogo-vos, actores!
 Have privy, players!                                                                  --- Rogo-vos, actores!
 Please!                                                                               --- Por favor!
-Oh! Not with my props!                                                                --- Os adereços não!
+Oh!                                                                                   --- Por favor!
+Not with my props!                                                                    --- Os adereços não!
 Oh!                                                                                   --- 
-- Will!                                                                               --- Que...
+- Will!                                                                               --- - Will!
 What-- - A writer's quarrel.                                                          --- - Uma luta de palco.
 Quite normal.                                                                         --- É normal.
 Stay here.                                                                            --- Fica aqui.
@@ -1146,10 +1150,11 @@ Vengeance!                                                                      
 A famous victory!                                                                     --- Uma vitória famosa!
 Kegs and legs open, and on the house!                                                 --- Pipas e pernas abertas, à conta!
 Oh, what happy hour.                                                                  --- Que hora feliz.
-- This is a tavern!                                                                   --- - Também é uma taberna.
+- This is a tavern!                                                                   --- - É uma taberna!
 - It is also a tavern.                                                                --- - Também é uma taberna.
-- I remember you.                                                                     --- - É uma taberna!
-The poet! - Yes, William the Conqueror.                                               --- - Sim, Guilherme o Conquistador.
+- I remember you.                                                                     --- - Lembro-me de ti.
+The poet!                                                                             --- O poeta!
+- Yes, William the Conqueror.                                                         --- - Sim, Guilherme o Conquistador.
 One at a time.                                                                        --- Um de cada vez.
 One at a time.                                                                        --- Um de cada vez.
 Oh, he's a pretty one.                                                                --- Este é bonito.
@@ -1158,7 +1163,7 @@ Tell me your story while I tickle your fancy.                                   
 - It is, Thomas, but of good reputation.                                              --- - É, Thomas, mas de boa reputação.
 Come.                                                                                 --- Toma.
 There's no harm in a drink.                                                           --- Um copo não te faz mal.
-You are welcome to my best house. Here's to the Admiral's Men.                        --- À saúde do grupo do Almirante.
+You are welcome to my best house. Here's to the Admiral's Men.                        --- Bem vindos a minha casa.
 The Admiral's Men!                                                                    --- Aos homens do Almirante!
 Well, l-- I quite liked it.                                                           --- Eu... eu gostei bastante.
 Master Kent, you have not yet dipped your wick.                                       --- Senhor Kent, ainda não molhou a pena.
@@ -1181,7 +1186,7 @@ Let us have pirates, clowns and a happy ending, or we shall send you back to Str
 Will!                                                                                 --- Will!
 Mr.                                                                                   --- Will!
 Henslowe!                                                                             --- Will!
-Gentlemen all!                                                                        --- Henslowe!
+Gentlemen all!                                                                        --- Cavalheiros, todos!
 A black day for us all!                                                               --- É um dia de luto!
 There is news from a tavern in Deptford.                                              --- Trago novas de uma taverna em Deptford.
 Marlowe is dead.                                                                      --- O Marlowe morreu.
@@ -1203,7 +1208,7 @@ Let me take you riding.                                                         
 I'm going to church.                                                                  --- Vou à igreja.
 Of course.                                                                            --- Claro.
 I understand.                                                                         --- Compreendo.
-It is to be expected.                                                                 --- Era de esperar.
+It is to be expected.                                                                 --- Compreendo.
 Yes, it is to be expected...                                                          --- Sim, é de esperar...
 on Sunday.                                                                            --- ao Domingo.
 And on a day of mourning.                                                             --- E num dia de luto.
@@ -1216,10 +1221,10 @@ My lady.                                                                        
 - He is dead?                                                                         --- - Morreu?
 - Killed last night in a tavern.                                                      --- - Foi morto ontem, numa taberna.
 Come then.                                                                            --- Venha.
-We'll say a prayer for his soul.                                                      --- Rezaremos pela sua alma.
+We'll say a prayer for his soul.                                                      --- - Foi morto ontem, numa taberna.
 Who can remember sorrow                                                               --- 
 Spare me, dear ghost.                                                                 --- Poupa-me, alma penada.
-Spare me, dear ghost.                                                                 --- Poupa-me, por amor de Deus.
+Spare me, dear ghost.                                                                 --- Poupa-me, alma penada.
 Spare me, for the love of Christ.                                                     --- Poupa-me, por amor de Deus.
 Spare me!                                                                             --- Poupa-me!
 Will!                                                                                 --- 
@@ -1243,10 +1248,10 @@ Yes, you were deceived, for I did not know how much I loved you.                
 I love you, Will, beyond poetry.                                                      --- Amo-te, Will, para além da poesia.
 Oh, my love.                                                                          --- Oh, meu amor.
 - You ran from me before.                                                             --- - Já antes me fugiste.
-- When I thought you dead, I did not care... about all the plays that would never come, only that I would never see your face. --- - Quando te julguei morto, não quis saber das peças que não escreverias, só que não voltaria a ver-te.
+- When I thought you dead, I did not care... about all the plays that would never come, only that I would never see your face. --- - Já antes me fugiste. - Quando te julguei morto, não quis saber das peças que não escreverias, só que não voltaria a ver-te.
 I saw our end, and it will come.                                                      --- Vi o nosso fim e chegará.
 - You cannot marry Wessex.                                                            --- - Não podes casar com o Wessex.
-- If not you, why not Wessex?                                                         --- - Se não tu, porque não o Wessex?
+- If not you, why not Wessex?                                                         --- - Não podes casar com o Wessex.
 If not Wessex, the queen will know the cause,                                         --- Se não for com ele, a rainha saberá porquê,
 - and there will be no more Will Shakespeare.                                         --- - e será o fim do Shakespeare.
 - No.                                                                                 --- - Não.
@@ -1255,7 +1260,7 @@ But I will go to Wessex as a widow from these vows, as solemn as they are unsanc
 For killing Juliet's kinsman Tybalt, the one who killed Romeo's friend Mercutio,      --- Por ter morto Tebaldo, parente de Julieta, e aquele que matou o amigo de Romeu, Mercúcio,
 Romeo is banished.                                                                    --- Romeu é proscrito.
 - But the friar who married Romeo and Juliet-- - Is that me?                          --- - Mas o frade que os casou...
-You, Edward.                                                                          --- Tu, Edward.
+You, Edward.                                                                          --- - Sou eu?
 The friar who married them gives Juliet a potion to drink.                            --- O frade que os casou dá a Julieta uma poção para beber.
 It is a secret potion.                                                                --- É uma poção secreta.
 It makes us seeming dead.                                                             --- Fá-la parecer morta.
@@ -1272,7 +1277,8 @@ He drinks the poison.                                                           
 He dies by her side, and then she wakes and sees him dead.                            --- Morre a seu lado, e ela desperta e encontra-o morto.
 And so Juliet takes his dagger... and then kills herself.                             --- Então Julieta pega no seu punhal, e mata-se.
 Well, that will have them rolling in the aisles.                                      --- Bem, irão delirar nas galerias.
-Sad... and wonderful.                                                                 --- e maravilhoso.
+Sad...                                                                                --- Triste...
+and wonderful.                                                                        --- e maravilhoso.
 I have a blue velvet cap that'll do well.                                             --- Tenho um chapéu azul que ficará bem.
 I've seen just such a cap on an apothecary.                                           --- Vi um boticário com um igual.
 Just so.                                                                              --- 
@@ -1285,7 +1291,7 @@ He has a good fist for lettering.                                               
 There is a new scene.                                                                 --- Há uma cena nova.
 - Will you read in for me?                                                            --- - Lês a cena comigo?
 - "Wilt thou be gone?                                                                 --- - "Partis já?
-It's not yet near day.                                                                --- O dia não despontou.
+It's not yet near day.                                                                --- - "Partis já?
 It was the nightingale, and not the lark, that pierced the fearful hollow of thine ear. --- "Foi o rouxinol e não a cotovia, "que tanto assustou vosso nobre ouvido.
 Nightly she sings on yon pomegranate tree.                                            --- "Todas as noites canta naquela romãzeira.
 Believe me, love, it was the nightingale." "lt was the lark, the herald of the morn; no nightingale. --- "Foi o rouxinol e não a cotovia, "que tanto assustou vosso nobre ouvido.
@@ -1320,20 +1326,20 @@ Absent friends.                                                                 
 This is the murderer of Kit Marlowe!                                                  --- Este é o assassino do Kit Marlowe!
 Will?                                                                                 --- Will?
 I rejoiced in his death because I thought it was yours!                               --- 
-That is all I know of Marlowe!                                                        --- Não sei nada!
-Will?                                                                                 --- É verdade.
+That is all I know of Marlowe!                                                        --- Pensei que eras tu!
+Will?                                                                                 --- 
 Uh, it's true.                                                                        --- É verdade.
 It was a... tavern brawl.                                                             --- Foi uma rixa de taverna.
 Marlowe attacked and got his own knife in the eye.                                    --- O Marlowe atacou e espetou a própria espada no olho.
 A quarrel about the bill.                                                             --- Uma discussão com a conta.
 The bill?                                                                             --- O cartaz?
-Oh, vanity, vanity!                                                                   --- 
+Oh, vanity, vanity!                                                                   --- O cartaz?
 Not the billing, the bill!                                                            --- Não foi o cartaz, a conta!
 Oh, God.                                                                              --- Oh Deus.
-- I am free of it.                                                                    --- - Estou liberto.
+- I am free of it.                                                                    --- Oh Deus.
 - Where is she?                                                                       --- - Onde está ela?
 Close it.                                                                             --- 
-- My Lord Wessex.                                                                     --- - Onde está ela?
+- My Lord Wessex.                                                                     --- Fechem-no.
 - The Rose harbors the ass that shits on my name!                                     --- O Rose alberga aquele que emporcalha o meu nome!
 Take it down stone by stone.                                                          --- Destruam-no pedra por pedra.
 I want it plowed into the ground and sown with quicklime!                             --- Quero-o totalmente destruído e coberto com cal viva!
@@ -1353,7 +1359,7 @@ And for displaying a female on the public stage!                                
 Not him, her!                                                                         --- Não é ele, é ela!
 That's who I meant.                                                                   --- 
 - He's a woman.                                                                       --- - Ele é uma mulher.
-- This theater is closed.                                                             --- - O teatro está encerrado.
+- This theater is closed.                                                             --- - Ele é uma mulher.
 Notice will be posted!                                                                --- Fixarei um edital!
 Ned, I swear, I knew nothing of this.                                                 --- Ned, juro que nada sabia.
 - Nobody knew.                                                                        --- - Ninguém sabia.
@@ -1379,7 +1385,7 @@ But my father, James Burbage, had the first license to make a company of players
 We must show them that we are men of parts.                                           --- Vamos mostrar-lhes que somos homens de honra.
 Will Shakespeare has a play.                                                          --- Will Shakespeare tem uma peça.
 I have a theater.                                                                     --- Eu tenho o teatro.
-The curtain is yours.                                                                 --- O Curtain é vosso.
+The curtain is yours.                                                                 --- Eu tenho o teatro.
 Will!                                                                                 --- 
 We'll be needing a Romeo.                                                             --- Will, falta um Romeu.
 Oranges!                                                                              --- 
@@ -1399,7 +1405,7 @@ Oh, my lord!                                                                    
 - Be good to her, my lord.                                                            --- - Seja bom para ela, senhor.
 - I will.                                                                             --- - Serei.
 Oh, God bless you!                                                                    --- Deus o abençoe!
-Thank you.                                                                            --- Deixe-me.
+Thank you.                                                                            --- Obrigado.
 Uh, let go.                                                                           --- Deixe-me.
 There's a good nurse.                                                                 --- Uma boa aia.
 The tide will not wait!                                                               --- A maré não espera.
@@ -1416,10 +1422,10 @@ Vanity and pride likewise made a show!                                          
 This is the very business of show!                                                    --- É este o negócio do espectáculo!
 T-T-- T-Two--                                                                         --- 
 T-T-T-T-- T-- T--                                                                     --- 
-T-- T-T-Two households--                                                              --- Duas famílias... - Estamos perdidos.
+T-- T-T-Two households--                                                              --- 
 - We're lost.                                                                         --- - Estamos perdidos.
 - No, it will turn out well.                                                          --- - Não, vai correr bem.
-- How will it?                                                                        --- - Não sei.
+- How will it?                                                                        --- - Como?
 - I don't know.                                                                       --- - Não sei.
 It's a mystery.                                                                       --- É um mistério.
 T-T-- T-- T-T--                                                                       --- 
@@ -1433,7 +1439,7 @@ From forth the fatal loins of these two foes... a pair of star-crossed lovers ta
 Gregory, on my word we'll not carry coals.                                            --- Gregório, não mais suportaremos a carga.
 No, for then we should be colliers.                                                   --- Claro, pois não somos escravos.
 I mean, and we be in choler we'll draw.                                               --- Pois se nos encolerizarem, atacaremos.
-- Master Shakespeare.                                                                 --- - Que a sorte esteja contigo, Sam.
+- Master Shakespeare.                                                                 --- - Mestre Shakespeare.
 - Luck be with you, Sam.                                                              --- - Que a sorte esteja contigo, Sam.
 Sam! It's not my fault.                                                               --- Não tenho culpa.
 I could do it yesterday.                                                              --- Ontem estava bom.
@@ -1443,10 +1449,10 @@ Do me a line.                                                                   
 - Another little problem.                                                             --- - Outro pequeno problema.
 - What do we do now?                                                                  --- - Que fazemos agora?
 - The show must-- You know.                                                           --- - O espectáculo tem de...
-- Go on!                                                                              --- - Continuar!
+- Go on!                                                                              --- Tu sabes.
 Juliet does not come on for 20 pages.                                                 --- A Julieta só entra daqui a 20 páginas.
 It will be all right.                                                                 --- - Não sei.
-- How will it?                                                                        --- - Não sei.
+- How will it?                                                                        --- - Como?
 - I don't know.                                                                       --- É um mistério.
 It's a mystery.                                                                       --- É um mistério.
 - Let them begin.                                                                     --- - Deixa que comecem.
@@ -1466,7 +1472,7 @@ Excuse me. - Do you bite your thumb at us, sir?                                 
 - No Juliet?                                                                          --- - Não há Julieta?
 - It'll be all right, madam.                                                          --- - Vai correr bem, senhora.
 - What happened to Sam?                                                               --- E o Sam?
-- Who are you?                                                                        --- - Thomas Kent.
+- Who are you?                                                                        --- - Quem és tu?
 - Thomas Kent.                                                                        --- - Thomas Kent.
 Do you know it?                                                                       --- 
 - I serve as good a man as you.                                                       --- 
@@ -1494,12 +1500,12 @@ What is your will?                                                              
 This is the matter.                                                                   --- É o seguinte.
 Nurse, give leave a while.                                                            --- Aia, deixa-nos um pouco.
 We must talk in secret.                                                               --- Temos de falar a sós.
-Nurse, come back again.                                                               --- Aia, deixa-nos um pouco.
+Nurse, come back again.                                                               --- Temos de falar a sós.
 I have remembered me; thou's hear our counsel.                                        --- Pensando melhor, deveis ouvir nossa conversa.
 Thou knowest my daughter's of a pretty age.                                           --- Sabes que minha filha já tem uma certa idade.
 - Faith, I know her age unto an hour.                                                 --- - Posso atestar sua idade ao minuto.
 - She's not 14.                                                                       --- - Ainda não tem 14.
-Oh, I'll lay 14 of my teeth.                                                          --- Apostaria 14 dos meus dentes.
+Oh, I'll lay 14 of my teeth.                                                          --- - Ainda não tem 14.
 And yet my teen be it spoken, I have but four--                                       --- Apostaria 14 dos meus dentes. E contudo dos meus dentes, só restam quatro...
 Tell me, daughter Juliet, how stands your dispositions to be married?                 --- Diz-me Julieta, minha filha, sentes inclinação para o casamento?
 It is an honor that I dream not of.                                                   --- Uma honra a que não ouso aspirar.
@@ -1518,11 +1524,12 @@ Stand not amazed!                                                               
 The prince will doom thee death if thou art taken. Hence, be gone, away!              --- O príncipe condenar-vos-á à morte se fores preso.
 Oh, I am Fortune's fool!                                                              --- Sou joguete do destino!
 Why dost thou stay?                                                                   --- Porque esperais?
-Which way ran he that killed Mercutio?                                                --- Para onde fugiu o que matou Mercúcio?
-That murderer, which way ran he?                                                      --- 
+Which way ran he that killed Mercutio?                                                --- Porque esperais?
+That murderer, which way ran he?                                                      --- Para onde fugiu o que matou Mercúcio? Para onde fugiu esse assassino?
 - There lies that Tybalt.                                                             --- - Esse Tebaldo, ei-lo por terra.
 - Up, sir.                                                                            --- - Acompanhai-me.
-Go with me. I charge thee in the Prince's name obey.                                  --- 
+Go with me.                                                                           --- - Acompanhai-me.
+I charge thee in the Prince's name obey.                                              --- Em nome do príncipe, obedecei-me.
 Where are the vile beginners of this fray?                                            --- Onde estão os vis promotores desta rixa?
 "Oh, I am Fortune's fool."                                                            --- 
 You are married?                                                                      --- Sois casado?
@@ -1584,12 +1591,12 @@ Arrest who, Mr. Tilney?                                                         
 Everyone!                                                                             --- Fechastes o Rose.
 Admiral's Men, the Chamberlain's Men... and every one of you ne'er-do-wells that stand in contempt... of the authority vested in me by Her Majesty! --- O grupo do Almirante, o do Camareiro, e todos os reles actores que desrespeitam a autoridade, que me foi concedida por Sua Majestade!
 Contempt?                                                                             --- Desrespeito?
-You closed the Rose.                                                                  --- Fechastes o Rose.
+You closed the Rose.                                                                  --- Desrespeito?
 I have not opened it.                                                                 --- Eu não o reabri.
 That woman is a woman!                                                                --- Aquela mulher é uma mulher!
 What?                                                                                 --- O quê?
 A woman?                                                                              --- Uma mulher?
-You mean that goat?                                                                   --- Aquele bácoro?
+You mean that goat?                                                                   --- Uma mulher?
 I'll see you all in Clink, in the name of Her Majesty, Queen Elizabeth!               --- Ides todos para a Cadeia, em nome de Sua Majestade, a Rainha Elisabete!
 Mr. Tilney!                                                                           --- Sr. Tilney!
 Have a care with my name.                                                             --- Tende tento com o meu nome.
@@ -1651,7 +1658,7 @@ Sold in marriage and halfway to America.                                        
 At sea, then.                                                                         --- No mar, então.
 A voyage to a new world.                                                              --- Vão para o novo mundo.
 A storm.                                                                              --- Uma tempestade.
-All are lost.                                                                         --- Morrem todos.
+All are lost.                                                                         --- Uma tempestade.
 She lands... on a... vast and empty shore.                                            --- Ela acaba, numa vasta costa deserta.
 She's brought to the duke--                                                           --- Vão para o novo mundo.
 - Orsino.                                                                             --- Orsino.

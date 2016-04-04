@@ -783,8 +783,7 @@ No, no, don't!                                                                  
 Charles, they're Russians!                                                            --- Charles, são russos!
 They're Russians!                                                                     --- Eles são russos!
 Call somebody!                                                                        --- Chama alguém!
-Call somebody!                                                                        --- - São russos!
-- They're Russians!                                                                   --- - São russos!
+Call somebody! - They're Russians!                                                    --- Chama alguém!
 - Steady the leg.                                                                     --- - Prendam-lhe a perna.
 Get away from me.                                                                     --- Larguem-me.
 Stay away from me!                                                                    --- Afastem-se de mim!
@@ -839,7 +838,8 @@ Yes, I know.                                                                    
 In John's world, these behaviors are accepted... encouraged.                          --- No mundo dele, estes comportamentos são aceites... e estimulados.
 As such, his illness may have gone untreated... far longer than is typical.           --- Como tal, a doença pode ter ficado sem tratamento... mais tempo do que é normal.
 What do you mean?                                                                     --- Que quer dizer?
-How long? Possibly since graduate school.                                             --- 
+How long?                                                                             --- Quanto tempo?
+Possibly since graduate school.                                                       --- Talvez desde a faculdade.
 At least that's when his hallucinations seem to have begun.                           --- Pelo menos, foi quando as alucinações parecem ter começado.
 What are you talking about?                                                           --- De que está a falar?
 What hallucinations?                                                                  --- Que alucinações?
@@ -918,7 +918,7 @@ They're keeping me here to try to stop me from doing my work.                   
 You have to get to Wheeler.                                                           --- Tens de ir ao Wheeler.
 - You have to find William Parcher.                                                   --- - Tens de encontrar o William Parcher.
 - Stop.                                                                               --- - Pára.
-Stop!                                                                                 --- Pára!
+Stop!                                                                                 --- 
 I went to Wheeler.                                                                    --- Fui ao Wheeler.
 Good, good.                                                                           --- Óptimo.
 There is no William Parcher.                                                          --- Não há nenhum William Parcher.
@@ -991,7 +991,7 @@ Hey, chief.                                                                     
 - No, thanks.                                                                         --- - Não, obrigado.
 I quit, actually.                                                                     --- Deixei de fumar.
 - Hello.                                                                              --- - Olá.
-- Hey, John.                                                                          --- - Olá, John.
+- Hey, John.                                                                          --- - Olá.
 Have you met Harvey?                                                                  --- Já conheces a Harvey?
 - There's no...                                                                       --- - Não há...
 - Relax, it's okay.                                                                   --- - Calma, está tudo bem.
@@ -1091,7 +1091,7 @@ I can see him because of a chemical that was released into my bloodstream... whe
 I couldn't tell you, it was for your own protection!                                  --- Não te podia dizer, para a tua própria protecção!
 Alicia!                                                                               --- Alicia!
 - No!                                                                                 --- - Não!
-- Hello, I need Dr. Rosen's office, please.                                           --- - Está, passe-me ao Dr. Rosen, por favor.
+- Hello, I need Dr. Rosen's office, please.                                           --- - Não! - Está, passe-me ao Dr. Rosen, por favor.
 You've got to stop her, John.                                                         --- Tem de a impedir.
 You leave her out of this.                                                            --- Não a meta nisto.
 - Who are you talking to?                                                             --- - Com quem estás a falar?
@@ -1360,7 +1360,7 @@ Professor Nash?                                                                 
 - Can you see him?                                                                    --- - Consegue vê-lo?
 - Yeah.                                                                               --- - Sim.
 - You sure?                                                                           --- Tem a certeza?
-- Yes.                                                                                --- Absoluta?
+- Yes.                                                                                --- - Sim.
 Positive?                                                                             --- Absoluta?
 He's within your vision?                                                              --- Está no seu campo de visão?
 Okay.                                                                                 --- Óptimo.
@@ -1379,7 +1379,7 @@ What about my work on other some such projects like manifold embedding?         
 The application of your bargaining problem... to FCC bandwidth auctions or to antitrust cases... --- A aplicação da sua estratégia de troca... em leilões de banda larga da FCC, ou em casos de antimonopólio...
 - Antitrust cases?                                                                    --- - De antimonopólio?
 - Yes.                                                                                --- - Sim.
-I never would have considered that.                                                   --- Eu nunca tinha considerado isso.
+I never would have considered that.                                                   --- - Sim. Eu nunca tinha considerado isso.
 Have I just reached some level of honesty that borders on stupidity?                  --- Alcancei algum nível de honestidade que se baseie em estupidez?
 - No, you haven't.                                                                    --- - Não, não alcançou.
 - I wouldn't have thought of that.                                                    --- - Porque eu não tinha pensado nisso.
@@ -1387,7 +1387,7 @@ Shall we have tea?                                                              
 I don't go in there.                                                                  --- Não entro ali.
 I usually take my sandwich in the library.                                            --- Normalmente, como a minha sandes na biblioteca.
 Come on, John.                                                                        --- 
-Let's have some tea.                                                                  --- É um dia importante.
+Let's have some tea.                                                                  --- Venha, vamos tomar chá.
 It's a big day.                                                                       --- É um dia importante.
 Most commercially available brands of tea are not suitable to my palate.              --- A maioria das marcas de chá à venda não são adequadas ao meu paladar.
 I'm not...                                                                            --- Não vou...
