@@ -15,9 +15,7 @@ public class Aligner {
 	private final double MIN_SENTENCE_DURATION = 0.7;	//minimum time for a sentence to be used in N:N alignments
 	private final double CONFIDENCE_DISTANCE = 0.35;	//distance that gives a good confidence
 	
-	private double timeOffset = 0;
 	private int indexOffset = 0;
-	private double avgCount = 0;
 	
 	private Subtitle source;
 	private Subtitle target;
@@ -41,13 +39,8 @@ public class Aligner {
 			m = findMatchUsingTime(m);
 			if(!TIME_ONLY && !m.isValid(TIME_THRESHOLD/2.0))
 				m = findMatchUsingSimilarity(m);
-			else{
-				double startDiff = Math.abs(m.getSourceStart() - m.getTargetStart());
-				double endDiff = Math.abs(m.getSourceEnd() - m.getTargetEnd());
-		
-				timeOffset = (timeOffset*avgCount + Math.max(startDiff, endDiff)) / ++avgCount;
-				indexOffset =  m.getTargetIndex() - m.getSourceIndex();
-			}				
+			else
+				indexOffset =  m.getTargetIndex() - m.getSourceIndex();			
 			i = m.getSourceSentences().getLast().getIndex();			
 			alignments.add(m);
 		}
@@ -55,10 +48,10 @@ public class Aligner {
 
 	private Match findMatchUsingTime(Match m) {
 		final String DEBUG_STRING = "%$$&";
-		m.addTargetSentence(target.getSentenceByTime(m.getSourceStart()+timeOffset));
+		m.addTargetSentence(target.getSentenceByTime(m.getSourceStart()));
 		if(m.getSourceSentences().getFirst().getText().contains(DEBUG_STRING)){
 			System.out.println("\n!!!!!\t!!!!!\t!!!!!");
-			System.out.printf("%.02f \"%s\" (%.02f) -- \"%s\" (%.02f)\n", timeOffset, m.getSourceSentences(), m.getSourceDuration(), m.getTargetSentences(), m.getTargetDuration());
+			System.out.printf("\"%s\" (%.02f) -- \"%s\" (%.02f)\n", m.getSourceSentences(), m.getSourceDuration(), m.getTargetSentences(), m.getTargetDuration());
 		}
 		
 		if(sourceTooShort(m)){			//N:1 alignment
